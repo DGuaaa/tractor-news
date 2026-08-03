@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>拖拉机市场情报站 · 农机市场观察</title>
+<style>
+  :root{
+    --green:#1a5c38; --green-dark:#0f3d24; --amber:#d97706; --bg:#f6f7f4;
+    --card:#ffffff; --text:#1f2937; --muted:#6b7280; --line:#e5e7eb;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{font-family:"Microsoft YaHei","PingFang SC",sans-serif;background:var(--bg);color:var(--text);line-height:1.6}
+  .topbar{background:var(--green-dark);color:#fff;padding:6px 24px;font-size:12px;display:flex;justify-content:space-between;flex-wrap:wrap;gap:4px}
+  header{background:linear-gradient(135deg,var(--green-dark) 0%,var(--green) 100%);color:#fff;padding:28px 24px 20px}
+  .wrap{max-width:1100px;margin:0 auto}
+  h1{font-size:26px;letter-spacing:1px}
+  .sub{opacity:.85;font-size:14px;margin-top:6px}
+  nav{background:var(--green);padding:0 24px;position:sticky;top:0;z-index:10;box-shadow:0 2px 8px rgba(0,0,0,.15)}
+  nav .wrap{display:flex;overflow-x:auto}
+  nav a{color:#fff;text-decoration:none;padding:12px 18px;font-size:14px;white-space:nowrap;border-bottom:3px solid transparent;cursor:pointer}
+  nav a:hover,nav a.active{background:rgba(255,255,255,.12);border-bottom-color:var(--amber)}
+  main{padding:24px;max-width:1100px;margin:0 auto;display:grid;grid-template-columns:2fr 1fr;gap:20px}
+  @media(max-width:860px){main{grid-template-columns:1fr}}
+  .card{background:var(--card);border-radius:10px;padding:18px;box-shadow:0 1px 4px rgba(0,0,0,.06);border:1px solid var(--line)}
+  .card h2{font-size:17px;color:var(--green-dark);margin-bottom:12px;padding-bottom:8px;border-bottom:2px solid var(--line);display:flex;justify-content:space-between;align-items:center}
+  .card h2 .more{font-size:12px;color:var(--amber);font-weight:normal;text-decoration:none;cursor:pointer}
+  .stat-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-bottom:20px}
+  @media(max-width:860px){.stat-grid{grid-template-columns:repeat(2,1fr)}}
+  .stat{background:var(--card);border-radius:10px;padding:14px;text-align:center;border:1px solid var(--line);border-top:4px solid var(--green)}
+  .stat .num{font-size:22px;font-weight:bold;color:var(--green-dark)}
+  .stat .lbl{font-size:12px;color:var(--muted);margin-top:4px}
+  .news-item{padding:12px 0;border-bottom:1px dashed var(--line)}
+  .news-item:last-child{border-bottom:none}
+  .news-item .tag{display:inline-block;font-size:11px;padding:1px 8px;border-radius:10px;margin-right:8px;color:#fff}
+  .tag-news{background:#2563eb}.tag-data{background:#059669}.tag-policy{background:#d97706}.tag-tech{background:#7c3aed}
+  .news-item h3{font-size:15px;font-weight:600}
+  .news-item h3 a{color:var(--text);text-decoration:none}
+  .news-item h3 a:hover{color:var(--green)}
+  .news-item .meta{font-size:12px;color:var(--muted);margin-top:4px}
+  .side .card{margin-bottom:20px}
+  .side ul{list-style:none}
+  .side li{padding:8px 0;border-bottom:1px dashed var(--line);font-size:13px}
+  .side li:last-child{border-bottom:none}
+  .side li a{color:var(--text);text-decoration:none;cursor:pointer;display:block}
+  .side li a:hover{color:var(--green)}
+  .side .dot{color:var(--amber);margin-right:6px}
+  footer{background:var(--green-dark);color:#9ca3af;text-align:center;padding:20px;font-size:12px;margin-top:30px}
+  .notice{background:#fef3c7;border:1px solid #fde68a;border-radius:8px;padding:10px 14px;font-size:13px;color:#92400e;margin-bottom:20px}
+  .disc{font-size:11px;color:var(--muted);margin-top:6px}
+  .cur-cat{display:inline-block;font-size:12px;background:#e8f5ec;color:var(--green-dark);padding:2px 10px;border-radius:12px;margin-left:8px}
+  .empty{color:var(--muted);font-size:13px;padding:12px 0}
+</style>
+</head>
+<body>
+<div class="topbar"><span>拖拉机市场情报站 · 内部参考</span><span id="top-updated">更新:—</span></div>
+<header><div class="wrap">
+  <h1>🚜 拖拉机市场情报站</h1>
+  <div class="sub">农机市场宏观观察 · 行业新闻 · 政策数据 · 企业动态 —— 为销售决策提供情报支持</div>
+</div></header>
+<nav><div class="wrap" id="nav">
+  <a data-cat="all" class="active">首页</a>
+  <a data-cat="行业">行业新闻</a>
+  <a data-cat="市场">市场数据</a>
+  <a data-cat="政策">政策补贴</a>
+  <a data-cat="企业">企业动态</a>
+  <a data-cat="技术">技术前沿</a>
+  <a data-cat="招标">招标信息</a>
+</div></nav>
+
+<main>
+  <div>
+    <div class="notice">📌 <b>使用说明:</b>每日早 8:00 自动更新新闻(来源:农机360、农机通);点击顶部导航按分类浏览;点击右侧企业名称查看相关新闻。</div>
+
+    <div class="stat-grid">
+      <div class="stat"><div class="num">约50万台</div><div class="lbl">全国拖拉机年产量(大中拖为主)</div></div>
+      <div class="stat"><div class="num">5,000亿+</div><div class="lbl">农机工业年营收规模(元)</div></div>
+      <div class="stat"><div class="num">76%+</div><div class="lbl">耕种收综合机械化率</div></div>
+      <div class="stat"><div class="num">&lt;5%</div><div class="lbl">新能源拖拉机渗透率(快速增长中)</div></div>
+    </div>
+
+    <div class="card">
+      <h2>📰 最新农机资讯 <span id="cur-cat" class="cur-cat">全部</span> <span id="news-updated" style="font-size:12px;color:var(--muted);font-weight:normal"></span> <a class="more" id="more-btn">更多 →</a></h2>
+      <div id="news-list"></div>
+    </div>
+
+    <div class="card" style="margin-top:20px">
+      <h2>市场全景:拖拉机行业宏观概览</h2>
+      <p style="font-size:14px;color:#4b5563"><b>行业规模:</b>中国是全球最大的农机制造和使用国,农机工业年营收约5,000-6,000亿元;拖拉机是农机第一大品类,年产量约50万台,其中大中拖占主导。</p>
+      <p style="font-size:14px;color:#4b5563;margin-top:8px"><b>竞争格局:</b>整机端头部企业——一拖东方红、潍柴雷沃、中联重科、沃得、东风农机,以及外资约翰迪尔、久保田、凯斯纽荷兰;核心部件端——采埃孚(ZF)、博世力士乐主导高端变速箱。</p>
+      <p style="font-size:14px;color:#4b5563;margin-top:8px"><b>结构性机会:</b>①高端变速箱国产替代;②新能源(混动/纯电)拖拉机从0到1;③丘陵山区机械化率仅约50%,专用机型缺口大;④存量更新(国三以下老旧农机淘汰)。</p>
+      <div class="disc">注:以上为宏观概述,数据为行业公开口径的近似值,详见各栏目。</div>
+    </div>
+  </div>
+
+  <div class="side">
+    <div class="card">
+      <h2>📊 关键数据速览</h2>
+      <ul>
+        <li><span class="dot">●</span>拖拉机年产量:约50万台</li>
+        <li><span class="dot">●</span>大中拖占比:70%+</li>
+        <li><span class="dot">●</span>新能源拖拉机渗透率:&lt;5%(2025年销量+43%)</li>
+        <li><span class="dot">●</span>混动占新能源拖拉机份额:70%+</li>
+        <li><span class="dot">●</span>全国耕种收综合机械化率:76%+</li>
+        <li><span class="dot">●</span>丘陵山区机械化率:约50-55%</li>
+        <li><span class="dot">●</span>高端变速箱国产化率:低(外资主导)</li>
+      </ul>
+    </div>
+    <div class="card">
+      <h2>🏭 重点企业 <span style="font-size:11px;color:var(--muted);font-weight:normal">(点击看相关新闻)</span></h2>
+      <ul id="company-list">
+        <li><a data-kw="东方红">● 中国一拖(东方红)</a></li>
+        <li><a data-kw="雷沃">● 潍柴雷沃</a></li>
+        <li><a data-kw="中联">● 中联重科</a></li>
+        <li><a data-kw="沃得">● 沃得农机</a></li>
+        <li><a data-kw="东风农机">● 东风农机</a></li>
+        <li><a data-kw="约翰迪尔">● 约翰迪尔</a></li>
+        <li><a data-kw="久保田">● 久保田</a></li>
+        <li><a data-kw="采埃孚">● 采埃孚/博世(高端变速箱)</a></li>
+      </ul>
+    </div>
+    <div class="card">
+      <h2>📅 政策日历 <span style="font-size:11px;color:var(--muted);font-weight:normal">(点击看政策新闻)</span></h2>
+      <ul>
+        <li><a data-kw="补贴">● 农机购置补贴:年度申报(各省)</a></li>
+        <li><a data-kw="鉴定">● 农机推广鉴定:滚动受理</a></li>
+        <li><a data-kw="丘陵">● 丘陵山区机械化提升行动</a></li>
+        <li><a data-kw="淘汰">● 老旧农机报废更新(2024-2026)</a></li>
+      </ul>
+    </div>
+  </div>
+</main>
+
+<footer>拖拉机市场情报站 · 由爱格迈项目组内部维护 · 数据仅供参考,不构成投资建议</footer>
+<script src="news.js"></script>
+<script>
+(function(){
+  var ALL = (window.NEWS_DATA && window.NEWS_DATA.items) || [];
+  document.getElementById('top-updated').textContent = '更新:' + (window.NEWS_DATA ? window.NEWS_DATA.updated : '—');
+  var cur = 'all', curKw = '';
+  var CAT_LABEL = {'all':'全部','行业':'行业新闻','市场':'市场数据','政策':'政策补贴','企业':'企业动态','技术':'技术前沿','招标':'招标信息'};
+
+  function matchKw(it){
+    if(!curKw) return true;
+    return it.title.indexOf(curKw) !== -1;
+  }
+  function matchCat(it){
+    if(cur === 'all') return matchKw(it);
+    if(cur === '企业') return matchKw(it);
+    if(cur === '招标') return it.tag === '政策' && /招标|采购|公示|公告|投档/.test(it.title);
+    return it.tag === cur && matchKw(it);
+  }
+  function render(){
+    var list = ALL.filter(matchCat);
+    var el = document.getElementById('news-list');
+    document.getElementById('cur-cat').textContent = curKw ? (CAT_LABEL[cur] + ':' + curKw) : CAT_LABEL[cur];
+    if(!list.length){
+      el.innerHTML = '<div class="empty">该分类暂无新闻,等待每日更新…</div>';
+      return;
+    }
+    var html = '';
+    list.slice(0, 10).forEach(function(it){
+      html += '<div class="news-item"><span class="tag ' + it.tag_class + '">' + it.tag + '</span><h3><a href="' + it.url + '" target="_blank" rel="noopener">' + it.title + '</a></h3><div class="meta">' + it.source + ' · ' + it.date + '</div></div>';
+    });
+    el.innerHTML = html;
+    document.getElementById('news-updated').textContent = '共 ' + list.length + ' 条 · 更新于 ' + (window.NEWS_DATA ? window.NEWS_DATA.updated : '');
+  }
+  // 导航
+  document.querySelectorAll('#nav a').forEach(function(a){
+    a.addEventListener('click', function(){
+      document.querySelectorAll('#nav a').forEach(function(x){ x.classList.remove('active'); });
+      a.classList.add('active');
+      cur = a.getAttribute('data-cat'); curKw = '';
+      render();
+    });
+  });
+  // 企业/政策日历关键词
+  document.querySelectorAll('[data-kw]').forEach(function(a){
+    a.addEventListener('click', function(){
+      curKw = a.getAttribute('data-kw');
+      if(cur === 'all'){ document.querySelectorAll('#nav a').forEach(function(x){ x.classList.remove('active'); }); }
+      render();
+    });
+  });
+  // 更多:显示全部
+  document.getElementById('more-btn').addEventListener('click', function(){
+    var el = document.getElementById('news-list');
+    var list = ALL.filter(matchCat);
+    var html = '';
+    list.forEach(function(it){
+      html += '<div class="news-item"><span class="tag ' + it.tag_class + '">' + it.tag + '</span><h3><a href="' + it.url + '" target="_blank" rel="noopener">' + it.title + '</a></h3><div class="meta">' + it.source + ' · ' + it.date + '</div></div>';
+    });
+    el.innerHTML = html || '<div class="empty">暂无新闻</div>';
+  });
+  render();
+
+  // 每10分钟静默拉取最新数据(带时间戳绕开缓存),失败则忽略
+  setInterval(function(){
+    var s = document.createElement('script');
+    s.src = 'news.js?t=' + Date.now();
+    s.onload = function(){
+      ALL = (window.NEWS_DATA && window.NEWS_DATA.items) || [];
+      document.getElementById('top-updated').textContent = '更新:' + (window.NEWS_DATA ? window.NEWS_DATA.updated : '—');
+      render();
+    };
+    document.head.appendChild(s);
+  }, 10 * 60 * 1000);
+})();
+</script>
+</body>
+</html>
