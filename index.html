@@ -257,6 +257,7 @@
   // ===== 路由:解析 hash =====
   function parseHash(){
     var h = location.hash.replace('#','');
+    try { h = decodeURIComponent(h); } catch(e){ /* 解码失败则用原串 */ }
     if(!h || h === '/') return {type:'home'};
     if(h.indexOf('cat-') === 0) return {type:'cat', key: h.slice(4)};
     if(h.indexOf('kw-') === 0) return {type:'kw', key: h.slice(3)};
