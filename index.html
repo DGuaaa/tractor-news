@@ -218,7 +218,10 @@
     var list = ALL.filter(match);
     var el = document.getElementById('news-list');
     document.getElementById('cur-cat').textContent = curKw ? (CAT_LABEL[cur] + ' · ' + curKw) : CAT_LABEL[cur];
-    document.getElementById('news-updated').textContent = (window.NEWS_DATA ? '更新于 ' + window.NEWS_DATA.updated : '') + ' · ' + list.length + ' 条';
+    // 最新新闻发布日期(真实日期)
+    var latest = '';
+    list.forEach(function(it){ if(it.date && (!latest || it.date > latest)) latest = it.date; });
+    document.getElementById('news-updated').textContent = (window.NEWS_DATA ? '更新于 ' + window.NEWS_DATA.updated : '') + ' · ' + list.length + ' 条' + (latest ? ' · 最新新闻:' + latest : '');
     if(!list.length){
       el.innerHTML = '<div class="empty">该分类暂无新闻,等待每日更新…</div>';
       return;
@@ -227,7 +230,7 @@
     var html = '';
     show.forEach(function(it){
       html += '<article class="card"><div class="thumb">' + (TAG_ICON[it.tag] || '📄') + '</div><div class="card-body">'
-        + '<div class="author">' + it.source + '<span class="dot">·</span><span class="time">' + it.date + '</span></div>'
+        + '<div class="author">' + it.source + '<span class="dot">·</span><span class="time">发布日期 ' + (it.date || '近日') + '</span></div>'
         + '<h3><a href="' + it.url + '" target="_blank" rel="noopener">' + it.title + '</a></h3>'
         + '<div class="chips"><span class="tag-badge tag-' + (it.tag_class === 'tag-policy' ? 'policy' : it.tag_class === 'tag-data' ? 'data' : it.tag_class === 'tag-tech' ? 'tech' : 'news') + '"><span class="cdot"></span>' + it.tag + '</span>'
         + '<span class="chip"><span class="cdot"></span>' + CAT_SHORT[it.tag] + '</span></div>'
