@@ -27,19 +27,21 @@ def normalize_url(u):
     return u.replace('http://', 'https://', 1)
 
 def extract_date(item):
-    """提取新闻真实发布日期:优先详情页'发布日期:'字段,失败回退URL推断"""
+    """提取新闻真实发布日期:优先详情页日期,失败回退URL推断"""
     # URL 推断(快路径)
     url = item['url']
     m = re.search(r'/html/(\d{4})/(\d{2})/', url)
     if m: item['date'] = f"{m.group(1)}-{m.group(2)}"
-    m = re.search(r'/news/(\d{4})/', url)
+    m = re.search(r'/(?:analyze|news)/(\d{4})/', url)
     if m: item['date'] = m.group(1)
     m = re.search(r't(\d{4})(\d{2})(\d{2})_', url)
     if m: item['date'] = f"{m.group(1)}-{m.group(2)}-{m.group(3)}"
-    # 详情页精确提取(农机360/农机通)
+    # 详情页精确提取
     try:
         d = fetch(url, timeout=12)
         m = re.search(r'发布日期[：:]\s*(\d{4})-(\d{2})-(\d{2})', d)
+        if not m:
+            m = re.search(r'(\d{4})-(\d{2})-(\d{2})', d)  # 裸日期(如CAAMM)
         if m: item['date'] = f"{m.group(1)}-{m.group(2)}-{m.group(3)}"
     except Exception:
         pass
@@ -122,6 +124,45 @@ def parse_njhs():
             seen.add(it['title']); out.append(it)
     return out[:8]
 
+def parse_caamm():
+    """中国农业机械工业协会(CAAMM):资讯中心"""
+    try:
+        html = fetch('http://www.caamm.org.cn/zxzx/index.htm')
+    except Exception:
+        return []
+    items = []
+    for href, text in re.findall(r'<a[^>]*href="([^"]+)"[^>]*>([^<]{10,70})</a>', html):
+        t = text.strip()
+        if not t or len(t) < 12:
+            continue
+        if href.endswith('.htm') and '/zfzc/' in href:
+            url = href if href.startswith('http') else 'http://www.caamm.org.cn' + href
+            items.append({'title': t, 'url': url, 'source': '农机工业协会'})
+    seen, out = set(), []
+    for it in items:
+        if it['title'] not in seen:
+            seen.add(it['title']); out.append(it)
+    return out[:6]
+
+def parse_camda():
+    """中国农业机械流通协会(CAMDA):AMI农机市场景气指数"""
+    try:
+        html = fetch('https://www.camda.cn/')
+    except Exception:
+        return []
+    items = []
+    for href, text in re.findall(r'<a[^>]*href="([^"]+)"[^>]*>([^<]{10,70})</a>', html):
+        t = text.strip()
+        if not t or len(t) < 12:
+            continue
+        if '/analyze/' in href:
+            items.append({'title': t, 'url': href if href.startswith('http') else 'https://www.camda.cn' + href, 'source': '农机流通协会'})
+    seen, out = set(), []
+    for it in items:
+        if it['title'] not in seen:
+            seen.add(it['title']); out.append(it)
+    return out[:6]
+
 def classify(title):
     t = title
     # 违规/通报优先归政策(避免被"智能"等技术词误分)
@@ -137,7 +178,8 @@ TAG_MAP = {'政策': 'tag-policy', '市场': 'tag-data', '技术': 'tag-tech', '
 
 def main():
     news = []
-    for fn in (parse_nongji360, parse_nongji360_channel, parse_nongjitong, parse_njhs):
+    for fn in (parse_nongji360, parse_nongji360_channel, parse_nongjitong, parse_njhs,
+               parse_caamm, parse_camda):
         try:
             items = fn()
             for it in items:
