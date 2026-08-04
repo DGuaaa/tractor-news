@@ -86,6 +86,31 @@
   .panel p b{color:var(--ink)}
   .notice{background:var(--paper);border:1px solid var(--fog);border-radius:var(--r-card);padding:12px 16px;font-size:13px;color:var(--slate);margin-bottom:24px;display:flex;gap:8px;align-items:center}
   .notice b{color:var(--ink)}
+  .mobile-filter{display:none}
+  .mpill{font-size:13px;font-weight:500;color:var(--ink);background:var(--canvas);border:1px solid var(--fog);border-radius:999px;padding:5px 14px;cursor:pointer;white-space:nowrap;flex-shrink:0}
+  .mpill.active{background:var(--blue);border-color:var(--blue);color:#fff}
+
+  /* ===== 移动端适配(≤900px):侧栏变顶部横条 ===== */
+  @media(max-width:900px){
+    .shell{display:block}
+    .sidebar{width:100%;height:auto;position:static;flex-direction:row;align-items:center;gap:0;padding:8px 12px;border-right:none;border-bottom:1px solid var(--fog);overflow-x:auto;overflow-y:hidden}
+    .logo{flex-shrink:0;padding:4px 8px;font-size:14px}
+    .logo .sub{display:none}
+    .nav{flex-direction:row;flex-shrink:0}
+    .nav-item{border-left:none;border-bottom:2px solid transparent;white-space:nowrap;padding:8px 12px}
+    .nav-item.active{border-left:none;border-bottom-color:var(--blue)}
+    .side-block{display:none}
+    .sidebar-foot{display:none}
+    .main{padding:20px 16px 32px}
+    .mobile-filter{display:flex;gap:8px;overflow-x:auto;margin-bottom:16px;padding-bottom:4px}
+    .hero{padding:24px 20px;gap:16px;margin-bottom:32px}
+    .hero h1{font-size:24px}
+    .hero p{font-size:14px}
+    .hero-art{width:64px;height:64px;font-size:32px}
+    .grid{grid-template-columns:1fr}
+    .panel{padding:20px;margin-top:32px}
+    .feed-head h2{font-size:18px}
+  }
 </style>
 </head>
 <body>
@@ -134,6 +159,17 @@
   <!-- ===== 主区 ===== -->
   <main class="main">
     <div class="notice"><span>📌</span><span><b>使用说明:</b>点击左侧导航分类浏览;点击企业名称看相关新闻;新闻链接直达原文。</span></div>
+
+    <div class="mobile-filter" id="m-filter">
+      <span class="mpill active" data-kw="">全部</span>
+      <span class="mpill" data-kw="东方红">东方红</span>
+      <span class="mpill" data-kw="雷沃">雷沃</span>
+      <span class="mpill" data-kw="中联">中联</span>
+      <span class="mpill" data-kw="沃得">沃得</span>
+      <span class="mpill" data-kw="约翰迪尔">约翰迪尔</span>
+      <span class="mpill" data-kw="久保田">久保田</span>
+      <span class="mpill" data-kw="采埃孚">采埃孚</span>
+    </div>
 
     <section class="hero">
       <div class="hero-text">
@@ -211,6 +247,9 @@
     a.addEventListener('click', function(){
       curKw = a.getAttribute('data-kw');
       if(cur === 'all'){ document.querySelectorAll('#nav .nav-item').forEach(function(x){ x.classList.remove('active'); }); }
+      // 移动端胶囊与侧栏链接的active同步
+      document.querySelectorAll('[data-kw]').forEach(function(x){ x.classList.remove('active'); });
+      a.classList.add('active');
       render(10);
     });
   });
