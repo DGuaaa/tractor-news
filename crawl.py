@@ -293,7 +293,7 @@ def main():
             corp.append(it)  # 官网新闻作为补充,排在后面
         else:
             others.append(it)
-    out = balanced + others[:20] + corp[:16]
+    out = balanced + others[:16] + corp[:20]
     out = out[:48]
     out.sort(key=lambda x: 0 if x['tag'] == '政策' else 1)
     data = {'updated': datetime.datetime.now().strftime('%Y-%m-%d %H:%M'), 'items': out[:48]}
