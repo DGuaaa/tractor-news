@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-04 12:01",
+ "updated": "2026-08-04 12:07",
  "items": [
   {
    "title": "山西省强农惠农政策明白纸",
@@ -352,6 +352,38 @@
    "tag": "市场",
    "tag_class": "tag-data",
    "date": ""
+  },
+  {
+   "title": "实力呈现 人气爆棚 | 苏州久保田国四产品惊艳亮相2023年全国农机展",
+   "url": "http://www.kubota.com.cn/kams/newsone.do?hidnewsid=143&hidoffset=1&hidcount=6",
+   "source": "久保田中国",
+   "tag": "市场",
+   "tag_class": "tag-data",
+   "date": "2023-3-18"
+  },
+  {
+   "title": "2022年度久保田VIP用户来社参观侧记",
+   "url": "http://www.kubota.com.cn/kams/newsone.do?hidnewsid=141&hidoffset=1&hidcount=6",
+   "source": "久保田中国",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": ""
+  },
+  {
+   "title": "再获殊荣丨久保田荣获2020中国农业机械年度TOP50+两项大奖",
+   "url": "http://www.kubota.com.cn/kams/newsone.do?hidnewsid=140&hidoffset=1&hidcount=6",
+   "source": "久保田中国",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2021-9-28"
+  },
+  {
+   "title": "湖南首个“东方红公益助农服务示范点”在韶山落地",
+   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202608/t20260804_649098.html",
+   "source": "一拖东方红",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-08-04"
   }
  ]
 }

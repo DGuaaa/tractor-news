@@ -222,6 +222,26 @@ def parse_kubota():
             seen.add(it['title']); out.append(it)
     return out[:5]
 
+def parse_yto():
+    """一拖(东方红):公司新闻(URL自带日期 tYYYYMMDD)"""
+    try:
+        html = fetch('http://www.ytogroup.cn/xwdt_5457/gsxw/')
+    except Exception:
+        return []
+    items = []
+    for href, text in re.findall(r'<a[^>]*href="([^"]+)"[^>]*>([^<]{8,70})</a>', html):
+        t = text.strip()
+        if not t or len(t) < 10:
+            continue
+        if re.search(r'/t\d{8}_', href):
+            url = href if href.startswith('http') else 'http://www.ytogroup.cn/xwdt_5457/gsxw/' + href.lstrip('./')
+            items.append({'title': t, 'url': url, 'source': '一拖东方红'})
+    seen, out = set(), []
+    for it in items:
+        if it['title'] not in seen:
+            seen.add(it['title']); out.append(it)
+    return out[:5]
+
 def classify(title):
     t = title
     # 违规/通报优先归政策(避免被"智能"等技术词误分)
@@ -238,7 +258,7 @@ TAG_MAP = {'政策': 'tag-policy', '市场': 'tag-data', '技术': 'tag-tech', '
 def main():
     news = []
     for fn in (parse_nongji360, parse_nongji360_channel, parse_nongjitong, parse_njhs,
-               parse_caamm, parse_camda, parse_lovol, parse_zoomlion, parse_kubota):
+               parse_caamm, parse_camda, parse_lovol, parse_zoomlion, parse_kubota, parse_yto):
         try:
             items = fn()
             for it in items:
@@ -269,14 +289,14 @@ def main():
             if policy_count < 12:
                 policy_count += 1
                 balanced.append(it)
-        elif it['source'] in ('潍柴雷沃', '中联重科', '久保田中国'):
+        elif it['source'] in ('潍柴雷沃', '中联重科', '久保田中国', '一拖东方红'):
             corp.append(it)  # 官网新闻作为补充,排在后面
         else:
             others.append(it)
-    out = balanced + others[:20] + corp[:12]
-    out = out[:44]
+    out = balanced + others[:20] + corp[:16]
+    out = out[:48]
     out.sort(key=lambda x: 0 if x['tag'] == '政策' else 1)
-    data = {'updated': datetime.datetime.now().strftime('%Y-%m-%d %H:%M'), 'items': out[:44]}
+    data = {'updated': datetime.datetime.now().strftime('%Y-%m-%d %H:%M'), 'items': out[:48]}
     with open(os.path.join(BASE, 'news.json'), 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=1)
     # JS 版:本地 file:// 打开也能加载(script 标签不受 CORS 限制)
