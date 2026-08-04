@@ -49,6 +49,14 @@
   .hero p{font-size:16px;color:var(--slate);margin-top:8px;max-width:520px}
   .hero .cta{display:inline-block;margin-top:16px;background:var(--blue);color:#fff;border-radius:var(--r-btn);padding:8px 16px;font-size:14px;font-weight:600;cursor:pointer}
   .hero .cta:hover{background:var(--blue-dark);color:#fff}
+  .s-points{margin:12px 0 0;padding-left:18px;list-style:disc}
+  .s-points li{font-size:13px;color:var(--carbon);line-height:1.65;margin-bottom:6px}
+  .s-insights{margin-top:14px;padding:12px 14px;background:var(--paper);border-left:3px solid var(--blue);border-radius:0 var(--r-card) var(--r-card) 0}
+  .s-insights .si-title{font-size:12px;font-weight:600;color:var(--blue);margin-bottom:6px}
+  .s-insights li{font-size:13px;color:var(--carbon);line-height:1.6;margin-bottom:5px}
+  .o-opps{margin-top:14px;padding-top:12px;border-top:1px solid var(--fog)}
+  .o-opps h4{font-size:14px;font-weight:600;margin-bottom:8px}
+  .o-opps li{font-size:13px;color:var(--carbon);line-height:1.6;margin-bottom:5px}
   .hero-art{width:120px;height:120px;border-radius:var(--r-card);background:var(--paper);border:1px solid var(--fog);display:flex;align-items:center;justify-content:center;font-size:52px;flex-shrink:0}
 
   /* ===== 新闻区 ===== */
@@ -174,8 +182,10 @@
 
     <section class="hero">
       <div class="hero-text">
-        <h1>看懂拖拉机市场,<br>从一份情报开始。</h1>
-        <p>农机补贴、主机厂动态、新能源趋势、招标公告——每日自动聚合,为销售决策提供情报支持。</p>
+        <h1 id="s-title">看懂拖拉机市场,<br>从一份情报开始。</h1>
+        <p id="s-judgment">农机补贴、主机厂动态、新能源趋势、招标公告——每日自动聚合,为销售决策提供情报支持。</p>
+        <ul class="s-points" id="s-points"></ul>
+        <div class="s-insights" id="s-insights"></div>
         <a class="cta" id="hero-cta">查看今日资讯</a>
       </div>
       <div class="hero-art">🚜</div>
@@ -188,18 +198,48 @@
     </section>
     <div class="grid" id="news-list"></div>
 
-    <section class="panel">
-      <h3>市场全景 · 宏观概览</h3>
-      <p><b>行业规模:</b>农机工业年营收约5,000-6,000亿元;拖拉机年产量约50万台,大中拖占主导。</p>
-      <p style="margin-top:8px"><b>竞争格局:</b>整机——一拖东方红、潍柴雷沃、中联重科、沃得、东风农机,外资约翰迪尔、久保田;核心部件——采埃孚、博世力士乐主导高端变速箱。</p>
-      <p style="margin-top:8px"><b>结构性机会:</b>①高端变速箱国产替代;②新能源(混动/纯电)拖拉机从0到1;③丘陵山区机械化率仅约50%;④存量更新。</p>
+    <section class="panel" id="s-overview">
+      <h3 id="o-title">市场全景 · 宏观概览</h3>
+      <div id="o-sections">
+        <p><b>行业规模:</b>农机工业年营收约5,000-6,000亿元;拖拉机年产量约50万台,大中拖占主导。</p>
+        <p style="margin-top:8px"><b>竞争格局:</b>整机——一拖东方红、潍柴雷沃、中联重科、沃得、东风农机,外资约翰迪尔、久保田;核心部件——采埃孚、博世力士乐主导高端变速箱。</p>
+        <p style="margin-top:8px"><b>结构性机会:</b>①高端变速箱国产替代;②新能源(混动/纯电)拖拉机从0到1;③丘陵山区机械化率仅约50%;④存量更新。</p>
+      </div>
+      <div id="o-opps"></div>
     </section>
   </main>
 </div>
 
 <script src="news.js"></script>
+<script src="summary.js"></script>
 <script>
 (function(){
+  // ===== AI 总结渲染(有数据则替换默认内容) =====
+  try{
+    var S = window.SUMMARY_DATA;
+    if(S && S.daily){
+      document.getElementById('s-title').textContent = S.daily.title;
+      document.getElementById('s-judgment').textContent = S.daily.judgment;
+      var pts = '';
+      (S.daily.points || []).forEach(function(p){ pts += '<li>' + p + '</li>'; });
+      if(pts) document.getElementById('s-points').innerHTML = pts;
+      var ins = '';
+      (S.daily.insights || []).forEach(function(p){ ins += '<li>' + p + '</li>'; });
+      if(ins) document.getElementById('s-insights').innerHTML = '<div class="si-title">产业视角</div><ul>' + ins + '</ul>';
+      if(S.overview){
+        document.getElementById('o-title').textContent = S.overview.title;
+        var secs = '';
+        (S.overview.sections || []).forEach(function(s){
+          secs += '<p style="margin-top:8px"><b>' + s.name + '——</b>' + s.body + '</p>';
+        });
+        if(secs) document.getElementById('o-sections').innerHTML = secs;
+        var opps = '';
+        (S.overview.opportunities || []).forEach(function(o, i){ opps += '<li>' + o + '</li>'; });
+        if(opps) document.getElementById('o-opps').innerHTML = '<div class="o-opps"><h4>结构性机会</h4><ul>' + opps + '</ul></div>';
+      }
+    }
+  }catch(e){ /* summary渲染失败则保留默认内容 */ }
+
   var ALL = (window.NEWS_DATA && window.NEWS_DATA.items) || [];
   var cur = 'all', curKw = '';
   var CAT_LABEL = {'all':'全部','行业':'行业新闻','市场':'市场数据','政策':'政策补贴','企业':'企业动态','技术':'技术前沿','招标':'招标信息'};

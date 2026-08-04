@@ -220,6 +220,18 @@ def main():
     # JS 版:本地 file:// 打开也能加载(script 标签不受 CORS 限制)
     with open(os.path.join(BASE, 'news.js'), 'w', encoding='utf-8') as f:
         f.write('window.NEWS_DATA = ' + json.dumps(data, ensure_ascii=False) + ';\n')
+    # 生成 AI 总结(调 DeepSeek,输出 summary.js)
+    try:
+        import subprocess
+        PY = r'C:\Users\24788\AppData\Local\Python\bin\python.exe'
+        r = subprocess.run([PY, os.path.join(BASE, 'gen_summary.py')],
+                           capture_output=True, text=True, timeout=400)
+        if r.returncode != 0:
+            print('SUMMARY FAIL:', (r.stdout + r.stderr)[-200:])
+        else:
+            print('summary:', r.stdout.strip()[-80:])
+    except Exception as e:
+        print('SUMMARY ERROR:', e)
     # 上传到 GitHub Pages:git push 自动触发部署(兼容本地与 GitHub Actions 环境)
     try:
         import subprocess
