@@ -41,7 +41,9 @@ def extract_date(item):
         d = fetch(url, timeout=12)
         m = re.search(r'发布日期[：:]\s*(\d{4})-(\d{2})-(\d{2})', d)
         if not m:
-            m = re.search(r'(\d{4})-(\d{2})-(\d{2})', d)  # 裸日期(如CAAMM)
+            m = re.search(r'(\d{4})年(\d{1,2})月(\d{1,2})日', d)  # 中文日期(如雷沃)
+        if not m:
+            m = re.search(r'(\d{4})-(\d{2})-(\d{2})', d)  # 裸横线日期(如CAAMM)
         if m: item['date'] = f"{m.group(1)}-{m.group(2)}-{m.group(3)}"
     except Exception:
         pass
