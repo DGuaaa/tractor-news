@@ -75,17 +75,44 @@ def build_prompt(news):
         + '要求:daily 的要点要有数据支撑和产业解读;overview 的分析要有产业链视角,体现专家级深度。'
     )
 
+def parse_json_content(content):
+    """宽容解析模型输出:代码块 → 直接解析 → 常见修复"""
+    if not content:
+        return None
+    m = re.search(r'```(?:json)?\s*(\{.*?\})\s*```', content, re.S)
+    if m:
+        try:
+            return json.loads(m.group(1))
+        except Exception:
+            pass
+    m = re.search(r'\{.*\}', content, re.S)
+    if not m:
+        return None
+    s = m.group(0)
+    for attempt in (s,
+                    re.sub(r',\s*([}\]])', r'\1', s),           # 去尾逗号
+                    re.sub(r'[\u201c\u201d]', '"', s),           # 中文引号
+                    re.sub(r"'(?=([^']*'))", '"', s.replace('\"', "''"))):  # 单引号
+        try:
+            return json.loads(attempt)
+        except Exception:
+            continue
+    return None
+
 def main():
     news = json.load(open(os.path.join(BASE, 'news.json'), encoding='utf-8'))['items']
     if not news:
         print('no news'); return 1
-    content = llm_chat(SYSTEM_PROMPT, build_prompt(news))
-    # 提取 JSON(模型可能输出代码块或多余文字)
-    m = re.search(r'\{.*\}', content, re.S)
-    if not m:
-        print('JSON parse fail, content head:', (content or '')[:300])
+    data = None
+    for attempt in range(2):  # 最多重试1次
+        content = llm_chat(SYSTEM_PROMPT, build_prompt(news))
+        data = parse_json_content(content)
+        if data:
+            break
+        print(f'summary attempt {attempt+1} JSON parse fail')
+    if not data:
+        print('summary FAIL: 无法解析模型输出')
         return 1
-    data = json.loads(m.group(0))
     data['date'] = datetime.date.today().isoformat()
     with open(os.path.join(BASE, 'summary.js'), 'w', encoding='utf-8') as f:
         f.write('window.SUMMARY_DATA = ' + json.dumps(data, ensure_ascii=False) + ';\n')
