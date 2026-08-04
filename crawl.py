@@ -67,7 +67,7 @@ def classify(title):
     # 违规/通报优先归政策(避免被"智能"等技术词误分)
     if re.search(r'违规|通报|处罚|注销', t): return '政策'
     if re.search(r'电动|混动|新能源|无人|智能|北斗|自动驾驶|氢|电机|电池', t): return '技术'
-    if re.search(r'销量|排行榜|价格|出口|市场|展会|博览会|成交|补贴额', t): return '市场'
+    if re.search(r'销量|排行榜|价格|出口|市场|展会|博览会|农机展|展览|成交|补贴额', t): return '市场'
     if re.search(r'补贴|政策|鉴定|公示|通告|通知|惠农|推广|监管|投诉', t): return '政策'
     if re.search(r'大会|发布|亮相|合作|签约|投产|交付|中标|财报|收购', t): return '行业'
     if re.search(r'拖拉机|收割机|农机|企业|公司|集团|YTO|雷沃|沃得|中联|久保田|约翰迪尔|格兰', t): return '行业'
