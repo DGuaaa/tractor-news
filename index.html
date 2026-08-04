@@ -12,7 +12,6 @@
     --blue:#1d52de; --blue-dark:#1741b0;
     --ink:#16191c; --carbon:#1c2024; --slate:#7b8187;
     --fog:#d1d4d9; --paper:#f4f5f7; --stone:#e6e8eb; --canvas:#f9fafb;
-    --mint:#00bc7d;
     --r-tag:10px; --r-card:14px; --r-input:10px; --r-btn:10px; --r-hero:18px;
     --font:'Inter', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', Roboto, sans-serif;
   }
@@ -21,28 +20,31 @@
   body{font-family:var(--font);background:var(--canvas);color:var(--ink);font-size:16px;line-height:1.5}
   a{color:var(--ink);text-decoration:none}
   a:hover{color:var(--blue)}
-
-  /* ===== 布局:侧栏 + 主区 ===== */
   .shell{display:flex;min-height:100vh}
-  .sidebar{width:250px;flex-shrink:0;background:var(--canvas);border-right:1px solid var(--fog);padding:24px 16px;position:sticky;top:0;height:100vh;overflow-y:auto;display:flex;flex-direction:column;gap:24px}
-  .main{flex:1;max-width:1200px;margin:0 auto;padding:32px 28px;width:100%}
 
-  /* ===== 侧栏 ===== */
+  /* ===== 侧边栏 ===== */
+  .sidebar{width:250px;flex-shrink:0;border-right:1px solid var(--fog);padding:24px 16px;position:sticky;top:0;height:100vh;overflow-y:auto;display:flex;flex-direction:column;gap:20px}
   .logo{font-size:15px;font-weight:700;letter-spacing:-0.02em;padding:4px 8px}
   .logo .sub{display:block;font-size:11px;font-weight:500;color:var(--slate);letter-spacing:0.08em;margin-top:2px}
   .nav{display:flex;flex-direction:column;gap:2px}
-  .nav-item{display:flex;align-items:center;gap:10px;padding:8px 12px;border-radius:var(--r-input);font-size:14px;font-weight:500;color:var(--ink);cursor:pointer;border-left:3px solid transparent;background:transparent}
+  .nav-item{padding:8px 12px;border-radius:var(--r-input);font-size:14px;font-weight:500;color:var(--ink);cursor:pointer;border-left:3px solid transparent;display:flex;align-items:center;gap:8px}
   .nav-item:hover{background:var(--paper)}
-  .nav-item.active{background:var(--paper);border-left-color:var(--blue)}
-  .nav-item .ico{font-size:16px;width:20px;text-align:center}
-  .side-block h3{font-size:11px;font-weight:600;color:var(--slate);letter-spacing:0.1em;text-transform:uppercase;padding:0 8px 8px}
-  .side-list{display:flex;flex-direction:column;gap:2px}
-  .side-link{font-size:13px;font-weight:500;color:var(--ink);padding:6px 12px;border-radius:var(--r-input);cursor:pointer;display:block}
-  .side-link:hover{background:var(--paper)}
-  .side-note{font-size:11px;color:var(--slate);padding:0 8px;line-height:1.5}
-  .sidebar-foot{margin-top:auto;font-size:11px;color:var(--slate);padding:0 8px;line-height:1.6;border-top:1px solid var(--fog);padding-top:12px}
+  .nav-item.active{background:var(--paper);color:var(--blue);border-left-color:var(--blue)}
+  .side-block h4{font-size:12px;font-weight:600;color:var(--slate);letter-spacing:0.05em;margin-bottom:8px;padding:0 8px}
+  .side-link{display:block;padding:6px 12px;border-radius:var(--r-input);font-size:13px;color:var(--ink);cursor:pointer}
+  .side-link:hover{background:var(--paper);color:var(--blue)}
+  .side-link.active{background:var(--paper);color:var(--blue);font-weight:600}
+  .sidebar-foot{margin-top:auto;font-size:11px;color:var(--slate);padding:8px;border-top:1px solid var(--fog)}
 
-  /* ===== Hero ===== */
+  /* ===== 主区 ===== */
+  .main{flex:1;max-width:1200px;margin:0 auto;padding:32px 32px 48px;min-width:0}
+  .notice{background:var(--paper);border:1px solid var(--fog);border-radius:var(--r-card);padding:12px 16px;font-size:13px;color:var(--slate);margin-bottom:24px;display:flex;gap:8px;align-items:center}
+  .notice b{color:var(--ink)}
+  .mobile-filter{display:none}
+  .mpill{font-size:13px;font-weight:500;color:var(--ink);background:var(--canvas);border:1px solid var(--fog);border-radius:999px;padding:5px 14px;cursor:pointer;white-space:nowrap;flex-shrink:0}
+  .mpill.active{background:var(--blue);border-color:var(--blue);color:#fff}
+
+  /* ===== Hero(首页) ===== */
   .hero{background:var(--canvas);border:1px solid var(--fog);border-radius:var(--r-hero);padding:32px;display:flex;align-items:center;gap:32px;margin-bottom:48px}
   .hero-text{flex:1;max-height:300px;overflow-y:auto;padding-right:10px}
   .hero-text::-webkit-scrollbar{width:4px}
@@ -57,51 +59,48 @@
   .s-insights{margin-top:14px;padding:12px 14px;background:var(--paper);border-left:3px solid var(--blue);border-radius:0 var(--r-card) var(--r-card) 0}
   .s-insights .si-title{font-size:12px;font-weight:600;color:var(--blue);margin-bottom:6px}
   .s-insights li{font-size:13px;color:var(--carbon);line-height:1.6;margin-bottom:5px}
-  .o-opps{margin-top:14px;padding-top:12px;border-top:1px solid var(--fog)}
-  .o-opps h4{font-size:14px;font-weight:600;margin-bottom:8px}
-  .o-opps li{font-size:13px;color:var(--carbon);line-height:1.6;margin-bottom:5px}
   .hero-art{width:120px;height:120px;border-radius:var(--r-card);background:var(--paper);border:1px solid var(--fog);display:flex;align-items:center;justify-content:center;font-size:52px;flex-shrink:0}
 
-  /* ===== 新闻区 ===== */
-  .feed-head{display:flex;align-items:center;justify-content:space-between;margin-bottom:16px}
-  .feed-head h2{font-size:20px;font-weight:600;letter-spacing:-0.02em}
-  .feed-head .meta{font-size:12px;color:var(--slate);font-weight:500}
-  .feed-head .more{font-size:13px;font-weight:500;color:var(--blue);cursor:pointer}
-  .feed-head .more:hover{color:var(--blue-dark)}
-  .grid{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+  /* ===== 分类页横幅 ===== */
+  .cat-banner{display:none;background:var(--canvas);border:1px solid var(--fog);border-radius:var(--r-hero);padding:28px 32px;margin-bottom:32px}
+  .cat-banner h1{font-size:26px;font-weight:700;letter-spacing:-0.025em}
+  .cat-banner p{font-size:14px;color:var(--slate);margin-top:6px}
 
+  /* ===== 新闻区 ===== */
+  .feed-head{display:flex;align-items:center;gap:12px;margin-bottom:16px;flex-wrap:wrap}
+  .feed-head h2{font-size:20px;font-weight:600;letter-spacing:-0.02em}
+  .feed-head .meta{font-size:12px;color:var(--slate);margin-left:auto}
+  .feed-head .more{font-size:13px;font-weight:500;color:var(--blue);cursor:pointer}
+  .grid{display:grid;grid-template-columns:1fr 1fr;gap:16px}
   .card{background:var(--canvas);border:1px solid var(--fog);border-radius:var(--r-card);padding:16px;display:flex;gap:16px;cursor:default}
   .card:hover{background:var(--paper)}
-  .thumb{width:48px;height:48px;border-radius:8px;border:1px solid var(--fog);display:flex;align-items:center;justify-content:center;font-size:22px;flex-shrink:0;background:var(--canvas)}
+  .thumb{width:48px;height:48px;border-radius:var(--r-tag);background:var(--paper);border:1px solid var(--fog);display:flex;align-items:center;justify-content:center;font-size:22px;flex-shrink:0}
   .card-body{flex:1;min-width:0}
-  .author{font-size:12px;font-weight:500;color:var(--ink);display:flex;align-items:center;gap:6px;flex-wrap:wrap}
-  .author .dot{color:var(--slate)}
-  .author .time{color:var(--slate);font-weight:400}
-  .card h3{font-size:18px;font-weight:600;line-height:1.4;margin-top:6px;letter-spacing:-0.01em}
+  .author{font-size:12px;color:var(--slate);font-weight:500;display:flex;align-items:center;gap:6px;flex-wrap:wrap}
+  .author .dot{width:3px;height:3px;border-radius:50%;background:var(--fog)}
+  .card h3{font-size:17px;font-weight:600;line-height:1.45;letter-spacing:-0.01em;margin:6px 0 8px}
   .card h3 a{color:var(--ink)}
   .card h3 a:hover{color:var(--blue)}
-  .chips{display:flex;gap:12px;margin-top:10px;align-items:center}
-  .chip{font-size:12px;font-weight:500;color:var(--slate);display:inline-flex;align-items:center;gap:4px}
-  .chip .cdot{width:4px;height:4px;border-radius:50%;background:var(--slate)}
+  .chips{display:flex;gap:8px}
   .tag-badge{font-size:12px;font-weight:500;padding:2px 10px;border-radius:var(--r-tag);background:var(--paper);display:inline-flex;align-items:center;gap:5px}
   .tag-badge .cdot{width:4px;height:4px;border-radius:50%}
   .tag-policy{color:#b45309}.tag-policy .cdot{background:#d97706}
   .tag-data{color:#047857}.tag-data .cdot{background:#059669}
   .tag-tech{color:#6d28d9}.tag-tech .cdot{background:#7c3aed}
   .tag-news{color:var(--blue)}.tag-news .cdot{background:var(--blue)}
+  .chip{font-size:12px;color:var(--slate);display:inline-flex;align-items:center;gap:5px}
+  .chip .cdot{width:4px;height:4px;border-radius:50%;background:var(--fog)}
+  .empty{padding:48px;text-align:center;color:var(--slate);font-size:14px;grid-column:1/-1}
 
-  .empty{padding:40px;text-align:center;color:var(--slate);font-size:14px;grid-column:1/-1}
-
-  /* ===== 底部说明卡 ===== */
-  .panel{background:var(--canvas);border:1px solid var(--fog);border-radius:var(--r-hero);padding:24px;margin-top:48px}
-  .panel h3{font-size:18px;font-weight:600;margin-bottom:8px}
-  .panel p{font-size:14px;color:var(--slate);line-height:1.6}
+  /* ===== 宏观面板(首页) ===== */
+  .panel{background:var(--canvas);border:1px solid var(--fog);border-radius:var(--r-hero);padding:28px;margin-top:40px}
+  .panel h3{font-size:18px;font-weight:600;margin-bottom:10px}
+  .panel p{font-size:14px;color:var(--slate);line-height:1.7}
   .panel p b{color:var(--ink)}
-  .notice{background:var(--paper);border:1px solid var(--fog);border-radius:var(--r-card);padding:12px 16px;font-size:13px;color:var(--slate);margin-bottom:24px;display:flex;gap:8px;align-items:center}
-  .notice b{color:var(--ink)}
-  .mobile-filter{display:none}
-  .mpill{font-size:13px;font-weight:500;color:var(--ink);background:var(--canvas);border:1px solid var(--fog);border-radius:999px;padding:5px 14px;cursor:pointer;white-space:nowrap;flex-shrink:0}
-  .mpill.active{background:var(--blue);border-color:var(--blue);color:#fff}
+  .o-opps{margin-top:14px;padding-top:12px;border-top:1px solid var(--fog)}
+  .o-opps h4{font-size:14px;font-weight:600;margin-bottom:8px}
+  .o-opps li{font-size:13px;color:var(--carbon);line-height:1.6;margin-bottom:5px}
+  .footer{margin-top:32px;padding-top:16px;border-top:1px solid var(--fog);font-size:12px;color:var(--slate);display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px}
 
   /* ===== 移动端适配(≤900px):侧栏变顶部横条 ===== */
   @media(max-width:900px){
@@ -123,68 +122,53 @@
     .grid{grid-template-columns:1fr}
     .panel{padding:20px;margin-top:32px}
     .feed-head h2{font-size:18px}
+    .cat-banner{padding:20px}
+    .cat-banner h1{font-size:22px}
   }
 </style>
 </head>
 <body>
 <div class="shell">
-
-  <!-- ===== 侧栏 ===== -->
   <aside class="sidebar">
-    <div class="logo">🚜 拖拉机市场情报站<span class="sub">TRACTOR MARKET INTELLIGENCE</span></div>
+    <a class="logo" href="#/">🚜 拖拉机市场情报站<span class="sub">TRACTOR MARKET INTELLIGENCE</span></a>
     <nav class="nav" id="nav">
-      <a class="nav-item active" data-cat="all"><span class="ico">▦</span>首页</a>
-      <a class="nav-item" data-cat="行业"><span class="ico">◈</span>行业新闻</a>
-      <a class="nav-item" data-cat="市场"><span class="ico">▤</span>市场数据</a>
-      <a class="nav-item" data-cat="政策"><span class="ico">⚖</span>政策补贴</a>
-      <a class="nav-item" data-cat="企业"><span class="ico">▣</span>企业动态</a>
-      <a class="nav-item" data-cat="技术"><span class="ico">⚙</span>技术前沿</a>
-      <a class="nav-item" data-cat="招标"><span class="ico">◫</span>招标信息</a>
+      <a class="nav-item" href="#/" data-cat="all"><span>⊞</span> 首页</a>
+      <a class="nav-item" href="#cat-行业" data-cat="行业"><span>◆</span> 行业新闻</a>
+      <a class="nav-item" href="#cat-市场" data-cat="市场"><span>☰</span> 市场数据</a>
+      <a class="nav-item" href="#cat-政策" data-cat="政策"><span>⚖</span> 政策补贴</a>
+      <a class="nav-item" href="#cat-企业" data-cat="企业"><span>▣</span> 企业动态</a>
+      <a class="nav-item" href="#cat-技术" data-cat="技术"><span>⚙</span> 技术前沿</a>
+      <a class="nav-item" href="#cat-招标" data-cat="招标"><span>⚑</span> 招标信息</a>
     </nav>
     <div class="side-block">
-      <h3>重点企业</h3>
-      <div class="side-list">
-        <a class="side-link" data-kw="东方红">中国一拖 · 东方红</a>
-        <a class="side-link" data-kw="雷沃">潍柴雷沃</a>
-        <a class="side-link" data-kw="中联">中联重科</a>
-        <a class="side-link" data-kw="沃得">沃得农机</a>
-        <a class="side-link" data-kw="约翰迪尔">约翰迪尔</a>
-        <a class="side-link" data-kw="久保田">久保田</a>
-        <a class="side-link" data-kw="采埃孚">采埃孚 / 博世</a>
-      </div>
+      <h4>重点企业</h4>
+      <a class="side-link" href="#kw-东方红" data-kw="东方红">东方红</a>
+      <a class="side-link" href="#kw-雷沃" data-kw="雷沃">雷沃</a>
+      <a class="side-link" href="#kw-中联" data-kw="中联">中联</a>
+      <a class="side-link" href="#kw-沃得" data-kw="沃得">沃得</a>
+      <a class="side-link" href="#kw-约翰迪尔" data-kw="约翰迪尔">约翰迪尔</a>
+      <a class="side-link" href="#kw-久保田" data-kw="久保田">久保田</a>
+      <a class="side-link" href="#kw-采埃孚" data-kw="采埃孚">采埃孚</a>
     </div>
-    <div class="side-block">
-      <h3>政策日历</h3>
-      <div class="side-list">
-        <a class="side-link" data-kw="补贴">农机购置补贴</a>
-        <a class="side-link" data-kw="鉴定">推广鉴定</a>
-        <a class="side-link" data-kw="丘陵">丘陵山区机械化</a>
-        <a class="side-link" data-kw="淘汰">老旧农机报废更新</a>
-      </div>
-    </div>
-    <div class="side-block">
-      <h3>更新说明</h3>
-      <p class="side-note">每日 0/6/12/18 点自动抓取农机360、农机通。来源公开网络,仅供参考。</p>
-    </div>
-    <div class="sidebar-foot">拖拉机市场情报站<br>爱格迈项目组 · 内部参考<br><span id="foot-updated">更新:—</span></div>
+    <div class="sidebar-foot">数据源:农机360 · 农机通 · 农业农村部 · 行业协会 · 企业官网<br>每日自动更新</div>
   </aside>
 
-  <!-- ===== 主区 ===== -->
   <main class="main">
-    <div class="notice"><span>📌</span><span><b>使用说明:</b>点击左侧导航分类浏览;点击企业名称看相关新闻;新闻链接直达原文。</span></div>
+    <div class="notice"><span>📌</span><span><b>使用说明:</b>导航按分类浏览,企业名单看相关新闻,点击标题直达原文;每个分类/企业都有独立页面。</span></div>
 
     <div class="mobile-filter" id="m-filter">
-      <span class="mpill active" data-kw="">全部</span>
-      <span class="mpill" data-kw="东方红">东方红</span>
-      <span class="mpill" data-kw="雷沃">雷沃</span>
-      <span class="mpill" data-kw="中联">中联</span>
-      <span class="mpill" data-kw="沃得">沃得</span>
-      <span class="mpill" data-kw="约翰迪尔">约翰迪尔</span>
-      <span class="mpill" data-kw="久保田">久保田</span>
-      <span class="mpill" data-kw="采埃孚">采埃孚</span>
+      <a class="mpill" href="#kw-" data-kw="">全部</a>
+      <a class="mpill" href="#kw-东方红" data-kw="东方红">东方红</a>
+      <a class="mpill" href="#kw-雷沃" data-kw="雷沃">雷沃</a>
+      <a class="mpill" href="#kw-中联" data-kw="中联">中联</a>
+      <a class="mpill" href="#kw-沃得" data-kw="沃得">沃得</a>
+      <a class="mpill" href="#kw-约翰迪尔" data-kw="约翰迪尔">约翰迪尔</a>
+      <a class="mpill" href="#kw-久保田" data-kw="久保田">久保田</a>
+      <a class="mpill" href="#kw-采埃孚" data-kw="采埃孚">采埃孚</a>
     </div>
 
-    <section class="hero">
+    <!-- 首页:AI总结 hero -->
+    <section class="hero" id="s-hero">
       <div class="hero-text">
         <h1 id="s-title">看懂拖拉机市场,<br>从一份情报开始。</h1>
         <p id="s-judgment">农机补贴、主机厂动态、新能源趋势、招标公告——每日自动聚合,为销售决策提供情报支持。</p>
@@ -195,13 +179,20 @@
       <div class="hero-art">🚜</div>
     </section>
 
+    <!-- 分类/企业页横幅 -->
+    <section class="cat-banner" id="cat-banner">
+      <h1 id="cat-title">分类</h1>
+      <p id="cat-desc">该分类下的相关新闻</p>
+    </section>
+
     <section class="feed-head">
-      <h2>最新农机资讯 <span class="meta" id="cur-cat">全部</span></h2>
+      <h2 id="feed-title">最新农机资讯</h2>
       <span class="meta" id="news-updated">—</span>
       <a class="more" id="more-btn">更多 →</a>
     </section>
     <div class="grid" id="news-list"></div>
 
+    <!-- 首页:宏观概览 -->
     <section class="panel" id="s-overview">
       <h3 id="o-title">市场全景 · 宏观概览</h3>
       <div id="o-sections">
@@ -211,6 +202,11 @@
       </div>
       <div id="o-opps"></div>
     </section>
+
+    <div class="footer">
+      <span>拖拉机市场情报站 · 农机市场观察 · 数据来源公开网络,仅供参考</span>
+      <span id="foot-updated">更新:—</span>
+    </div>
   </main>
 </div>
 
@@ -218,7 +214,7 @@
 <script src="summary.js"></script>
 <script>
 (function(){
-  // ===== AI 总结渲染(有数据则替换默认内容) =====
+  // ===== AI 总结渲染 =====
   try{
     var S = window.SUMMARY_DATA;
     if(S && S.daily){
@@ -238,83 +234,134 @@
         });
         if(secs) document.getElementById('o-sections').innerHTML = secs;
         var opps = '';
-        (S.overview.opportunities || []).forEach(function(o, i){ opps += '<li>' + o + '</li>'; });
+        (S.overview.opportunities || []).forEach(function(o){ opps += '<li>' + o + '</li>'; });
         if(opps) document.getElementById('o-opps').innerHTML = '<div class="o-opps"><h4>结构性机会</h4><ul>' + opps + '</ul></div>';
       }
     }
   }catch(e){ /* summary渲染失败则保留默认内容 */ }
 
   var ALL = (window.NEWS_DATA && window.NEWS_DATA.items) || [];
-  var cur = 'all', curKw = '';
   var CAT_LABEL = {'all':'全部','行业':'行业新闻','市场':'市场数据','政策':'政策补贴','企业':'企业动态','技术':'技术前沿','招标':'招标信息'};
+  var CAT_DESC = {
+    '行业':'农机行业动态、企业活动、展会与市场事件',
+    '市场':'销量、价格、景气指数与市场分析',
+    '政策':'补贴政策、鉴定通报、公示与监管动态',
+    '企业':'主机厂与核心部件企业动态',
+    '技术':'电动化、智能化、无人化等前沿技术',
+    '招标':'招标采购、补贴公示与投档公告'
+  };
   var TAG_ICON = {'政策':'📜','市场':'📊','技术':'⚙️','行业':'🚜'};
-  var CAT_SHORT = {'all':'全部','行业':'行业','市场':'市场','政策':'政策','企业':'企业','技术':'技术','招标':'招标'};
+  var TAG_CLS = {'政策':'tag-policy','市场':'tag-data','技术':'tag-tech','行业':'tag-news'};
+  var showAll = false;
 
-  document.getElementById('foot-updated').textContent = '更新:' + (window.NEWS_DATA ? window.NEWS_DATA.updated : '—');
-
-  function match(it){
-    if(curKw && it.title.indexOf(curKw) === -1) return false;
-    if(cur === 'all' || cur === '企业') return true;
-    if(cur === '招标') return it.tag === '政策' && /招标|采购|公示|公告|投档/.test(it.title);
-    return it.tag === cur;
+  // ===== 路由:解析 hash =====
+  function parseHash(){
+    var h = location.hash.replace('#','');
+    if(!h || h === '/') return {type:'home'};
+    if(h.indexOf('cat-') === 0) return {type:'cat', key: h.slice(4)};
+    if(h.indexOf('kw-') === 0) return {type:'kw', key: h.slice(3)};
+    return {type:'home'};
   }
-  function render(limit){
-    var list = ALL.filter(match);
+
+  // ===== 匹配与排序 =====
+  function match(it, route){
+    if(route.type === 'home') return true;
+    if(route.type === 'cat'){
+      if(route.key === '企业') return true; // 企业动态=全部含企业新闻(官网+企业标题)
+      if(route.key === '招标') return it.tag === '政策' && /招标|采购|公示|公告|投档/.test(it.title);
+      return it.tag === route.key;
+    }
+    if(route.type === 'kw'){
+      if(!route.key) return true;
+      return it.title.indexOf(route.key) !== -1 || it.source.indexOf(route.key) !== -1;
+    }
+    return false;
+  }
+  function byLatest(a, b){
+    if(!a.date && !b.date) return 0;
+    if(!a.date) return 1;
+    if(!b.date) return -1;
+    return a.date < b.date ? 1 : (a.date > b.date ? -1 : 0);
+  }
+
+  // ===== 渲染 =====
+  function render(){
+    var route = parseHash();
+    var list = ALL.filter(function(it){ return match(it, route); }).sort(byLatest);
+    var isHome = route.type === 'home';
     var el = document.getElementById('news-list');
-    document.getElementById('cur-cat').textContent = curKw ? (CAT_LABEL[cur] + ' · ' + curKw) : CAT_LABEL[cur];
-    // 最新新闻发布日期(真实日期)
+
+    // 区块显隐
+    document.getElementById('s-hero').style.display = isHome ? 'flex' : 'none';
+    document.getElementById('s-overview').style.display = isHome ? 'block' : 'none';
+    var banner = document.getElementById('cat-banner');
+    if(isHome){
+      banner.style.display = 'none';
+      document.getElementById('feed-title').textContent = '最新农机资讯';
+    } else {
+      banner.style.display = 'block';
+      var title = route.type === 'cat' ? (CAT_LABEL[route.key] || route.key) : (route.key + ' 相关新闻');
+      var desc = route.type === 'cat' ? (CAT_DESC[route.key] || '') : '来自 ' + route.key + ' 官网及各新闻源的资讯';
+      document.getElementById('cat-title').textContent = title;
+      document.getElementById('cat-desc').textContent = desc + ' · ' + list.length + ' 条';
+      document.getElementById('feed-title').textContent = title;
+    }
+
+    // 最新日期
     var latest = '';
     list.forEach(function(it){ if(it.date && (!latest || it.date > latest)) latest = it.date; });
-    document.getElementById('news-updated').textContent = (window.NEWS_DATA ? '更新于 ' + window.NEWS_DATA.updated : '') + ' · ' + list.length + ' 条' + (latest ? ' · 最新新闻:' + latest : '');
+    document.getElementById('news-updated').textContent =
+      (window.NEWS_DATA ? '更新于 ' + window.NEWS_DATA.updated : '') + ' · ' + list.length + ' 条' + (latest ? ' · 最新:' + latest : '');
+
+    // 导航高亮
+    document.querySelectorAll('#nav .nav-item').forEach(function(a){
+      var cat = a.getAttribute('data-cat');
+      a.classList.toggle('active', isHome ? cat === 'all' : route.type === 'cat' && cat === route.key);
+    });
+    document.querySelectorAll('[data-kw]').forEach(function(a){
+      var kw = a.getAttribute('data-kw');
+      a.classList.toggle('active', route.type === 'kw' && kw === route.key);
+    });
+
     if(!list.length){
       el.innerHTML = '<div class="empty">该分类暂无新闻,等待每日更新…</div>';
       return;
     }
-    var show = limit ? list.slice(0, limit) : list;
+    var show = showAll ? list : list.slice(0, 10);
     var html = '';
     show.forEach(function(it){
       html += '<article class="card"><div class="thumb">' + (TAG_ICON[it.tag] || '📄') + '</div><div class="card-body">'
-        + '<div class="author">' + it.source + '<span class="dot">·</span><span class="time">发布日期 ' + (it.date || '近日') + '</span></div>'
+        + '<div class="author">' + it.source + '<span class="dot"></span><span>发布日期 ' + (it.date || '近日') + '</span></div>'
         + '<h3><a href="' + it.url + '" target="_blank" rel="noopener">' + it.title + '</a></h3>'
-        + '<div class="chips"><span class="tag-badge tag-' + (it.tag_class === 'tag-policy' ? 'policy' : it.tag_class === 'tag-data' ? 'data' : it.tag_class === 'tag-tech' ? 'tech' : 'news') + '"><span class="cdot"></span>' + it.tag + '</span>'
-        + '<span class="chip"><span class="cdot"></span>' + CAT_SHORT[it.tag] + '</span></div>'
+        + '<div class="chips"><span class="tag-badge ' + TAG_CLS[it.tag] + '"><span class="cdot"></span>' + it.tag + '</span>'
+        + '<span class="chip"><span class="cdot"></span>' + it.source + '</span></div>'
         + '</div></article>';
     });
     el.innerHTML = html;
+    showAll = false;
   }
 
-  document.querySelectorAll('#nav .nav-item').forEach(function(a){
-    a.addEventListener('click', function(){
-      document.querySelectorAll('#nav .nav-item').forEach(function(x){ x.classList.remove('active'); });
-      a.classList.add('active');
-      cur = a.getAttribute('data-cat'); curKw = '';
-      render(10);
-    });
-  });
-  document.querySelectorAll('[data-kw]').forEach(function(a){
-    a.addEventListener('click', function(){
-      curKw = a.getAttribute('data-kw');
-      if(cur === 'all'){ document.querySelectorAll('#nav .nav-item').forEach(function(x){ x.classList.remove('active'); }); }
-      // 移动端胶囊与侧栏链接的active同步
-      document.querySelectorAll('[data-kw]').forEach(function(x){ x.classList.remove('active'); });
-      a.classList.add('active');
-      render(10);
-    });
-  });
-  document.getElementById('more-btn').addEventListener('click', function(){ render(); });
+  document.getElementById('more-btn').addEventListener('click', function(){ showAll = true; render(); });
   document.getElementById('hero-cta').addEventListener('click', function(){
     document.getElementById('news-list').scrollIntoView({behavior:'smooth'});
   });
+  window.addEventListener('hashchange', function(){ showAll = false; render(); });
 
-  render(10);
+  function setUpdated(){
+    var u = window.NEWS_DATA ? window.NEWS_DATA.updated : '—';
+    document.getElementById('foot-updated').textContent = '更新:' + u;
+  }
+  setUpdated();
+  render();
+
   // 每10分钟静默刷新
   setInterval(function(){
     var s = document.createElement('script');
     s.src = 'news.js?t=' + Date.now();
     s.onload = function(){
       ALL = (window.NEWS_DATA && window.NEWS_DATA.items) || [];
-      document.getElementById('foot-updated').textContent = '更新:' + (window.NEWS_DATA ? window.NEWS_DATA.updated : '—');
-      render(10);
+      setUpdated();
+      render();
     };
     document.head.appendChild(s);
   }, 10 * 60 * 1000);
