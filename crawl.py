@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
-"""拖拉机市场情报站 - 新闻抓取脚本
-抓取农机360 + 农机通首页新闻,分类后输出 news.json
+"""拖拉机市场情报站 - 新闻抓取脚本 v3
+数据源:农机360(首页+要闻频道)、农机通、农业农村部农机化司
+每条新闻提取真实发布日期(详情页/URL),不再贴抓取日期
 """
 import re, json, os, time, sys, urllib.request, urllib.error, datetime, ssl
 
@@ -25,6 +26,25 @@ def normalize_url(u):
     """统一转 https,避免 https 页面跳 http 被手机浏览器拦截"""
     return u.replace('http://', 'https://', 1)
 
+def extract_date(item):
+    """提取新闻真实发布日期:优先详情页'发布日期:'字段,失败回退URL推断"""
+    # URL 推断(快路径)
+    url = item['url']
+    m = re.search(r'/html/(\d{4})/(\d{2})/', url)
+    if m: item['date'] = f"{m.group(1)}-{m.group(2)}"
+    m = re.search(r'/news/(\d{4})/', url)
+    if m: item['date'] = m.group(1)
+    m = re.search(r't(\d{4})(\d{2})(\d{2})_', url)
+    if m: item['date'] = f"{m.group(1)}-{m.group(2)}-{m.group(3)}"
+    # 详情页精确提取(农机360/农机通)
+    try:
+        d = fetch(url, timeout=12)
+        m = re.search(r'发布日期[：:]\s*(\d{4})-(\d{2})-(\d{2})', d)
+        if m: item['date'] = f"{m.group(1)}-{m.group(2)}-{m.group(3)}"
+    except Exception:
+        pass
+    return item
+
 def parse_nongji360():
     """农机360:首页新闻列表"""
     html = fetch('https://www.nongji360.com')
@@ -35,15 +55,33 @@ def parse_nongji360():
             continue
         if '/html/' in href or '/report/' in href:
             items.append({'title': t, 'url': normalize_url(href if href.startswith('http') else 'https://www.nongji360.com' + href), 'source': '农机360'})
-    # 去重保序
     seen, out = set(), []
     for it in items:
         if it['title'] not in seen:
             seen.add(it['title']); out.append(it)
-    return out[:20]
+    return out[:15]
+
+def parse_nongji360_channel():
+    """农机360:农机要闻频道"""
+    try:
+        html = fetch('https://news.nongji360.com/list/23')
+    except Exception:
+        return []
+    items = []
+    for href, text in re.findall(r'<a[^>]*href="([^"]+)"[^>]*>([^<]{10,70})</a>', html):
+        t = text.strip()
+        if not t or len(t) < 10:
+            continue
+        if '/html/' in href:
+            items.append({'title': t, 'url': normalize_url(href if href.startswith('http') else 'https://news.nongji360.com' + href), 'source': '农机360'})
+    seen, out = set(), []
+    for it in items:
+        if it['title'] not in seen:
+            seen.add(it['title']); out.append(it)
+    return out[:10]
 
 def parse_nongjitong():
-    """农机通:首页新闻列表(注意:/news/ 频道页已改版为JS动态加载,必须抓首页)"""
+    """农机通:首页新闻列表(/news/ 频道页已改版为JS加载,必须抓首页)"""
     try:
         html = fetch('https://www.nongjitong.com')
     except Exception:
@@ -60,7 +98,29 @@ def parse_nongjitong():
     for it in items:
         if it['title'] not in seen:
             seen.add(it['title']); out.append(it)
-    return out[:15]
+    return out[:12]
+
+def parse_njhs():
+    """农业农村部农机化管理司:首页新闻(URL自带日期 tYYYYMMDD)"""
+    try:
+        html = fetch('http://www.njhs.moa.gov.cn/')
+    except Exception:
+        return []
+    items = []
+    for href, text in re.findall(r'<a[^>]*href="([^"]+)"[^>]*>([^<]{10,70})</a>', html):
+        t = text.strip()
+        if not t or len(t) < 12:
+            continue
+        if '/gzdt/' in href or '/gdxw/' in href:
+            if href.startswith('http') and 'njhs.moa.gov.cn' not in href:
+                continue  # 排除外部链接
+            url = href if href.startswith('http') else 'http://www.njhs.moa.gov.cn' + href.lstrip('.')
+            items.append({'title': t, 'url': url, 'source': '农业农村部农机化司'})
+    seen, out = set(), []
+    for it in items:
+        if it['title'] not in seen:
+            seen.add(it['title']); out.append(it)
+    return out[:8]
 
 def classify(title):
     t = title
@@ -77,13 +137,13 @@ TAG_MAP = {'政策': 'tag-policy', '市场': 'tag-data', '技术': 'tag-tech', '
 
 def main():
     news = []
-    for fn in (parse_nongji360, parse_nongjitong):
+    for fn in (parse_nongji360, parse_nongji360_channel, parse_nongjitong, parse_njhs):
         try:
             items = fn()
             for it in items:
                 it['tag'] = classify(it['title'])
                 it['tag_class'] = TAG_MAP[it['tag']]
-                it['date'] = datetime.date.today().isoformat()
+                it['date'] = ''
             news.extend(items)
         except Exception as e:
             print('source error:', e)
@@ -93,6 +153,13 @@ def main():
         k = it['title'][:25]
         if k not in seen:
             seen.add(k); out.append(it)
+    # 逐条提取真实发布日期
+    for it in out:
+        try:
+            extract_date(it)
+            time.sleep(0.15)  # 对源网站友好
+        except Exception:
+            pass
     # 平衡分类:政策类最多12条,其他类各保留,总计最多40条
     policy_count = 0
     balanced, others = [], []
