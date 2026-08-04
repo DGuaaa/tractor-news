@@ -163,6 +163,63 @@ def parse_camda():
             seen.add(it['title']); out.append(it)
     return out[:6]
 
+def parse_lovol():
+    """潍柴雷沃:媒体中心"""
+    try:
+        html = fetch('https://www.lovol.com.cn/news/lovol-news.jsp')
+    except Exception:
+        return []
+    items = []
+    for href, text in re.findall(r'<a[^>]*href="([^"]+)"[^>]*>([^<]{8,70})</a>', html):
+        t = text.strip()
+        if not t or len(t) < 10:
+            continue
+        if 'medianews-detail' in href:
+            items.append({'title': t, 'url': 'https://www.lovol.com.cn' + href, 'source': '潍柴雷沃'})
+    seen, out = set(), []
+    for it in items:
+        if it['title'] not in seen:
+            seen.add(it['title']); out.append(it)
+    return out[:5]
+
+def parse_zoomlion():
+    """中联重科:公司动态"""
+    try:
+        html = fetch('https://www.zoomlion.com/news/trends.html')
+    except Exception:
+        return []
+    items = []
+    for href, text in re.findall(r'<a[^>]*href="([^"]+)"[^>]*>([^<]{8,70})</a>', html):
+        t = text.strip()
+        if not t or len(t) < 10:
+            continue
+        if '/content/details' in href:
+            items.append({'title': t, 'url': 'https://www.zoomlion.com' + href, 'source': '中联重科'})
+    seen, out = set(), []
+    for it in items:
+        if it['title'] not in seen:
+            seen.add(it['title']); out.append(it)
+    return out[:5]
+
+def parse_kubota():
+    """久保田中国:官网新闻"""
+    try:
+        html = fetch('http://www.kubota.com.cn/')
+    except Exception:
+        return []
+    items = []
+    for href, text in re.findall(r'<a[^>]*href="([^"]+)"[^>]*>([^<]{8,70})</a>', html):
+        t = text.strip()
+        if not t or len(t) < 10:
+            continue
+        if '/kams/newsone.do' in href:
+            items.append({'title': t, 'url': 'http://www.kubota.com.cn' + href, 'source': '久保田中国'})
+    seen, out = set(), []
+    for it in items:
+        if it['title'] not in seen:
+            seen.add(it['title']); out.append(it)
+    return out[:5]
+
 def classify(title):
     t = title
     # 违规/通报优先归政策(避免被"智能"等技术词误分)
@@ -179,7 +236,7 @@ TAG_MAP = {'政策': 'tag-policy', '市场': 'tag-data', '技术': 'tag-tech', '
 def main():
     news = []
     for fn in (parse_nongji360, parse_nongji360_channel, parse_nongjitong, parse_njhs,
-               parse_caamm, parse_camda):
+               parse_caamm, parse_camda, parse_lovol, parse_zoomlion, parse_kubota):
         try:
             items = fn()
             for it in items:
@@ -202,17 +259,20 @@ def main():
             time.sleep(0.15)  # 对源网站友好
         except Exception:
             pass
-    # 平衡分类:政策类最多12条,其他类各保留,总计最多40条
+    # 平衡分类:政策类最多12条,官网源每家最多4条,总计最多42条
     policy_count = 0
-    balanced, others = [], []
+    balanced, others, corp = [], [], []
     for it in out:
         if it['tag'] == '政策':
             if policy_count < 12:
                 policy_count += 1
                 balanced.append(it)
+        elif it['source'] in ('潍柴雷沃', '中联重科', '久保田中国'):
+            corp.append(it)  # 官网新闻作为补充,排在后面
         else:
             others.append(it)
-    out = balanced + others[:28]
+    out = balanced + others + corp[:12]
+    out = out[:42]
     out.sort(key=lambda x: 0 if x['tag'] == '政策' else 1)
     data = {'updated': datetime.datetime.now().strftime('%Y-%m-%d %H:%M'), 'items': out[:40]}
     with open(os.path.join(BASE, 'news.json'), 'w', encoding='utf-8') as f:
