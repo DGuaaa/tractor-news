@@ -2,7 +2,7 @@
 """拖拉机市场情报站 - 新闻抓取脚本
 抓取农机360 + 农机通首页新闻,分类后输出 news.json
 """
-import re, json, os, time, urllib.request, urllib.error, datetime, ssl
+import re, json, os, time, sys, urllib.request, urllib.error, datetime, ssl
 
 UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
 BASE = r'C:\Users\24788\Desktop\tractor_market_site'  # 网站数据输出目录(固定)
@@ -43,21 +43,19 @@ def parse_nongji360():
     return out[:20]
 
 def parse_nongjitong():
-    """农机通:新闻频道(排除产品型号导航)"""
+    """农机通:首页新闻列表(注意:/news/ 频道页已改版为JS动态加载,必须抓首页)"""
     try:
-        html = fetch('https://www.nongjitong.com/news/')
+        html = fetch('https://www.nongjitong.com')
     except Exception:
         return []
     items = []
-    for href, text in re.findall(r'<a[^>]*href="([^"]+)"[^>]*>([^<]{12,80})</a>', html):
+    for href, text in re.findall(r'<a[^>]*href="([^"]+)"[^>]*>([^<]{8,80})</a>', html):
         t = text.strip()
-        if not t or len(t) < 12:
+        if not t or len(t) < 10:
             continue
-        # 过滤纯产品型号(如"黄海金马YR2204"、"约翰迪尔6E-1504拖拉机")
-        if re.match(r'^[\u4e00-\u9fa5A-Za-z]{2,8}[\s-]?[A-Za-z]{0,4}\d{2,4}[\dA-Za-z\-]*$', t):
+        if '/news/' not in href:
             continue
-        if re.search(r'news|article|/a/\d|\.s?html', href):
-            items.append({'title': t, 'url': normalize_url(href if href.startswith('http') else 'https://www.nongjitong.com' + href), 'source': '农机通'})
+        items.append({'title': t, 'url': normalize_url(href if href.startswith('http') else 'https://www.nongjitong.com' + href), 'source': '农机通'})
     seen, out = set(), []
     for it in items:
         if it['title'] not in seen:
@@ -66,10 +64,11 @@ def parse_nongjitong():
 
 def classify(title):
     t = title
-    if re.search(r'电动|混动|新能源|无人|智能|北斗|自动驾驶|氢', t): return '技术'
-    if re.search(r'销量|排行榜|市场|价格|库存|出口', t): return '市场'
-    if re.search(r'补贴|政策|鉴定|公示|通告|通知|惠农|推广', t): return '政策'
-    if re.search(r'拖拉机|收割机|农机|企业|公司|集团|发布', t): return '行业'
+    if re.search(r'电动|混动|新能源|无人|智能|北斗|自动驾驶|氢|电机|电池', t): return '技术'
+    if re.search(r'销量|排行榜|价格|出口|市场|展会|博览会|成交|补贴额', t): return '市场'
+    if re.search(r'补贴|政策|鉴定|公示|通告|通知|惠农|推广|监管|投诉', t): return '政策'
+    if re.search(r'大会|发布|亮相|合作|签约|投产|交付|中标|财报|收购', t): return '行业'
+    if re.search(r'拖拉机|收割机|农机|企业|公司|集团|YTO|雷沃|沃得|中联|久保田|约翰迪尔|格兰', t): return '行业'
     return '行业'
 
 TAG_MAP = {'政策': 'tag-policy', '市场': 'tag-data', '技术': 'tag-tech', '行业': 'tag-news'}
@@ -92,7 +91,17 @@ def main():
         k = it['title'][:25]
         if k not in seen:
             seen.add(k); out.append(it)
-    # 政策类优先排前,最多40条
+    # 平衡分类:政策类最多12条,其他类各保留,总计最多40条
+    policy_count = 0
+    balanced, others = [], []
+    for it in out:
+        if it['tag'] == '政策':
+            if policy_count < 12:
+                policy_count += 1
+                balanced.append(it)
+        else:
+            others.append(it)
+    out = balanced + others[:28]
     out.sort(key=lambda x: 0 if x['tag'] == '政策' else 1)
     data = {'updated': datetime.datetime.now().strftime('%Y-%m-%d %H:%M'), 'items': out[:40]}
     with open(os.path.join(BASE, 'news.json'), 'w', encoding='utf-8') as f:
@@ -116,14 +125,18 @@ def main():
                            capture_output=True, text=True, timeout=60)
         if 'nothing to commit' in r.stdout or 'nothing to commit' in r.stderr:
             print(f"OK: {len(out[:40])} items (无变化,未推送)")
+            return 0
         else:
             r2 = subprocess.run(git + ['push', '-q', 'origin', 'main'], capture_output=True, text=True, timeout=120)
             if r2.returncode != 0:
                 print(f'PUSH FAIL: {r2.stderr[-300:]}')
+                return 1
             else:
                 print(f"OK: {len(out[:40])} items + pushed to GitHub Pages")
+                return 0
     except Exception as e:
         print(f"PUSH ERROR: {e}")
+        return 1
 
 if __name__ == '__main__':
-    main()
+    sys.exit(main())
