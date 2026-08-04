@@ -276,7 +276,7 @@ def main():
     out = balanced + others[:20] + corp[:12]
     out = out[:44]
     out.sort(key=lambda x: 0 if x['tag'] == '政策' else 1)
-    data = {'updated': datetime.datetime.now().strftime('%Y-%m-%d %H:%M'), 'items': out[:40]}
+    data = {'updated': datetime.datetime.now().strftime('%Y-%m-%d %H:%M'), 'items': out[:44]}
     with open(os.path.join(BASE, 'news.json'), 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=1)
     # JS 版:本地 file:// 打开也能加载(script 标签不受 CORS 限制)
