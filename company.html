@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>爱格迈科技 · 智能农机动力系统</title>
+<style>
+  :root{
+    --midnight:#05060f; --steel:#2f343e; --fog:#9da7ba; --moon:#c7d3ea;
+    --frost:#d1e4fa; --ice:#d8ecf8; --ice2:#98c0ef; --white:#ffffff;
+    --violet:#663af3; --gridline:#3f4959;
+    --glass-border:rgba(186,215,247,0.14);
+    --glass-fill:rgba(186,214,247,0.04);
+    --frost-fill:rgba(186,214,247,0.07);
+    --font:'Inter',ui-sans-serif,system-ui,-apple-system,'Segoe UI','Microsoft YaHei',Roboto,sans-serif;
+    --font-disp:'Space Grotesk','Inter',ui-sans-serif,system-ui,'Microsoft YaHei',sans-serif;
+    --radius-card:16px; --radius-badge:6px; --radius-btn:999px;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  html{scroll-behavior:smooth;-webkit-font-smoothing:antialiased}
+  body{font-family:var(--font);background:var(--midnight);color:var(--frost);font-size:16px;line-height:1.6;overflow-x:hidden}
+  ::selection{background:rgba(102,58,243,.4)}
+  a{color:inherit;text-decoration:none}
+
+  /* ===== 背景层:网格+极光光晕+微粒 ===== */
+  .bg-grid{position:fixed;inset:0;pointer-events:none;z-index:0;
+    background-image:linear-gradient(rgba(186,215,247,.045) 1px,transparent 1px),linear-gradient(90deg,rgba(186,215,247,.045) 1px,transparent 1px);
+    background-size:72px 72px;
+    mask-image:radial-gradient(ellipse 100% 80% at 50% 0%,#000 30%,transparent 100%);-webkit-mask-image:radial-gradient(ellipse 100% 80% at 50% 0%,#000 30%,transparent 100%)}
+  .aurora{position:fixed;inset:-20%;pointer-events:none;z-index:0;filter:blur(90px);opacity:.5}
+  .aurora .blob{position:absolute;border-radius:50%;mix-blend-mode:screen;animation:drift 26s ease-in-out infinite alternate}
+  .aurora .b1{width:52vw;height:52vw;background:radial-gradient(circle,rgba(102,58,243,.20),transparent 65%);top:0;left:8%}
+  .aurora .b2{width:44vw;height:44vw;background:radial-gradient(circle,rgba(59,130,246,.14),transparent 65%);top:6%;right:0;animation-delay:-8s}
+  .aurora .b3{width:40vw;height:40vw;background:radial-gradient(circle,rgba(147,197,253,.10),transparent 65%);top:45%;left:30%;animation-delay:-16s}
+  @keyframes drift{
+    0%{transform:translate(0,0) scale(1)}
+    50%{transform:translate(6vw,4vh) scale(1.15)}
+    100%{transform:translate(-4vw,8vh) scale(.95)}}
+  .dust{position:fixed;inset:0;pointer-events:none;z-index:0;overflow:hidden}
+  .dust i{position:absolute;width:2px;height:2px;border-radius:50%;background:rgba(186,215,247,.5);animation:rise linear infinite}
+  @keyframes rise{0%{transform:translateY(0);opacity:0}10%{opacity:.7}100%{transform:translateY(-110vh);opacity:0}}
+
+  .wrap{position:relative;z-index:1;max-width:1200px;margin:0 auto;padding:0 32px}
+
+  /* ===== 顶部导航(磨砂玻璃) ===== */
+  header{position:sticky;top:0;z-index:50;backdrop-filter:blur(18px) saturate(1.4);-webkit-backdrop-filter:blur(18px) saturate(1.4);
+    background:linear-gradient(180deg,rgba(5,6,15,.82),rgba(5,6,15,.55));border-bottom:1px solid var(--glass-border);
+    box-shadow:0 8px 32px rgba(0,0,0,.35),inset 0 1px 0 rgba(216,236,248,.06)}
+  .nav{max-width:1200px;margin:0 auto;padding:14px 32px;display:flex;align-items:center;gap:32px}
+  .brand{display:flex;align-items:center;gap:10px;font-weight:600;font-size:15px;color:var(--frost);letter-spacing:-.01em}
+  .brand .mark{width:28px;height:28px;border-radius:8px;background:linear-gradient(135deg,var(--ice),var(--ice2));display:flex;align-items:center;justify-content:center;font-size:14px;color:#05060f;font-weight:700;
+    box-shadow:0 0 16px rgba(152,192,239,.5)}
+  .nav-links{display:flex;gap:4px;margin-left:auto}
+  .nav-links a{padding:8px 14px;border-radius:var(--radius-btn);font-size:14px;color:var(--moon);font-weight:500;border:1px solid transparent;transition:all .2s}
+  .nav-links a:hover{color:var(--white);background:var(--frost-fill);border-color:var(--glass-border);box-shadow:inset 0 0 12px rgba(186,215,247,.06)}
+  .nav-cta{padding:8px 18px;border-radius:var(--radius-btn);font-size:14px;font-weight:500;color:var(--white);background:var(--frost-fill);border:1px solid var(--glass-border);transition:all .25s}
+  .nav-cta:hover{background:rgba(186,214,247,.13);box-shadow:0 0 20px rgba(186,215,247,.15)}
+
+  /* ===== Hero ===== */
+  .hero{padding:130px 0 100px;text-align:center;position:relative}
+  .eyebrow{display:inline-flex;align-items:center;gap:16px;font-size:13px;letter-spacing:.14em;color:var(--moon);text-transform:uppercase;font-weight:500;animation:fadeDown .8s ease both}
+  .eyebrow::before,.eyebrow::after{content:'';width:48px;height:1px;
+    background:linear-gradient(90deg,transparent,rgba(186,215,247,.35));box-shadow:0 0 8px rgba(186,215,247,.3)}
+  .eyebrow::after{background:linear-gradient(90deg,rgba(186,215,247,.35),transparent)}
+  .hero h1{font-family:var(--font-disp);font-weight:500;font-size:clamp(42px,6.5vw,76px);line-height:1.1;letter-spacing:-.02em;margin:36px 0 22px;
+    background:linear-gradient(180deg,#e8f3ff 0%,var(--ice) 35%,var(--ice2) 100%);-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent;
+    filter:drop-shadow(0 0 32px rgba(152,192,239,.28));animation:fadeUp .9s ease .1s both}
+  .hero p{font-size:17px;color:var(--moon);max-width:640px;margin:0 auto 44px;animation:fadeUp .9s ease .2s both}
+  .hero-ctas{display:flex;gap:16px;justify-content:center;flex-wrap:wrap;animation:fadeUp .9s ease .3s both}
+  .btn-primary{padding:13px 30px;border-radius:var(--radius-btn);background:linear-gradient(135deg,#7a4df5,var(--violet));color:#fff;font-size:15px;font-weight:600;
+    box-shadow:0 0 24px rgba(102,58,243,.45),0 4px 20px rgba(102,58,243,.3);transition:all .3s;position:relative;overflow:hidden}
+  .btn-primary::after{content:'';position:absolute;inset:0;background:linear-gradient(120deg,transparent 30%,rgba(255,255,255,.25) 50%,transparent 70%);transform:translateX(-120%);transition:transform .6s}
+  .btn-primary:hover{box-shadow:0 0 44px rgba(102,58,243,.65);transform:translateY(-2px)}
+  .btn-primary:hover::after{transform:translateX(120%)}
+  .btn-ghost{padding:13px 30px;border-radius:var(--radius-btn);background:var(--frost-fill);color:var(--white);font-size:15px;font-weight:500;border:1px solid var(--glass-border);transition:all .3s;
+    box-shadow:inset 0 1px 1px rgba(216,236,248,.15)}
+  .btn-ghost:hover{background:rgba(186,214,247,.13);box-shadow:inset 0 1px 1px rgba(216,236,248,.2),0 0 24px rgba(186,215,247,.12)}
+
+  /* ===== 浮动玻璃数据卡 ===== */
+  .float-row{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin-top:80px;perspective:1400px}
+  .float-card{background:linear-gradient(160deg,rgba(186,214,247,.07),rgba(186,214,247,.02));border-radius:var(--radius-card);padding:26px 18px;text-align:center;position:relative;
+    backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);
+    border:1px solid rgba(186,215,247,.14);
+    box-shadow:inset 0 1px 1px rgba(216,236,248,.22),inset 0 24px 48px rgba(168,216,245,.06),0 24px 40px rgba(0,0,0,.55),0 0 32px rgba(102,58,243,.07);
+    animation:floatY 7s ease-in-out infinite;transition:transform .3s,border-color .3s}
+  .float-card:nth-child(2){animation-delay:-1.8s}
+  .float-card:nth-child(3){animation-delay:-3.6s}
+  .float-card:nth-child(4){animation-delay:-5.2s}
+  .float-card:hover{transform:translateY(-6px) scale(1.02);border-color:rgba(186,215,247,.3)}
+  @keyframes floatY{0%,100%{transform:translateY(0)}50%{transform:translateY(-10px)}}
+  .float-card .num{font-family:var(--font-disp);font-size:42px;font-weight:500;background:linear-gradient(180deg,#e8f3ff,var(--ice2));-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent;
+    filter:drop-shadow(0 0 14px rgba(152,192,239,.4))}
+  .float-card .lbl{font-size:13px;color:var(--fog);margin-top:6px}
+
+  /* ===== 章节 ===== */
+  section{padding:120px 0;position:relative}
+  .sec-head{text-align:center;margin-bottom:64px}
+  .sec-head h2{font-family:var(--font-disp);font-size:clamp(30px,4vw,44px);font-weight:500;letter-spacing:-.02em;margin:22px 0 14px;color:var(--ice);
+    text-shadow:0 0 40px rgba(152,192,239,.25)}
+  .sec-head p{font-size:16px;color:var(--moon);max-width:640px;margin:0 auto}
+
+  /* 滚动渐入 */
+  .reveal{opacity:0;transform:translateY(36px);transition:opacity .8s ease,transform .8s ease}
+  .reveal.visible{opacity:1;transform:translateY(0)}
+
+  /* ===== 产品卡(玻璃+辉光) ===== */
+  .cards{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+  .glass-card{background:linear-gradient(165deg,rgba(186,214,247,.06),rgba(186,214,247,.015));border-radius:var(--radius-card);padding:32px 28px;position:relative;overflow:hidden;
+    backdrop-filter:blur(16px);-webkit-backdrop-filter:blur(16px);
+    border:1px solid rgba(186,215,247,.13);
+    box-shadow:inset 0 1px 1px rgba(216,236,248,.2),inset 0 24px 48px rgba(168,216,245,.05),0 24px 40px rgba(0,0,0,.55);
+    transition:transform .3s ease,border-color .3s,box-shadow .3s}
+  .glass-card::before{content:'';position:absolute;top:-60%;left:-30%;width:90%;height:90%;background:radial-gradient(circle,rgba(186,215,247,.12),transparent 65%);opacity:0;transition:opacity .5s;pointer-events:none}
+  .glass-card:hover{transform:translateY(-6px);border-color:rgba(186,215,247,.32);box-shadow:inset 0 1px 1px rgba(216,236,248,.25),inset 0 24px 48px rgba(168,216,245,.08),0 32px 48px rgba(0,0,0,.6),0 0 36px rgba(102,58,243,.12)}
+  .glass-card:hover::before{opacity:1}
+  .icon-tile{width:56px;height:56px;border-radius:9999px;background:var(--frost-fill);border:1px solid var(--glass-border);display:flex;align-items:center;justify-content:center;font-size:24px;margin-bottom:20px;
+    box-shadow:inset 0 1px 1px rgba(216,236,248,.18),0 0 20px rgba(186,215,247,.08);transition:box-shadow .3s}
+  .glass-card:hover .icon-tile{box-shadow:inset 0 1px 1px rgba(216,236,248,.22),0 0 28px rgba(186,215,247,.22)}
+  .glass-card h3{font-size:19px;font-weight:600;color:var(--frost);margin-bottom:10px}
+  .glass-card p{font-size:14px;color:var(--moon);line-height:1.75}
+  .tag-row{display:flex;gap:8px;margin-top:16px;flex-wrap:wrap}
+  .tag{font-size:12px;padding:4px 10px;border-radius:var(--radius-badge);background:rgba(199,211,234,.1);color:var(--frost);
+    border:1px solid rgba(186,215,247,.1);box-shadow:inset 0 1px 1px rgba(216,236,248,.1),inset 0 0 12px rgba(186,215,247,.05)}
+
+  /* ===== 价值主张 ===== */
+  .values{display:grid;grid-template-columns:repeat(2,1fr);gap:20px}
+  .value{display:flex;gap:18px;align-items:flex-start;background:linear-gradient(165deg,rgba(186,214,247,.05),rgba(186,214,247,.015));border-radius:var(--radius-card);padding:26px 24px;
+    border:1px solid rgba(186,215,247,.11);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);transition:border-color .3s,transform .3s}
+  .value:hover{border-color:rgba(186,215,247,.28);transform:translateY(-3px)}
+  .value .vnum{font-family:var(--font-disp);font-size:22px;color:var(--violet);font-weight:600;flex-shrink:0;text-shadow:0 0 18px rgba(102,58,243,.6)}
+  .value h4{font-size:15px;font-weight:600;color:var(--frost);margin-bottom:6px}
+  .value p{font-size:13.5px;color:var(--fog);line-height:1.7}
+
+  /* ===== 合作流程 ===== */
+  .steps{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
+  .step{position:relative;text-align:center;padding:24px 16px}
+  .step::after{content:'';position:absolute;top:38px;left:calc(50% + 36px);width:calc(100% - 72px);height:1px;
+    background:linear-gradient(90deg,rgba(186,215,247,.25),rgba(186,215,247,.03));box-shadow:0 0 6px rgba(186,215,247,.15)}
+  .step:last-child::after{display:none}
+  .step .snum{width:46px;height:46px;margin:0 auto 14px;border-radius:9999px;background:var(--frost-fill);border:1px solid var(--glass-border);display:flex;align-items:center;justify-content:center;font-size:15px;color:var(--ice);font-weight:600;
+    box-shadow:inset 0 1px 1px rgba(216,236,248,.16),0 0 20px rgba(186,215,247,.1);transition:all .3s}
+  .step:hover .snum{box-shadow:inset 0 1px 1px rgba(216,236,248,.2),0 0 30px rgba(102,58,243,.35);border-color:rgba(102,58,243,.4)}
+  .step h4{font-size:14px;color:var(--frost);font-weight:600;margin-bottom:6px}
+  .step p{font-size:12.5px;color:var(--fog)}
+
+  /* ===== 关于 ===== */
+  .about{display:grid;grid-template-columns:1.2fr 1fr;gap:48px;align-items:center}
+  .about h2{font-family:var(--font-disp);font-size:clamp(28px,3.5vw,40px);font-weight:500;letter-spacing:-.02em;color:var(--ice);margin-bottom:18px;text-shadow:0 0 32px rgba(152,192,239,.2)}
+  .about p{font-size:15px;color:var(--moon);line-height:1.85;margin-bottom:14px}
+  .about .stats{display:flex;gap:36px;margin-top:28px}
+  .about .stats b{font-family:var(--font-disp);font-size:28px;background:linear-gradient(180deg,#e8f3ff,var(--ice2));-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent;filter:drop-shadow(0 0 12px rgba(152,192,239,.35))}
+  .about .stats span{display:block;font-size:12px;color:var(--fog);margin-top:4px}
+  .about-visual{background:linear-gradient(160deg,rgba(186,214,247,.06),rgba(186,214,247,.015));border-radius:var(--radius-card);border:1px solid rgba(186,215,247,.13);padding:48px 40px;position:relative;
+    backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);box-shadow:inset 0 1px 1px rgba(216,236,248,.2),inset 0 24px 48px rgba(168,216,245,.06),0 24px 40px rgba(0,0,0,.5)}
+  .about-visual .tractor{font-size:84px;text-align:center;filter:drop-shadow(0 0 28px rgba(186,207,247,.35));animation:floatY 6s ease-in-out infinite}
+  .about-visual .ring{position:absolute;inset:20px;border:1px dashed rgba(186,215,247,.15);border-radius:12px;pointer-events:none}
+  .about-visual .ring2{position:absolute;inset:36px;border:1px dashed rgba(102,58,243,.12);border-radius:12px;pointer-events:none;animation:spin 40s linear infinite}
+  @keyframes spin{to{transform:rotate(360deg)}}
+
+  /* ===== 底部CTA ===== */
+  .final-cta{text-align:center;padding:110px 0 120px}
+  .final-cta h2{font-family:var(--font-disp);font-size:clamp(30px,4vw,46px);font-weight:500;color:var(--ice);margin-bottom:16px;text-shadow:0 0 44px rgba(152,192,239,.3)}
+  .final-cta p{color:var(--moon);margin-bottom:38px;font-size:16px}
+
+  footer{border-top:1px solid var(--glass-border);padding:40px 0;background:rgba(5,6,15,.85);backdrop-filter:blur(10px)}
+  .footer-inner{max-width:1200px;margin:0 auto;padding:0 32px;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:16px;font-size:13px;color:var(--fog)}
+
+  /* ===== 移动端 ===== */
+  @media(max-width:900px){
+    .nav-links{display:none}
+    .float-row{grid-template-columns:repeat(2,1fr)}
+    .cards{grid-template-columns:1fr}
+    .values{grid-template-columns:1fr}
+    .steps{grid-template-columns:repeat(2,1fr)}
+    .step::after{display:none}
+    .about{grid-template-columns:1fr}
+    section{padding:80px 0}
+    .hero{padding:90px 0 60px}
+  }
+</style>
+</head>
+<body>
+<div class="bg-grid"></div>
+<div class="aurora"><div class="blob b1"></div><div class="blob b2"></div><div class="blob b3"></div></div>
+<div class="dust" id="dust"></div>
+
+<header>
+  <div class="nav">
+    <div class="brand"><span class="mark">爱</span>爱格迈科技 · AGMA</div>
+    <nav class="nav-links">
+      <a href="#products">动力系统</a>
+      <a href="#values">价值主张</a>
+      <a href="#process">合作流程</a>
+      <a href="#about">关于我们</a>
+    </nav>
+    <a class="nav-cta" href="#contact">联系我们</a>
+  </div>
+</header>
+
+<div class="wrap">
+  <section class="hero" id="top">
+    <span class="eyebrow">Intelligent Powertrain · 智能农机动力</span>
+    <h1>让中国拖拉机<br>装上中国心脏</h1>
+    <p>爱格迈科技专注混合动力拖拉机传动系统——以 92% 国产化率、对标进口的性能与 40% 以上的成本优势,为主机厂提供从设计到量产的完整动力解决方案。</p>
+    <div class="hero-ctas">
+      <a class="btn-primary" href="#contact">成为合作伙伴 →</a>
+      <a class="btn-ghost" href="#products">了解动力系统</a>
+    </div>
+    <div class="float-row">
+      <div class="float-card"><div class="num">92%</div><div class="lbl">核心部件国产化率</div></div>
+      <div class="float-card"><div class="num">-40~50%</div><div class="lbl">对比进口采购成本</div></div>
+      <div class="float-card"><div class="num">100%</div><div class="lbl">台架验证体系覆盖</div></div>
+      <div class="float-card"><div class="num">24H</div><div class="lbl">技术响应服务</div></div>
+    </div>
+  </section>
+
+  <section id="products">
+    <div class="sec-head reveal">
+      <span class="eyebrow">Powertrain Solutions</span>
+      <h2>三大动力产品线</h2>
+      <p>面向拖拉机与农机装备的完整传动系统布局,覆盖混动、纯电与特殊地形三大方向。</p>
+    </div>
+    <div class="cards">
+      <div class="glass-card reveal">
+        <div class="icon-tile">⚡</div>
+        <h3>智能混合动力总成</h3>
+        <p>动力换挡混动变速箱,对标国际一线品牌性能,国产化率 92%,已通过动力换挡传动系台架试验验证——性能相当,成本减半。</p>
+        <div class="tag-row"><span class="tag">动力换挡</span><span class="tag">混动</span><span class="tag">台架验证</span></div>
+      </div>
+      <div class="glass-card reveal">
+        <div class="icon-tile">🔋</div>
+        <h3>纯电动传动系统</h3>
+        <p>面向新能源农机趋势的纯电驱动方案,高效电机与电控深度集成,为整机电动化转型提供即插即用的动力底座。</p>
+        <div class="tag-row"><span class="tag">纯电</span><span class="tag">电控集成</span><span class="tag">新能源</span></div>
+      </div>
+      <div class="glass-card reveal">
+        <div class="icon-tile">⛰️</div>
+        <h3>山地丘陵农机装备</h3>
+        <p>针对 ≤25° 坡地作业场景的专用动力配置,高通过性、轻量化设计,填补丘陵山区机械化率仅约 50% 的市场空白。</p>
+        <div class="tag-row"><span class="tag">≤25° 坡地</span><span class="tag">轻量化</span><span class="tag">丘陵山区</span></div>
+      </div>
+    </div>
+  </section>
+
+  <section id="values">
+    <div class="sec-head reveal">
+      <span class="eyebrow">Why AGMA</span>
+      <h2>为什么选择爱格迈</h2>
+      <p>主机厂选动力总成,慎之又慎。我们用四项硬承诺回应每一份信任。</p>
+    </div>
+    <div class="values">
+      <div class="value reveal"><div class="vnum">01</div><div><h4>降本 40-50%,不降性能</h4><p>对标进口方案的性能曲线,采购成本仅为进口的五六成,为主机厂释放毛利空间,增强整机价格竞争力。</p></div></div>
+      <div class="value reveal"><div class="vnum">02</div><div><h4>国产供应链,交付稳定</h4><p>核心部件国产化率 92%,不受进口配额、汇率与地缘影响——交期可控,断供无忧。</p></div></div>
+      <div class="value reveal"><div class="vnum">03</div><div><h4>定制适配,样机先行</h4><p>根据整机参数提供接口定制,样机免费装机试跑,用实测数据说话,再谈批量。</p></div></div>
+      <div class="value reveal"><div class="vnum">04</div><div><h4>全流程验证体系</h4><p>从零部件级到总成级的台架试验体系,每台产品可追溯、可复验,质量档案随货交付。</p></div></div>
+    </div>
+  </section>
+
+  <section id="process">
+    <div class="sec-head reveal">
+      <span class="eyebrow">Partnership</span>
+      <h2>B2B 配套合作流程</h2>
+      <p>面向主机厂的标准化合作路径,四步从需求到批量。</p>
+    </div>
+    <div class="steps">
+      <div class="step reveal"><div class="snum">1</div><h4>需求对接</h4><p>整机参数与技术需求沟通,输出适配评估</p></div>
+      <div class="step reveal"><div class="snum">2</div><h4>定制方案</h4><p>动力总成接口定制与系统匹配设计</p></div>
+      <div class="step reveal"><div class="snum">3</div><h4>样机验证</h4><p>样机装机试跑 + 台架试验,数据化验收</p></div>
+      <div class="step reveal"><div class="snum">4</div><h4>批量供货</h4><p>量产交付 + 24 小时技术响应与备件保障</p></div>
+    </div>
+  </section>
+
+  <section id="about">
+    <div class="about">
+      <div class="reveal">
+        <span class="eyebrow">About AGMA</span>
+        <h2>一群农机老兵,<br>十年磨一台好变速箱</h2>
+        <p>爱格迈科技由深耕拖拉机行业数十年的资深团队创立——从一线主机厂到核心部件,团队完整经历了中国拖拉机从引进、仿制到自主创新的全过程。</p>
+        <p>我们相信:中国拖拉机的未来,一定建立在中国自己的核心动力系统之上。混动不是过渡,而是大马力拖拉机最现实的节能与升级路径——这正是爱格迈选择深耕的方向。</p>
+        <div class="stats">
+          <div><b>10+</b><span>行业深耕(年)</span></div>
+          <div><b>3</b><span>动力产品线</span></div>
+          <div><b>2028</b><span>量产达产目标</span></div>
+        </div>
+      </div>
+      <div class="about-visual reveal">
+        <div class="ring"></div>
+        <div class="ring2"></div>
+        <div class="tractor">🚜</div>
+        <div style="text-align:center;margin-top:18px;font-size:13px;color:var(--fog)">国产混动动力总成 · 让整机更有底气</div>
+      </div>
+    </div>
+  </section>
+
+  <section class="final-cta" id="contact">
+    <span class="eyebrow">Let's Build Together</span>
+    <h2>与爱格迈一起,<br>共建国产农机动力生态</h2>
+    <p>无论您是主机厂、经销商还是行业伙伴,欢迎交流合作。</p>
+    <div class="hero-ctas">
+      <a class="btn-primary" href="mailto:contact@agma.com">联系我们 →</a>
+    </div>
+  </section>
+</div>
+
+<footer>
+  <div class="footer-inner">
+    <span>© 2026 爱格迈科技(AGMA) · 智能农机动力系统</span>
+    <span>专注混合动力拖拉机传动系统 · 为主机厂提供全套动力解决方案</span>
+  </div>
+</footer>
+
+<script>
+// 滚动渐入
+(function(){
+  var obs = new IntersectionObserver(function(entries){
+    entries.forEach(function(e){
+      if(e.isIntersecting){ e.target.classList.add('visible'); obs.unobserve(e.target); }
+    });
+  }, {threshold:.12});
+  document.querySelectorAll('.reveal').forEach(function(el){ obs.observe(el); });
+  // 生成漂浮微粒
+  var dust = document.getElementById('dust');
+  for(var i=0;i<26;i++){
+    var p = document.createElement('i');
+    p.style.left = Math.random()*100 + 'vw';
+    p.style.bottom = (-Math.random()*20) + 'vh';
+    p.style.animationDuration = (8+Math.random()*14) + 's';
+    p.style.animationDelay = (-Math.random()*20) + 's';
+    p.style.opacity = .2 + Math.random()*.5;
+    dust.appendChild(p);
+  }
+})();
+</script>
+</body>
+</html>
