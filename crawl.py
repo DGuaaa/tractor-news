@@ -261,7 +261,7 @@ def main():
             time.sleep(0.15)  # 对源网站友好
         except Exception:
             pass
-    # 平衡分类:政策类最多12条,官网源每家最多4条,总计最多42条
+    # 平衡分类:政策类最多12条,主源非政策最多20条,官网源最多12条,总计最多44条
     policy_count = 0
     balanced, others, corp = [], [], []
     for it in out:
@@ -273,8 +273,8 @@ def main():
             corp.append(it)  # 官网新闻作为补充,排在后面
         else:
             others.append(it)
-    out = balanced + others + corp[:12]
-    out = out[:42]
+    out = balanced + others[:20] + corp[:12]
+    out = out[:44]
     out.sort(key=lambda x: 0 if x['tag'] == '政策' else 1)
     data = {'updated': datetime.datetime.now().strftime('%Y-%m-%d %H:%M'), 'items': out[:40]}
     with open(os.path.join(BASE, 'news.json'), 'w', encoding='utf-8') as f:
