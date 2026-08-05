@@ -100,6 +100,14 @@
   .o-opps{margin-top:14px;padding-top:12px;border-top:1px solid var(--fog)}
   .o-opps h4{font-size:14px;font-weight:600;margin-bottom:8px}
   .o-opps li{font-size:13px;color:var(--carbon);line-height:1.6;margin-bottom:5px}
+  .sref{color:var(--blue);cursor:pointer;font-size:10px;margin-left:2px;user-select:none}
+  .sref:hover{text-decoration:underline}
+  .sources-box{background:var(--canvas);border:1px solid var(--fog);border-radius:var(--r-hero);padding:24px 28px;margin-top:24px}
+  .sources-box h4{font-size:15px;font-weight:600;margin-bottom:12px;color:var(--ink)}
+  .sources-list{list-style:decimal;padding-left:22px;font-size:13px;line-height:1.8}
+  .sources-list a{color:var(--blue);text-decoration:none}
+  .sources-list a:hover{text-decoration:underline}
+  .src-meta{color:var(--slate);font-size:11px;margin-left:6px}
   .footer{margin-top:32px;padding-top:16px;border-top:1px solid var(--fog);font-size:12px;color:var(--slate);display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px}
 
   /* ===== 移动端适配(≤900px):侧栏变顶部横条 ===== */
@@ -203,6 +211,8 @@
       <div id="o-opps"></div>
     </section>
 
+    <div id="s-sources"></div>
+
     <div class="footer">
       <span>拖拉机市场情报站 · 农机市场观察 · 数据来源公开网络,仅供参考</span>
       <span id="foot-updated">更新:—</span>
@@ -215,16 +225,23 @@
 <script>
 (function(){
   // ===== AI 总结渲染 =====
+  function esc(s){ return String(s||'').replace(/[&<>"]/g, function(c){ return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]; }); }
+  function fmtPoint(p){
+    // p 可能为字符串(旧版)或 {text, refs}(新版)
+    if(typeof p === 'string') return esc(p);
+    var refs = (p.refs || []).map(function(r){ return '<sup class="sref" data-ref="'+r+'">['+r+']</sup>'; }).join('');
+    return esc(p.text || '') + refs;
+  }
   try{
     var S = window.SUMMARY_DATA;
     if(S && S.daily){
       document.getElementById('s-title').textContent = S.daily.title;
       document.getElementById('s-judgment').textContent = S.daily.judgment;
       var pts = '';
-      (S.daily.points || []).forEach(function(p){ pts += '<li>' + p + '</li>'; });
+      (S.daily.points || []).forEach(function(p){ pts += '<li>' + fmtPoint(p) + '</li>'; });
       if(pts) document.getElementById('s-points').innerHTML = pts;
       var ins = '';
-      (S.daily.insights || []).forEach(function(p){ ins += '<li>' + p + '</li>'; });
+      (S.daily.insights || []).forEach(function(p){ ins += '<li>' + fmtPoint(p) + '</li>'; });
       if(ins) document.getElementById('s-insights').innerHTML = '<div class="si-title">产业视角</div><ul>' + ins + '</ul>';
       if(S.overview){
         document.getElementById('o-title').textContent = S.overview.title;
@@ -236,6 +253,25 @@
         var opps = '';
         (S.overview.opportunities || []).forEach(function(o){ opps += '<li>' + o + '</li>'; });
         if(opps) document.getElementById('o-opps').innerHTML = '<div class="o-opps"><h4>结构性机会</h4><ul>' + opps + '</ul></div>';
+      }
+      // 来源区块:refs 编号 → 点击定位
+      if(S.sources){
+        var box = document.getElementById('s-sources');
+        if(box){
+          var html = '<div class="sources-box"><h4>📎 新闻来源</h4><ol class="sources-list">';
+          S.sources.forEach(function(s){
+            html += '<li id="src-'+s.id+'"><a href="'+esc(s.url)+'" target="_blank" rel="noopener">'+esc(s.title)+'</a>'
+                 +  '<span class="src-meta">['+esc(s.source)+' · '+esc(s.date||'')+']</span></li>';
+          });
+          html += '</ol></div>';
+          box.innerHTML = html;
+          document.querySelectorAll('.sref').forEach(function(el){
+            el.addEventListener('click', function(){
+              var t = document.getElementById('src-' + el.getAttribute('data-ref'));
+              if(t){ t.scrollIntoView({behavior:'smooth', block:'center'}); t.style.background='rgba(102,58,243,.18)'; setTimeout(function(){ t.style.background=''; }, 1500); }
+            });
+          });
+        }
       }
     }
   }catch(e){ /* summary渲染失败则保留默认内容 */ }

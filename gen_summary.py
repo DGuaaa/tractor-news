@@ -65,7 +65,44 @@ SYSTEM_PROMPT = (
     '任何具体公司的内部信息、内部项目名称、内部人员。'
     '涉及机会分析时使用"本土核心部件供应商"等泛化表述。'
     '所有结论必须基于用户提供的新闻内容,不得编造。'
+    '【引用要求】:每条要点必须标注其依据的新闻编号(如 [3] 表示第3条新闻),'
+    '编号只能来自新闻列表,不得编造;sources 数组由新闻列表自动生成,你只需在 refs 中引用编号。'
 )
+
+KB_DIR = r'C:\Users\24788\Documents\爱格迈知识库\06-行业知识'
+
+def load_kb_context(max_chars=4500):
+    """读取知识库行业手册,提取行业背景知识(供专家判断参考)"""
+    parts = []
+    try:
+        if not os.path.isdir(KB_DIR):
+            return ''
+        for f in sorted(os.listdir(KB_DIR)):
+            if not f.endswith('.md') or '手册' not in f:
+                continue
+            try:
+                txt = open(os.path.join(KB_DIR, f), encoding='utf-8').read()
+            except Exception:
+                continue
+            # 只提取要点行(- 开头)和标题
+            lines = []
+            for line in txt.split('\n'):
+                line = line.strip()
+                if line.startswith('- ') and not line.startswith('- [['):
+                    lines.append(line[2:])
+                elif line.startswith('# ') and not lines:
+                    lines.append(line[2:])
+                elif line.startswith('## '):
+                    lines.append('【' + line[3:] + '】')
+            # 07/08 大文件只取前 12 条(含启示章节优先)
+            limit = 12 if ('07' in f or '08' in f) else 8
+            body = '\n'.join(lines[:limit])
+            if body:
+                parts.append(f'[{f.replace(".md","")}]\n{body}')
+    except Exception:
+        pass
+    ctx = '\n\n'.join(parts)
+    return ctx[:max_chars]
 
 def fetch_full(url, max_chars=1200):
     """抓取新闻正文全文:优先<p>段落拼接,失败回退全文;截断防上下文超限"""
@@ -93,16 +130,18 @@ def build_prompt(news):
         else:
             lines.append(f"{i}. [{it['date']}][{it['source']}] {it['title']}\n   (正文获取失败,仅有标题)")
         time.sleep(0.1)  # 对源网站友好
+    kb = load_kb_context()
+    kb_part = f'\n\n【行业背景知识库(供判断参考,非今日新闻)】\n{kb}\n' if kb else ''
     return (
-        f'以下是今日抓取的农机行业新闻({len(news)}条,含正文全文):\n\n'
-        + '\n\n'.join(lines) + '\n\n'
+        f'以下是今日抓取的农机行业新闻({len(news)}条,含正文全文,每条有编号):\n\n'
+        + '\n\n'.join(lines) + kb_part + '\n\n'
         + '请基于以上新闻生成两份文案,严格按以下 JSON 结构输出(不要输出任何其他文字):\n'
         + '{\n'
         + '  "daily": {\n'
         + '    "title": "农机产业观察 · 日期",\n'
         + '    "judgment": "核心判断一句话",\n'
-        + '    "points": ["要点1(专业表述,含关键数据)", "要点2", ...共6条左右],\n'
-        + '    "insights": ["产业视角1(供本土核心部件供应商参考)", "产业视角2", "产业视角3"]\n'
+        + '    "points": [{"text": "要点1(专业表述,含关键数据)", "refs": [3]}, {"text": "要点2", "refs": [1,5]}, ...共6条左右],\n'
+        + '    "insights": [{"text": "产业视角1(供本土核心部件供应商参考)", "refs": [2]}, {"text": "产业视角2", "refs": []}, {"text": "产业视角3", "refs": [4]}]\n'
         + '  },\n'
         + '  "overview": {\n'
         + '    "title": "拖拉机产业季度观察",\n'
@@ -110,7 +149,10 @@ def build_prompt(news):
         + '    "opportunities": ["结构性机会1", "机会2", "机会3", "机会4"]\n'
         + '  }\n'
         + '}\n'
-        + '要求:daily 的要点要有数据支撑和产业解读;overview 的分析要有产业链视角,体现专家级深度。'
+        + '要求:'
+        + '1. daily 的要点要有数据支撑和产业解读,可结合【行业背景知识库】做专家级判断(引用背景知识时 refs 留空即可);'
+        + '2. refs 只能引用新闻编号(1~' + str(len(news)) + '),且必须真实存在;'
+        + '3. overview 的分析要有产业链视角,体现专家级深度。'
     )
 
 def parse_json_content(content):
@@ -151,6 +193,12 @@ def main():
     if not data:
         print('summary FAIL: 无法解析模型输出')
         return 1
+    # 附加 sources 映射:编号→新闻(编号由程序保证与 refs 对应,URL 不可能编造)
+    data['sources'] = [
+        {'id': i, 'title': it['title'], 'url': it['url'],
+         'source': it['source'], 'date': it.get('date', '')}
+        for i, it in enumerate(news, 1)
+    ]
     data['date'] = datetime.date.today().isoformat()
     with open(os.path.join(BASE, 'summary.js'), 'w', encoding='utf-8') as f:
         f.write('window.SUMMARY_DATA = ' + json.dumps(data, ensure_ascii=False) + ';\n')
