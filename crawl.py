@@ -307,7 +307,7 @@ def main():
         import subprocess
         PY = r'C:\Users\24788\AppData\Local\Python\bin\python.exe'
         r = subprocess.run([PY, os.path.join(BASE, 'gen_summary.py')],
-                           capture_output=True, text=True, timeout=400)
+                           capture_output=True, text=True, timeout=900)
         if r.returncode != 0:
             print('SUMMARY FAIL:', (r.stdout + r.stderr)[-200:])
         else:
