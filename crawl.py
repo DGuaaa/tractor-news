@@ -242,8 +242,49 @@ def parse_yto():
             seen.add(it['title']); out.append(it)
     return out[:5]
 
+def parse_intl_rss(url, source, max_items=4):
+    """通用 RSS 解析(国际源):返回 items"""
+    try:
+        h = fetch(url, timeout=20)
+    except Exception:
+        return []
+    items = []
+    for it in re.findall(r'<item>(.*?)</item>', h, re.S):
+        t = re.search(r'<title>(.*?)</title>', it, re.S)
+        l = re.search(r'<link>(.*?)</link>', it, re.S)
+        d = re.search(r'<pubDate>(.*?)</pubDate>', it, re.S)
+        if not (t and l):
+            continue
+        title = t.group(1).strip()
+        if len(title) < 8:
+            continue
+        date = ''
+        if d:
+            m = re.search(r'(\d{1,2})\s+(\w+)\s+(\d{4})', d.group(1))
+            if m:
+                mon = {'Jan': '01', 'Feb': '02', 'Mar': '03', 'Apr': '04', 'May': '05', 'Jun': '06',
+                       'Jul': '07', 'Aug': '08', 'Sep': '09', 'Oct': '10', 'Nov': '11', 'Dec': '12'}
+                date = f"{m.group(3)}-{mon.get(m.group(2), '01')}-{int(m.group(1)):02d}"
+        items.append({'title': title, 'url': l.group(1).strip(),
+                      'source': source, 'date': date})
+    return items[:max_items]
+
+def parse_futurefarming():
+    return parse_intl_rss('https://www.futurefarming.com/feed/', 'FutureFarming')
+
+def parse_agribusiness():
+    return parse_intl_rss('https://www.agribusinessglobal.com/feed/', 'AgriBusinessGlobal')
+
 def classify(title):
     t = title
+    tl = t.lower()
+    # 英文关键词分类(国际源)
+    if re.search(r'hybrid|electric|battery|electrification|powertrain|transmission|cvt|engine|autonomous|robot|precision|digital|sensor', tl):
+        return '技术'
+    if re.search(r'policy|subsidy|regulation|emission|compliance|standard', tl):
+        return '政策'
+    if re.search(r'market|sales|dealer|acquisition|merger|investment|export|price|revenue|farm', tl):
+        return '市场'
     # 违规/通报优先归政策(避免被"智能"等技术词误分)
     if re.search(r'违规|通报|处罚|注销', t): return '政策'
     if re.search(r'电动|混动|新能源|无人|智能|北斗|自动驾驶|氢|电机|电池', t): return '技术'
@@ -258,7 +299,8 @@ TAG_MAP = {'政策': 'tag-policy', '市场': 'tag-data', '技术': 'tag-tech', '
 def main():
     news = []
     for fn in (parse_nongji360, parse_nongji360_channel, parse_nongjitong, parse_njhs,
-               parse_caamm, parse_camda, parse_lovol, parse_zoomlion, parse_kubota, parse_yto):
+               parse_caamm, parse_camda, parse_lovol, parse_zoomlion, parse_kubota, parse_yto,
+               parse_futurefarming, parse_agribusiness):
         try:
             items = fn()
             for it in items:
@@ -293,10 +335,13 @@ def main():
             corp.append(it)  # 官网新闻作为补充,排在后面
         else:
             others.append(it)
-    out = balanced + others[:16] + corp[:20]
-    out = out[:48]
+    # 国际源(英文)优先保留,总量扩到 56
+    intl = [it for it in others if it['source'] in ('FutureFarming', 'AgriBusinessGlobal')]
+    others = [it for it in others if it['source'] not in ('FutureFarming', 'AgriBusinessGlobal')]
+    out = balanced + intl[:8] + others[:16] + corp[:20]
+    out = out[:56]
     out.sort(key=lambda x: 0 if x['tag'] == '政策' else 1)
-    data = {'updated': datetime.datetime.now().strftime('%Y-%m-%d %H:%M'), 'items': out[:48]}
+    data = {'updated': datetime.datetime.now().strftime('%Y-%m-%d %H:%M'), 'items': out[:56]}
     with open(os.path.join(BASE, 'news.json'), 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=1)
     # JS 版:本地 file:// 打开也能加载(script 标签不受 CORS 限制)
