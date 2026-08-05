@@ -200,6 +200,10 @@ def main():
         for i, it in enumerate(news, 1)
     ]
     data['date'] = datetime.date.today().isoformat()
+    # 标题日期强制为今天(即使新闻源当天未更新,总结也标注最新日期)
+    if 'daily' in data and data['daily'].get('title'):
+        today_cn = datetime.date.today().strftime('%Y年%m月%d日')
+        data['daily']['title'] = re.sub(r'20\d{2}年\d{2}月\d{2}日', today_cn, data['daily']['title'])
     with open(os.path.join(BASE, 'summary.js'), 'w', encoding='utf-8') as f:
         f.write('window.SUMMARY_DATA = ' + json.dumps(data, ensure_ascii=False) + ';\n')
     print('summary.js generated:', data['daily']['title'])

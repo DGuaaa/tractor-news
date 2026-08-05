@@ -275,6 +275,47 @@ def parse_futurefarming():
 def parse_agribusiness():
     return parse_intl_rss('https://www.agribusinessglobal.com/feed/', 'AgriBusinessGlobal')
 
+def parse_worldnyjx():
+    """沃得官网新闻(首页 catid=126 栏目链接)"""
+    items = []
+    try:
+        h = fetch('http://www.worldnyjx.com/', timeout=15)
+        for u, t in re.findall(r'<a[^>]*href="([^"]*catid=126[^"]*)"[^>]*>([^<]{8,60})</a>', h):
+            url = u if u.startswith('http') else 'http://www.worldnyjx.com' + u.lstrip('.')
+            items.append({'title': t.strip(), 'url': url, 'source': '沃得', 'date': ''})
+    except Exception:
+        pass
+    return items[:6]
+
+def parse_google_news(query, source, max_items=5):
+    """谷歌新闻搜索(公司名→报道聚合)"""
+    import urllib.parse
+    url = 'https://news.google.com/search?q=' + urllib.parse.quote(query) + '&hl=zh-CN&gl=CN&ceid=CN:zh-Hans'
+    items = []
+    try:
+        h = fetch(url, timeout=15)
+        # 标题+链接块
+        blocks = re.findall(r'<a[^>]*href="(\./read/[^"]+)"[^>]*>([^<]{8,80})</a>', h)
+        dates = re.findall(r'datetime="([^"]+)"', h)
+        for i, (u, t) in enumerate(blocks):
+            title = t.strip()
+            if not title or title in ('Business', 'Technology', 'World', 'More'):
+                continue
+            url_full = 'https://news.google.com' + u[1:] if u.startswith('.') else u
+            date = dates[i][:10] if i < len(dates) else ''
+            items.append({'title': title, 'url': url_full, 'source': source, 'date': date})
+            if len(items) >= max_items:
+                break
+    except Exception:
+        pass
+    return items
+
+def parse_jd_news():
+    return parse_google_news('约翰迪尔 农机', '约翰迪尔')
+
+def parse_zf_news():
+    return parse_google_news('采埃孚 农机', '采埃孚')
+
 def classify(title):
     t = title
     tl = t.lower()
@@ -300,7 +341,7 @@ def main():
     news = []
     for fn in (parse_nongji360, parse_nongji360_channel, parse_nongjitong, parse_njhs,
                parse_caamm, parse_camda, parse_lovol, parse_zoomlion, parse_kubota, parse_yto,
-               parse_futurefarming, parse_agribusiness):
+               parse_futurefarming, parse_agribusiness, parse_worldnyjx, parse_jd_news, parse_zf_news):
         try:
             items = fn()
             for it in items:
@@ -331,7 +372,7 @@ def main():
             if policy_count < 12:
                 policy_count += 1
                 balanced.append(it)
-        elif it['source'] in ('潍柴雷沃', '中联重科', '久保田中国', '一拖东方红'):
+        elif it['source'] in ('潍柴雷沃', '中联重科', '久保田中国', '一拖东方红', '沃得', '约翰迪尔', '采埃孚'):
             corp.append(it)  # 官网新闻作为补充,排在后面
         else:
             others.append(it)
