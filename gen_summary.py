@@ -201,9 +201,12 @@ def main():
     ]
     data['date'] = datetime.date.today().isoformat()
     # 标题日期强制为今天(即使新闻源当天未更新,总结也标注最新日期)
+    # 兼容两种格式:2026-08-04(ISO)和 2026年08月04日(中文)
     if 'daily' in data and data['daily'].get('title'):
+        today_iso = datetime.date.today().strftime('%Y-%m-%d')
         today_cn = datetime.date.today().strftime('%Y年%m月%d日')
-        data['daily']['title'] = re.sub(r'20\d{2}年\d{2}月\d{2}日', today_cn, data['daily']['title'])
+        data['daily']['title'] = re.sub(r'20\d{2}-\d{1,2}-\d{1,2}', today_iso, data['daily']['title'])
+        data['daily']['title'] = re.sub(r'20\d{2}年\d{1,2}月\d{1,2}日', today_cn, data['daily']['title'])
     with open(os.path.join(BASE, 'summary.js'), 'w', encoding='utf-8') as f:
         f.write('window.SUMMARY_DATA = ' + json.dumps(data, ensure_ascii=False) + ';\n')
     print('summary.js generated:', data['daily']['title'])
