@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-06 14:47",
+ "updated": "2026-08-06 15:34",
  "items": [
   {
    "title": "山西省2026年农机补贴产品第二批公示",
@@ -98,7 +98,15 @@
    "date": "2026-08-03"
   },
   {
-   "title": "How AgXeed and TIM make tractors and machines autonomous",
+   "title": "定点喷雾机取代除草团队",
+   "url": "https://www.futurefarming.com/smart-farming/spot-sprayer-replaces-team-of-weeders/",
+   "source": "FutureFarming",
+   "date": "2026-08-06",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "AgXeed和TIM如何让拖拉机和机器实现自主作业",
    "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semiauto-steering/autonomous-vehicles/how-agxeed-and-tim-make-tractors-and-machines-autonomous/",
    "source": "FutureFarming",
    "date": "2026-08-06",
@@ -106,7 +114,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "Homburg says goodbye to Escarda",
+   "title": "Homburg与Escarda告别",
    "url": "https://www.futurefarming.com/news/homburg-says-goodbye-to-escarda/",
    "source": "FutureFarming",
    "date": "2026-08-03",
@@ -114,7 +122,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Smaller tractor, bigger return: a Kentucky farm’s case for going autonomous",
+   "title": "更小的拖拉机，更大的回报：肯塔基州农场的自主化案例",
    "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semiauto-steering/autonomous-vehicles/smaller-tractor-bigger-return-a-kentucky-farm-s-case-for-going-autonomous/",
    "source": "FutureFarming",
    "date": "2026-08-03",
@@ -122,15 +130,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "Belgian Hands On Tech brings Chinese laser weeder to the Benelux",
-   "url": "https://www.futurefarming.com/smart-farming/belgian-hands-on-tech-brings-chinese-laser-weeder-to-the-benelux/",
-   "source": "FutureFarming",
-   "date": "2026-08-03",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "Mobile Refrigeration Technology Enables Biologicals Distribution in Off-Grid Growing Regions",
+   "title": "移动制冷技术实现离网种植区生物制品的分销",
    "url": "https://www.agribusinessglobal.com/biologicals/mobile-refrigeration-technology-enables-biologicals-distribution-in-off-grid-growing-regions/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-05",
@@ -138,7 +138,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Breaking Into Morocco&#8217;s Crop Protection Market: What Global Companies Need to Know",
+   "title": "打入摩洛哥作物保护市场：全球企业须知",
    "url": "https://www.agribusinessglobal.com/agrochemicals/breaking-into-moroccos-crop-protection-market-what-global-companies-need-to-know/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-05",
@@ -146,7 +146,7 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "Why Digital Innovation Alone Won’t Transform Agriculture",
+   "title": "为什么仅靠数字创新不能变革农业",
    "url": "https://www.agribusinessglobal.com/agtech/why-digital-innovation-alone-wont-transform-agriculture/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-05",
@@ -154,7 +154,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "UPL Names Jai Shroff to Lead Crop Protection After CEO Mike Frank Departs",
+   "title": "UPL在CEO Mike Frank离职后任命Jai Shroff掌管作物保护业务",
    "url": "https://www.agribusinessglobal.com/markets/asia/upl-names-jai-shroff-to-lead-crop-protection-after-ceo-mike-frank-departs/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-05",
