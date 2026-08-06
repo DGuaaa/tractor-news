@@ -1,13 +1,21 @@
 {
- "updated": "2026-08-06 15:34",
+ "updated": "2026-08-06 18:02",
  "items": [
   {
-   "title": "山西省2026年农机补贴产品第二批公示",
-   "url": "https://news.nongji360.com/html/2026/08/273999.shtml",
+   "title": "河北关于做好补贴农机具核验工作规范的通知",
+   "url": "https://news.nongji360.com/html/2026/08/274004.shtml",
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
-   "date": "2026-08-05"
+   "date": "2026-08-06"
+  },
+  {
+   "title": "安徽2026年第三批农机补贴产品通告",
+   "url": "https://news.nongji360.com/html/2026/08/274003.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-08-06"
   },
   {
    "title": "宁波2026年第二批市级农机补贴产品通告",
@@ -16,6 +24,14 @@
    "tag": "政策",
    "tag_class": "tag-policy",
    "date": "2026-08-05"
+  },
+  {
+   "title": "安徽省农业农村厅关于2026年度第三批农机购置与应用补贴产品信息的公告",
+   "url": "https://news.nongji360.com/html/2026/08/274003.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-08-06"
   },
   {
    "title": "【归档】《宁波市2026年第二批市级农机购置与应用补贴（新型农机推广应用）产品信息表》的通告",
@@ -74,14 +90,6 @@
    "date": "2026-08-04"
   },
   {
-   "title": "【鉴定】福建省公开征求1项农业机械专项鉴定大纲（征求意见稿）意见的通知",
-   "url": "https://news.nongji360.com/html/2026/08/273986.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-08-04"
-  },
-  {
    "title": "【汇总】各省2024-2026年农机补贴政策通知相关汇总",
    "url": "https://news.nongji360.com/html/2025/09/271215.shtml",
    "source": "农机360",
@@ -90,15 +98,7 @@
    "date": "2025-09-02"
   },
   {
-   "title": "【违规】海南省农业农村厅关于公布2026年第二批农机购置与 应用补贴投档违规行为处理情况的通告",
-   "url": "https://news.nongji360.com/html/2026/08/273959.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-08-03"
-  },
-  {
-   "title": "定点喷雾机取代除草团队",
+   "title": "点喷机取代除草队",
    "url": "https://www.futurefarming.com/smart-farming/spot-sprayer-replaces-team-of-weeders/",
    "source": "FutureFarming",
    "date": "2026-08-06",
@@ -106,7 +106,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "AgXeed和TIM如何让拖拉机和机器实现自主作业",
+   "title": "AgXeed与TIM如何让拖拉机和农机实现自主作业",
    "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semiauto-steering/autonomous-vehicles/how-agxeed-and-tim-make-tractors-and-machines-autonomous/",
    "source": "FutureFarming",
    "date": "2026-08-06",
@@ -114,7 +114,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "Homburg与Escarda告别",
+   "title": "Homburg告别Escarda",
    "url": "https://www.futurefarming.com/news/homburg-says-goodbye-to-escarda/",
    "source": "FutureFarming",
    "date": "2026-08-03",
@@ -122,7 +122,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "更小的拖拉机，更大的回报：肯塔基州农场的自主化案例",
+   "title": "更小的拖拉机，更大的回报：肯塔基州农场自主化案例",
    "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semiauto-steering/autonomous-vehicles/smaller-tractor-bigger-return-a-kentucky-farm-s-case-for-going-autonomous/",
    "source": "FutureFarming",
    "date": "2026-08-03",
@@ -130,7 +130,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "移动制冷技术实现离网种植区生物制品的分销",
+   "title": "移动制冷技术助力离网种植区生物制剂分销",
    "url": "https://www.agribusinessglobal.com/biologicals/mobile-refrigeration-technology-enables-biologicals-distribution-in-off-grid-growing-regions/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-05",
@@ -146,7 +146,7 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "为什么仅靠数字创新不能变革农业",
+   "title": "为何仅靠数字创新无法改变农业",
    "url": "https://www.agribusinessglobal.com/agtech/why-digital-innovation-alone-wont-transform-agriculture/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-05",
@@ -154,7 +154,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "UPL在CEO Mike Frank离职后任命Jai Shroff掌管作物保护业务",
+   "title": "UPL任命Jai Shroff领导作物保护业务，CEO Mike Frank离职",
    "url": "https://www.agribusinessglobal.com/markets/asia/upl-names-jai-shroff-to-lead-crop-protection-after-ceo-mike-frank-departs/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-05",
@@ -170,36 +170,12 @@
    "date": "2026-08-05"
   },
   {
-   "title": "云南烘干能力短板行动实施方案",
-   "url": "https://news.nongji360.com/html/2026/08/273998.shtml",
-   "source": "农机360",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-08-05"
-  },
-  {
    "title": "【归档】河南省关于近期开展投档审核的工作提示",
    "url": "https://news.nongji360.com/html/2026/08/273996.shtml",
    "source": "农机360",
    "tag": "行业",
    "tag_class": "tag-news",
    "date": "2026-08-05"
-  },
-  {
-   "title": "农业农村部：打造农产品区域公用品牌让种粮农民种粮有钱挣得实惠",
-   "url": "https://news.nongji360.com/html/2026/08/273990.shtml",
-   "source": "农机360",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-08-04"
-  },
-  {
-   "title": "对十四届全国人大四次会议第5794号建议的答复摘要徐淙祥代表：您提出的关于打造农产品区域公用品牌让种粮农民种粮有钱挣得实惠的建议收",
-   "url": "https://news.nongji360.com/html/2026/08/273990.shtml",
-   "source": "农机360",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-08-04"
   },
   {
    "title": "国产农机质量到底怎么样？这是最客观的评价！",
@@ -290,6 +266,30 @@
    "date": "2026-07-23"
   },
   {
+   "title": "格兰集团2026年全球牧草演示会在瑞典成功举办",
+   "url": "https://www.nongjitong.com/news/2026/533712.html",
+   "source": "农机通",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-07-21"
+  },
+  {
+   "title": "农业农村部召开干部大会强调 深入学习贯彻习近平总书记重要讲话和全国两会精神 扎实做好乡村全面振兴各项工作",
+   "url": "http://www.njhs.moa.gov.cn/gzdt/202603/t20260317_6482294.htm",
+   "source": "农业农村部农机化司",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-03-17"
+  },
+  {
+   "title": "中国共产党第二十届中央委员会第三次全体会议公报",
+   "url": "http://www.njhs.moa.gov.cn/gdxw/202407/t20240719_6459339.htm",
+   "source": "农业农村部农机化司",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2024-7-18"
+  },
+  {
    "title": "圈粉东南亚！潍柴雷沃亮相2026年越南国际农业机械展览会",
    "url": "https://www.lovol.com.cn/news/medianews-detail-6192.htm",
    "source": "潍柴雷沃",
@@ -338,6 +338,22 @@
    "date": ""
   },
   {
+   "title": "沈晓明走访调研中联重科股份有限公司",
+   "url": "https://www.zoomlion.com/content/details18_34005.html",
+   "source": "中联重科",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": ""
+  },
+  {
+   "title": "交付现场追加订单！中联重科土方机械实力圈粉沙特",
+   "url": "https://www.zoomlion.com/content/details18_34004.html",
+   "source": "中联重科",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": ""
+  },
+  {
    "title": "攻克世界级吊装难题！中联重科万吨米级特大型塔机项目获湖南省科技进步奖一等奖",
    "url": "https://www.zoomlion.com/content/details18_33974.html",
    "source": "中联重科",
@@ -348,22 +364,6 @@
   {
    "title": "中国上市公司协会会长宋志平在中联重科考察",
    "url": "https://www.zoomlion.com/content/details18_33964.html",
-   "source": "中联重科",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": ""
-  },
-  {
-   "title": "中联重科全球销服能力持续进阶，欧非双线布局成果显著",
-   "url": "https://www.zoomlion.com/content/details18_33954.html",
-   "source": "中联重科",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": ""
-  },
-  {
-   "title": "昼夜鏖战铁甲护横州 中联重科驰援广西",
-   "url": "https://www.zoomlion.com/content/details18_33902.html",
    "source": "中联重科",
    "tag": "行业",
    "tag_class": "tag-news",
