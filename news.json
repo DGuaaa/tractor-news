@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-07 11:26",
+ "updated": "2026-08-07 12:02",
  "items": [
   {
    "title": "河北关于做好补贴农机具核验工作规范的通知",
@@ -98,7 +98,7 @@
    "date": "2025-09-02"
   },
   {
-   "title": "点喷喷雾器取代除草团队",
+   "title": "点喷喷雾机取代人工除草团队",
    "url": "https://www.futurefarming.com/smart-farming/spot-sprayer-replaces-team-of-weeders/",
    "source": "FutureFarming",
    "date": "2026-08-06",
@@ -106,7 +106,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "AgXeed与TIM如何让拖拉机和农机实现自主作业",
+   "title": "AgXeed和TIM如何让拖拉机和农机实现自主化",
    "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semiauto-steering/autonomous-vehicles/how-agxeed-and-tim-make-tractors-and-machines-autonomous/",
    "source": "FutureFarming",
    "date": "2026-08-06",
@@ -122,7 +122,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "小型拖拉机，更高回报：肯塔基农场自主化案例",
+   "title": "更小拖拉机，更大回报：肯塔基州农场的自主化案例",
    "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semiauto-steering/autonomous-vehicles/smaller-tractor-bigger-return-a-kentucky-farm-s-case-for-going-autonomous/",
    "source": "FutureFarming",
    "date": "2026-08-03",
@@ -130,7 +130,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "移动制冷技术助力无电网种植区生物制剂配送",
+   "title": "移动制冷技术使无电网种植区的生物制剂分销成为可能",
    "url": "https://www.agribusinessglobal.com/biologicals/mobile-refrigeration-technology-enables-biologicals-distribution-in-off-grid-growing-regions/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-05",
@@ -138,7 +138,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "打入摩洛哥作物保护市场：全球企业须知",
+   "title": "打入摩洛哥作物保护市场：全球公司需知",
    "url": "https://www.agribusinessglobal.com/agrochemicals/breaking-into-moroccos-crop-protection-market-what-global-companies-need-to-know/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-05",
@@ -146,7 +146,7 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "仅靠数字创新为何无法改变农业",
+   "title": "为何仅靠数字创新无法变革农业",
    "url": "https://www.agribusinessglobal.com/agtech/why-digital-innovation-alone-wont-transform-agriculture/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-05",
@@ -154,7 +154,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "UPL任命Jai Shroff领导作物保护业务，CEO Mike Frank离任",
+   "title": "UPL在CEO Mike Frank离职后任命Jai Shroff领导作物保护业务",
    "url": "https://www.agribusinessglobal.com/markets/asia/upl-names-jai-shroff-to-lead-crop-protection-after-ceo-mike-frank-departs/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-05",
@@ -176,22 +176,6 @@
    "tag": "行业",
    "tag_class": "tag-news",
    "date": "2026-08-05"
-  },
-  {
-   "title": "农业农村部：打造农产品区域公用品牌让种粮农民种粮有钱挣得实惠",
-   "url": "https://news.nongji360.com/html/2026/08/273990.shtml",
-   "source": "农机360",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-08-04"
-  },
-  {
-   "title": "对十四届全国人大四次会议第5794号建议的答复摘要徐淙祥代表：您提出的关于打造农产品区域公用品牌让种粮农民种粮有钱挣得实惠的建议收",
-   "url": "https://news.nongji360.com/html/2026/08/273990.shtml",
-   "source": "农机360",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-08-04"
   },
   {
    "title": "国产农机质量到底怎么样？这是最客观的评价！",
@@ -288,6 +272,22 @@
    "tag": "行业",
    "tag_class": "tag-news",
    "date": "2026-07-21"
+  },
+  {
+   "title": "农业农村部召开干部大会强调 深入学习贯彻习近平总书记重要讲话和全国两会精神 扎实做好乡村全面振兴各项工作",
+   "url": "http://www.njhs.moa.gov.cn/gzdt/202603/t20260317_6482294.htm",
+   "source": "农业农村部农机化司",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-03-17"
+  },
+  {
+   "title": "中国共产党第二十届中央委员会第三次全体会议公报",
+   "url": "http://www.njhs.moa.gov.cn/gdxw/202407/t20240719_6459339.htm",
+   "source": "农业农村部农机化司",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2024-7-18"
   },
   {
    "title": "圈粉东南亚！潍柴雷沃亮相2026年越南国际农业机械展览会",
