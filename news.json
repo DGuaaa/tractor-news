@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-08 09:36",
+ "updated": "2026-08-08 12:03",
  "items": [
   {
    "title": "陕西2026年第二批补贴农机产品形式审核的补充公示",
@@ -98,7 +98,7 @@
    "date": "2026-08"
   },
   {
-   "title": "点喷喷雾机取代除草团队",
+   "title": "定点喷雾机替代人工除草团队",
    "url": "https://www.futurefarming.com/smart-farming/spot-sprayer-replaces-team-of-weeders/",
    "source": "FutureFarming",
    "date": "2026-08-06",
@@ -106,7 +106,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "AgXeed 与 TIM 如何让拖拉机和机器实现自主作业",
+   "title": "AgXeed与TIM如何实现拖拉机和机械的自主化",
    "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semiauto-steering/autonomous-vehicles/how-agxeed-and-tim-make-tractors-and-machines-autonomous/",
    "source": "FutureFarming",
    "date": "2026-08-06",
@@ -114,7 +114,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "Homburg 告别 Escarda",
+   "title": "Homburg告别Escarda",
    "url": "https://www.futurefarming.com/news/homburg-says-goodbye-to-escarda/",
    "source": "FutureFarming",
    "date": "2026-08-03",
@@ -122,7 +122,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "更小的拖拉机，更高的回报：肯塔基州农场的自主化案例",
+   "title": "小型拖拉机，更大收益：肯塔基州农场的自主化案例",
    "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semiauto-steering/autonomous-vehicles/smaller-tractor-bigger-return-a-kentucky-farm-s-case-for-going-autonomous/",
    "source": "FutureFarming",
    "date": "2026-08-03",
@@ -130,7 +130,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "移动制冷技术助力离网种植区生物制剂的配送",
+   "title": "移动制冷技术支持离网种植区的生物制剂分销",
    "url": "https://www.agribusinessglobal.com/biologicals/mobile-refrigeration-technology-enables-biologicals-distribution-in-off-grid-growing-regions/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-05",
@@ -154,7 +154,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "UPL 任命 Jai Shroff 在 CEO Mike Frank 离职后领导作物保护业务",
+   "title": "UPL任命Jai Shroff执掌作物保护业务，CEO Mike Frank离任",
    "url": "https://www.agribusinessglobal.com/markets/asia/upl-names-jai-shroff-to-lead-crop-protection-after-ceo-mike-frank-departs/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-05",
@@ -168,102 +168,6 @@
    "tag": "行业",
    "tag_class": "tag-news",
    "date": "2026-08-05"
-  },
-  {
-   "title": "国产农机质量到底怎么样？这是最客观的评价！",
-   "url": "https://www.nongjitong.com/news/2026/533738.html",
-   "source": "农机通",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-07-28"
-  },
-  {
-   "title": "从框架协议到正式落地：奇瑞新能源智能化农机项目花开阜阳",
-   "url": "https://www.nongjitong.com/news/2026/533715.html",
-   "source": "农机通",
-   "tag": "技术",
-   "tag_class": "tag-tech",
-   "date": "2026-07-23"
-  },
-  {
-   "title": "出海寻路亟需高端破局 中国农机突围之路谁堪重任？",
-   "url": "https://www.nongjitong.com/news/2026/533717.html",
-   "source": "农机通",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-07-23"
-  },
-  {
-   "title": "国产采棉机的逆袭：从国产替代到征战全球",
-   "url": "https://www.nongjitong.com/news/2026/533641.html",
-   "source": "农机通",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-07-14"
-  },
-  {
-   "title": "渝聚农机力量，智启西部新篇！2027年丘陵山区（重庆）农业机械展览会邀约启动！",
-   "url": "https://www.nongjitong.com/news/2026/533736.html",
-   "source": "农机通",
-   "tag": "市场",
-   "tag_class": "tag-data",
-   "date": "2026-07-27"
-  },
-  {
-   "title": "十二年亏损压不垮的农机人：雒文亮的梦想在格兰播种机落地",
-   "url": "https://www.nongjitong.com/news/2026/533728.html",
-   "source": "农机通",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-07-24"
-  },
-  {
-   "title": "扎根黑土二十载，久保田相伴拓荒致富路",
-   "url": "https://www.nongjitong.com/news/2026/533726.html",
-   "source": "农机通",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-07-24"
-  },
-  {
-   "title": "潍柴雷沃智慧农业2026年全球合作伙伴发展大会召开",
-   "url": "https://www.nongjitong.com/news/2026/533725.html",
-   "source": "农机通",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-07-23"
-  },
-  {
-   "title": "规模创越南历史之最，2026越南国际农机展在胡志明盛大开幕！",
-   "url": "https://www.nongjitong.com/news/2026/533724.html",
-   "source": "农机通",
-   "tag": "市场",
-   "tag_class": "tag-data",
-   "date": "2026-07-23"
-  },
-  {
-   "title": "硬核设备适配粮食烘干刚需，辰宇机械粮食烘干设备交付全线提速",
-   "url": "https://www.nongjitong.com/news/2026/533718.html",
-   "source": "农机通",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-07-23"
-  },
-  {
-   "title": "海南省公布2024—2026年海南省农机购置与应用补贴机具种类范围和补贴额一览表",
-   "url": "https://www.nongjitong.com/news/2026/533716.html",
-   "source": "农机通",
-   "tag": "市场",
-   "tag_class": "tag-data",
-   "date": "2026-07-23"
-  },
-  {
-   "title": "格兰集团2026年全球牧草演示会在瑞典成功举办",
-   "url": "https://www.nongjitong.com/news/2026/533712.html",
-   "source": "农机通",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-07-21"
   },
   {
    "title": "农业农村部召开干部大会强调 深入学习贯彻习近平总书记重要讲话和全国两会精神 扎实做好乡村全面振兴各项工作",
@@ -288,6 +192,86 @@
    "tag": "市场",
    "tag_class": "tag-data",
    "date": "2026-07-24"
+  },
+  {
+   "title": "2026全国农业机械展览会在河南..",
+   "url": "http://www.caamm.org.cn/zfzc/4554.htm",
+   "source": "农机工业协会",
+   "tag": "市场",
+   "tag_class": "tag-data",
+   "date": "2026-03-28"
+  },
+  {
+   "title": "2026中国农机企业家峰会年会在..",
+   "url": "http://www.caamm.org.cn/zfzc/4510.htm",
+   "source": "农机工业协会",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-01-15"
+  },
+  {
+   "title": "2025年全国农机工业工作会议暨..",
+   "url": "http://www.caamm.org.cn/zfzc/4482.htm",
+   "source": "农机工业协会",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2025-12-22"
+  },
+  {
+   "title": "中国农业机械工业团体标准工作..",
+   "url": "http://www.caamm.org.cn/zfzc/4457.htm",
+   "source": "农机工业协会",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2025-10-30"
+  },
+  {
+   "title": "中国农业机械工业协会低空经济..",
+   "url": "http://www.caamm.org.cn/zfzc/4456.htm",
+   "source": "农机工业协会",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2025-10-26"
+  },
+  {
+   "title": "​7月份AMI指数为52.7%，景气指数持续发力上行",
+   "url": "https://www.camda.cn/analyze/2026/65886.html",
+   "source": "农机流通协会",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-08-06"
+  },
+  {
+   "title": "6月份AMI指数为48.7%，同比大幅回升",
+   "url": "https://www.camda.cn/analyze/2026/65814.html",
+   "source": "农机流通协会",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-07-07"
+  },
+  {
+   "title": "5月份AMI指数为47.0%，环比下跌同比增长",
+   "url": "https://www.camda.cn/analyze/2026/65762.html",
+   "source": "农机流通协会",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-06-05"
+  },
+  {
+   "title": "4月份AMI指数为58.2%，景气回落市场降温",
+   "url": "https://www.camda.cn/analyze/2026/65663.html",
+   "source": "农机流通协会",
+   "tag": "市场",
+   "tag_class": "tag-data",
+   "date": "2026-05-09"
+  },
+  {
+   "title": "3月份AMI为67.1%，创近五年新高",
+   "url": "https://www.camda.cn/analyze/2026/65597.html",
+   "source": "农机流通协会",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-04-08"
   },
   {
    "title": "圈粉东南亚！潍柴雷沃亮相2026年越南国际农业机械展览会",
