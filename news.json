@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10 18:02",
+ "updated": "2026-08-11 00:06",
  "items": [
   {
    "title": "宁夏2026年第三批农机补贴产品公告",
@@ -98,7 +98,15 @@
    "date": "2025-09-02"
   },
   {
-   "title": "定点喷雾机取代除草团队",
+   "title": "Agtecnic将绿色对绿色定点喷洒添加到SenseSpray平台",
+   "url": "https://www.futurefarming.com/smart-farming/agtecnic-to-add-green-on-green-spot-spraying-to-sensespray-platform/",
+   "source": "FutureFarming",
+   "date": "2026-08-10",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "定点喷洒机取代除草团队",
    "url": "https://www.futurefarming.com/smart-farming/spot-sprayer-replaces-team-of-weeders/",
    "source": "FutureFarming",
    "date": "2026-08-06",
@@ -106,7 +114,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "AgXeed与TIM如何实现拖拉机和机器自动化",
+   "title": "AgXeed和TIM如何让拖拉机和机器自主作业",
    "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semiauto-steering/autonomous-vehicles/how-agxeed-and-tim-make-tractors-and-machines-autonomous/",
    "source": "FutureFarming",
    "date": "2026-08-06",
@@ -122,15 +130,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "更小的拖拉机，更大的回报：肯塔基州农场的自主化案例",
-   "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semiauto-steering/autonomous-vehicles/smaller-tractor-bigger-return-a-kentucky-farm-s-case-for-going-autonomous/",
-   "source": "FutureFarming",
-   "date": "2026-08-03",
-   "tag": "技术",
-   "tag_class": "tag-tech"
-  },
-  {
-   "title": "AgriBusiness Global报告：作物保护公司如何应对采购挑战",
+   "title": "AgriBusiness全球报告：作物保护公司如何应对采购挑战",
    "url": "https://www.agribusinessglobal.com/agribusiness-global-report/agribusiness-global-report-how-crop-protection-companies-can-contend-with-sourcing-challenges/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-07",
@@ -138,7 +138,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "助剂创新：更智能、更高效的下一代喷雾解决方案",
+   "title": "助剂创新：下一代更智能、更高效的喷洒解决方案",
    "url": "https://www.agribusinessglobal.com/agrochemicals/adjuvants/adjuvant-innovations-the-next-generation-of-smarter-more-efficient-spray-solutions/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-07",
@@ -146,7 +146,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "人脉交流与行业洞察成为拉斯维加斯AgriBusiness Global贸易峰会的焦点",
+   "title": "在拉斯维加斯AgriBusiness全球贸易峰会上，网络交流和行业洞察成为焦点",
    "url": "https://www.agribusinessglobal.com/agrochemicals/networking-and-industry-insights-take-center-stage-at-the-agribusiness-global-trade-summit-in-las-vegas/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-07",
