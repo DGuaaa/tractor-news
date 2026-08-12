@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-12 18:04",
+ "updated": "2026-08-13 00:08",
  "items": [
   {
    "title": "甘肃2026年第三批农机补贴产品修改延期",
@@ -12,6 +12,14 @@
   {
    "title": "福建农机补贴产品第七批通告",
    "url": "https://news.nongji360.com/html/2026/08/274035.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-08-12"
+  },
+  {
+   "title": "【鉴定】关于2026年第三批黑龙江省农业机械试验鉴定结果的通报",
+   "url": "https://news.nongji360.com/html/2026/08/274038.shtml",
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
@@ -74,14 +82,6 @@
    "date": "2026-08-11"
   },
   {
-   "title": "【归档】江西省2026年第一批农机购置与应用补贴“优机优补”产品投档审核通过产品信息的公告",
-   "url": "https://news.nongji360.com/html/2026/08/274021.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-08-10"
-  },
-  {
    "title": "【汇总】各省2024-2026年农机补贴政策通知相关汇总",
    "url": "https://news.nongji360.com/html/2025/09/271215.shtml",
    "source": "农机360",
@@ -98,15 +98,47 @@
    "date": "2026-08-07"
   },
   {
-   "title": "AgriBusiness Global报告：作物保护公司如何应对采购挑战",
-   "url": "https://www.agribusinessglobal.com/agribusiness-global-report/agribusiness-global-report-how-crop-protection-companies-can-contend-with-sourcing-challenges/",
-   "source": "AgriBusinessGlobal",
-   "date": "2026-08-07",
+   "title": "Bushel Plus 全球品牌更名为 BranValt",
+   "url": "https://www.futurefarming.com/smart-farming/industry-updates/bushel-plus-changes-global-brand-name-to-branvalt/",
+   "source": "FutureFarming",
+   "date": "2026-08-11",
    "tag": "行业",
    "tag_class": "tag-news"
   },
   {
-   "title": "助剂创新：下一代更智能、更高效的喷雾解决方案",
+   "title": "Agtecnic 将为 SenseSpray 平台增加绿色对绿色精准喷雾",
+   "url": "https://www.futurefarming.com/smart-farming/agtecnic-to-add-green-on-green-spot-spraying-to-sensespray-platform/",
+   "source": "FutureFarming",
+   "date": "2026-08-10",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "斑点喷雾机取代人工除草团队",
+   "url": "https://www.futurefarming.com/smart-farming/spot-sprayer-replaces-team-of-weeders/",
+   "source": "FutureFarming",
+   "date": "2026-08-06",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "AgXeed 与 TIM 如何实现拖拉机和机器自主化",
+   "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semiauto-steering/autonomous-vehicles/how-agxeed-and-tim-make-tractors-and-machines-autonomous/",
+   "source": "FutureFarming",
+   "date": "2026-08-06",
+   "tag": "技术",
+   "tag_class": "tag-tech"
+  },
+  {
+   "title": "AgriBusiness Global 报告：作物保护公司如何应对采购挑战",
+   "url": "https://www.agribusinessglobal.com/agribusiness-global-report/agribusiness-global-report-how-crop-protection-companies-can-contend-with-sourcing-challenges/",
+   "source": "AgriBusinessGlobal",
+   "date": "",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "助剂创新：下一代更智能高效的喷雾解决方案",
    "url": "https://www.agribusinessglobal.com/agrochemicals/adjuvants/adjuvant-innovations-the-next-generation-of-smarter-more-efficient-spray-solutions/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-07",
@@ -114,7 +146,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "拉斯维加斯AgriBusiness Global贸易峰会：人脉交流与行业洞察成焦点",
+   "title": "社交与行业洞察成为拉斯维加斯 AgriBusiness Global 贸易峰会焦点",
    "url": "https://www.agribusinessglobal.com/agrochemicals/networking-and-industry-insights-take-center-stage-at-the-agribusiness-global-trade-summit-in-las-vegas/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-07",
@@ -122,15 +154,31 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "定义下一代作物保护赢家的八股力量",
+   "title": "定义作物保护下一代赢家的8大力量",
    "url": "https://www.agribusinessglobal.com/agrochemicals/8-forces-defining-the-next-generation-of-winners-in-crop-protection/",
    "source": "AgriBusinessGlobal",
-   "date": "2026-08-06",
+   "date": "",
    "tag": "行业",
    "tag_class": "tag-news"
   },
   {
-   "title": "黑龙江200马力及以上无级变速高端智能拖拉机补贴申报",
+   "title": "804拖拉机年中TOP10盘点，双雄争霸格局稳固",
+   "url": "https://news.nongji360.com/report/view/1098",
+   "source": "农机360",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-08-11"
+  },
+  {
+   "title": "黑龙江高端智能拖拉机补贴申报",
+   "url": "https://news.nongji360.com/html/2026/08/274036.shtml",
+   "source": "农机360",
+   "tag": "技术",
+   "tag_class": "tag-tech",
+   "date": "2026-08-12"
+  },
+  {
+   "title": "【归档】黑龙江省申报补短板200马力及以上无级变速高端智能拖拉机补贴产品的通知",
    "url": "https://news.nongji360.com/html/2026/08/274036.shtml",
    "source": "农机360",
    "tag": "技术",
@@ -144,14 +192,6 @@
    "tag": "行业",
    "tag_class": "tag-news",
    "date": "2026-08-11"
-  },
-  {
-   "title": "【归档】黑龙江省申报补短板200马力及以上无级变速高端智能拖拉机补贴产品的通知",
-   "url": "https://news.nongji360.com/html/2026/08/274036.shtml",
-   "source": "农机360",
-   "tag": "技术",
-   "tag_class": "tag-tech",
-   "date": "2026-08-12"
   },
   {
    "title": "农机安全检查现场，每一次执法都是一次提醒。近日，农业农村部农业机械化总站公布一批农机安全生产执法典型案例，辽宁、北京、江苏、重",
@@ -248,14 +288,6 @@
    "tag": "市场",
    "tag_class": "tag-data",
    "date": "2026-05-09"
-  },
-  {
-   "title": "3月份AMI为67.1%，创近五年新高",
-   "url": "https://www.camda.cn/analyze/2026/65597.html",
-   "source": "农机流通协会",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-04-08"
   },
   {
    "title": "圈粉东南亚！潍柴雷沃亮相2026年越南国际农业机械展览会",
