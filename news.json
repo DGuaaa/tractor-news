@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-14 00:05",
+ "updated": "2026-08-14 14:35",
  "items": [
   {
    "title": "北大荒农垦2026年农机补贴演示通告",
@@ -16,6 +16,14 @@
    "tag": "政策",
    "tag_class": "tag-policy",
    "date": "2026-08-13"
+  },
+  {
+   "title": "【归档】陕西省2026年第二批农机购置与应用补贴产品补充归档信息的公告",
+   "url": "https://news.nongji360.com/html/2026/08/274046.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-08-14"
   },
   {
    "title": "【目录】山东省农机购置与应用补贴“优机优补”一览表（第二批）公示",
@@ -74,14 +82,6 @@
    "date": "2026-08-12"
   },
   {
-   "title": "【归档】河北省2024-2026年农机购置与应用补贴第六批自主投档产品形式审核结果的公告",
-   "url": "https://news.nongji360.com/html/2026/08/274031.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-08-11"
-  },
-  {
    "title": "【汇总】各省2024-2026年农机补贴政策通知相关汇总",
    "url": "https://news.nongji360.com/html/2025/09/271215.shtml",
    "source": "农机360",
@@ -98,7 +98,7 @@
    "date": "2026-08-07"
   },
   {
-   "title": "“Ullmanna锄头几年内即可收回成本”",
+   "title": "'Ullmanna锄头几年内即可回本'",
    "url": "https://www.futurefarming.com/smart-farming/ullmanna-hoe-pays-for-itself-within-a-few-years/",
    "source": "FutureFarming",
    "date": "2026-08-13",
@@ -106,7 +106,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Rometron成立WEED-IT美国公司以扩大定点喷洒支持",
+   "title": "Rometron成立WEED-IT USA以扩大定点喷洒支持",
    "url": "https://www.futurefarming.com/crop-solutions/rometron-establishes-weed-it-usa-to-expand-spot-spraying-support/",
    "source": "FutureFarming",
    "date": "2026-08-13",
@@ -114,31 +114,31 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Bushel Plus将全球品牌名称改为BranValt",
+   "title": "Bushel Plus将全球品牌更名为BranValt",
    "url": "https://www.futurefarming.com/smart-farming/industry-updates/bushel-plus-changes-global-brand-name-to-branvalt/",
    "source": "FutureFarming",
-   "date": "2026-08-11",
+   "date": "",
    "tag": "行业",
    "tag_class": "tag-news"
   },
   {
-   "title": "Agtecnic将为SenseSpray平台增加绿色对绿色定点喷洒功能",
+   "title": "Agtecnic将为SenseSpray平台增加绿对绿定点喷洒功能",
    "url": "https://www.futurefarming.com/smart-farming/agtecnic-to-add-green-on-green-spot-spraying-to-sensespray-platform/",
    "source": "FutureFarming",
-   "date": "2026-08-10",
+   "date": "",
    "tag": "行业",
    "tag_class": "tag-news"
   },
   {
-   "title": "AgriBusiness Global报告：作物保护公司如何应对采购挑战",
+   "title": "AgriBusiness全球报告：作物保护公司如何应对采购挑战",
    "url": "https://www.agribusinessglobal.com/agribusiness-global-report/agribusiness-global-report-how-crop-protection-companies-can-contend-with-sourcing-challenges/",
    "source": "AgriBusinessGlobal",
-   "date": "2026-08-07",
+   "date": "",
    "tag": "行业",
    "tag_class": "tag-news"
   },
   {
-   "title": "助剂创新：下一代更智能、更高效的喷洒解决方案",
+   "title": "助剂创新：新一代更智能、更高效的喷雾解决方案",
    "url": "https://www.agribusinessglobal.com/agrochemicals/adjuvants/adjuvant-innovations-the-next-generation-of-smarter-more-efficient-spray-solutions/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-07",
@@ -146,10 +146,10 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "拉斯维加斯AgriBusiness Global贸易峰会聚焦人脉交流与行业见解",
+   "title": "拉斯维加斯AgriBusiness全球贸易峰会：人脉与行业洞察成焦点",
    "url": "https://www.agribusinessglobal.com/agrochemicals/networking-and-industry-insights-take-center-stage-at-the-agribusiness-global-trade-summit-in-las-vegas/",
    "source": "AgriBusinessGlobal",
-   "date": "2026-08-07",
+   "date": "",
    "tag": "行业",
    "tag_class": "tag-news"
   },
