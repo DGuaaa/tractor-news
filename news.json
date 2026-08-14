@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-14 18:03",
+ "updated": "2026-08-15 00:08",
  "items": [
   {
    "title": "河南省2026年农机补贴投档第二批公示",
@@ -8,14 +8,6 @@
    "tag": "政策",
    "tag_class": "tag-policy",
    "date": "2026-08-14"
-  },
-  {
-   "title": "山东“优机优补”一览表第二批公示",
-   "url": "https://news.nongji360.com/html/2026/08/274045.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-08-13"
   },
   {
    "title": "黑龙江2026年第二批补贴机具现场验证",
@@ -28,6 +20,30 @@
   {
    "title": "陕西2026年第二批农机补贴产品补充公告",
    "url": "https://news.nongji360.com/html/2026/08/274046.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-08-14"
+  },
+  {
+   "title": "【鉴定】内蒙古2026年第一批农业机械试验鉴定产品种类指南",
+   "url": "https://news.nongji360.com/html/2026/08/274054.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-08-14"
+  },
+  {
+   "title": "【归档】新疆公布2026年铺膜播种机现场演示评价结果的通知",
+   "url": "https://news.nongji360.com/html/2026/08/274053.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-08-14"
+  },
+  {
+   "title": "【归档】内蒙古2026年第二批农机购置与应用补贴产品形式审核情况的公告",
+   "url": "https://news.nongji360.com/html/2026/08/274052.shtml",
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
@@ -82,55 +98,7 @@
    "date": "2026-08-13"
   },
   {
-   "title": "【鉴定】四川省2026年第8批省级农机试验鉴定结果的通报",
-   "url": "https://news.nongji360.com/html/2026/08/274039.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-08-13"
-  },
-  {
-   "title": "【鉴定】关于2026年第三批黑龙江省农业机械试验鉴定结果的通报",
-   "url": "https://news.nongji360.com/html/2026/08/274038.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-08-12"
-  },
-  {
-   "title": "Ullmanna锄头几年内即可回本",
-   "url": "https://www.futurefarming.com/smart-farming/ullmanna-hoe-pays-for-itself-within-a-few-years/",
-   "source": "FutureFarming",
-   "date": "2026-08-13",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "Rometron成立WEED-IT USA以扩大定点喷雾支持",
-   "url": "https://www.futurefarming.com/crop-solutions/rometron-establishes-weed-it-usa-to-expand-spot-spraying-support/",
-   "source": "FutureFarming",
-   "date": "2026-08-13",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "Bushel Plus将全球品牌名改为BranValt",
-   "url": "https://www.futurefarming.com/smart-farming/industry-updates/bushel-plus-changes-global-brand-name-to-branvalt/",
-   "source": "FutureFarming",
-   "date": "2026-08-11",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "Agtecnic将为SenseSpray平台新增绿对绿定点喷雾",
-   "url": "https://www.futurefarming.com/smart-farming/agtecnic-to-add-green-on-green-spot-spraying-to-sensespray-platform/",
-   "source": "FutureFarming",
-   "date": "",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "AgriBusiness Global报告：植保公司如何应对采购挑战",
+   "title": "AgriBusiness Global 报告：作物保护公司如何应对采购挑战",
    "url": "https://www.agribusinessglobal.com/agribusiness-global-report/agribusiness-global-report-how-crop-protection-companies-can-contend-with-sourcing-challenges/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-07",
@@ -138,7 +106,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "助剂创新：下一代更智能高效的喷雾解决方案",
+   "title": "助剂创新：下一代更智能、更高效的喷雾解决方案",
    "url": "https://www.agribusinessglobal.com/agrochemicals/adjuvants/adjuvant-innovations-the-next-generation-of-smarter-more-efficient-spray-solutions/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-07",
@@ -146,7 +114,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "人脉交流与行业洞察成为拉斯维加斯AgriBusiness Global贸易峰会焦点",
+   "title": "拉斯维加斯 AgriBusiness Global 贸易峰会聚焦交流与行业洞察",
    "url": "https://www.agribusinessglobal.com/agrochemicals/networking-and-industry-insights-take-center-stage-at-the-agribusiness-global-trade-summit-in-las-vegas/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-07",
@@ -154,7 +122,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "定义作物保护下一代赢家的8大力量",
+   "title": "定义下一代作物保护赢家的8大力量",
    "url": "https://www.agribusinessglobal.com/agrochemicals/8-forces-defining-the-next-generation-of-winners-in-crop-protection/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-06",
@@ -162,12 +130,20 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "【归档】黑龙江省申报补短板200马力及以上无级变速高端智能拖拉机补贴产品的通知",
-   "url": "https://news.nongji360.com/html/2026/08/274036.shtml",
+   "title": "11月1日：国产农机的“终点”与“起点”",
+   "url": "https://news.nongji360.com/html/2026/08/274055.shtml",
    "source": "农机360",
-   "tag": "技术",
-   "tag_class": "tag-tech",
-   "date": "2026-08-12"
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-08-14"
+  },
+  {
+   "title": "2026年11月1日，三项农业机械强制性国家标准将正式实施。这场始于技术层面的修订，正在重塑整个收获机械行业的竞争规则。从“物理防护”",
+   "url": "https://news.nongji360.com/html/2026/08/274055.shtml",
+   "source": "农机360",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-08-14"
   },
   {
    "title": "主要秋收作物防灾减灾机械化技术指导意见",
@@ -200,22 +176,6 @@
    "tag": "市场",
    "tag_class": "tag-data",
    "date": "2026-08-12"
-  },
-  {
-   "title": "4个农机违法典型案例，每个农机手都该看看",
-   "url": "https://news.nongji360.com/html/2026/08/274032.shtml",
-   "source": "农机360",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-08-11"
-  },
-  {
-   "title": "农机安全检查现场，每一次执法都是一次提醒。近日，农业农村部农业机械化总站公布一批农机安全生产执法典型案例，辽宁、北京、江苏、重",
-   "url": "https://news.nongji360.com/html/2026/08/274032.shtml",
-   "source": "农机360",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-08-11"
   },
   {
    "title": "当农机企业站在生存与发展的“十字路口”",
@@ -288,6 +248,14 @@
    "tag": "行业",
    "tag_class": "tag-news",
    "date": "2026-03-17"
+  },
+  {
+   "title": "中国共产党第二十届中央委员会第三次全体会议公报",
+   "url": "http://www.njhs.moa.gov.cn/gdxw/202407/t20240719_6459339.htm",
+   "source": "农业农村部农机化司",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2024-7-18"
   },
   {
    "title": "圈粉东南亚！潍柴雷沃亮相2026年越南国际农业机械展览会",
