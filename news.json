@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15 06:02",
+ "updated": "2026-08-15 16:58",
  "items": [
   {
    "title": "河南省2026年农机补贴投档第二批公示",
@@ -98,7 +98,7 @@
    "date": "2026-08-13"
   },
   {
-   "title": "Ullmanna锄头几年内即可收回成本",
+   "title": "“乌拉曼锄头几年内即可收回成本”",
    "url": "https://www.futurefarming.com/smart-farming/ullmanna-hoe-pays-for-itself-within-a-few-years/",
    "source": "FutureFarming",
    "date": "2026-08-13",
@@ -106,7 +106,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Rometron成立WEED-IT美国公司以扩大点喷支持",
+   "title": "Rometron成立WEED-IT美国公司以扩大定点喷洒支持",
    "url": "https://www.futurefarming.com/crop-solutions/rometron-establishes-weed-it-usa-to-expand-spot-spraying-support/",
    "source": "FutureFarming",
    "date": "2026-08-13",
@@ -114,7 +114,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Bushel Plus将全球品牌更名为BranValt",
+   "title": "Bushel Plus更名BranValt，重塑全球品牌",
    "url": "https://www.futurefarming.com/smart-farming/industry-updates/bushel-plus-changes-global-brand-name-to-branvalt/",
    "source": "FutureFarming",
    "date": "2026-08-11",
@@ -122,7 +122,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Agtecnic为SenseSpray平台新增绿对绿点喷功能",
+   "title": "Agtecnic为SenseSpray平台新增绿色对绿色定点喷洒功能",
    "url": "https://www.futurefarming.com/smart-farming/agtecnic-to-add-green-on-green-spot-spraying-to-sensespray-platform/",
    "source": "FutureFarming",
    "date": "2026-08-10",
@@ -130,34 +130,34 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "AgriBusiness Global报告：作物保护公司如何应对采购挑战",
-   "url": "https://www.agribusinessglobal.com/agribusiness-global-report/agribusiness-global-report-how-crop-protection-companies-can-contend-with-sourcing-challenges/",
+   "title": "AgriBusiness Global报告：美国仿制农药、市场准入与经销商策略",
+   "url": "https://www.agribusinessglobal.com/agrochemicals/agribusiness-global-report-generic-ag-inputs-market-entry-and-broker-strategies-for-the-u-s/",
    "source": "AgriBusinessGlobal",
-   "date": "2026-08-07",
+   "date": "",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "Ag Tech Talk播客：智能播种与农业AI的未来",
+   "url": "https://www.agribusinessglobal.com/agtech/ag-tech-talk-podcast-smart-seeding-and-the-future-of-ai-on-the-farm/",
+   "source": "AgriBusinessGlobal",
+   "date": "2026-08-13",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "助剂起飞：为无人机时代量身定制",
+   "url": "https://www.agribusinessglobal.com/agrochemicals/adjuvants/adjuvants-formulation-for-the-drone-era/",
+   "source": "AgriBusinessGlobal",
+   "date": "2026-08-13",
    "tag": "行业",
    "tag_class": "tag-news"
   },
   {
-   "title": "助剂创新：下一代更智能、更高效的喷雾解决方案",
-   "url": "https://www.agribusinessglobal.com/agrochemicals/adjuvants/adjuvant-innovations-the-next-generation-of-smarter-more-efficient-spray-solutions/",
+   "title": "住友化学集团收购COPYR子公司，涉足天然除虫菊酯植保业务",
+   "url": "https://www.agribusinessglobal.com/agrochemicals/insecticides/sumitomo-chemical-group-acquires-subsidiary-of-copyr-engaged-in-natural-pyrethrin-based-plant-protection-business/",
    "source": "AgriBusinessGlobal",
-   "date": "2026-08-07",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "人脉拓展与行业见解成为拉斯维加斯AgriBusiness Global贸易峰会焦点",
-   "url": "https://www.agribusinessglobal.com/agrochemicals/networking-and-industry-insights-take-center-stage-at-the-agribusiness-global-trade-summit-in-las-vegas/",
-   "source": "AgriBusinessGlobal",
-   "date": "2026-08-07",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "定义作物保护下一代赢家的8大力量",
-   "url": "https://www.agribusinessglobal.com/agrochemicals/8-forces-defining-the-next-generation-of-winners-in-crop-protection/",
-   "source": "AgriBusinessGlobal",
-   "date": "2026-08-06",
+   "date": "",
    "tag": "行业",
    "tag_class": "tag-news"
   },
