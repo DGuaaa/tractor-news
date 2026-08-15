@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-15 16:58",
+ "updated": "2026-08-15 18:03",
  "items": [
   {
    "title": "河南省2026年农机补贴投档第二批公示",
@@ -12,14 +12,6 @@
   {
    "title": "黑龙江2026年第二批补贴机具现场验证",
    "url": "https://news.nongji360.com/html/2026/08/274051.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-08-14"
-  },
-  {
-   "title": "陕西2026年第二批农机补贴产品补充公告",
-   "url": "https://news.nongji360.com/html/2026/08/274046.shtml",
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
@@ -98,7 +90,15 @@
    "date": "2026-08-13"
   },
   {
-   "title": "“乌拉曼锄头几年内即可收回成本”",
+   "title": "【汇总】各省2024-2026年农机补贴政策通知相关汇总",
+   "url": "https://news.nongji360.com/html/2025/09/271215.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2025-09-02"
+  },
+  {
+   "title": "“乌尔曼纳锄头几年内即可收回成本”",
    "url": "https://www.futurefarming.com/smart-farming/ullmanna-hoe-pays-for-itself-within-a-few-years/",
    "source": "FutureFarming",
    "date": "2026-08-13",
@@ -106,7 +106,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Rometron成立WEED-IT美国公司以扩大定点喷洒支持",
+   "title": "Rometron成立WEED-IT美国公司以扩大点喷支持",
    "url": "https://www.futurefarming.com/crop-solutions/rometron-establishes-weed-it-usa-to-expand-spot-spraying-support/",
    "source": "FutureFarming",
    "date": "2026-08-13",
@@ -114,7 +114,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Bushel Plus更名BranValt，重塑全球品牌",
+   "title": "Bushel Plus全球品牌更名为BranValt",
    "url": "https://www.futurefarming.com/smart-farming/industry-updates/bushel-plus-changes-global-brand-name-to-branvalt/",
    "source": "FutureFarming",
    "date": "2026-08-11",
@@ -122,7 +122,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Agtecnic为SenseSpray平台新增绿色对绿色定点喷洒功能",
+   "title": "Agtecnic将为SenseSpray平台增加绿色对绿色点喷功能",
    "url": "https://www.futurefarming.com/smart-farming/agtecnic-to-add-green-on-green-spot-spraying-to-sensespray-platform/",
    "source": "FutureFarming",
    "date": "2026-08-10",
@@ -130,15 +130,15 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "AgriBusiness Global报告：美国仿制农药、市场准入与经销商策略",
+   "title": "全球农业商业报告：美国仿制农业投入品、市场进入与经纪人策略",
    "url": "https://www.agribusinessglobal.com/agrochemicals/agribusiness-global-report-generic-ag-inputs-market-entry-and-broker-strategies-for-the-u-s/",
    "source": "AgriBusinessGlobal",
-   "date": "",
+   "date": "2026-08-14",
    "tag": "市场",
    "tag_class": "tag-data"
   },
   {
-   "title": "Ag Tech Talk播客：智能播种与农业AI的未来",
+   "title": "农业科技谈话播客：智能播种与农场AI的未来",
    "url": "https://www.agribusinessglobal.com/agtech/ag-tech-talk-podcast-smart-seeding-and-the-future-of-ai-on-the-farm/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-13",
@@ -146,7 +146,7 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "助剂起飞：为无人机时代量身定制",
+   "title": "助剂腾飞：为无人机时代制定配方",
    "url": "https://www.agribusinessglobal.com/agrochemicals/adjuvants/adjuvants-formulation-for-the-drone-era/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-13",
@@ -154,10 +154,10 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "住友化学集团收购COPYR子公司，涉足天然除虫菊酯植保业务",
+   "title": "住友化学集团收购从事天然除虫菊酯植物保护业务的COPYR子公司",
    "url": "https://www.agribusinessglobal.com/agrochemicals/insecticides/sumitomo-chemical-group-acquires-subsidiary-of-copyr-engaged-in-natural-pyrethrin-based-plant-protection-business/",
    "source": "AgriBusinessGlobal",
-   "date": "",
+   "date": "2026-08-12",
    "tag": "行业",
    "tag_class": "tag-news"
   },
