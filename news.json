@@ -1,6 +1,14 @@
 {
- "updated": "2026-08-16 14:04",
+ "updated": "2026-08-16 18:02",
  "items": [
+  {
+   "title": "新疆关于农机补贴产品违规处理情况通告",
+   "url": "https://news.nongji360.com/html/2026/08/274056.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-08-16"
+  },
   {
    "title": "河南省2026年农机补贴投档第二批公示",
    "url": "https://news.nongji360.com/html/2026/08/274049.shtml",
@@ -10,12 +18,12 @@
    "date": "2026-08-14"
   },
   {
-   "title": "黑龙江2026年第二批补贴机具现场验证",
-   "url": "https://news.nongji360.com/html/2026/08/274051.shtml",
+   "title": "【违规】新疆关于任丘市双印农业机械制造有限公司播种机产品补贴违规处理情况的通告",
+   "url": "https://news.nongji360.com/html/2026/08/274056.shtml",
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
-   "date": "2026-08-14"
+   "date": "2026-08-16"
   },
   {
    "title": "【鉴定】内蒙古2026年第一批农业机械试验鉴定产品种类指南",
@@ -82,14 +90,6 @@
    "date": "2026-08-13"
   },
   {
-   "title": "【通知】辽宁省关于恢复敖汉旗禾稼沣机械制造有限公司相关产品农机购置与应用补贴资格的通知",
-   "url": "https://news.nongji360.com/html/2026/08/274043.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-08-13"
-  },
-  {
    "title": "【汇总】各省2024-2026年农机补贴政策通知相关汇总",
    "url": "https://news.nongji360.com/html/2025/09/271215.shtml",
    "source": "农机360",
@@ -98,7 +98,7 @@
    "date": "2025-09-02"
   },
   {
-   "title": "“乌拉曼锄几年内即可收回成本”",
+   "title": "“乌拉曼锄头几年内即可收回成本”",
    "url": "https://www.futurefarming.com/smart-farming/ullmanna-hoe-pays-for-itself-within-a-few-years/",
    "source": "FutureFarming",
    "date": "2026-08-13",
@@ -114,7 +114,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Bushel Plus全球品牌名更改为BranValt",
+   "title": "Bushel Plus更名BranValt作为全球品牌名",
    "url": "https://www.futurefarming.com/smart-farming/industry-updates/bushel-plus-changes-global-brand-name-to-branvalt/",
    "source": "FutureFarming",
    "date": "2026-08-11",
@@ -122,7 +122,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Agtecnic将在SenseSpray平台增加绿对绿点喷功能",
+   "title": "Agtecnic将在SenseSpray平台上增加绿对绿点喷功能",
    "url": "https://www.futurefarming.com/smart-farming/agtecnic-to-add-green-on-green-spot-spraying-to-sensespray-platform/",
    "source": "FutureFarming",
    "date": "2026-08-10",
@@ -130,7 +130,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "AgriBusiness Global报告：美国仿制农化投入品、市场进入与经销商策略",
+   "title": "AgriBusiness Global报告：美国通用农资、市场进入与经销商策略",
    "url": "https://www.agribusinessglobal.com/agrochemicals/agribusiness-global-report-generic-ag-inputs-market-entry-and-broker-strategies-for-the-u-s/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-14",
@@ -138,7 +138,7 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "农业科技播客：智能播种与AI在农场的未来",
+   "title": "农业科技播客：智能播种与人工智能在农田的未来",
    "url": "https://www.agribusinessglobal.com/agtech/ag-tech-talk-podcast-smart-seeding-and-the-future-of-ai-on-the-farm/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-13",
@@ -146,7 +146,7 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "助剂起飞：为无人机时代量身定制配方",
+   "title": "助剂起飞：为无人机时代定制配方",
    "url": "https://www.agribusinessglobal.com/agrochemicals/adjuvants/adjuvants-formulation-for-the-drone-era/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-13",
