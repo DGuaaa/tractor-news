@@ -1,8 +1,32 @@
 {
- "updated": "2026-08-17 00:03",
+ "updated": "2026-08-17 18:06",
  "items": [
   {
-   "title": "新疆关于农机补贴产品违规处理情况通告",
+   "title": "吉林2024-2026年农机补贴投档第四次公示",
+   "url": "https://news.nongji360.com/html/2026/08/274059.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-08-17"
+  },
+  {
+   "title": "河北2026年农机鉴定结果通报（第四批）",
+   "url": "https://news.nongji360.com/html/2026/08/274058.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-08-17"
+  },
+  {
+   "title": "河北约谈河北卓轩农业科技有限公司通知",
+   "url": "https://news.nongji360.com/html/2026/08/274057.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-08-17"
+  },
+  {
+   "title": "新疆农机补贴违规处理通告",
    "url": "https://news.nongji360.com/html/2026/08/274056.shtml",
    "source": "农机360",
    "tag": "政策",
@@ -10,12 +34,28 @@
    "date": "2026-08-16"
   },
   {
-   "title": "河南省2026年农机补贴投档第二批公示",
-   "url": "https://news.nongji360.com/html/2026/08/274049.shtml",
+   "title": "【归档】吉林省关于2024—2026年农机购置与应用补贴机具投档第四次形式审核结果的公示",
+   "url": "https://news.nongji360.com/html/2026/08/274059.shtml",
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
-   "date": "2026-08-14"
+   "date": "2026-08-17"
+  },
+  {
+   "title": "【鉴定】河北省农业机械鉴定总站2026年农机试验鉴定结果的通报（第四批）",
+   "url": "https://news.nongji360.com/html/2026/08/274058.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-08-17"
+  },
+  {
+   "title": "【通知】河北省农业机械化管理局关于约谈河北卓轩农业科技有限公司的通知",
+   "url": "https://news.nongji360.com/html/2026/08/274057.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-08-17"
   },
   {
    "title": "【违规】新疆关于任丘市双印农业机械制造有限公司播种机产品补贴违规处理情况的通告",
@@ -56,46 +96,6 @@
    "tag": "政策",
    "tag_class": "tag-policy",
    "date": "2026-08-14"
-  },
-  {
-   "title": "【归档】河南省2026年农机购置与应用补贴投档机具（第二批）形式审核结果的公示",
-   "url": "https://news.nongji360.com/html/2026/08/274049.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-08-14"
-  },
-  {
-   "title": "【归档】陕西省2026年第二批农机购置与应用补贴产品补充归档信息的公告",
-   "url": "https://news.nongji360.com/html/2026/08/274046.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-08-14"
-  },
-  {
-   "title": "【目录】山东省农机购置与应用补贴“优机优补”一览表（第二批）公示",
-   "url": "https://news.nongji360.com/html/2026/08/274045.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-08-13"
-  },
-  {
-   "title": "【归档】北大荒农垦2026年农机购置与应用补贴部分机具现场演示评价结果的通告",
-   "url": "https://news.nongji360.com/html/2026/08/274044.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-08-13"
-  },
-  {
-   "title": "【汇总】各省2024-2026年农机补贴政策通知相关汇总",
-   "url": "https://news.nongji360.com/html/2025/09/271215.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2025-09-02"
   },
   {
    "title": "2026年7月瘦肉型白条猪肉出厂价格监测月报",
@@ -154,7 +154,15 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "“乌拉曼锄头几年内即可回本”",
+   "title": "自主水果机具已就绪",
+   "url": "https://www.futurefarming.com/uncategorized/autonomous-fruit-implements-are-ready/",
+   "source": "FutureFarming",
+   "date": "2026-08-17",
+   "tag": "技术",
+   "tag_class": "tag-tech"
+  },
+  {
+   "title": "Ullmanna锄头几年内收回成本",
    "url": "https://www.futurefarming.com/smart-farming/ullmanna-hoe-pays-for-itself-within-a-few-years/",
    "source": "FutureFarming",
    "date": "2026-08-13",
@@ -162,7 +170,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Rometron成立WEED-IT美国公司扩大点喷支持",
+   "title": "Rometron成立WEED-IT美国公司以扩大定点喷洒支持",
    "url": "https://www.futurefarming.com/crop-solutions/rometron-establishes-weed-it-usa-to-expand-spot-spraying-support/",
    "source": "FutureFarming",
    "date": "2026-08-13",
@@ -170,7 +178,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Bushel Plus全球品牌名更改为BranValt",
+   "title": "Bushel Plus将全球品牌名更改为BranValt",
    "url": "https://www.futurefarming.com/smart-farming/industry-updates/bushel-plus-changes-global-brand-name-to-branvalt/",
    "source": "FutureFarming",
    "date": "2026-08-11",
@@ -178,15 +186,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Agtecnic将绿对绿点喷技术加入SenseSpray平台",
-   "url": "https://www.futurefarming.com/smart-farming/agtecnic-to-add-green-on-green-spot-spraying-to-sensespray-platform/",
-   "source": "FutureFarming",
-   "date": "2026-08-10",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "农业商业全球报告：美国仿制农资、市场进入与经纪人策略",
+   "title": "AgriBusiness全球报告：美国非专利农资、市场进入与经纪人策略",
    "url": "https://www.agribusinessglobal.com/agrochemicals/agribusiness-global-report-generic-ag-inputs-market-entry-and-broker-strategies-for-the-u-s/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-14",
@@ -194,7 +194,7 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "农业科技播客：智能播种与农场AI的未来",
+   "title": "Ag Tech Talk播客：智能播种与农场AI的未来",
    "url": "https://www.agribusinessglobal.com/agtech/ag-tech-talk-podcast-smart-seeding-and-the-future-of-ai-on-the-farm/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-13",
@@ -202,7 +202,7 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "助剂起飞：为无人机时代定制配方",
+   "title": "助剂腾飞：为无人机时代而配制",
    "url": "https://www.agribusinessglobal.com/agrochemicals/adjuvants/adjuvants-formulation-for-the-drone-era/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-13",
@@ -210,7 +210,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "住友化学集团收购从事天然除虫菊酯植物保护业务的COPYR子公司",
+   "title": "住友化学集团收购COPYR旗下从事天然除虫菊酯植物保护业务的子公司",
    "url": "https://www.agribusinessglobal.com/agrochemicals/insecticides/sumitomo-chemical-group-acquires-subsidiary-of-copyr-engaged-in-natural-pyrethrin-based-plant-protection-business/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-12",
@@ -256,14 +256,6 @@
    "tag": "行业",
    "tag_class": "tag-news",
    "date": "2026-08-13"
-  },
-  {
-   "title": "一线口碑与销量数据对照：2004 大拖赛道，东方红持续领跑市场",
-   "url": "https://news.nongji360.com/html/2026/08/274037.shtml",
-   "source": "农机360",
-   "tag": "市场",
-   "tag_class": "tag-data",
-   "date": "2026-08-12"
   },
   {
    "title": "当农机企业站在生存与发展的“十字路口”",
@@ -344,6 +336,14 @@
    "tag": "行业",
    "tag_class": "tag-news",
    "date": "2024-7-18"
+  },
+  {
+   "title": "2026全国农业机械展览会在河南..",
+   "url": "http://www.caamm.org.cn/zfzc/4554.htm",
+   "source": "农机工业协会",
+   "tag": "市场",
+   "tag_class": "tag-data",
+   "date": "2026-03-28"
   },
   {
    "title": "圈粉东南亚！潍柴雷沃亮相2026年越南国际农业机械展览会",
