@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18 00:08",
+ "updated": "2026-08-18 06:04",
  "items": [
   {
    "title": "吉林2024-2026年农机补贴投档第四次公示",
@@ -98,6 +98,38 @@
    "date": "2026-08-14"
   },
   {
+   "title": "2026年7月瘦肉型白条猪肉出厂价格监测月报",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84145",
+   "source": "农业农村部价格指数",
+   "date": "2026-08-09",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "2026年第32周瘦肉型白条猪肉出厂价格监测周报",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84146",
+   "source": "农业农村部价格指数",
+   "date": "2026-08-09",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "2026年第31周瘦肉型白条猪肉出厂价格监测周报",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84137",
+   "source": "农业农村部价格指数",
+   "date": "2026-08-02",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "2026年第30周瘦肉型白条猪肉出厂价格监测周报",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84129",
+   "source": "农业农村部价格指数",
+   "date": "2026-07-26",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
    "title": "刘焕鑫会见澳大利亚驻华大使吉思德",
    "url": "https://www.lswz.gov.cn/html/xinwen/2026-08/11/content_294609.shtml",
    "source": "国家粮食局",
@@ -122,31 +154,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "刘焕鑫赴上海调研应急储备物资保障工作",
-   "url": "https://www.lswz.gov.cn/html/xinwen/2026-07/20/content_294394.shtml",
-   "source": "国家粮食局",
-   "date": "2026-07-20",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "国家粮食和物资储备局召开全国粮食和物资储备系统防汛防台风和安全生产工作视频会议",
-   "url": "https://www.lswz.gov.cn/html/xinwen/2026-07/10/content_294187.shtml",
-   "source": "国家粮食局",
-   "date": "2026-07-10",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "刘焕鑫为国家粮食和物资储备局党员干部讲树立和践行正确政绩观学习教育专题党课",
-   "url": "https://www.lswz.gov.cn/html/xinwen/2026-07/08/content_294146.shtml",
-   "source": "国家粮食局",
-   "date": "2026-07-08",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "自主水果采摘机具已就绪",
+   "title": "自主水果机具已就绪",
    "url": "https://www.futurefarming.com/uncategorized/autonomous-fruit-implements-are-ready/",
    "source": "FutureFarming",
    "date": "2026-08-17",
@@ -154,7 +162,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "“Ullmanna锄头几年内即可回本”",
+   "title": "Ullmanna锄头几年内即可回本",
    "url": "https://www.futurefarming.com/smart-farming/ullmanna-hoe-pays-for-itself-within-a-few-years/",
    "source": "FutureFarming",
    "date": "2026-08-13",
@@ -162,7 +170,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Rometron成立WEED-IT美国公司以扩大点喷支持",
+   "title": "Rometron成立WEED-IT美国公司以扩大定点喷施支持",
    "url": "https://www.futurefarming.com/crop-solutions/rometron-establishes-weed-it-usa-to-expand-spot-spraying-support/",
    "source": "FutureFarming",
    "date": "2026-08-13",
@@ -178,7 +186,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "农业商业全球报告：美国仿制农业投入品、市场进入与经纪人策略",
+   "title": "AgriBusiness Global报告：美国市场非专利农业投入品、市场准入与经纪人策略",
    "url": "https://www.agribusinessglobal.com/agrochemicals/agribusiness-global-report-generic-ag-inputs-market-entry-and-broker-strategies-for-the-u-s/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-14",
@@ -186,7 +194,7 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "农业科技访谈播客：智能播种与农场AI的未来",
+   "title": "Ag Tech Talk播客：智能播种与农场AI的未来",
    "url": "https://www.agribusinessglobal.com/agtech/ag-tech-talk-podcast-smart-seeding-and-the-future-of-ai-on-the-farm/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-13",
@@ -194,7 +202,7 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "助剂起飞：为无人机时代制定配方",
+   "title": "助剂起飞：面向无人机时代的制剂开发",
    "url": "https://www.agribusinessglobal.com/agrochemicals/adjuvants/adjuvants-formulation-for-the-drone-era/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-13",
@@ -202,7 +210,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "住友化学集团收购从事天然除虫菊酯植物保护业务的COPYR子公司",
+   "title": "住友化学集团收购COPYR旗下天然除虫菊酯植保业务子公司",
    "url": "https://www.agribusinessglobal.com/agrochemicals/insecticides/sumitomo-chemical-group-acquires-subsidiary-of-copyr-engaged-in-natural-pyrethrin-based-plant-protection-business/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-12",
@@ -440,14 +448,6 @@
    "tag": "行业",
    "tag_class": "tag-news",
    "date": "2026-07-13"
-  },
-  {
-   "title": "一拖股份斩获第十七届天马奖两项大奖，蝉联Wind ESG AA级评级",
-   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202607/t20260701_643835.html",
-   "source": "一拖东方红",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-07-01"
   }
  ]
 }
