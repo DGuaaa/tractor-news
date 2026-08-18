@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18 06:04",
+ "updated": "2026-08-18 12:08",
  "items": [
   {
    "title": "吉林2024-2026年农机补贴投档第四次公示",
@@ -98,34 +98,34 @@
    "date": "2026-08-14"
   },
   {
-   "title": "2026年7月瘦肉型白条猪肉出厂价格监测月报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84145",
+   "title": "8月17日：“农产品批发价格200指数”比上周五上升0.28个点。",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84155",
    "source": "农业农村部价格指数",
-   "date": "2026-08-09",
+   "date": "2026-08-16",
    "tag": "市场",
    "tag_class": "tag-data"
   },
   {
-   "title": "2026年第32周瘦肉型白条猪肉出厂价格监测周报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84146",
+   "title": "8月14日：“农产品批发价格200指数”比昨天上升0.29个点。",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84153",
    "source": "农业农村部价格指数",
-   "date": "2026-08-09",
+   "date": "2026-08-13",
    "tag": "市场",
    "tag_class": "tag-data"
   },
   {
-   "title": "2026年第31周瘦肉型白条猪肉出厂价格监测周报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84137",
+   "title": "全国农产品批发市场一周价格行情监测报告（2026年8月7日—2026年8月13日）",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84154",
    "source": "农业农村部价格指数",
-   "date": "2026-08-02",
+   "date": "2026-08-13",
    "tag": "市场",
    "tag_class": "tag-data"
   },
   {
-   "title": "2026年第30周瘦肉型白条猪肉出厂价格监测周报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84129",
+   "title": "8月13日：“农产品批发价格200指数”比昨天上升0.47个点。",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84151",
    "source": "农业农村部价格指数",
-   "date": "2026-07-26",
+   "date": "2026-08-12",
    "tag": "市场",
    "tag_class": "tag-data"
   },
@@ -154,7 +154,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "自主水果机具已就绪",
+   "title": "自主水果农机已就绪",
    "url": "https://www.futurefarming.com/uncategorized/autonomous-fruit-implements-are-ready/",
    "source": "FutureFarming",
    "date": "2026-08-17",
@@ -170,7 +170,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Rometron成立WEED-IT美国公司以扩大定点喷施支持",
+   "title": "Rometron成立WEED-IT美国公司以扩展定点喷洒支持",
    "url": "https://www.futurefarming.com/crop-solutions/rometron-establishes-weed-it-usa-to-expand-spot-spraying-support/",
    "source": "FutureFarming",
    "date": "2026-08-13",
@@ -186,12 +186,20 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "AgriBusiness Global报告：美国市场非专利农业投入品、市场准入与经纪人策略",
+   "title": "AgriBusiness Global报告：美国非专利农业投入品、市场准入与经纪商策略",
    "url": "https://www.agribusinessglobal.com/agrochemicals/agribusiness-global-report-generic-ag-inputs-market-entry-and-broker-strategies-for-the-u-s/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-14",
    "tag": "市场",
    "tag_class": "tag-data"
+  },
+  {
+   "title": "EU植物保护产品：2025-2026年关键监管、透明度及司法审查动态",
+   "url": "https://www.agribusinessglobal.com/markets/europe/eu-plant-protection-products-key-regulatory-transparency-and-judicial-review-developments-in-2025-2026/",
+   "source": "AgriBusinessGlobal",
+   "date": "2026-08-14",
+   "tag": "行业",
+   "tag_class": "tag-news"
   },
   {
    "title": "Ag Tech Talk播客：智能播种与农场AI的未来",
@@ -202,18 +210,10 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "助剂起飞：面向无人机时代的制剂开发",
+   "title": "助剂起飞：面向无人机时代的配方设计",
    "url": "https://www.agribusinessglobal.com/agrochemicals/adjuvants/adjuvants-formulation-for-the-drone-era/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-13",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "住友化学集团收购COPYR旗下天然除虫菊酯植保业务子公司",
-   "url": "https://www.agribusinessglobal.com/agrochemicals/insecticides/sumitomo-chemical-group-acquires-subsidiary-of-copyr-engaged-in-natural-pyrethrin-based-plant-protection-business/",
-   "source": "AgriBusinessGlobal",
-   "date": "2026-08-12",
    "tag": "行业",
    "tag_class": "tag-news"
   },
@@ -240,22 +240,6 @@
    "tag": "行业",
    "tag_class": "tag-news",
    "date": "2026-08-14"
-  },
-  {
-   "title": "拖拉机、联合收割机浸水应急处置及检修技术指引",
-   "url": "https://news.nongji360.com/html/2026/08/274042.shtml",
-   "source": "农机360",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-08-13"
-  },
-  {
-   "title": "拖拉机、联合收割机浸水应急处置及检修技术指引一、核心安全警示浸水后严禁直接点火启动！拖拉机、联合收割机等农机浸水后，需先完成排",
-   "url": "https://news.nongji360.com/html/2026/08/274042.shtml",
-   "source": "农机360",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-08-13"
   },
   {
    "title": "当农机企业站在生存与发展的“十字路口”",
@@ -346,6 +330,62 @@
    "date": "2026-03-28"
   },
   {
+   "title": "2026中国农机企业家峰会年会在..",
+   "url": "http://www.caamm.org.cn/zfzc/4510.htm",
+   "source": "农机工业协会",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-01-15"
+  },
+  {
+   "title": "2025年全国农机工业工作会议暨..",
+   "url": "http://www.caamm.org.cn/zfzc/4482.htm",
+   "source": "农机工业协会",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2025-12-22"
+  },
+  {
+   "title": "圈粉东南亚！潍柴雷沃亮相2026年越南国际农业机械展览会",
+   "url": "https://www.lovol.com.cn/news/medianews-detail-6192.htm",
+   "source": "潍柴雷沃",
+   "tag": "市场",
+   "tag_class": "tag-data",
+   "date": "2026-07-29"
+  },
+  {
+   "title": "战略协同 产品赋能 运营提效 竞争增长 | 潍柴雷沃智慧农业2026年全球合作伙伴发展大会召开",
+   "url": "https://www.lovol.com.cn/news/medianews-detail-6191.htm",
+   "source": "潍柴雷沃",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-07-29"
+  },
+  {
+   "title": "农大学生眼里的中国农业 | “遇见丰收中国”主题采风走进中国田间日",
+   "url": "https://www.lovol.com.cn/news/medianews-detail-6164.htm",
+   "source": "潍柴雷沃",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-07-29"
+  },
+  {
+   "title": "中国田间日丨潍柴雷沃智慧农业解锁“塞外粮仓”增产密码",
+   "url": "https://www.lovol.com.cn/news/medianews-detail-6163.htm",
+   "source": "潍柴雷沃",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-07-29"
+  },
+  {
+   "title": "智造再升级 | 潍柴雷沃智慧农业中马力拖拉机数智化产线落成投产",
+   "url": "https://www.lovol.com.cn/news/medianews-detail-6120.htm",
+   "source": "潍柴雷沃",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-07-29"
+  },
+  {
    "title": "地质气象灾害救援装备",
    "url": "https://www.zoomlion.com/content/details332_23826.html",
    "source": "中联重科",
@@ -408,46 +448,6 @@
    "tag": "市场",
    "tag_class": "tag-data",
    "date": "2023-3-18"
-  },
-  {
-   "title": "2022年度久保田VIP用户来社参观侧记",
-   "url": "http://www.kubota.com.cn/kams/newsone.do?hidnewsid=141&hidoffset=1&hidcount=6",
-   "source": "久保田中国",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": ""
-  },
-  {
-   "title": "再获殊荣丨久保田荣获2020中国农业机械年度TOP50+两项大奖",
-   "url": "http://www.kubota.com.cn/kams/newsone.do?hidnewsid=140&hidoffset=1&hidcount=6",
-   "source": "久保田中国",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2021-9-28"
-  },
-  {
-   "title": "总统成为首位车主！中国一拖刚果（布）农业装备组装厂首批拖拉机下线",
-   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202608/t20260817_650950.html",
-   "source": "一拖东方红",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-08-17"
-  },
-  {
-   "title": "湖南首个“东方红公益助农服务示范点”在韶山落地",
-   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202608/t20260804_649098.html",
-   "source": "一拖东方红",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-08-04"
-  },
-  {
-   "title": "四良集成守粮安——“东方红”亮相呼伦贝尔田间日",
-   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202607/t20260713_646753.html",
-   "source": "一拖东方红",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-07-13"
   }
  ]
 }
