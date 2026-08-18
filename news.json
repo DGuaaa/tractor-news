@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19 00:09",
+ "updated": "2026-08-19 06:06",
  "items": [
   {
    "title": "农机总站公开征求农机鉴定大纲修改单意见函",
@@ -154,7 +154,39 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "AgriBusiness Global报告：美国仿制药农业投入品、市场进入和经纪人策略",
+   "title": "Sami Robotics扩大西兰花采收规模,迈向多作物多任务平台",
+   "url": "https://www.futurefarming.com/crop-solutions/sami-robotics-scales-up-broccoli-harvesting-as-it-builds-towards-a-multi-crop-multi-task-platform/",
+   "source": "FutureFarming",
+   "date": "2026-08-18",
+   "tag": "技术",
+   "tag_class": "tag-tech"
+  },
+  {
+   "title": "自主水果农机具已就绪",
+   "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semi-autosteering-systems/autonomous-fruit-implements-are-ready/",
+   "source": "FutureFarming",
+   "date": "2026-08-17",
+   "tag": "技术",
+   "tag_class": "tag-tech"
+  },
+  {
+   "title": "Ullmanna锄几年内即可收回成本",
+   "url": "https://www.futurefarming.com/smart-farming/ullmanna-hoe-pays-for-itself-within-a-few-years/",
+   "source": "FutureFarming",
+   "date": "2026-08-13",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "Rometron成立WEED-IT美国公司以扩大定点喷洒支持",
+   "url": "https://www.futurefarming.com/crop-solutions/rometron-establishes-weed-it-usa-to-expand-spot-spraying-support/",
+   "source": "FutureFarming",
+   "date": "2026-08-13",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "AgriBusiness Global报告:美国非专利农资产品、市场进入与经纪人策略",
    "url": "https://www.agribusinessglobal.com/agrochemicals/agribusiness-global-report-generic-ag-inputs-market-entry-and-broker-strategies-for-the-u-s/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-14",
@@ -162,7 +194,7 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "欧盟植保产品：2025-2026年关键监管、透明度和司法审查动态",
+   "title": "欧盟植物保护产品:2025-2026年关键监管、透明度及司法审查进展",
    "url": "https://www.agribusinessglobal.com/markets/europe/eu-plant-protection-products-key-regulatory-transparency-and-judicial-review-developments-in-2025-2026/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-14",
@@ -170,7 +202,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Ag Tech Talk播客：智能播种与农场AI的未来",
+   "title": "Ag Tech Talk播客:智能播种与农场AI的未来",
    "url": "https://www.agribusinessglobal.com/agtech/ag-tech-talk-podcast-smart-seeding-and-the-future-of-ai-on-the-farm/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-13",
@@ -178,7 +210,7 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "助剂起飞：为无人机时代配制",
+   "title": "助剂腾飞:面向无人机时代的配方设计",
    "url": "https://www.agribusinessglobal.com/agrochemicals/adjuvants/adjuvants-formulation-for-the-drone-era/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-13",
@@ -416,30 +448,6 @@
    "tag": "行业",
    "tag_class": "tag-news",
    "date": "2026-07-13"
-  },
-  {
-   "title": "一拖股份斩获第十七届天马奖两项大奖，蝉联Wind ESG AA级评级",
-   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202607/t20260701_643835.html",
-   "source": "一拖东方红",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-07-01"
-  },
-  {
-   "title": "科创农机赴佳展！沃得多款实力机型亮相佳木斯农机展销会",
-   "url": "http://www.worldnyjx.com/index.php?m=content&c=index&a=show&catid=126&id=573",
-   "source": "沃得",
-   "date": "2026-08-18",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "台风“巴威”过境后，沃得驰援田间打响“抢收保卫战”",
-   "url": "http://www.worldnyjx.com/index.php?m=content&c=index&a=show&catid=126&id=568",
-   "source": "沃得",
-   "date": "2026-07-21",
-   "tag": "行业",
-   "tag_class": "tag-news"
   }
  ]
 }
