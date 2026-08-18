@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18 18:05",
+ "updated": "2026-08-19 00:09",
  "items": [
   {
    "title": "农机总站公开征求农机鉴定大纲修改单意见函",
@@ -154,7 +154,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "农业商业全球报告：美国仿制药农业投入品、市场进入及经纪人策略",
+   "title": "AgriBusiness Global报告：美国仿制药农业投入品、市场进入和经纪人策略",
    "url": "https://www.agribusinessglobal.com/agrochemicals/agribusiness-global-report-generic-ag-inputs-market-entry-and-broker-strategies-for-the-u-s/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-14",
@@ -162,7 +162,7 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "欧盟植物保护产品：2025-2026年关键监管、透明度及司法审查动态",
+   "title": "欧盟植保产品：2025-2026年关键监管、透明度和司法审查动态",
    "url": "https://www.agribusinessglobal.com/markets/europe/eu-plant-protection-products-key-regulatory-transparency-and-judicial-review-developments-in-2025-2026/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-14",
@@ -170,7 +170,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "农业科技访谈播客：智能播种与农场人工智能的未来",
+   "title": "Ag Tech Talk播客：智能播种与农场AI的未来",
    "url": "https://www.agribusinessglobal.com/agtech/ag-tech-talk-podcast-smart-seeding-and-the-future-of-ai-on-the-farm/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-13",
@@ -178,7 +178,7 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "助剂起飞：为无人机时代定制配方",
+   "title": "助剂起飞：为无人机时代配制",
    "url": "https://www.agribusinessglobal.com/agrochemicals/adjuvants/adjuvants-formulation-for-the-drone-era/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-13",
@@ -314,46 +314,6 @@
    "date": "2025-10-30"
   },
   {
-   "title": "圈粉东南亚！潍柴雷沃亮相2026年越南国际农业机械展览会",
-   "url": "https://www.lovol.com.cn/news/medianews-detail-6192.htm",
-   "source": "潍柴雷沃",
-   "tag": "市场",
-   "tag_class": "tag-data",
-   "date": "2026-07-29"
-  },
-  {
-   "title": "战略协同 产品赋能 运营提效 竞争增长 | 潍柴雷沃智慧农业2026年全球合作伙伴发展大会召开",
-   "url": "https://www.lovol.com.cn/news/medianews-detail-6191.htm",
-   "source": "潍柴雷沃",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-07-29"
-  },
-  {
-   "title": "农大学生眼里的中国农业 | “遇见丰收中国”主题采风走进中国田间日",
-   "url": "https://www.lovol.com.cn/news/medianews-detail-6164.htm",
-   "source": "潍柴雷沃",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-07-29"
-  },
-  {
-   "title": "中国田间日丨潍柴雷沃智慧农业解锁“塞外粮仓”增产密码",
-   "url": "https://www.lovol.com.cn/news/medianews-detail-6163.htm",
-   "source": "潍柴雷沃",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-07-29"
-  },
-  {
-   "title": "智造再升级 | 潍柴雷沃智慧农业中马力拖拉机数智化产线落成投产",
-   "url": "https://www.lovol.com.cn/news/medianews-detail-6120.htm",
-   "source": "潍柴雷沃",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-07-29"
-  },
-  {
    "title": "地质气象灾害救援装备",
    "url": "https://www.zoomlion.com/content/details332_23826.html",
    "source": "中联重科",
@@ -448,6 +408,38 @@
    "tag": "行业",
    "tag_class": "tag-news",
    "date": "2026-08-04"
+  },
+  {
+   "title": "四良集成守粮安——“东方红”亮相呼伦贝尔田间日",
+   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202607/t20260713_646753.html",
+   "source": "一拖东方红",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-07-13"
+  },
+  {
+   "title": "一拖股份斩获第十七届天马奖两项大奖，蝉联Wind ESG AA级评级",
+   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202607/t20260701_643835.html",
+   "source": "一拖东方红",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-07-01"
+  },
+  {
+   "title": "科创农机赴佳展！沃得多款实力机型亮相佳木斯农机展销会",
+   "url": "http://www.worldnyjx.com/index.php?m=content&c=index&a=show&catid=126&id=573",
+   "source": "沃得",
+   "date": "2026-08-18",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "台风“巴威”过境后，沃得驰援田间打响“抢收保卫战”",
+   "url": "http://www.worldnyjx.com/index.php?m=content&c=index&a=show&catid=126&id=568",
+   "source": "沃得",
+   "date": "2026-07-21",
+   "tag": "行业",
+   "tag_class": "tag-news"
   }
  ]
 }
