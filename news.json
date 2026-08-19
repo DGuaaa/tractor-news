@@ -1,6 +1,22 @@
 {
- "updated": "2026-08-19 18:06",
+ "updated": "2026-08-20 00:08",
  "items": [
+  {
+   "title": "广东2026年第四批农机鉴定结果",
+   "url": "https://news.nongji360.com/html/2026/08/274078.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-08-19"
+  },
+  {
+   "title": "河北农机补贴“优机优补”实施方案",
+   "url": "https://news.nongji360.com/html/2026/08/274079.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-08-19"
+  },
   {
    "title": "上海2026年更换农机鉴定证书",
    "url": "https://news.nongji360.com/html/2026/08/274077.shtml",
@@ -10,12 +26,12 @@
    "date": "2026-08-19"
   },
   {
-   "title": "农机总站征求农机鉴定大纲修改意见",
-   "url": "https://news.nongji360.com/html/2026/08/274073.shtml",
+   "title": "【方案】河北省加力推进农机购置与应用补贴“优机优补”“有进有出”工作实施方案",
+   "url": "https://news.nongji360.com/html/2026/08/274079.shtml",
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
-   "date": "2026-08-18"
+   "date": "2026-08-19"
   },
   {
    "title": "【鉴定】广东省2026年第四批农业机械试验鉴定结果的通报",
@@ -82,22 +98,6 @@
    "date": "2026-08-17"
   },
   {
-   "title": "【鉴定】河北省农业机械鉴定总站2026年农机试验鉴定结果的通报（第四批）",
-   "url": "https://news.nongji360.com/html/2026/08/274058.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-08-17"
-  },
-  {
-   "title": "【汇总】各省2024-2026年农机补贴政策通知相关汇总",
-   "url": "https://news.nongji360.com/html/2025/09/271215.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2025-09-02"
-  },
-  {
    "title": "2026年第33周瘦肉型白条猪肉出厂价格监测周报",
    "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84157",
    "source": "农业农村部价格指数",
@@ -154,7 +154,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Azaneo押注不可逆电穿孔，成本上胜过除草剂",
+   "title": "Azaneo押注不可逆电穿孔技术，以在成本上击败除草剂",
    "url": "https://www.futurefarming.com/crop-solutions/azaneo-bets-on-irreversible-electroporation-to-beat-herbicide-on-cost/",
    "source": "FutureFarming",
    "date": "2026-08-19",
@@ -170,7 +170,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "自主水果农具已就绪",
+   "title": "自主水果农机具已就绪",
    "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semi-autosteering-systems/autonomous-fruit-implements-are-ready/",
    "source": "FutureFarming",
    "date": "2026-08-17",
@@ -178,7 +178,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "Ullmanna锄几年内即可回本",
+   "title": "“Ullmanna锄几年内即可收回成本”",
    "url": "https://www.futurefarming.com/smart-farming/ullmanna-hoe-pays-for-itself-within-a-few-years/",
    "source": "FutureFarming",
    "date": "2026-08-13",
@@ -186,48 +186,8 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "AgriBusiness Global报告：美国市场的通用农资、市场进入及经纪人策略",
-   "url": "https://www.agribusinessglobal.com/agrochemicals/agribusiness-global-report-generic-ag-inputs-market-entry-and-broker-strategies-for-the-u-s/",
-   "source": "AgriBusinessGlobal",
-   "date": "2026-08-14",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "欧盟植保产品：2025-2026年关键监管、透明度与司法审查进展",
-   "url": "https://www.agribusinessglobal.com/markets/europe/eu-plant-protection-products-key-regulatory-transparency-and-judicial-review-developments-in-2025-2026/",
-   "source": "AgriBusinessGlobal",
-   "date": "2026-08-14",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "Ag Tech Talk播客：智能播种与农场AI的未来",
-   "url": "https://www.agribusinessglobal.com/agtech/ag-tech-talk-podcast-smart-seeding-and-the-future-of-ai-on-the-farm/",
-   "source": "AgriBusinessGlobal",
-   "date": "2026-08-13",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "助剂腾飞：无人机时代的制剂开发",
-   "url": "https://www.agribusinessglobal.com/agrochemicals/adjuvants/adjuvants-formulation-for-the-drone-era/",
-   "source": "AgriBusinessGlobal",
-   "date": "2026-08-13",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
    "title": "拖拉机累计产量超32万台！7月大拖同比再涨50%！",
    "url": "https://news.nongji360.com/report/view/1117",
-   "source": "农机360",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-08-19"
-  },
-  {
-   "title": "福建2026年特色现代农业发展专项资金",
-   "url": "https://news.nongji360.com/html/2026/08/274076.shtml",
    "source": "农机360",
    "tag": "行业",
    "tag_class": "tag-news",
@@ -346,44 +306,12 @@
    "date": "2026-01-15"
   },
   {
-   "title": "圈粉东南亚！潍柴雷沃亮相2026年越南国际农业机械展览会",
-   "url": "https://www.lovol.com.cn/news/medianews-detail-6192.htm",
-   "source": "潍柴雷沃",
-   "tag": "市场",
-   "tag_class": "tag-data",
-   "date": "2026-07-29"
-  },
-  {
-   "title": "战略协同 产品赋能 运营提效 竞争增长 | 潍柴雷沃智慧农业2026年全球合作伙伴发展大会召开",
-   "url": "https://www.lovol.com.cn/news/medianews-detail-6191.htm",
-   "source": "潍柴雷沃",
+   "title": "2025年全国农机工业工作会议暨..",
+   "url": "http://www.caamm.org.cn/zfzc/4482.htm",
+   "source": "农机工业协会",
    "tag": "行业",
    "tag_class": "tag-news",
-   "date": "2026-07-29"
-  },
-  {
-   "title": "农大学生眼里的中国农业 | “遇见丰收中国”主题采风走进中国田间日",
-   "url": "https://www.lovol.com.cn/news/medianews-detail-6164.htm",
-   "source": "潍柴雷沃",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": ""
-  },
-  {
-   "title": "中国田间日丨潍柴雷沃智慧农业解锁“塞外粮仓”增产密码",
-   "url": "https://www.lovol.com.cn/news/medianews-detail-6163.htm",
-   "source": "潍柴雷沃",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": ""
-  },
-  {
-   "title": "智造再升级 | 潍柴雷沃智慧农业中马力拖拉机数智化产线落成投产",
-   "url": "https://www.lovol.com.cn/news/medianews-detail-6120.htm",
-   "source": "潍柴雷沃",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-07-29"
+   "date": "2025-12-22"
   },
   {
    "title": "地质气象灾害救援装备",
@@ -448,6 +376,70 @@
    "tag": "市场",
    "tag_class": "tag-data",
    "date": "2023-3-18"
+  },
+  {
+   "title": "2022年度久保田VIP用户来社参观侧记",
+   "url": "http://www.kubota.com.cn/kams/newsone.do?hidnewsid=141&hidoffset=1&hidcount=6",
+   "source": "久保田中国",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": ""
+  },
+  {
+   "title": "再获殊荣丨久保田荣获2020中国农业机械年度TOP50+两项大奖",
+   "url": "http://www.kubota.com.cn/kams/newsone.do?hidnewsid=140&hidoffset=1&hidcount=6",
+   "source": "久保田中国",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2021-9-28"
+  },
+  {
+   "title": "总统成为首位车主！中国一拖刚果（布）农业装备组装厂首批拖拉机下线",
+   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202608/t20260817_650950.html",
+   "source": "一拖东方红",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-08-17"
+  },
+  {
+   "title": "湖南首个“东方红公益助农服务示范点”在韶山落地",
+   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202608/t20260804_649098.html",
+   "source": "一拖东方红",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-08-04"
+  },
+  {
+   "title": "四良集成守粮安——“东方红”亮相呼伦贝尔田间日",
+   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202607/t20260713_646753.html",
+   "source": "一拖东方红",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-07-13"
+  },
+  {
+   "title": "一拖股份斩获第十七届天马奖两项大奖，蝉联Wind ESG AA级评级",
+   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202607/t20260701_643835.html",
+   "source": "一拖东方红",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-07-01"
+  },
+  {
+   "title": "金秋农博盛会启幕 | 沃得农机亮相第二十五届长春农博会",
+   "url": "http://www.worldnyjx.com/index.php?m=content&c=index&a=show&catid=126&id=575",
+   "source": "沃得",
+   "date": "2026-08-19",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "科创农机赴佳展！沃得多款实力机型亮相佳木斯农机展销会",
+   "url": "http://www.worldnyjx.com/index.php?m=content&c=index&a=show&catid=126&id=573",
+   "source": "沃得",
+   "date": "2026-08-18",
+   "tag": "市场",
+   "tag_class": "tag-data"
   }
  ]
 }
