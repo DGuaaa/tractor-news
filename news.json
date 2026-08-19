@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20 00:08",
+ "updated": "2026-08-20 06:07",
  "items": [
   {
    "title": "广东2026年第四批农机鉴定结果",
@@ -130,31 +130,7 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "刘焕鑫会见澳大利亚驻华大使吉思德",
-   "url": "https://www.lswz.gov.cn/html/xinwen/2026-08/11/content_294609.shtml",
-   "source": "国家粮食局",
-   "date": "2026-08-11",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "刘焕鑫看望慰问驻地武警官兵",
-   "url": "https://www.lswz.gov.cn/html/xinwen/2026-08/01/content_294543.shtml",
-   "source": "国家粮食局",
-   "date": "2026-08-01",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "全国粮食和物资储备工作推进会在京召开",
-   "url": "https://www.lswz.gov.cn/html/xinwen/2026-07/31/content_294495.shtml",
-   "source": "国家粮食局",
-   "date": "2026-07-31",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "Azaneo押注不可逆电穿孔技术，以在成本上击败除草剂",
+   "title": "Azaneo押注不可逆电穿孔技术在成本上击败除草剂",
    "url": "https://www.futurefarming.com/crop-solutions/azaneo-bets-on-irreversible-electroporation-to-beat-herbicide-on-cost/",
    "source": "FutureFarming",
    "date": "2026-08-19",
@@ -162,7 +138,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Sami Robotics扩大西兰花采收规模，迈向多作物多任务平台",
+   "title": "Sami Robotics扩大西兰花收获规模，迈向多作物、多任务平台",
    "url": "https://www.futurefarming.com/crop-solutions/sami-robotics-scales-up-broccoli-harvesting-as-it-builds-towards-a-multi-crop-multi-task-platform/",
    "source": "FutureFarming",
    "date": "2026-08-18",
@@ -178,9 +154,41 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "“Ullmanna锄几年内即可收回成本”",
+   "title": "“Ullmanna锄头几年内即可回本”",
    "url": "https://www.futurefarming.com/smart-farming/ullmanna-hoe-pays-for-itself-within-a-few-years/",
    "source": "FutureFarming",
+   "date": "2026-08-13",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "AgriBusiness Global报告：美国非专利农资、市场准入与经纪人策略",
+   "url": "https://www.agribusinessglobal.com/agrochemicals/agribusiness-global-report-generic-ag-inputs-market-entry-and-broker-strategies-for-the-u-s/",
+   "source": "AgriBusinessGlobal",
+   "date": "2026-08-14",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "欧盟植物保护产品：2025-2026年关键监管、透明度与司法审查进展",
+   "url": "https://www.agribusinessglobal.com/markets/europe/eu-plant-protection-products-key-regulatory-transparency-and-judicial-review-developments-in-2025-2026/",
+   "source": "AgriBusinessGlobal",
+   "date": "2026-08-14",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "Ag Tech Talk播客：智能播种与农场人工智能的未来",
+   "url": "https://www.agribusinessglobal.com/agtech/ag-tech-talk-podcast-smart-seeding-and-the-future-of-ai-on-the-farm/",
+   "source": "AgriBusinessGlobal",
+   "date": "2026-08-13",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "助剂起飞：为无人机时代制定配方",
+   "url": "https://www.agribusinessglobal.com/agrochemicals/adjuvants/adjuvants-formulation-for-the-drone-era/",
+   "source": "AgriBusinessGlobal",
    "date": "2026-08-13",
    "tag": "行业",
    "tag_class": "tag-news"
