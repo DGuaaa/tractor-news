@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21 00:04",
+ "updated": "2026-08-21 06:04",
  "items": [
   {
    "title": "广西2026年第六批省级农机鉴定结果",
@@ -98,34 +98,34 @@
    "date": "2026-08-17"
   },
   {
+   "title": "8月20日：“农产品批发价格200指数”比昨天下降0.04个点。",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84160",
+   "source": "农业农村部价格指数",
+   "date": "2026-08-19",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "8月19日：“农产品批发价格200指数”比昨天上升0.07个点。",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84159",
+   "source": "农业农村部价格指数",
+   "date": "2026-08-18",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "8月18日：“农产品批发价格200指数”比昨天上升0.14个点。",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84156",
+   "source": "农业农村部价格指数",
+   "date": "2026-08-17",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
    "title": "2026年第33周瘦肉型白条猪肉出厂价格监测周报",
    "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84157",
    "source": "农业农村部价格指数",
    "date": "2026-08-16",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "2026年第32周瘦肉型白条猪肉出厂价格监测周报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84146",
-   "source": "农业农村部价格指数",
-   "date": "2026-08-09",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "2026年7月瘦肉型白条猪肉出厂价格监测月报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84145",
-   "source": "农业农村部价格指数",
-   "date": "2026-08-09",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "2026年第31周瘦肉型白条猪肉出厂价格监测周报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84137",
-   "source": "农业农村部价格指数",
-   "date": "2026-08-02",
    "tag": "市场",
    "tag_class": "tag-data"
   },
@@ -162,7 +162,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "Azaneo押注不可逆电穿孔，在成本上击败除草剂",
+   "title": "Azaneo押注不可逆电穿孔技术，在成本上击败除草剂",
    "url": "https://www.futurefarming.com/crop-solutions/azaneo-bets-on-irreversible-electroporation-to-beat-herbicide-on-cost/",
    "source": "FutureFarming",
    "date": "2026-08-19",
@@ -170,7 +170,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Sami Robotics扩大西兰花收获规模，同时迈向多作物多任务平台",
+   "title": "Sami Robotics扩大西兰花收获规模，打造多作物多任务平台",
    "url": "https://www.futurefarming.com/crop-solutions/sami-robotics-scales-up-broccoli-harvesting-as-it-builds-towards-a-multi-crop-multi-task-platform/",
    "source": "FutureFarming",
    "date": "2026-08-18",
@@ -178,12 +178,44 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "自主水果机具已就绪",
+   "title": "自主水果农机具已就绪",
    "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semi-autosteering-systems/autonomous-fruit-implements-are-ready/",
    "source": "FutureFarming",
    "date": "2026-08-17",
    "tag": "技术",
    "tag_class": "tag-tech"
+  },
+  {
+   "title": "AgriBusiness全球报告：美国非专利农资、市场准入及经纪商策略",
+   "url": "https://www.agribusinessglobal.com/agrochemicals/agribusiness-global-report-generic-ag-inputs-market-entry-and-broker-strategies-for-the-u-s/",
+   "source": "AgriBusinessGlobal",
+   "date": "2026-08-14",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "欧盟植物保护产品：2025-2026年关键监管、透明度和司法审查动态",
+   "url": "https://www.agribusinessglobal.com/markets/europe/eu-plant-protection-products-key-regulatory-transparency-and-judicial-review-developments-in-2025-2026/",
+   "source": "AgriBusinessGlobal",
+   "date": "2026-08-14",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "农业科技谈话播客：智能播种与农场AI的未来",
+   "url": "https://www.agribusinessglobal.com/agtech/ag-tech-talk-podcast-smart-seeding-and-the-future-of-ai-on-the-farm/",
+   "source": "AgriBusinessGlobal",
+   "date": "2026-08-13",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "助剂腾飞：为无人机时代而配方",
+   "url": "https://www.agribusinessglobal.com/agrochemicals/adjuvants/adjuvants-formulation-for-the-drone-era/",
+   "source": "AgriBusinessGlobal",
+   "date": "2026-08-13",
+   "tag": "行业",
+   "tag_class": "tag-news"
   },
   {
    "title": "江苏2024-2026年农机补贴额一览表第三批通告",
