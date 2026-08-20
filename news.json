@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20 18:06",
+ "updated": "2026-08-21 00:04",
  "items": [
   {
    "title": "广西2026年第六批省级农机鉴定结果",
@@ -98,6 +98,62 @@
    "date": "2026-08-17"
   },
   {
+   "title": "2026年第33周瘦肉型白条猪肉出厂价格监测周报",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84157",
+   "source": "农业农村部价格指数",
+   "date": "2026-08-16",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "2026年第32周瘦肉型白条猪肉出厂价格监测周报",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84146",
+   "source": "农业农村部价格指数",
+   "date": "2026-08-09",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "2026年7月瘦肉型白条猪肉出厂价格监测月报",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84145",
+   "source": "农业农村部价格指数",
+   "date": "2026-08-09",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "2026年第31周瘦肉型白条猪肉出厂价格监测周报",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84137",
+   "source": "农业农村部价格指数",
+   "date": "2026-08-02",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "全国粮食品牌建设工作推进会在吉林召开",
+   "url": "https://www.lswz.gov.cn/html/xinwen/2026-08/19/content_294659.shtml",
+   "source": "国家粮食局",
+   "date": "2026-08-20",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "刘焕鑫出席吉林粮食品牌产业发展大会",
+   "url": "https://www.lswz.gov.cn/html/xinwen/2026-08/20/content_294666.shtml",
+   "source": "国家粮食局",
+   "date": "2026-08-20",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "刘焕鑫会见澳大利亚驻华大使吉思德",
+   "url": "https://www.lswz.gov.cn/html/xinwen/2026-08/11/content_294609.shtml",
+   "source": "国家粮食局",
+   "date": "2026-08-11",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
    "title": "自动驾驶拖拉机减少土壤压实",
    "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semiauto-steering/autonomous-vehicles/less-soil-compaction-with-autonomous-tractor/",
    "source": "FutureFarming",
@@ -106,7 +162,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "Azaneo押注不可逆电穿孔技术以在成本上击败除草剂",
+   "title": "Azaneo押注不可逆电穿孔，在成本上击败除草剂",
    "url": "https://www.futurefarming.com/crop-solutions/azaneo-bets-on-irreversible-electroporation-to-beat-herbicide-on-cost/",
    "source": "FutureFarming",
    "date": "2026-08-19",
@@ -114,7 +170,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Sami Robotics扩大西兰花采收规模，迈向多作物多任务平台",
+   "title": "Sami Robotics扩大西兰花收获规模，同时迈向多作物多任务平台",
    "url": "https://www.futurefarming.com/crop-solutions/sami-robotics-scales-up-broccoli-harvesting-as-it-builds-towards-a-multi-crop-multi-task-platform/",
    "source": "FutureFarming",
    "date": "2026-08-18",
@@ -122,44 +178,12 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "自主水果作业机具已就绪",
+   "title": "自主水果机具已就绪",
    "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semi-autosteering-systems/autonomous-fruit-implements-are-ready/",
    "source": "FutureFarming",
    "date": "2026-08-17",
    "tag": "技术",
    "tag_class": "tag-tech"
-  },
-  {
-   "title": "AgriBusiness Global报告：美国非专利农资、市场进入及经纪商策略",
-   "url": "https://www.agribusinessglobal.com/agrochemicals/agribusiness-global-report-generic-ag-inputs-market-entry-and-broker-strategies-for-the-u-s/",
-   "source": "AgriBusinessGlobal",
-   "date": "2026-08-14",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "欧盟植保产品：2025-2026年监管、透明度及司法审查关键进展",
-   "url": "https://www.agribusinessglobal.com/markets/europe/eu-plant-protection-products-key-regulatory-transparency-and-judicial-review-developments-in-2025-2026/",
-   "source": "AgriBusinessGlobal",
-   "date": "2026-08-14",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "Ag Tech Talk播客：智能播种与AI在农场的未来",
-   "url": "https://www.agribusinessglobal.com/agtech/ag-tech-talk-podcast-smart-seeding-and-the-future-of-ai-on-the-farm/",
-   "source": "AgriBusinessGlobal",
-   "date": "2026-08-13",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "助剂起飞：面向无人机时代的配方",
-   "url": "https://www.agribusinessglobal.com/agrochemicals/adjuvants/adjuvants-formulation-for-the-drone-era/",
-   "source": "AgriBusinessGlobal",
-   "date": "2026-08-13",
-   "tag": "行业",
-   "tag_class": "tag-news"
   },
   {
    "title": "江苏2024-2026年农机补贴额一览表第三批通告",
@@ -258,46 +282,6 @@
    "date": "2025-10-26"
   },
   {
-   "title": "圈粉东南亚！潍柴雷沃亮相2026年越南国际农业机械展览会",
-   "url": "https://www.lovol.com.cn/news/medianews-detail-6192.htm",
-   "source": "潍柴雷沃",
-   "tag": "市场",
-   "tag_class": "tag-data",
-   "date": "2026-07-29"
-  },
-  {
-   "title": "战略协同 产品赋能 运营提效 竞争增长 | 潍柴雷沃智慧农业2026年全球合作伙伴发展大会召开",
-   "url": "https://www.lovol.com.cn/news/medianews-detail-6191.htm",
-   "source": "潍柴雷沃",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-07-29"
-  },
-  {
-   "title": "农大学生眼里的中国农业 | “遇见丰收中国”主题采风走进中国田间日",
-   "url": "https://www.lovol.com.cn/news/medianews-detail-6164.htm",
-   "source": "潍柴雷沃",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-07-29"
-  },
-  {
-   "title": "中国田间日丨潍柴雷沃智慧农业解锁“塞外粮仓”增产密码",
-   "url": "https://www.lovol.com.cn/news/medianews-detail-6163.htm",
-   "source": "潍柴雷沃",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-07-29"
-  },
-  {
-   "title": "智造再升级 | 潍柴雷沃智慧农业中马力拖拉机数智化产线落成投产",
-   "url": "https://www.lovol.com.cn/news/medianews-detail-6120.htm",
-   "source": "潍柴雷沃",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-07-29"
-  },
-  {
    "title": "地质气象灾害救援装备",
    "url": "https://www.zoomlion.com/content/details332_23826.html",
    "source": "中联重科",
@@ -306,32 +290,32 @@
    "date": ""
   },
   {
-   "title": "中国物流集团党委书记、董事长刘敬桢一行到中联重科考察座谈",
-   "url": "https://www.zoomlion.com/content/details18_34013.html",
+   "title": "产需共融“中联方案”！中联重科精彩亮相2026世界机器人大会",
+   "url": "https://www.zoomlion.com/content/details18_34047.html",
    "source": "中联重科",
    "tag": "行业",
    "tag_class": "tag-news",
    "date": ""
   },
   {
-   "title": "沈晓明走访调研中联重科股份有限公司",
-   "url": "https://www.zoomlion.com/content/details18_34005.html",
+   "title": "中联重科与中铁九局签署战略合作协议",
+   "url": "https://www.zoomlion.com/content/details18_34046.html",
    "source": "中联重科",
    "tag": "行业",
    "tag_class": "tag-news",
    "date": ""
   },
   {
-   "title": "交付现场追加订单！中联重科土方机械实力圈粉沙特",
-   "url": "https://www.zoomlion.com/content/details18_34004.html",
+   "title": "深耕拉美成效凸显，中联重科土方机械热销巴西",
+   "url": "https://www.zoomlion.com/content/details18_34045.html",
    "source": "中联重科",
    "tag": "行业",
    "tag_class": "tag-news",
    "date": ""
   },
   {
-   "title": "攻克世界级吊装难题！中联重科万吨米级特大型塔机项目获湖南省科技进步奖一等奖",
-   "url": "https://www.zoomlion.com/content/details18_33974.html",
+   "title": "连夜驰援！中联重科助力哥伦比亚地震重灾区一线救援",
+   "url": "https://www.zoomlion.com/content/details18_34044.html",
    "source": "中联重科",
    "tag": "行业",
    "tag_class": "tag-news",
@@ -416,6 +400,22 @@
    "tag": "行业",
    "tag_class": "tag-news",
    "date": "2026-07-01"
+  },
+  {
+   "title": "金秋农博盛会启幕 | 沃得农机亮相第二十五届长春农博会",
+   "url": "http://www.worldnyjx.com/index.php?m=content&c=index&a=show&catid=126&id=575",
+   "source": "沃得",
+   "date": "2026-08-19",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "科创农机赴佳展！沃得多款实力机型亮相佳木斯农机展销会",
+   "url": "http://www.worldnyjx.com/index.php?m=content&c=index&a=show&catid=126&id=573",
+   "source": "沃得",
+   "date": "2026-08-18",
+   "tag": "市场",
+   "tag_class": "tag-data"
   }
  ]
 }
