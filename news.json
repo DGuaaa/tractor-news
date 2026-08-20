@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-20 06:07",
+ "updated": "2026-08-20 12:09",
  "items": [
   {
    "title": "广东2026年第四批农机鉴定结果",
@@ -98,6 +98,30 @@
    "date": "2026-08-17"
   },
   {
+   "title": "8月19日：“农产品批发价格200指数”比昨天上升0.07个点。",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84159",
+   "source": "农业农村部价格指数",
+   "date": "2026-08-18",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "8月18日：“农产品批发价格200指数”比昨天上升0.14个点。",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84156",
+   "source": "农业农村部价格指数",
+   "date": "2026-08-17",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "8月17日：“农产品批发价格200指数”比上周五上升0.28个点。",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84155",
+   "source": "农业农村部价格指数",
+   "date": "2026-08-16",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
    "title": "2026年第33周瘦肉型白条猪肉出厂价格监测周报",
    "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84157",
    "source": "农业农村部价格指数",
@@ -106,31 +130,31 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "2026年7月瘦肉型白条猪肉出厂价格监测月报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84145",
-   "source": "农业农村部价格指数",
-   "date": "2026-08-09",
-   "tag": "市场",
-   "tag_class": "tag-data"
+   "title": "全国粮食品牌建设工作推进会在吉林召开",
+   "url": "https://www.lswz.gov.cn/html/xinwen/2026-08/19/content_294659.shtml",
+   "source": "国家粮食局",
+   "date": "2026-08-20",
+   "tag": "行业",
+   "tag_class": "tag-news"
   },
   {
-   "title": "2026年第32周瘦肉型白条猪肉出厂价格监测周报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84146",
-   "source": "农业农村部价格指数",
-   "date": "2026-08-09",
-   "tag": "市场",
-   "tag_class": "tag-data"
+   "title": "刘焕鑫出席吉林粮食品牌产业发展大会",
+   "url": "https://www.lswz.gov.cn/html/xinwen/2026-08/20/content_294666.shtml",
+   "source": "国家粮食局",
+   "date": "2026-08-20",
+   "tag": "行业",
+   "tag_class": "tag-news"
   },
   {
-   "title": "2026年第31周瘦肉型白条猪肉出厂价格监测周报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84137",
-   "source": "农业农村部价格指数",
-   "date": "2026-08-02",
-   "tag": "市场",
-   "tag_class": "tag-data"
+   "title": "刘焕鑫会见澳大利亚驻华大使吉思德",
+   "url": "https://www.lswz.gov.cn/html/xinwen/2026-08/11/content_294609.shtml",
+   "source": "国家粮食局",
+   "date": "2026-08-11",
+   "tag": "行业",
+   "tag_class": "tag-news"
   },
   {
-   "title": "Azaneo押注不可逆电穿孔技术在成本上击败除草剂",
+   "title": "Azaneo押注不可逆电穿孔技术，以成本优势击败除草剂",
    "url": "https://www.futurefarming.com/crop-solutions/azaneo-bets-on-irreversible-electroporation-to-beat-herbicide-on-cost/",
    "source": "FutureFarming",
    "date": "2026-08-19",
@@ -138,7 +162,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Sami Robotics扩大西兰花收获规模，迈向多作物、多任务平台",
+   "title": "Sami Robotics扩大西兰花收获规模，迈向多作物多任务平台",
    "url": "https://www.futurefarming.com/crop-solutions/sami-robotics-scales-up-broccoli-harvesting-as-it-builds-towards-a-multi-crop-multi-task-platform/",
    "source": "FutureFarming",
    "date": "2026-08-18",
@@ -146,7 +170,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "自主水果农机具已就绪",
+   "title": "自主水果机具已就绪",
    "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semi-autosteering-systems/autonomous-fruit-implements-are-ready/",
    "source": "FutureFarming",
    "date": "2026-08-17",
@@ -154,7 +178,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "“Ullmanna锄头几年内即可回本”",
+   "title": "“Ullmanna锄几年内即可收回成本”",
    "url": "https://www.futurefarming.com/smart-farming/ullmanna-hoe-pays-for-itself-within-a-few-years/",
    "source": "FutureFarming",
    "date": "2026-08-13",
@@ -162,7 +186,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "AgriBusiness Global报告：美国非专利农资、市场准入与经纪人策略",
+   "title": "AgriBusiness Global报告：美国农业投入品仿制品、市场进入及经纪人策略",
    "url": "https://www.agribusinessglobal.com/agrochemicals/agribusiness-global-report-generic-ag-inputs-market-entry-and-broker-strategies-for-the-u-s/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-14",
@@ -170,7 +194,7 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "欧盟植物保护产品：2025-2026年关键监管、透明度与司法审查进展",
+   "title": "欧盟植保产品：2025-2026年关键监管、透明度及司法审查动态",
    "url": "https://www.agribusinessglobal.com/markets/europe/eu-plant-protection-products-key-regulatory-transparency-and-judicial-review-developments-in-2025-2026/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-14",
@@ -178,7 +202,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Ag Tech Talk播客：智能播种与农场人工智能的未来",
+   "title": "Ag Tech Talk播客：智能播种与农场AI的未来",
    "url": "https://www.agribusinessglobal.com/agtech/ag-tech-talk-podcast-smart-seeding-and-the-future-of-ai-on-the-farm/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-13",
@@ -186,7 +210,7 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "助剂起飞：为无人机时代制定配方",
+   "title": "助剂腾飞：为无人机时代配制",
    "url": "https://www.agribusinessglobal.com/agrochemicals/adjuvants/adjuvants-formulation-for-the-drone-era/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-13",
@@ -322,6 +346,46 @@
    "date": "2025-12-22"
   },
   {
+   "title": "圈粉东南亚！潍柴雷沃亮相2026年越南国际农业机械展览会",
+   "url": "https://www.lovol.com.cn/news/medianews-detail-6192.htm",
+   "source": "潍柴雷沃",
+   "tag": "市场",
+   "tag_class": "tag-data",
+   "date": "2026-07-29"
+  },
+  {
+   "title": "战略协同 产品赋能 运营提效 竞争增长 | 潍柴雷沃智慧农业2026年全球合作伙伴发展大会召开",
+   "url": "https://www.lovol.com.cn/news/medianews-detail-6191.htm",
+   "source": "潍柴雷沃",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-07-29"
+  },
+  {
+   "title": "农大学生眼里的中国农业 | “遇见丰收中国”主题采风走进中国田间日",
+   "url": "https://www.lovol.com.cn/news/medianews-detail-6164.htm",
+   "source": "潍柴雷沃",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-07-29"
+  },
+  {
+   "title": "中国田间日丨潍柴雷沃智慧农业解锁“塞外粮仓”增产密码",
+   "url": "https://www.lovol.com.cn/news/medianews-detail-6163.htm",
+   "source": "潍柴雷沃",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-07-29"
+  },
+  {
+   "title": "智造再升级 | 潍柴雷沃智慧农业中马力拖拉机数智化产线落成投产",
+   "url": "https://www.lovol.com.cn/news/medianews-detail-6120.htm",
+   "source": "潍柴雷沃",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-07-29"
+  },
+  {
    "title": "地质气象灾害救援装备",
    "url": "https://www.zoomlion.com/content/details332_23826.html",
    "source": "中联重科",
@@ -384,70 +448,6 @@
    "tag": "市场",
    "tag_class": "tag-data",
    "date": "2023-3-18"
-  },
-  {
-   "title": "2022年度久保田VIP用户来社参观侧记",
-   "url": "http://www.kubota.com.cn/kams/newsone.do?hidnewsid=141&hidoffset=1&hidcount=6",
-   "source": "久保田中国",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": ""
-  },
-  {
-   "title": "再获殊荣丨久保田荣获2020中国农业机械年度TOP50+两项大奖",
-   "url": "http://www.kubota.com.cn/kams/newsone.do?hidnewsid=140&hidoffset=1&hidcount=6",
-   "source": "久保田中国",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2021-9-28"
-  },
-  {
-   "title": "总统成为首位车主！中国一拖刚果（布）农业装备组装厂首批拖拉机下线",
-   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202608/t20260817_650950.html",
-   "source": "一拖东方红",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-08-17"
-  },
-  {
-   "title": "湖南首个“东方红公益助农服务示范点”在韶山落地",
-   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202608/t20260804_649098.html",
-   "source": "一拖东方红",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-08-04"
-  },
-  {
-   "title": "四良集成守粮安——“东方红”亮相呼伦贝尔田间日",
-   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202607/t20260713_646753.html",
-   "source": "一拖东方红",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-07-13"
-  },
-  {
-   "title": "一拖股份斩获第十七届天马奖两项大奖，蝉联Wind ESG AA级评级",
-   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202607/t20260701_643835.html",
-   "source": "一拖东方红",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-07-01"
-  },
-  {
-   "title": "金秋农博盛会启幕 | 沃得农机亮相第二十五届长春农博会",
-   "url": "http://www.worldnyjx.com/index.php?m=content&c=index&a=show&catid=126&id=575",
-   "source": "沃得",
-   "date": "2026-08-19",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "科创农机赴佳展！沃得多款实力机型亮相佳木斯农机展销会",
-   "url": "http://www.worldnyjx.com/index.php?m=content&c=index&a=show&catid=126&id=573",
-   "source": "沃得",
-   "date": "2026-08-18",
-   "tag": "市场",
-   "tag_class": "tag-data"
   }
  ]
 }
