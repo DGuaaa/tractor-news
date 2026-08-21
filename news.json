@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-21 12:05",
+ "updated": "2026-08-21 18:03",
  "items": [
   {
    "title": "青岛2026年加力推进农机补贴“优机优补”“有进有出”",
@@ -98,6 +98,14 @@
    "date": "2025-09-02"
   },
   {
+   "title": "亚太经合组织粮食安全高级别政企对话会在大连举行",
+   "url": "https://www.lswz.gov.cn/html/xinwen/2026-08/21/content_294715.shtml",
+   "source": "国家粮食局",
+   "date": "2026-08-21",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
    "title": "全国粮食品牌建设工作推进会在吉林召开",
    "url": "https://www.lswz.gov.cn/html/xinwen/2026-08/19/content_294659.shtml",
    "source": "国家粮食局",
@@ -138,12 +146,12 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "刘焕鑫赴上海调研应急储备物资保障工作",
-   "url": "https://www.lswz.gov.cn/html/xinwen/2026-07/20/content_294394.shtml",
-   "source": "国家粮食局",
-   "date": "2026-07-20",
-   "tag": "行业",
-   "tag_class": "tag-news"
+   "title": "Agtonomy增加自动多点转弯功能并扩展数据能力",
+   "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semi-autosteering-systems/agtonomy-adds-autonomous-multi-point-turning-and-expands-data-capabilities/",
+   "source": "FutureFarming",
+   "date": "2026-08-21",
+   "tag": "技术",
+   "tag_class": "tag-tech"
   },
   {
    "title": "自动驾驶拖拉机减少土壤压实",
@@ -154,7 +162,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "Azaneo押注不可逆电穿孔技术以在成本上击败除草剂",
+   "title": "Azaneo押注不可逆电穿孔技术，以成本优势击败除草剂",
    "url": "https://www.futurefarming.com/crop-solutions/azaneo-bets-on-irreversible-electroporation-to-beat-herbicide-on-cost/",
    "source": "FutureFarming",
    "date": "2026-08-19",
@@ -162,7 +170,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Sami Robotics扩大西兰花收获规模，构建多作物多任务平台",
+   "title": "Sami Robotics扩大西兰花收割规模，打造多作物多任务平台",
    "url": "https://www.futurefarming.com/crop-solutions/sami-robotics-scales-up-broccoli-harvesting-as-it-builds-towards-a-multi-crop-multi-task-platform/",
    "source": "FutureFarming",
    "date": "2026-08-18",
@@ -170,15 +178,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "自主水果农机具已就绪",
-   "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semi-autosteering-systems/autonomous-fruit-implements-are-ready/",
-   "source": "FutureFarming",
-   "date": "2026-08-17",
-   "tag": "技术",
-   "tag_class": "tag-tech"
-  },
-  {
-   "title": "非洲作物保护市场进入机遇与不确定性的新时代",
+   "title": "非洲作物保护市场进入机遇与不确定性并存的新时代",
    "url": "https://www.agribusinessglobal.com/markets/africa-middle-east/africas-crop-protection-market-enters-a-new-era-of-opportunity-and-uncertainty/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-20",
@@ -186,7 +186,7 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "效率、替代与重塑：可持续作物保护的三大路径",
+   "title": "效率、替代与重新设计：通往可持续作物保护的三条路径",
    "url": "https://www.agribusinessglobal.com/plant-health/efficiency-substitution-and-redesign-three-paths-toward-sustainable-crop-protection/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-19",
@@ -194,7 +194,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "BIOTROP任命Andre Cerignoni为北美总经理，BioWorks整合推进",
+   "title": "BIOTROP任命Andre Cerignoni为北美总经理，推进BioWorks整合",
    "url": "https://www.agribusinessglobal.com/biologicals/biotrop-appoints-andre-cerignoni-as-general-manager-of-north-america-strengthening-bioworks-and-biotrops-unique-market-strategies-under-one-platform/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-18",
@@ -311,7 +311,7 @@
    "source": "潍柴雷沃",
    "tag": "行业",
    "tag_class": "tag-news",
-   "date": ""
+   "date": "2026-07-29"
   },
   {
    "title": "中国田间日丨潍柴雷沃智慧农业解锁“塞外粮仓”增产密码",
