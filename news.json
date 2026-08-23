@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24 00:05",
+ "updated": "2026-08-24 06:03",
  "items": [
   {
    "title": "甘肃2026年第二批农机补贴机具现场演示",
@@ -98,34 +98,34 @@
    "date": "2025-09-02"
   },
   {
-   "title": "2026年第33周瘦肉型白条猪肉出厂价格监测周报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84157",
+   "title": "8月21日：“农产品批发价格200指数”比昨天下降0.06个点。",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84162",
    "source": "农业农村部价格指数",
-   "date": "2026-08-16",
+   "date": "2026-08-20",
    "tag": "市场",
    "tag_class": "tag-data"
   },
   {
-   "title": "2026年7月瘦肉型白条猪肉出厂价格监测月报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84145",
+   "title": "全国农产品批发市场一周价格行情监测报告（2026年8月14日—2026年8月20日）",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84163",
    "source": "农业农村部价格指数",
-   "date": "2026-08-09",
+   "date": "2026-08-20",
    "tag": "市场",
    "tag_class": "tag-data"
   },
   {
-   "title": "2026年第32周瘦肉型白条猪肉出厂价格监测周报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84146",
+   "title": "8月20日：“农产品批发价格200指数”比昨天下降0.04个点。",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84160",
    "source": "农业农村部价格指数",
-   "date": "2026-08-09",
+   "date": "2026-08-19",
    "tag": "市场",
    "tag_class": "tag-data"
   },
   {
-   "title": "2026年第31周瘦肉型白条猪肉出厂价格监测周报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84137",
+   "title": "8月19日：“农产品批发价格200指数”比昨天上升0.07个点。",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84159",
    "source": "农业农村部价格指数",
-   "date": "2026-08-02",
+   "date": "2026-08-18",
    "tag": "市场",
    "tag_class": "tag-data"
   },
@@ -154,7 +154,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Agtonomy新增自动多点转向并扩展数据能力",
+   "title": "Agtonomy新增自主多点转向功能并扩展数据能力",
    "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semi-autosteering-systems/agtonomy-adds-autonomous-multi-point-turning-and-expands-data-capabilities/",
    "source": "FutureFarming",
    "date": "2026-08-21",
@@ -162,7 +162,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "自动驾驶拖拉机减少土壤压实",
+   "title": "自主拖拉机减少土壤压实",
    "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semiauto-steering/autonomous-vehicles/less-soil-compaction-with-autonomous-tractor/",
    "source": "FutureFarming",
    "date": "2026-08-20",
@@ -170,7 +170,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "Azaneo押注不可逆电穿孔技术以在成本上击败除草剂",
+   "title": "Azaneo押注不可逆电穿孔，以成本优势击败除草剂",
    "url": "https://www.futurefarming.com/crop-solutions/azaneo-bets-on-irreversible-electroporation-to-beat-herbicide-on-cost/",
    "source": "FutureFarming",
    "date": "2026-08-19",
@@ -178,7 +178,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Sami Robotics扩大西兰花收获规模，打造多作物多任务平台",
+   "title": "Sami Robotics扩大西兰花采收规模，构建多作物多任务平台",
    "url": "https://www.futurefarming.com/crop-solutions/sami-robotics-scales-up-broccoli-harvesting-as-it-builds-towards-a-multi-crop-multi-task-platform/",
    "source": "FutureFarming",
    "date": "2026-08-18",
@@ -186,7 +186,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "非洲作物保护市场进入机遇与不确定并存的新时代",
+   "title": "非洲作物保护市场进入充满机遇与不确定性的新时代",
    "url": "https://www.agribusinessglobal.com/markets/africa-middle-east/africas-crop-protection-market-enters-a-new-era-of-opportunity-and-uncertainty/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-20",
