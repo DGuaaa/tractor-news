@@ -1,25 +1,25 @@
 {
- "updated": "2026-08-25 06:02",
+ "updated": "2026-08-25 12:03",
  "items": [
   {
-   "title": "辽宁省开展2026年农机补贴产品第四批自主投档工作",
+   "title": "江苏对2026年第二批农机补贴投档违规约谈",
+   "url": "https://news.nongji360.com/html/2026/08/274119.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-08-25"
+  },
+  {
+   "title": "宁夏约谈农机补贴第三批投档违规企业",
+   "url": "https://news.nongji360.com/html/2026/08/274115.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-08-24"
+  },
+  {
+   "title": "辽宁开展2026年农机补贴产品第四批投档",
    "url": "https://news.nongji360.com/html/2026/08/274112.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-08-24"
-  },
-  {
-   "title": "宁夏对违反农机补贴政策处理通报",
-   "url": "https://news.nongji360.com/html/2026/08/274114.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-08-24"
-  },
-  {
-   "title": "厦门农机补贴产品第七批公示",
-   "url": "https://news.nongji360.com/html/2026/08/274116.shtml",
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
@@ -32,6 +32,22 @@
    "tag": "政策",
    "tag_class": "tag-policy",
    "date": "2026-08-24"
+  },
+  {
+   "title": "【违规】江苏省对2026年第二批农机购置与应用补贴投档违规有关企业进行约谈的函",
+   "url": "https://news.nongji360.com/html/2026/08/274119.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-08-25"
+  },
+  {
+   "title": "【鉴定】辽宁省农业机械鉴定站关于2026年第二批农机推广鉴定结果的公告",
+   "url": "https://news.nongji360.com/html/2026/08/274118.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-08-25"
   },
   {
    "title": "【归档】厦门市2024-2026年中央财政资金农机购置与应用补贴产品信息（第七批）的公示通知",
@@ -82,23 +98,39 @@
    "date": "2026-08-24"
   },
   {
-   "title": "【归档】甘肃省2026年第三批农机购置与应用补贴产品投档形式审核情况的公示",
-   "url": "https://news.nongji360.com/html/2026/08/274103.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-08-24"
+   "title": "8月24日：“农产品批发价格200指数”比上周五上升0.02个点。",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84164",
+   "source": "农业农村部价格指数",
+   "date": "2026-08-23",
+   "tag": "市场",
+   "tag_class": "tag-data"
   },
   {
-   "title": "【通知】天津开展农机生产（经销）企业参与农机购置与应用补贴政策实施承诺践诺自查工作的通知",
-   "url": "https://news.nongji360.com/html/2026/08/274102.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-08-24"
+   "title": "全国农产品批发市场一周价格行情监测报告（2026年8月14日—2026年8月20日）",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84163",
+   "source": "农业农村部价格指数",
+   "date": "2026-08-20",
+   "tag": "市场",
+   "tag_class": "tag-data"
   },
   {
-   "title": "Monosem更新NG Plus播种单元",
+   "title": "8月21日：“农产品批发价格200指数”比昨天下降0.06个点。",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84162",
+   "source": "农业农村部价格指数",
+   "date": "2026-08-20",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "8月20日：“农产品批发价格200指数”比昨天下降0.04个点。",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84160",
+   "source": "农业农村部价格指数",
+   "date": "2026-08-19",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "Monosem更新NG Plus播种机单元",
    "url": "https://www.futurefarming.com/machinery/monosem-updates-the-ng-plus-planter-unit/",
    "source": "FutureFarming",
    "date": "2026-08-24",
@@ -138,7 +170,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "非洲作物保护市场进入机遇与不确定性的新时代",
+   "title": "非洲作物保护市场进入机遇与不确定性并存的新时代",
    "url": "https://www.agribusinessglobal.com/markets/africa-middle-east/africas-crop-protection-market-enters-a-new-era-of-opportunity-and-uncertainty/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-20",
@@ -146,28 +178,12 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "效率、替代与重新设计：实现可持续作物保护的三大路径",
+   "title": "效率、替代与重新设计：实现可持续作物保护的三种路径",
    "url": "https://www.agribusinessglobal.com/plant-health/efficiency-substitution-and-redesign-three-paths-toward-sustainable-crop-protection/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-19",
    "tag": "行业",
    "tag_class": "tag-news"
-  },
-  {
-   "title": "11月1日：国产农机的“终点”与“起点”",
-   "url": "https://news.nongji360.com/html/2026/08/274055.shtml",
-   "source": "农机360",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-08-14"
-  },
-  {
-   "title": "2026年11月1日，三项农业机械强制性国家标准将正式实施。这场始于技术层面的修订，正在重塑整个收获机械行业的竞争规则。从“物理防护”",
-   "url": "https://news.nongji360.com/html/2026/08/274055.shtml",
-   "source": "农机360",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-08-14"
   },
   {
    "title": "从“能用”到“好用”：国产农机正加速“新”装上阵",
@@ -242,6 +258,14 @@
    "date": "2024-7-18"
   },
   {
+   "title": "2026农业装备产业发展大会举办",
+   "url": "http://www.caamm.org.cn/zfzc/4657.htm",
+   "source": "农机工业协会",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-08-25"
+  },
+  {
    "title": "2026全国农业机械展览会在河南..",
    "url": "http://www.caamm.org.cn/zfzc/4554.htm",
    "source": "农机工业协会",
@@ -280,6 +304,14 @@
    "tag": "行业",
    "tag_class": "tag-news",
    "date": "2025-10-26"
+  },
+  {
+   "title": "​7月份AMI指数为52.7%，景气指数持续发力上行",
+   "url": "https://www.camda.cn/analyze/2026/65886.html",
+   "source": "农机流通协会",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-08-06"
   },
   {
    "title": "圈粉东南亚！潍柴雷沃亮相2026年越南国际农业机械展览会",
@@ -416,30 +448,6 @@
    "tag": "市场",
    "tag_class": "tag-data",
    "date": "2026-08-06"
-  },
-  {
-   "title": "湖南首个“东方红公益助农服务示范点”在韶山落地",
-   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202608/t20260804_649098.html",
-   "source": "一拖东方红",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-08-04"
-  },
-  {
-   "title": "四良集成守粮安——“东方红”亮相呼伦贝尔田间日",
-   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202607/t20260713_646753.html",
-   "source": "一拖东方红",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-07-13"
-  },
-  {
-   "title": "一拖股份斩获第十七届天马奖两项大奖，蝉联Wind ESG AA级评级",
-   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202607/t20260701_643835.html",
-   "source": "一拖东方红",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-07-01"
   }
  ]
 }
