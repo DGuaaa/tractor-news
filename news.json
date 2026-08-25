@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25 12:03",
+ "updated": "2026-08-25 18:04",
  "items": [
   {
    "title": "江苏对2026年第二批农机补贴投档违规约谈",
@@ -98,71 +98,7 @@
    "date": "2026-08-24"
   },
   {
-   "title": "8月24日：“农产品批发价格200指数”比上周五上升0.02个点。",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84164",
-   "source": "农业农村部价格指数",
-   "date": "2026-08-23",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "全国农产品批发市场一周价格行情监测报告（2026年8月14日—2026年8月20日）",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84163",
-   "source": "农业农村部价格指数",
-   "date": "2026-08-20",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "8月21日：“农产品批发价格200指数”比昨天下降0.06个点。",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84162",
-   "source": "农业农村部价格指数",
-   "date": "2026-08-20",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "8月20日：“农产品批发价格200指数”比昨天下降0.04个点。",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84160",
-   "source": "农业农村部价格指数",
-   "date": "2026-08-19",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "Monosem更新NG Plus播种机单元",
-   "url": "https://www.futurefarming.com/machinery/monosem-updates-the-ng-plus-planter-unit/",
-   "source": "FutureFarming",
-   "date": "2026-08-24",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "Agtonomy增加自主多点转向并扩展数据能力",
-   "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semi-autosteering-systems/agtonomy-adds-autonomous-multi-point-turning-and-expands-data-capabilities/",
-   "source": "FutureFarming",
-   "date": "2026-08-21",
-   "tag": "技术",
-   "tag_class": "tag-tech"
-  },
-  {
-   "title": "自动驾驶拖拉机减少土壤压实",
-   "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semiauto-steering/autonomous-vehicles/less-soil-compaction-with-autonomous-tractor/",
-   "source": "FutureFarming",
-   "date": "2026-08-20",
-   "tag": "技术",
-   "tag_class": "tag-tech"
-  },
-  {
-   "title": "Azaneo押注不可逆电穿孔技术以在成本上击败除草剂",
-   "url": "https://www.futurefarming.com/crop-solutions/azaneo-bets-on-irreversible-electroporation-to-beat-herbicide-on-cost/",
-   "source": "FutureFarming",
-   "date": "2026-08-19",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "AgriBusiness Global报告：助剂的未来",
+   "title": "AgriBusiness全球报告：助剂的未来",
    "url": "https://www.agribusinessglobal.com/agribusiness-global-report/agribusiness-global-report-the-future-of-adjuvants/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-21",
@@ -170,7 +106,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "非洲作物保护市场进入机遇与不确定性并存的新时代",
+   "title": "非洲作物保护市场进入充满机遇与不确定性的新时代",
    "url": "https://www.agribusinessglobal.com/markets/africa-middle-east/africas-crop-protection-market-enters-a-new-era-of-opportunity-and-uncertainty/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-20",
@@ -178,7 +114,7 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "效率、替代与重新设计：实现可持续作物保护的三种路径",
+   "title": "效率、替代和重新设计：可持续作物保护的三大路径",
    "url": "https://www.agribusinessglobal.com/plant-health/efficiency-substitution-and-redesign-three-paths-toward-sustainable-crop-protection/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-19",
@@ -304,14 +240,6 @@
    "tag": "行业",
    "tag_class": "tag-news",
    "date": "2025-10-26"
-  },
-  {
-   "title": "​7月份AMI指数为52.7%，景气指数持续发力上行",
-   "url": "https://www.camda.cn/analyze/2026/65886.html",
-   "source": "农机流通协会",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-08-06"
   },
   {
    "title": "圈粉东南亚！潍柴雷沃亮相2026年越南国际农业机械展览会",
@@ -448,6 +376,30 @@
    "tag": "市场",
    "tag_class": "tag-data",
    "date": "2026-08-06"
+  },
+  {
+   "title": "湖南首个“东方红公益助农服务示范点”在韶山落地",
+   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202608/t20260804_649098.html",
+   "source": "一拖东方红",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-08-04"
+  },
+  {
+   "title": "四良集成守粮安——“东方红”亮相呼伦贝尔田间日",
+   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202607/t20260713_646753.html",
+   "source": "一拖东方红",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-07-13"
+  },
+  {
+   "title": "一拖股份斩获第十七届天马奖两项大奖，蝉联Wind ESG AA级评级",
+   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202607/t20260701_643835.html",
+   "source": "一拖东方红",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-07-01"
   }
  ]
 }
