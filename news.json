@@ -1,6 +1,22 @@
 {
- "updated": "2026-08-25 18:04",
+ "updated": "2026-08-26 00:03",
  "items": [
+  {
+   "title": "吉林省2024-2026年农机补贴产品第四次公告",
+   "url": "https://news.nongji360.com/html/2026/08/274123.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-08-25"
+  },
+  {
+   "title": "宁夏恢复6家生产企业农机补贴资格",
+   "url": "https://news.nongji360.com/html/2026/08/274122.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-08-25"
+  },
   {
    "title": "江苏对2026年第二批农机补贴投档违规约谈",
    "url": "https://news.nongji360.com/html/2026/08/274119.shtml",
@@ -10,28 +26,28 @@
    "date": "2026-08-25"
   },
   {
-   "title": "宁夏约谈农机补贴第三批投档违规企业",
-   "url": "https://news.nongji360.com/html/2026/08/274115.shtml",
+   "title": "【归档】吉林省2024—2026年农机购置补贴产品第四次形式审核结果的公告",
+   "url": "https://news.nongji360.com/html/2026/08/274123.shtml",
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
-   "date": "2026-08-24"
+   "date": "2026-08-25"
   },
   {
-   "title": "辽宁开展2026年农机补贴产品第四批投档",
-   "url": "https://news.nongji360.com/html/2026/08/274112.shtml",
+   "title": "【通知】宁夏关于恢复石家庄锐林机械设备有限公司等6家生产企业农机购置与应用补贴资格的通知",
+   "url": "https://news.nongji360.com/html/2026/08/274122.shtml",
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
-   "date": "2026-08-24"
+   "date": "2026-08-25"
   },
   {
-   "title": "云南2026年第三批补贴产品补充公示",
-   "url": "https://news.nongji360.com/html/2026/08/274113.shtml",
+   "title": "【归档】四川省关于提取2026年第三批投档评审数据的通知",
+   "url": "https://news.nongji360.com/html/2026/08/274121.shtml",
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
-   "date": "2026-08-24"
+   "date": "2026-08-25"
   },
   {
    "title": "【违规】江苏省对2026年第二批农机购置与应用补贴投档违规有关企业进行约谈的函",
@@ -82,23 +98,71 @@
    "date": "2026-08-24"
   },
   {
-   "title": "【归档】辽宁省开展2026年农机购置与应用补贴产品第四批自主投档工作的通知",
-   "url": "https://news.nongji360.com/html/2026/08/274112.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-08-24"
+   "title": "2026年第34周瘦肉型白条猪肉出厂价格监测周报",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84165",
+   "source": "农业农村部价格指数",
+   "date": "2026-08-23",
+   "tag": "市场",
+   "tag_class": "tag-data"
   },
   {
-   "title": "【归档】河南省2026年农机购置与应用补贴归档机具（第二批）的公告",
-   "url": "https://news.nongji360.com/html/2026/08/274109.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-08-24"
+   "title": "2026年第33周瘦肉型白条猪肉出厂价格监测周报",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84157",
+   "source": "农业农村部价格指数",
+   "date": "2026-08-16",
+   "tag": "市场",
+   "tag_class": "tag-data"
   },
   {
-   "title": "AgriBusiness全球报告：助剂的未来",
+   "title": "2026年7月瘦肉型白条猪肉出厂价格监测月报",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84145",
+   "source": "农业农村部价格指数",
+   "date": "2026-08-09",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "2026年第32周瘦肉型白条猪肉出厂价格监测周报",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84146",
+   "source": "农业农村部价格指数",
+   "date": "2026-08-09",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "机器人干好分内事，天气决定机遇",
+   "url": "https://www.futurefarming.com/crop-solutions/weed-pest-control/the-robot-does-its-job-the-weather-determines-the-opportunities/",
+   "source": "FutureFarming",
+   "date": "2026-08-25",
+   "tag": "技术",
+   "tag_class": "tag-tech"
+  },
+  {
+   "title": "Monosem升级NG Plus播种单元",
+   "url": "https://www.futurefarming.com/machinery/monosem-updates-the-ng-plus-planter-unit/",
+   "source": "FutureFarming",
+   "date": "2026-08-24",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "Agtonomy新增自主多点转弯并扩展数据能力",
+   "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semi-autosteering-systems/agtonomy-adds-autonomous-multi-point-turning-and-expands-data-capabilities/",
+   "source": "FutureFarming",
+   "date": "2026-08-21",
+   "tag": "技术",
+   "tag_class": "tag-tech"
+  },
+  {
+   "title": "自动驾驶拖拉机减少土壤压实",
+   "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semiauto-steering/autonomous-vehicles/less-soil-compaction-with-autonomous-tractor/",
+   "source": "FutureFarming",
+   "date": "2026-08-20",
+   "tag": "技术",
+   "tag_class": "tag-tech"
+  },
+  {
+   "title": "AgriBusiness Global报告：助剂的未来",
    "url": "https://www.agribusinessglobal.com/agribusiness-global-report/agribusiness-global-report-the-future-of-adjuvants/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-21",
@@ -106,7 +170,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "非洲作物保护市场进入充满机遇与不确定性的新时代",
+   "title": "非洲作物保护市场进入机遇与不确定性并存的新时代",
    "url": "https://www.agribusinessglobal.com/markets/africa-middle-east/africas-crop-protection-market-enters-a-new-era-of-opportunity-and-uncertainty/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-20",
@@ -114,12 +178,20 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "效率、替代和重新设计：可持续作物保护的三大路径",
+   "title": "效率、替代与重新设计：可持续作物保护的三大路径",
    "url": "https://www.agribusinessglobal.com/plant-health/efficiency-substitution-and-redesign-three-paths-toward-sustainable-crop-protection/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-19",
    "tag": "行业",
    "tag_class": "tag-news"
+  },
+  {
+   "title": "四川提取2026年第三批投档评审数据",
+   "url": "https://news.nongji360.com/html/2026/08/274121.shtml",
+   "source": "农机360",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-08-25"
   },
   {
    "title": "从“能用”到“好用”：国产农机正加速“新”装上阵",
@@ -376,30 +448,6 @@
    "tag": "市场",
    "tag_class": "tag-data",
    "date": "2026-08-06"
-  },
-  {
-   "title": "湖南首个“东方红公益助农服务示范点”在韶山落地",
-   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202608/t20260804_649098.html",
-   "source": "一拖东方红",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-08-04"
-  },
-  {
-   "title": "四良集成守粮安——“东方红”亮相呼伦贝尔田间日",
-   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202607/t20260713_646753.html",
-   "source": "一拖东方红",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-07-13"
-  },
-  {
-   "title": "一拖股份斩获第十七届天马奖两项大奖，蝉联Wind ESG AA级评级",
-   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202607/t20260701_643835.html",
-   "source": "一拖东方红",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-07-01"
   }
  ]
 }
