@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-28 18:05",
+ "updated": "2026-08-29 00:02",
  "items": [
   {
    "title": "内蒙古2026年第四批农机鉴定结果",
@@ -98,38 +98,6 @@
    "date": "2026-08-25"
   },
   {
-   "title": "2026年第34周瘦肉型白条猪肉出厂价格监测周报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84165",
-   "source": "农业农村部价格指数",
-   "date": "2026-08-23",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "2026年第33周瘦肉型白条猪肉出厂价格监测周报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84157",
-   "source": "农业农村部价格指数",
-   "date": "2026-08-16",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "2026年7月瘦肉型白条猪肉出厂价格监测月报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84145",
-   "source": "农业农村部价格指数",
-   "date": "2026-08-09",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "2026年第32周瘦肉型白条猪肉出厂价格监测周报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84146",
-   "source": "农业农村部价格指数",
-   "date": "2026-08-09",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
    "title": "刘焕鑫赴浙江调研粮食和物资储备工作",
    "url": "https://www.lswz.gov.cn/html/xinwen/2026-08/26/content_294821.shtml",
    "source": "国家粮食局",
@@ -154,7 +122,31 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "GUSS为自主果园喷雾机配备原生彩色激光雷达",
+   "title": "亚太经合组织粮食安全高级别政企对话会在大连举行",
+   "url": "https://www.lswz.gov.cn/html/xinwen/2026-08/21/content_294715.shtml",
+   "source": "国家粮食局",
+   "date": "2026-08-21",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "全国粮食品牌建设工作推进会在吉林召开",
+   "url": "https://www.lswz.gov.cn/html/xinwen/2026-08/19/content_294659.shtml",
+   "source": "国家粮食局",
+   "date": "2026-08-20",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "刘焕鑫出席吉林粮食品牌产业发展大会",
+   "url": "https://www.lswz.gov.cn/html/xinwen/2026-08/20/content_294666.shtml",
+   "source": "国家粮食局",
+   "date": "2026-08-20",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "GUSS为自主果园喷雾器添加原生彩色激光雷达",
    "url": "https://www.futurefarming.com/tech-in-focus/guss-to-add-native-color-lidar-to-autonomous-orchard-sprayers/",
    "source": "FutureFarming",
    "date": "2026-08-28",
@@ -162,7 +154,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "CropX收购SCIO，将农学与作物质量数据结合",
+   "title": "CropX收购SCIO，将农学与作物质量数据相连接",
    "url": "https://www.futurefarming.com/smart-farming/cropx-acquires-scio-to-link-agronomy-with-crop-quality-data/",
    "source": "FutureFarming",
    "date": "2026-08-27",
@@ -170,7 +162,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Solinftec在化学品平均减少85%后扩展Solix车队",
+   "title": "Solinftec在平均化学用量减少85%后扩大Solix车队规模",
    "url": "https://www.futurefarming.com/crop-solutions/weed-pest-control/solinftec-expands-solix-fleet-after-85-average-chemical-reduction/",
    "source": "FutureFarming",
    "date": "2026-08-26",
@@ -178,7 +170,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "“机器人做好本职，天气决定机遇”",
+   "title": "“机器人做好本职工作，天气决定机遇”",
    "url": "https://www.futurefarming.com/crop-solutions/weed-pest-control/the-robot-does-its-job-the-weather-determines-the-opportunities/",
    "source": "FutureFarming",
    "date": "2026-08-25",
@@ -186,7 +178,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "微生物制剂趋势：从细分生物制品到主流农资",
+   "title": "微生物制剂趋势：从小众生物制品到主流作物投入品",
    "url": "https://www.agribusinessglobal.com/biopesticides/whats-trending-in-microbials-from-niche-biologicals-to-mainstream-crop-inputs/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-26",
@@ -194,7 +186,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "从成本博弈到规则博弈：Rainbow在尚佩恩的举措预示中国农化战略在北美的新一代",
+   "title": "从成本博弈到规则博弈：Rainbow在尚佩恩的举动真正预示着什么关于中国农化北美下一代战略？",
    "url": "https://www.agribusinessglobal.com/markets/americas/from-cost-play-to-rule-play-what-rainbows-champaign-move-really-signals-about-the-next-generation-of-chinese-agchem-strategy-in-north-america/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-24",
@@ -202,7 +194,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "全球农业商业报告：助剂的未来",
+   "title": "AgriBusiness Global报告：助剂的前景",
    "url": "https://www.agribusinessglobal.com/agribusiness-global-report/agribusiness-global-report-the-future-of-adjuvants/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-21",
@@ -210,7 +202,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "非洲作物保护市场迎来机遇与不确定性的新时代",
+   "title": "非洲作物保护市场迎来机遇与不确定性并存的新时代",
    "url": "https://www.agribusinessglobal.com/markets/africa-middle-east/africas-crop-protection-market-enters-a-new-era-of-opportunity-and-uncertainty/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-20",
@@ -239,6 +231,62 @@
    "source": "农机360",
    "tag": "市场",
    "tag_class": "tag-data",
+   "date": "2026-08-27"
+  },
+  {
+   "title": "“车后面有人，你看见了吗？”——农机手最怕的一句话，有解了",
+   "url": "https://news.nongji360.com/html/2026/08/274154.shtml",
+   "source": "农机360",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-08-28"
+  },
+  {
+   "title": "每年农忙时节，农机事故的新闻从未断过。2024年7月，湖北仙桃，一台玉米收割机在玉米地作业，驾驶员未能观察到正在田埂附近观看作业的",
+   "url": "https://news.nongji360.com/html/2026/08/274154.shtml",
+   "source": "农机360",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-08-28"
+  },
+  {
+   "title": "黑龙江省关于征集黑土地保护性耕作全链条高端智能农机装备开展试验示范的通知",
+   "url": "https://news.nongji360.com/html/2026/08/274142.shtml",
+   "source": "农机360",
+   "tag": "技术",
+   "tag_class": "tag-tech",
+   "date": "2026-08-28"
+  },
+  {
+   "title": "关于征集黑土地保护性耕作全链条高端智能农机装备开展试验示范的通知各农机生产企业：为落实《黑龙江省黑土地保护性耕作实施指导意见（",
+   "url": "https://news.nongji360.com/html/2026/08/274142.shtml",
+   "source": "农机360",
+   "tag": "技术",
+   "tag_class": "tag-tech",
+   "date": "2026-08-28"
+  },
+  {
+   "title": "李强在黑龙江、吉林调研时强调多措并举稳产增产全力夺取秋粮丰收持续提升农业综合生产能力确保粮食安全",
+   "url": "https://news.nongji360.com/html/2026/08/274136.shtml",
+   "source": "农机360",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-08-27"
+  },
+  {
+   "title": "农业农村部最新答复！关于新质生产力如何赋能脱贫地区产业，要点来了",
+   "url": "https://news.nongji360.com/html/2026/08/274134.shtml",
+   "source": "农机360",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-08-27"
+  },
+  {
+   "title": "关于政协第十四届全国委员会第四次会议第02311号（经济发展类259号）提案答复的函摘要马珺委员：您提出的《关于以新质生产力推动脱贫地",
+   "url": "https://news.nongji360.com/html/2026/08/274134.shtml",
+   "source": "农机360",
+   "tag": "行业",
+   "tag_class": "tag-news",
    "date": "2026-08-27"
   },
   {
@@ -290,62 +338,6 @@
    "date": "2026-08-27"
   },
   {
-   "title": "一拖股份发布2026半年度报告",
-   "url": "https://www.nongjitong.com/news/2026/533926.html",
-   "source": "农机通",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-08-26"
-  },
-  {
-   "title": "重磅官宣！新疆首台！约翰迪尔9R 540正式交付！",
-   "url": "https://www.nongjitong.com/news/2026/533937.html",
-   "source": "农机通",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-08-25"
-  },
-  {
-   "title": "2027华北（山西）农机装备博览会",
-   "url": "https://www.nongjitong.com/news/2026/533880.html",
-   "source": "农机通",
-   "tag": "市场",
-   "tag_class": "tag-data",
-   "date": "2026-08-19"
-  },
-  {
-   "title": "第二十五届长春农博会｜顺邦农机以创新科技赋能现代农业，奔赴振兴新征程",
-   "url": "https://www.nongjitong.com/news/2026/533863.html",
-   "source": "农机通",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-08-19"
-  },
-  {
-   "title": "科技赋农 智耕全疆 | 钵施然智能无人机器人推广演示会在若羌成功举办",
-   "url": "https://www.nongjitong.com/news/2026/533874.html",
-   "source": "农机通",
-   "tag": "技术",
-   "tag_class": "tag-tech",
-   "date": "2026-08-14"
-  },
-  {
-   "title": "农业农村部召开干部大会强调 深入学习贯彻习近平总书记重要讲话和全国两会精神 扎实做好乡村全面振兴各项工作",
-   "url": "http://www.njhs.moa.gov.cn/gzdt/202603/t20260317_6482294.htm",
-   "source": "农业农村部农机化司",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-03-17"
-  },
-  {
-   "title": "中国共产党第二十届中央委员会第三次全体会议公报",
-   "url": "http://www.njhs.moa.gov.cn/gdxw/202407/t20240719_6459339.htm",
-   "source": "农业农村部农机化司",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2024-7-18"
-  },
-  {
    "title": "圈粉东南亚！潍柴雷沃亮相2026年越南国际农业机械展览会",
    "url": "https://www.lovol.com.cn/news/medianews-detail-6192.htm",
    "source": "潍柴雷沃",
@@ -394,6 +386,14 @@
    "date": ""
   },
   {
+   "title": "行业唯一！中联重科全栈自研机器人竞秀顶级赛场",
+   "url": "https://www.zoomlion.com/content/details18_34069.html",
+   "source": "中联重科",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": ""
+  },
+  {
    "title": "中联重科2026年半年报：境内外营收双增长，相关多元化及全球化战略持续深化",
    "url": "https://www.zoomlion.com/content/details18_34065.html",
    "source": "中联重科",
@@ -402,24 +402,16 @@
    "date": ""
   },
   {
+   "title": "詹纯新董事长考察德国摩泰克：深化融合协同 共拓全球化发展新空间",
+   "url": "https://www.zoomlion.com/content/details18_34059.html",
+   "source": "中联重科",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": ""
+  },
+  {
    "title": "中联重科在德国举办合作伙伴交流会 共话深耕欧洲与本地化发展",
    "url": "https://www.zoomlion.com/content/details18_34051.html",
-   "source": "中联重科",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": ""
-  },
-  {
-   "title": "产需共融“中联方案”！中联重科精彩亮相2026世界机器人大会",
-   "url": "https://www.zoomlion.com/content/details18_34047.html",
-   "source": "中联重科",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": ""
-  },
-  {
-   "title": "中联重科与中铁九局签署战略合作协议",
-   "url": "https://www.zoomlion.com/content/details18_34046.html",
    "source": "中联重科",
    "tag": "行业",
    "tag_class": "tag-news",
@@ -448,6 +440,14 @@
    "tag": "市场",
    "tag_class": "tag-data",
    "date": "2023-3-18"
+  },
+  {
+   "title": "2022年度久保田VIP用户来社参观侧记",
+   "url": "http://www.kubota.com.cn/kams/newsone.do?hidnewsid=141&hidoffset=1&hidcount=6",
+   "source": "久保田中国",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": ""
   }
  ]
 }
