@@ -1,6 +1,14 @@
 {
- "updated": "2026-08-28 12:03",
+ "updated": "2026-08-28 18:05",
  "items": [
+  {
+   "title": "内蒙古2026年第四批农机鉴定结果",
+   "url": "https://news.nongji360.com/html/2026/08/274141.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-08-28"
+  },
   {
    "title": "李强：加强高端农机装备研制推广",
    "url": "https://news.nongji360.com/html/2026/08/274136.shtml",
@@ -10,20 +18,28 @@
    "date": "2026-08-27"
   },
   {
-   "title": "北京2026年第二批农机补贴产品公示",
-   "url": "https://news.nongji360.com/html/2026/08/274138.shtml",
+   "title": "【通知】河北省电子类农业机械回收拆解企业新纳入名单公示",
+   "url": "https://news.nongji360.com/html/2026/08/274147.shtml",
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
-   "date": "2026-08-27"
+   "date": "2026-08-28"
   },
   {
-   "title": "青海2026年第二批次农机补贴产品公示",
-   "url": "https://news.nongji360.com/html/2026/08/274133.shtml",
+   "title": "【鉴定】内蒙古关于2026年第四批农业机械试验鉴定结果的通报",
+   "url": "https://news.nongji360.com/html/2026/08/274141.shtml",
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
-   "date": "2026-08-27"
+   "date": "2026-08-28"
+  },
+  {
+   "title": "【违规】江苏省反馈部分企业补贴产品违规处置情况的通知",
+   "url": "https://news.nongji360.com/html/2026/08/274139.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-08-28"
   },
   {
    "title": "【归档】北京市2026年第二批农机购置与应用补贴产品投档审核信息的公示",
@@ -66,12 +82,12 @@
    "date": "2026-08-26"
   },
   {
-   "title": "【归档】吉林省2024—2026年农机购置补贴产品第四次形式审核结果的公告",
-   "url": "https://news.nongji360.com/html/2026/08/274123.shtml",
+   "title": "【汇总】各省2024-2026年农机补贴政策通知相关汇总",
+   "url": "https://news.nongji360.com/html/2025/09/271215.shtml",
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
-   "date": "2026-08-25"
+   "date": "2025-09-02"
   },
   {
    "title": "【通知】宁夏关于恢复石家庄锐林机械设备有限公司等6家生产企业农机购置与应用补贴资格的通知",
@@ -82,50 +98,34 @@
    "date": "2026-08-25"
   },
   {
-   "title": "【归档】四川省关于提取2026年第三批投档评审数据的通知",
-   "url": "https://news.nongji360.com/html/2026/08/274121.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-08-25"
-  },
-  {
-   "title": "【汇总】各省2024-2026年农机补贴政策通知相关汇总",
-   "url": "https://news.nongji360.com/html/2025/09/271215.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2025-09-02"
-  },
-  {
-   "title": "8月27日：“农产品批发价格200指数”比昨天上升0.05个点。",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84171",
-   "source": "农业农村部价格指数",
-   "date": "2026-08-26",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "8月26日：“农产品批发价格200指数”比昨天上升0.15个点。",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84168",
-   "source": "农业农村部价格指数",
-   "date": "2026-08-25",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "8月25日：“农产品批发价格200指数”比昨天上升0.05个点。",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84167",
-   "source": "农业农村部价格指数",
-   "date": "2026-08-24",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
    "title": "2026年第34周瘦肉型白条猪肉出厂价格监测周报",
    "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84165",
    "source": "农业农村部价格指数",
    "date": "2026-08-23",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "2026年第33周瘦肉型白条猪肉出厂价格监测周报",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84157",
+   "source": "农业农村部价格指数",
+   "date": "2026-08-16",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "2026年7月瘦肉型白条猪肉出厂价格监测月报",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84145",
+   "source": "农业农村部价格指数",
+   "date": "2026-08-09",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "2026年第32周瘦肉型白条猪肉出厂价格监测周报",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84146",
+   "source": "农业农村部价格指数",
+   "date": "2026-08-09",
    "tag": "市场",
    "tag_class": "tag-data"
   },
@@ -154,7 +154,15 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "CropX acquires SCIO to link agronomy with crop quality data",
+   "title": "GUSS为自主果园喷雾机配备原生彩色激光雷达",
+   "url": "https://www.futurefarming.com/tech-in-focus/guss-to-add-native-color-lidar-to-autonomous-orchard-sprayers/",
+   "source": "FutureFarming",
+   "date": "2026-08-28",
+   "tag": "技术",
+   "tag_class": "tag-tech"
+  },
+  {
+   "title": "CropX收购SCIO，将农学与作物质量数据结合",
    "url": "https://www.futurefarming.com/smart-farming/cropx-acquires-scio-to-link-agronomy-with-crop-quality-data/",
    "source": "FutureFarming",
    "date": "2026-08-27",
@@ -162,7 +170,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Solinftec expands Solix fleet after 85% average chemical reduction",
+   "title": "Solinftec在化学品平均减少85%后扩展Solix车队",
    "url": "https://www.futurefarming.com/crop-solutions/weed-pest-control/solinftec-expands-solix-fleet-after-85-average-chemical-reduction/",
    "source": "FutureFarming",
    "date": "2026-08-26",
@@ -170,7 +178,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "&#8216;The robot does its job, the weather determines the opportunities&#8217;",
+   "title": "“机器人做好本职，天气决定机遇”",
    "url": "https://www.futurefarming.com/crop-solutions/weed-pest-control/the-robot-does-its-job-the-weather-determines-the-opportunities/",
    "source": "FutureFarming",
    "date": "2026-08-25",
@@ -178,15 +186,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "Monosem updates the NG Plus planter unit",
-   "url": "https://www.futurefarming.com/machinery/monosem-updates-the-ng-plus-planter-unit/",
-   "source": "FutureFarming",
-   "date": "2026-08-24",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "What’s Trending in Microbials: From Niche Biologicals to Mainstream Crop Inputs",
+   "title": "微生物制剂趋势：从细分生物制品到主流农资",
    "url": "https://www.agribusinessglobal.com/biopesticides/whats-trending-in-microbials-from-niche-biologicals-to-mainstream-crop-inputs/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-26",
@@ -194,7 +194,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "From Cost-Play to Rule-Play: What Rainbow&#8217;s Champaign Move Really Signals About the Next Generation of Chinese Ag Chem Strategy in North America",
+   "title": "从成本博弈到规则博弈：Rainbow在尚佩恩的举措预示中国农化战略在北美的新一代",
    "url": "https://www.agribusinessglobal.com/markets/americas/from-cost-play-to-rule-play-what-rainbows-champaign-move-really-signals-about-the-next-generation-of-chinese-agchem-strategy-in-north-america/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-24",
@@ -202,7 +202,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "AgriBusiness Global Report: The Future of Adjuvants",
+   "title": "全球农业商业报告：助剂的未来",
    "url": "https://www.agribusinessglobal.com/agribusiness-global-report/agribusiness-global-report-the-future-of-adjuvants/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-21",
@@ -210,7 +210,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Africa’s Crop Protection Market Enters a New Era of Opportunity and Uncertainty",
+   "title": "非洲作物保护市场迎来机遇与不确定性的新时代",
    "url": "https://www.agribusinessglobal.com/markets/africa-middle-east/africas-crop-protection-market-enters-a-new-era-of-opportunity-and-uncertainty/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-20",
@@ -218,12 +218,20 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "重庆农机补贴额一览表（2026年第二批调整）公示",
-   "url": "https://news.nongji360.com/html/2026/08/274131.shtml",
+   "title": "2025年农业机械行业分析报告",
+   "url": "https://news.nongji360.com/report/view/1116",
    "source": "农机360",
-   "tag": "市场",
-   "tag_class": "tag-data",
-   "date": "2026-08-27"
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-08-17"
+  },
+  {
+   "title": "河北省电子类农机回收拆解企业名单",
+   "url": "https://news.nongji360.com/html/2026/08/274147.shtml",
+   "source": "农机360",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-08-28"
   },
   {
    "title": "【目录】重庆市2024—2026年农机购置与应用补贴机具补贴额一览表（2026年第二批调整）公示",
@@ -231,46 +239,6 @@
    "source": "农机360",
    "tag": "市场",
    "tag_class": "tag-data",
-   "date": "2026-08-27"
-  },
-  {
-   "title": "黑龙江省关于征集黑土地保护性耕作全链条高端智能农机装备开展试验示范的通知",
-   "url": "https://news.nongji360.com/html/2026/08/274142.shtml",
-   "source": "农机360",
-   "tag": "技术",
-   "tag_class": "tag-tech",
-   "date": "2026-08-28"
-  },
-  {
-   "title": "关于征集黑土地保护性耕作全链条高端智能农机装备开展试验示范的通知各农机生产企业：为落实《黑龙江省黑土地保护性耕作实施指导意见（",
-   "url": "https://news.nongji360.com/html/2026/08/274142.shtml",
-   "source": "农机360",
-   "tag": "技术",
-   "tag_class": "tag-tech",
-   "date": "2026-08-28"
-  },
-  {
-   "title": "李强在黑龙江、吉林调研时强调多措并举稳产增产全力夺取秋粮丰收持续提升农业综合生产能力确保粮食安全",
-   "url": "https://news.nongji360.com/html/2026/08/274136.shtml",
-   "source": "农机360",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-08-27"
-  },
-  {
-   "title": "农业农村部最新答复！关于新质生产力如何赋能脱贫地区产业，要点来了",
-   "url": "https://news.nongji360.com/html/2026/08/274134.shtml",
-   "source": "农机360",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-08-27"
-  },
-  {
-   "title": "关于政协第十四届全国委员会第四次会议第02311号（经济发展类259号）提案答复的函摘要马珺委员：您提出的《关于以新质生产力推动脱贫地",
-   "url": "https://news.nongji360.com/html/2026/08/274134.shtml",
-   "source": "农机360",
-   "tag": "行业",
-   "tag_class": "tag-news",
    "date": "2026-08-27"
   },
   {
@@ -298,6 +266,46 @@
    "date": "2026-08-08"
   },
   {
+   "title": "老把式与格兰割草机的“默契”：抛得高、散得匀、干得快",
+   "url": "https://www.nongjitong.com/news/2026/533953.html",
+   "source": "农机通",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-08-28"
+  },
+  {
+   "title": "根植荆楚沃土，久保田相伴筑梦——周建新的现代化农业创富故事",
+   "url": "https://www.nongjitong.com/news/2026/533948.html",
+   "source": "农机通",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-08-28"
+  },
+  {
+   "title": "『东方红硬核装备护航粮仓』高端智能大马力拖拉机田间日启幕",
+   "url": "https://www.nongjitong.com/news/2026/533944.html",
+   "source": "农机通",
+   "tag": "技术",
+   "tag_class": "tag-tech",
+   "date": "2026-08-27"
+  },
+  {
+   "title": "一拖股份发布2026半年度报告",
+   "url": "https://www.nongjitong.com/news/2026/533926.html",
+   "source": "农机通",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-08-26"
+  },
+  {
+   "title": "重磅官宣！新疆首台！约翰迪尔9R 540正式交付！",
+   "url": "https://www.nongjitong.com/news/2026/533937.html",
+   "source": "农机通",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-08-25"
+  },
+  {
    "title": "2027华北（山西）农机装备博览会",
    "url": "https://www.nongjitong.com/news/2026/533880.html",
    "source": "农机通",
@@ -320,14 +328,6 @@
    "tag": "技术",
    "tag_class": "tag-tech",
    "date": "2026-08-14"
-  },
-  {
-   "title": "察县8万亩苜蓿田里的“格兰速度”：三年两万亩，一天三百亩",
-   "url": "https://www.nongjitong.com/news/2026/533841.html",
-   "source": "农机通",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-08-13"
   },
   {
    "title": "农业农村部召开干部大会强调 深入学习贯彻习近平总书记重要讲话和全国两会精神 扎实做好乡村全面振兴各项工作",
