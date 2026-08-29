@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30 00:04",
+ "updated": "2026-08-30 06:04",
  "items": [
   {
    "title": "福建拟列入优机补贴产品公示",
@@ -98,34 +98,34 @@
    "date": "2026-08-28"
   },
   {
-   "title": "2026年第34周瘦肉型白条猪肉出厂价格监测周报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84165",
+   "title": "8月28日：“农产品批发价格200指数”比昨天下降0.24个点。",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84172",
    "source": "农业农村部价格指数",
-   "date": "2026-08-23",
+   "date": "2026-08-27",
    "tag": "市场",
    "tag_class": "tag-data"
   },
   {
-   "title": "2026年第33周瘦肉型白条猪肉出厂价格监测周报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84157",
+   "title": "全国农产品批发市场一周价格行情监测报告（2026年8月21日—2026年8月27日）",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84173",
    "source": "农业农村部价格指数",
-   "date": "2026-08-16",
+   "date": "2026-08-27",
    "tag": "市场",
    "tag_class": "tag-data"
   },
   {
-   "title": "2026年7月瘦肉型白条猪肉出厂价格监测月报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84145",
+   "title": "8月27日：“农产品批发价格200指数”比昨天上升0.05个点。",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84171",
    "source": "农业农村部价格指数",
-   "date": "2026-08-09",
+   "date": "2026-08-26",
    "tag": "市场",
    "tag_class": "tag-data"
   },
   {
-   "title": "2026年第32周瘦肉型白条猪肉出厂价格监测周报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84146",
+   "title": "8月26日：“农产品批发价格200指数”比昨天上升0.15个点。",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84168",
    "source": "农业农村部价格指数",
-   "date": "2026-08-09",
+   "date": "2026-08-25",
    "tag": "市场",
    "tag_class": "tag-data"
   },
@@ -154,7 +154,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "GUSS to add native-color lidar to autonomous orchard sprayers",
+   "title": "GUSS 将为自主果园喷雾器配备原生彩色激光雷达",
    "url": "https://www.futurefarming.com/tech-in-focus/guss-to-add-native-color-lidar-to-autonomous-orchard-sprayers/",
    "source": "FutureFarming",
    "date": "2026-08-28",
@@ -162,7 +162,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "CropX acquires SCIO to link agronomy with crop quality data",
+   "title": "CropX 收购 SCIO,将农学与作物质量数据关联",
    "url": "https://www.futurefarming.com/smart-farming/cropx-acquires-scio-to-link-agronomy-with-crop-quality-data/",
    "source": "FutureFarming",
    "date": "2026-08-27",
@@ -170,7 +170,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Solinftec expands Solix fleet after 85% average chemical reduction",
+   "title": "Solinftec 在实现平均化学药剂减少 85% 后扩大 Solix 机队",
    "url": "https://www.futurefarming.com/crop-solutions/weed-pest-control/solinftec-expands-solix-fleet-after-85-average-chemical-reduction/",
    "source": "FutureFarming",
    "date": "2026-08-26",
@@ -178,7 +178,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "&#8216;The robot does its job, the weather determines the opportunities&#8217;",
+   "title": "‘机器人做好本职工作,天气决定机会’",
    "url": "https://www.futurefarming.com/crop-solutions/weed-pest-control/the-robot-does-its-job-the-weather-determines-the-opportunities/",
    "source": "FutureFarming",
    "date": "2026-08-25",
@@ -186,7 +186,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "What’s Trending in Microbials: From Niche Biologicals to Mainstream Crop Inputs",
+   "title": "微生物制品的趋势:从利基生物制剂到主流作物投入品",
    "url": "https://www.agribusinessglobal.com/biopesticides/whats-trending-in-microbials-from-niche-biologicals-to-mainstream-crop-inputs/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-26",
@@ -194,7 +194,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "From Cost-Play to Rule-Play: What Rainbow&#8217;s Champaign Move Really Signals About the Next Generation of Chinese Ag Chem Strategy in North America",
+   "title": "从成本博弈到规则博弈:Rainbow 的尚佩恩之举对中国农化北美下一代战略意味着什么?",
    "url": "https://www.agribusinessglobal.com/markets/americas/from-cost-play-to-rule-play-what-rainbows-champaign-move-really-signals-about-the-next-generation-of-chinese-agchem-strategy-in-north-america/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-24",
@@ -202,7 +202,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "AgriBusiness Global Report: The Future of Adjuvants",
+   "title": "AgriBusiness Global 报告:助剂的未来",
    "url": "https://www.agribusinessglobal.com/agribusiness-global-report/agribusiness-global-report-the-future-of-adjuvants/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-21",
@@ -210,7 +210,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Africa’s Crop Protection Market Enters a New Era of Opportunity and Uncertainty",
+   "title": "非洲作物保护市场进入机遇与不确定性的新时代",
    "url": "https://www.agribusinessglobal.com/markets/africa-middle-east/africas-crop-protection-market-enters-a-new-era-of-opportunity-and-uncertainty/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-20",
