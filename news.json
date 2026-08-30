@@ -1,14 +1,6 @@
 {
- "updated": "2026-08-30 18:04",
+ "updated": "2026-08-31 00:03",
  "items": [
-  {
-   "title": "福建拟列入优机补贴产品公示",
-   "url": "https://news.nongji360.com/html/2026/08/274149.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-08-28"
-  },
   {
    "title": "【归档】陕西省2026年风送式喷雾机投档产品现场演示评价的通知",
    "url": "https://news.nongji360.com/html/2026/08/274157.shtml",
@@ -90,12 +82,20 @@
    "date": "2026-08-26"
   },
   {
-   "title": "江苏省玉米籽粒收获机最高补贴5.8万元！",
-   "url": "https://www.nongjitong.com/news/2026/533897.html",
-   "source": "农机通",
+   "title": "广西关于公布2027年农机化推广项目入库目录的通知",
+   "url": "https://news.nongji360.com/html/2026/08/274140.shtml",
+   "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
-   "date": "2026-08-20"
+   "date": "2026-08-28"
+  },
+  {
+   "title": "广西壮族自治区农业机械化服务中心关于公布2027年农机化推广项目入库目录的通知各市、县（市、区）农机中心：根据《广西农机化项目管理",
+   "url": "https://news.nongji360.com/html/2026/08/274140.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-08-28"
   },
   {
    "title": "8月28日：“农产品批发价格200指数”比昨天下降0.24个点。",
@@ -154,7 +154,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "GUSS为自主果园喷雾机添加原生颜色激光雷达",
+   "title": "GUSS将为自主果园喷雾机配备原生彩色激光雷达",
    "url": "https://www.futurefarming.com/tech-in-focus/guss-to-add-native-color-lidar-to-autonomous-orchard-sprayers/",
    "source": "FutureFarming",
    "date": "2026-08-28",
@@ -162,7 +162,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "CropX收购SCIO,将农艺与作物品质数据相连接",
+   "title": "CropX收购SCIO以连接农学与作物质量数据",
    "url": "https://www.futurefarming.com/smart-farming/cropx-acquires-scio-to-link-agronomy-with-crop-quality-data/",
    "source": "FutureFarming",
    "date": "2026-08-27",
@@ -170,7 +170,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Solinftec在平均化学物质减少85%后扩大Solix机队",
+   "title": "Solinftec在平均化学用量减少85%后扩大Solix机队",
    "url": "https://www.futurefarming.com/crop-solutions/weed-pest-control/solinftec-expands-solix-fleet-after-85-average-chemical-reduction/",
    "source": "FutureFarming",
    "date": "2026-08-26",
@@ -178,7 +178,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "“机器人做它的工作,天气决定机会”",
+   "title": "“机器人执行任务，天气决定机会”",
    "url": "https://www.futurefarming.com/crop-solutions/weed-pest-control/the-robot-does-its-job-the-weather-determines-the-opportunities/",
    "source": "FutureFarming",
    "date": "2026-08-25",
@@ -186,7 +186,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "AgriBusiness Global报告:专利到期活性成分的未来",
+   "title": "全球农业商业报告：专利过期活性成分的未来",
    "url": "https://www.agribusinessglobal.com/agrochemicals/agribusiness-global-report-the-future-of-off-patent-active-ingredients/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-28",
@@ -194,7 +194,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "可持续发展播客:CPDA的Terry Kippley谈组织的可持续发展努力",
+   "title": "可持续发展播客：CPDA的Terry Kippley谈组织的可持续发展工作",
    "url": "https://www.agribusinessglobal.com/executive-outlook/sustainable-podcast-terry-kippley-of-cpda-on-the-organizations-sustainability-efforts/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-27",
@@ -202,7 +202,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "巴西:Bioma推出代谢保护生物杀菌剂",
+   "title": "巴西：Bioma推出代谢保护生物杀菌剂",
    "url": "https://www.agribusinessglobal.com/biopesticides/brazil-bioma-launches-metabolic-protection-biofungicide/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-27",
@@ -210,12 +210,28 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "生物制品:出口驱动因素、气候挑战与长期增长潜力",
+   "title": "生物制剂：出口驱动因素、气候挑战与长期增长潜力",
    "url": "https://www.agribusinessglobal.com/markets/africa-middle-east/biologicals-export-drivers-climate-challenges-and-long-term-growth-potential/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-27",
    "tag": "市场",
    "tag_class": "tag-data"
+  },
+  {
+   "title": "504拖拉机选购必读：成交价、底盘差异、各地补贴汇总",
+   "url": "https://news.nongji360.com/report/view/1121",
+   "source": "农机360",
+   "tag": "市场",
+   "tag_class": "tag-data",
+   "date": "2026-08-27"
+  },
+  {
+   "title": "陕西2026年风送式喷雾机现场演示评价",
+   "url": "https://news.nongji360.com/html/2026/08/274157.shtml",
+   "source": "农机360",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-08-29"
   },
   {
    "title": "“车后面有人，你看见了吗？”",
@@ -234,20 +250,68 @@
    "date": "2026-08-28"
   },
   {
-   "title": "陕西2026年辅助驾驶设备现场演示",
-   "url": "https://news.nongji360.com/html/2026/08/274156.shtml",
-   "source": "农机360",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-08-29"
-  },
-  {
    "title": "【目录】《山东省粮食烘干中心成套设施设备补贴额一览表》的公示",
    "url": "https://news.nongji360.com/html/2026/08/274151.shtml",
    "source": "农机360",
    "tag": "市场",
    "tag_class": "tag-data",
    "date": "2026-08-28"
+  },
+  {
+   "title": "“车后面有人，你看见了吗？”——农机手最怕的一句话，有解了",
+   "url": "https://news.nongji360.com/html/2026/08/274154.shtml",
+   "source": "农机360",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-08-28"
+  },
+  {
+   "title": "每年农忙时节，农机事故的新闻从未断过。2024年7月，湖北仙桃，一台玉米收割机在玉米地作业，驾驶员未能观察到正在田埂附近观看作业的",
+   "url": "https://news.nongji360.com/html/2026/08/274154.shtml",
+   "source": "农机360",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-08-28"
+  },
+  {
+   "title": "黑龙江省关于征集黑土地保护性耕作全链条高端智能农机装备开展试验示范的通知",
+   "url": "https://news.nongji360.com/html/2026/08/274142.shtml",
+   "source": "农机360",
+   "tag": "技术",
+   "tag_class": "tag-tech",
+   "date": "2026-08-28"
+  },
+  {
+   "title": "关于征集黑土地保护性耕作全链条高端智能农机装备开展试验示范的通知各农机生产企业：为落实《黑龙江省黑土地保护性耕作实施指导意见（",
+   "url": "https://news.nongji360.com/html/2026/08/274142.shtml",
+   "source": "农机360",
+   "tag": "技术",
+   "tag_class": "tag-tech",
+   "date": "2026-08-28"
+  },
+  {
+   "title": "李强在黑龙江、吉林调研时强调多措并举稳产增产全力夺取秋粮丰收持续提升农业综合生产能力确保粮食安全",
+   "url": "https://news.nongji360.com/html/2026/08/274136.shtml",
+   "source": "农机360",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-08-27"
+  },
+  {
+   "title": "农业农村部最新答复！关于新质生产力如何赋能脱贫地区产业，要点来了",
+   "url": "https://news.nongji360.com/html/2026/08/274134.shtml",
+   "source": "农机360",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-08-27"
+  },
+  {
+   "title": "关于政协第十四届全国委员会第四次会议第02311号（经济发展类259号）提案答复的函摘要马珺委员：您提出的《关于以新质生产力推动脱贫地",
+   "url": "https://news.nongji360.com/html/2026/08/274134.shtml",
+   "source": "农机360",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-08-27"
   },
   {
    "title": "从“能用”到“好用”：国产农机正加速“新”装上阵",
@@ -280,70 +344,6 @@
    "tag": "行业",
    "tag_class": "tag-news",
    "date": "2026-08-28"
-  },
-  {
-   "title": "根植荆楚沃土，久保田相伴筑梦——周建新的现代化农业创富故事",
-   "url": "https://www.nongjitong.com/news/2026/533948.html",
-   "source": "农机通",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-08-28"
-  },
-  {
-   "title": "『东方红硬核装备护航粮仓』高端智能大马力拖拉机田间日启幕",
-   "url": "https://www.nongjitong.com/news/2026/533944.html",
-   "source": "农机通",
-   "tag": "技术",
-   "tag_class": "tag-tech",
-   "date": "2026-08-27"
-  },
-  {
-   "title": "一拖股份发布2026半年度报告",
-   "url": "https://www.nongjitong.com/news/2026/533926.html",
-   "source": "农机通",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-08-26"
-  },
-  {
-   "title": "重磅官宣！新疆首台！约翰迪尔9R 540正式交付！",
-   "url": "https://www.nongjitong.com/news/2026/533937.html",
-   "source": "农机通",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-08-25"
-  },
-  {
-   "title": "2027华北（山西）农机装备博览会",
-   "url": "https://www.nongjitong.com/news/2026/533880.html",
-   "source": "农机通",
-   "tag": "市场",
-   "tag_class": "tag-data",
-   "date": "2026-08-19"
-  },
-  {
-   "title": "第二十五届长春农博会｜顺邦农机以创新科技赋能现代农业，奔赴振兴新征程",
-   "url": "https://www.nongjitong.com/news/2026/533863.html",
-   "source": "农机通",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-08-19"
-  },
-  {
-   "title": "科技赋农 智耕全疆 | 钵施然智能无人机器人推广演示会在若羌成功举办",
-   "url": "https://www.nongjitong.com/news/2026/533874.html",
-   "source": "农机通",
-   "tag": "技术",
-   "tag_class": "tag-tech",
-   "date": "2026-08-14"
-  },
-  {
-   "title": "农业农村部召开干部大会强调 深入学习贯彻习近平总书记重要讲话和全国两会精神 扎实做好乡村全面振兴各项工作",
-   "url": "http://www.njhs.moa.gov.cn/gzdt/202603/t20260317_6482294.htm",
-   "source": "农业农村部农机化司",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-03-17"
   },
   {
    "title": "圈粉东南亚！潍柴雷沃亮相2026年越南国际农业机械展览会",
