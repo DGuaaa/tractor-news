@@ -1,17 +1,9 @@
 {
- "updated": "2026-09-01 06:06",
+ "updated": "2026-09-01 12:06",
  "items": [
   {
    "title": "河北对14家企业农机补贴违规处理",
    "url": "https://news.nongji360.com/html/2026/08/274168.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-08-31"
-  },
-  {
-   "title": "河南2026年农机补贴机具第二批复核公示",
-   "url": "https://news.nongji360.com/html/2026/08/274165.shtml",
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
@@ -98,6 +90,14 @@
    "date": "2026-08-28"
   },
   {
+   "title": "重庆市印发2026年中央财政农业社会化服务项目实施方案的通知",
+   "url": "https://news.nongji360.com/html/2026/08/274163.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-08-31"
+  },
+  {
    "title": "8月28日：“农产品批发价格200指数”比昨天下降0.24个点。",
    "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84172",
    "source": "农业农村部价格指数",
@@ -154,7 +154,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "科乐收（Claas）正在测试其下一代自动驾驶拖拉机吗？",
+   "title": "科乐收正在测试其下一代自动驾驶拖拉机吗?",
    "url": "https://www.futurefarming.com/tech-in-focus/is-claas-testing-its-next-autonomous-tractor/",
    "source": "FutureFarming",
    "date": "2026-08-31",
@@ -162,7 +162,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "GUSS为自主果园喷雾机增加原生颜色激光雷达",
+   "title": "GUSS将为自主果园喷雾机添加原生彩色激光雷达",
    "url": "https://www.futurefarming.com/tech-in-focus/guss-to-add-native-color-lidar-to-autonomous-orchard-sprayers/",
    "source": "FutureFarming",
    "date": "2026-08-28",
@@ -170,7 +170,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "CropX收购SCIO，将农艺学与作物质量数据相连接",
+   "title": "CropX收购SCIO,将农学与作物质量数据相连接",
    "url": "https://www.futurefarming.com/smart-farming/cropx-acquires-scio-to-link-agronomy-with-crop-quality-data/",
    "source": "FutureFarming",
    "date": "2026-08-27",
@@ -178,7 +178,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Solinftec在平均化学品减少85%后扩大Solix车队",
+   "title": "Solinftec扩大Solix车队,平均化学品用量减少85%",
    "url": "https://www.futurefarming.com/crop-solutions/weed-pest-control/solinftec-expands-solix-fleet-after-85-average-chemical-reduction/",
    "source": "FutureFarming",
    "date": "2026-08-26",
@@ -186,7 +186,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "AgriBusiness Global报告：非专利活性成分的未来",
+   "title": "AgriBusiness Global报告: 专利到期活性成分的未来",
    "url": "https://www.agribusinessglobal.com/agrochemicals/agribusiness-global-report-the-future-of-off-patent-active-ingredients/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-28",
@@ -194,7 +194,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "可持续播客：CPDA的Terry Kippley谈组织的可持续发展努力",
+   "title": "可持续播客: CPDA的Terry Kippley谈组织的可持续发展举措",
    "url": "https://www.agribusinessglobal.com/executive-outlook/sustainable-podcast-terry-kippley-of-cpda-on-the-organizations-sustainability-efforts/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-27",
@@ -202,7 +202,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "巴西：Bioma推出代谢保护生物杀菌剂",
+   "title": "巴西: Bioma推出代谢保护型生物杀菌剂",
    "url": "https://www.agribusinessglobal.com/biopesticides/brazil-bioma-launches-metabolic-protection-biofungicide/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-27",
@@ -210,7 +210,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "生物制品：出口驱动因素、气候挑战与长期增长潜力",
+   "title": "生物制品: 出口驱动力、气候挑战与长期增长潜力",
    "url": "https://www.agribusinessglobal.com/markets/africa-middle-east/biologicals-export-drivers-climate-challenges-and-long-term-growth-potential/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-27",
@@ -218,7 +218,15 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "江苏省第二批补短板高端智能拖拉机产品情况公示",
+   "title": "农机使用过程中的三个坑，90%机手都踩过",
+   "url": "https://news.nongji360.com/html/2026/08/274172.shtml",
+   "source": "农机360",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-08-31"
+  },
+  {
+   "title": "江苏第二批补短板高端智能拖拉机公示",
    "url": "https://news.nongji360.com/html/2026/08/274171.shtml",
    "source": "农机360",
    "tag": "技术",
@@ -239,14 +247,6 @@
    "source": "农机360",
    "tag": "技术",
    "tag_class": "tag-tech",
-   "date": "2026-08-31"
-  },
-  {
-   "title": "农机使用过程中的三个坑，90%机手都踩过",
-   "url": "https://news.nongji360.com/html/2026/08/274172.shtml",
-   "source": "农机360",
-   "tag": "行业",
-   "tag_class": "tag-news",
    "date": "2026-08-31"
   },
   {
