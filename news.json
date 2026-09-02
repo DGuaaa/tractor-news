@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-02 06:05",
+ "updated": "2026-09-02 12:05",
  "items": [
   {
    "title": "2026年第三批国家农机鉴定结果",
@@ -154,7 +154,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "未来农业五事：Burro为何打造一台永远不会在仓库吃灰的机器人",
+   "title": "未来农业五：Burro为何打造一台永不积灰的机器人",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/future-farming-five-why-burro-built-a-robot-that-never-collects-dust-in-your-shed/",
    "source": "FutureFarming",
    "date": "2026-09-01",
@@ -162,7 +162,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "Droid升级：新款FD60将自主播种和除草带入大型农场",
+   "title": "机器人升级：新款FD60为大型农场带来自主播种与除草",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/droid-scales-up-new-fd60-brings-autonomous-seeding-and-weeding-to-larger-farms/",
    "source": "FutureFarming",
    "date": "2026-09-01",
@@ -170,7 +170,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "Claas正在测试其下一款自主拖拉机吗？",
+   "title": "科乐收正在测试其下一代自动驾驶拖拉机吗？",
    "url": "https://www.futurefarming.com/tech-in-focus/is-claas-testing-its-next-autonomous-tractor/",
    "source": "FutureFarming",
    "date": "2026-08-31",
@@ -178,7 +178,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "GUSS将为自主果园喷雾机增加原生色激光雷达",
+   "title": "GUSS将为自主果园喷雾机加装原生彩色激光雷达",
    "url": "https://www.futurefarming.com/tech-in-focus/guss-to-add-native-color-lidar-to-autonomous-orchard-sprayers/",
    "source": "FutureFarming",
    "date": "2026-08-28",
@@ -186,7 +186,15 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "农业商业全球报告：专利过期活性成分的未来",
+   "title": "Vylor开启玉米新纪元：行业首创产量与稳产性状，先进虫害防控带来生产力和农户收益的跨越式提升",
+   "url": "https://www.agribusinessglobal.com/agrochemicals/seeds-traits/vylor-launches-a-new-era-in-corn-industry-first-yield-and-yield-stability-trait-advanced-insect-control-to-deliver-step-change-in-production-farmer-profitability/",
+   "source": "AgriBusinessGlobal",
+   "date": "2026-09-01",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "AgriBusiness全球报告：专利到期活性成分的未来",
    "url": "https://www.agribusinessglobal.com/agrochemicals/agribusiness-global-report-the-future-of-off-patent-active-ingredients/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-28",
@@ -194,7 +202,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "可持续发展播客：CPDA的Terry Kippley谈该组织的可持续发展努力",
+   "title": "可持续播客：CPDA的Terry Kippley谈该组织的可持续性努力",
    "url": "https://www.agribusinessglobal.com/executive-outlook/sustainable-podcast-terry-kippley-of-cpda-on-the-organizations-sustainability-efforts/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-27",
@@ -208,14 +216,6 @@
    "date": "2026-08-27",
    "tag": "行业",
    "tag_class": "tag-news"
-  },
-  {
-   "title": "生物制品：出口驱动力、气候挑战与长期增长潜力",
-   "url": "https://www.agribusinessglobal.com/markets/africa-middle-east/biologicals-export-drivers-climate-challenges-and-long-term-growth-potential/",
-   "source": "AgriBusinessGlobal",
-   "date": "2026-08-27",
-   "tag": "市场",
-   "tag_class": "tag-data"
   },
   {
    "title": "同样是跨区，为什么有人满载而归，有人白跑一趟",
