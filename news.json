@@ -1,8 +1,16 @@
 {
- "updated": "2026-09-02 18:03",
+ "updated": "2026-09-03 00:05",
  "items": [
   {
-   "title": "江西省2026年第二批农机补贴“优机优补”产品公示",
+   "title": "云南省2026年微型耕耘机补贴机具公示",
+   "url": "https://news.nongji360.com/html/2026/09/274191.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-09-02"
+  },
+  {
+   "title": "江西省2026年第二批优机优补产品公示",
    "url": "https://news.nongji360.com/html/2026/09/274186.shtml",
    "source": "农机360",
    "tag": "政策",
@@ -10,12 +18,12 @@
    "date": "2026-09-02"
   },
   {
-   "title": "2026年第三批国家农机鉴定结果",
-   "url": "https://news.nongji360.com/html/2026/09/274173.shtml",
+   "title": "【归档】云南省2026年微型耕耘机补贴机具现场演示评价情况的公示",
+   "url": "https://news.nongji360.com/html/2026/09/274191.shtml",
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
-   "date": "2026-09-01"
+   "date": "2026-09-02"
   },
   {
    "title": "【归档】江西省农业农村厅关于2026年第二批农机购置补贴“优机优补”产品投档审核情况的公示",
@@ -58,22 +66,6 @@
    "date": "2026-08-31"
   },
   {
-   "title": "【违规】河北省对辽宁金鑫农业机械有限公司等14家企业违反农机购置与应用补贴政策处理情况的通报",
-   "url": "https://news.nongji360.com/html/2026/08/274168.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-08-31"
-  },
-  {
-   "title": "【鉴定】山东省2026年第五批农业机械试验鉴定结果的通报",
-   "url": "https://news.nongji360.com/html/2026/08/274167.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-08-31"
-  },
-  {
    "title": "【汇总】各省2024-2026年农机补贴政策通知相关汇总",
    "url": "https://news.nongji360.com/html/2025/09/271215.shtml",
    "source": "农机360",
@@ -82,20 +74,28 @@
    "date": "2025-09-02"
   },
   {
-   "title": "【违规】约谈告知（对福建省投档产品2026年第2次审核过程中发现的违规投档行为进行处理）",
-   "url": "https://news.nongji360.com/html/2026/08/274150.shtml",
+   "title": "【违规】河北省对辽宁金鑫农业机械有限公司等14家企业违反农机购置与应用补贴政策处理情况的通报",
+   "url": "https://news.nongji360.com/html/2026/08/274168.shtml",
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
-   "date": "2026-08-28"
+   "date": "2026-08-31"
   },
   {
-   "title": "江苏省玉米籽粒收获机最高补贴5.8万元！",
-   "url": "https://www.nongjitong.com/news/2026/533897.html",
-   "source": "农机通",
+   "title": "重庆市印发2026年中央财政农业社会化服务项目实施方案的通知",
+   "url": "https://news.nongji360.com/html/2026/08/274163.shtml",
+   "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
-   "date": "2026-08-20"
+   "date": "2026-08-31"
+  },
+  {
+   "title": "重庆市农业农村委员会重庆市财政局重庆市供销合作总社关于印发2026年中央财政农业社会化服务项目实施方案的通知渝农发〔2026〕56号有关",
+   "url": "https://news.nongji360.com/html/2026/08/274163.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-08-31"
   },
   {
    "title": "2026年第35周瘦肉型白条猪肉出厂价格监测周报",
@@ -130,7 +130,39 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "Robotti回归：英国公司Autonomous Agri Solutions介入以确保该机器人的未来",
+   "title": "“粮油科普健康万里行”系列活动“笔墨润身心 全谷助健康”科普活动在京举办",
+   "url": "https://www.lswz.gov.cn/html/xinwen/2026-09/01/content_294900.shtml",
+   "source": "国家粮食局",
+   "date": "2026-09-01",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "刘焕鑫赴浙江调研粮食和物资储备工作",
+   "url": "https://www.lswz.gov.cn/html/xinwen/2026-08/26/content_294821.shtml",
+   "source": "国家粮食局",
+   "date": "2026-08-26",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "APEC《创新与数字化增强亚太区域粮食体系韧性原则文件》发布",
+   "url": "https://www.lswz.gov.cn/html/xinwen/2026-08/26/content_294818.shtml",
+   "source": "国家粮食局",
+   "date": "2026-08-26",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "测试4种自主系统：果农怎么看？",
+   "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semiauto-steering/autonomous-vehicles/4-autonomous-systems-tested-what-do-fruit-growers-think/",
+   "source": "FutureFarming",
+   "date": "2026-09-02",
+   "tag": "技术",
+   "tag_class": "tag-tech"
+  },
+  {
+   "title": "Robotti回归：英国公司Autonomous Agri Solutions介入以确保机器人未来",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/robotti-is-back-uk-company-autonomous-agri-solutions-steps-in-to-secure-the-robot-s-future/",
    "source": "FutureFarming",
    "date": "2026-09-02",
@@ -138,7 +170,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "杂草生长阶段决定Zasso电除草效果",
+   "title": "杂草生长阶段决定Zasso电动除草效果",
    "url": "https://www.futurefarming.com/smart-farming/weed-growth-stage-determines-effect-of-zasso-electric-weed-control/",
    "source": "FutureFarming",
    "date": "2026-09-02",
@@ -146,7 +178,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "未来农业五问：为什么Burro打造了一台不会在棚子里积灰的机器人？",
+   "title": "Future Farming五问：Burro为何制造一台永远不会在棚里积灰的机器人",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/future-farming-five-why-burro-built-a-robot-that-never-collects-dust-in-your-shed/",
    "source": "FutureFarming",
    "date": "2026-09-01",
@@ -154,15 +186,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "Droid扩展：新型FD60将自主播种和除草推向更大农场",
-   "url": "https://www.futurefarming.com/tech-in-focus/field-robots/droid-scales-up-new-fd60-brings-autonomous-seeding-and-weeding-to-larger-farms/",
-   "source": "FutureFarming",
-   "date": "2026-09-01",
-   "tag": "技术",
-   "tag_class": "tag-tech"
-  },
-  {
-   "title": "Vylor开启玉米新时代：行业首创产量与稳产性状，先进害虫防治带来产量与农户盈利的阶跃式提升",
+   "title": "Vylor开启玉米新时代：行业首创产量和产量稳定性性状、先进害虫防治，实现生产和农户盈利的阶跃式提升",
    "url": "https://www.agribusinessglobal.com/agrochemicals/seeds-traits/vylor-launches-a-new-era-in-corn-industry-first-yield-and-yield-stability-trait-advanced-insect-control-to-deliver-step-change-in-production-farmer-profitability/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-01",
@@ -178,7 +202,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "可持续播客：CPDA的Terry Kippley谈组织的可持续发展努力",
+   "title": "可持续发展播客：CPDA的Terry Kippley谈组织的可持续发展努力",
    "url": "https://www.agribusinessglobal.com/executive-outlook/sustainable-podcast-terry-kippley-of-cpda-on-the-organizations-sustainability-efforts/",
    "source": "AgriBusinessGlobal",
    "date": "2026-08-27",
@@ -194,6 +218,14 @@
    "tag_class": "tag-news"
   },
   {
+   "title": "新疆高端智能拖拉机补贴审核第二批产品公示",
+   "url": "https://news.nongji360.com/html/2026/09/274190.shtml",
+   "source": "农机360",
+   "tag": "技术",
+   "tag_class": "tag-tech",
+   "date": "2026-09-02"
+  },
+  {
    "title": "同样是跨区，为什么有人满载而归，有人白跑一趟",
    "url": "https://news.nongji360.com/html/2026/09/274184.shtml",
    "source": "农机360",
@@ -202,12 +234,12 @@
    "date": "2026-09-01"
   },
   {
-   "title": "江苏第二批补短板高端智能拖拉机公示",
-   "url": "https://news.nongji360.com/html/2026/08/274171.shtml",
+   "title": "【归档】新疆200马力以上无级变速高端智能拖拉机购置与应用补贴审核 第二批通过产品的公示",
+   "url": "https://news.nongji360.com/html/2026/09/274190.shtml",
    "source": "农机360",
    "tag": "技术",
    "tag_class": "tag-tech",
-   "date": "2026-08-31"
+   "date": "2026-09-02"
   },
   {
    "title": "【目录】《甘肃省粮食烘干中心成套设施设备补贴额一览表》的公示",
@@ -224,6 +256,62 @@
    "tag": "技术",
    "tag_class": "tag-tech",
    "date": "2026-08-31"
+  },
+  {
+   "title": "每逢跨区，总有一批农机手从南到北追着活跑，但跑得越远，心里越没底。安徽一位跨区机手算过一笔账：一年跑了四个省，将近三分之一的时",
+   "url": "https://news.nongji360.com/html/2026/09/274184.shtml",
+   "source": "农机360",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-09-01"
+  },
+  {
+   "title": "农机使用过程中的三个坑，90%机手都踩过",
+   "url": "https://news.nongji360.com/html/2026/08/274172.shtml",
+   "source": "农机360",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-08-31"
+  },
+  {
+   "title": "每年农忙，总有农机手因为错过保养导致发动机趴窝：湖南一位种粮大户曾向媒体讲述，收割机连续作业一周后机油压力持续偏低，第二天发动",
+   "url": "https://news.nongji360.com/html/2026/08/274172.shtml",
+   "source": "农机360",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-08-31"
+  },
+  {
+   "title": "区域农机社会化服务组织暨农机防灾减灾救灾能力建设工作现场推进会在山东淄博召开",
+   "url": "https://news.nongji360.com/html/2026/08/274166.shtml",
+   "source": "农机360",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-08-31"
+  },
+  {
+   "title": "8月28日，农业农村部农业机械化管理司在山东淄博召开区域农机社会化服务组织暨农机防灾减灾救灾能力建设工作现场推进会。会议深入学习",
+   "url": "https://news.nongji360.com/html/2026/08/274166.shtml",
+   "source": "农机360",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-08-31"
+  },
+  {
+   "title": "“车后面有人，你看见了吗？”——农机手最怕的一句话，有解了",
+   "url": "https://news.nongji360.com/html/2026/08/274154.shtml",
+   "source": "农机360",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-08-28"
+  },
+  {
+   "title": "每年农忙时节，农机事故的新闻从未断过。2024年7月，湖北仙桃，一台玉米收割机在玉米地作业，驾驶员未能观察到正在田埂附近观看作业的",
+   "url": "https://news.nongji360.com/html/2026/08/274154.shtml",
+   "source": "农机360",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-08-28"
   },
   {
    "title": "从“能用”到“好用”：国产农机正加速“新”装上阵",
@@ -256,70 +344,6 @@
    "tag": "市场",
    "tag_class": "tag-data",
    "date": "2026-08-28"
-  },
-  {
-   "title": "老把式与格兰割草机的“默契”：抛得高、散得匀、干得快",
-   "url": "https://www.nongjitong.com/news/2026/533953.html",
-   "source": "农机通",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-08-28"
-  },
-  {
-   "title": "根植荆楚沃土，久保田相伴筑梦——周建新的现代化农业创富故事",
-   "url": "https://www.nongjitong.com/news/2026/533948.html",
-   "source": "农机通",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-08-28"
-  },
-  {
-   "title": "『东方红硬核装备护航粮仓』高端智能大马力拖拉机田间日启幕",
-   "url": "https://www.nongjitong.com/news/2026/533944.html",
-   "source": "农机通",
-   "tag": "技术",
-   "tag_class": "tag-tech",
-   "date": "2026-08-27"
-  },
-  {
-   "title": "一拖股份发布2026半年度报告",
-   "url": "https://www.nongjitong.com/news/2026/533926.html",
-   "source": "农机通",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-08-26"
-  },
-  {
-   "title": "重磅官宣！新疆首台！约翰迪尔9R 540正式交付！",
-   "url": "https://www.nongjitong.com/news/2026/533937.html",
-   "source": "农机通",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-08-25"
-  },
-  {
-   "title": "2027华北（山西）农机装备博览会",
-   "url": "https://www.nongjitong.com/news/2026/533880.html",
-   "source": "农机通",
-   "tag": "市场",
-   "tag_class": "tag-data",
-   "date": "2026-08-19"
-  },
-  {
-   "title": "第二十五届长春农博会｜顺邦农机以创新科技赋能现代农业，奔赴振兴新征程",
-   "url": "https://www.nongjitong.com/news/2026/533863.html",
-   "source": "农机通",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-08-19"
-  },
-  {
-   "title": "农业农村部召开干部大会强调 深入学习贯彻习近平总书记重要讲话和全国两会精神 扎实做好乡村全面振兴各项工作",
-   "url": "http://www.njhs.moa.gov.cn/gzdt/202603/t20260317_6482294.htm",
-   "source": "农业农村部农机化司",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-03-17"
   },
   {
    "title": "圈粉东南亚！潍柴雷沃亮相2026年越南国际农业机械展览会",
@@ -424,30 +448,6 @@
    "tag": "市场",
    "tag_class": "tag-data",
    "date": "2023-3-18"
-  },
-  {
-   "title": "2022年度久保田VIP用户来社参观侧记",
-   "url": "http://www.kubota.com.cn/kams/newsone.do?hidnewsid=141&hidoffset=1&hidcount=6",
-   "source": "久保田中国",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": ""
-  },
-  {
-   "title": "再获殊荣丨久保田荣获2020中国农业机械年度TOP50+两项大奖",
-   "url": "http://www.kubota.com.cn/kams/newsone.do?hidnewsid=140&hidoffset=1&hidcount=6",
-   "source": "久保田中国",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2021-9-28"
-  },
-  {
-   "title": "总统成为首位车主！中国一拖刚果（布）农业装备组装厂首批拖拉机下线",
-   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202608/t20260817_650950.html",
-   "source": "一拖东方红",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-08-17"
   }
  ]
 }
