@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-03 18:02",
+ "updated": "2026-09-04 00:06",
  "items": [
   {
-   "title": "福建省开展小型收割机“优机优补”机具评价通告",
-   "url": "https://news.nongji360.com/html/2026/09/274202.shtml",
+   "title": "陕西省2家企业违反农机补贴处理通报",
+   "url": "https://news.nongji360.com/html/2026/09/274209.shtml",
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
@@ -20,6 +20,14 @@
   {
    "title": "宁夏2026年第四批农机补贴产品投档",
    "url": "https://news.nongji360.com/html/2026/09/274194.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-09-03"
+  },
+  {
+   "title": "【违规】陕西省关于河北利宏农业机械制造有限公司等2家企业违反农机购置与应用补贴政策处理情况的通报",
+   "url": "https://news.nongji360.com/html/2026/09/274209.shtml",
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
@@ -76,14 +84,6 @@
   {
    "title": "【归档】云南省2026年微型耕耘机补贴机具现场演示评价情况的公示",
    "url": "https://news.nongji360.com/html/2026/09/274191.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-09-02"
-  },
-  {
-   "title": "【归档】江西省农业农村厅关于2026年第二批农机购置补贴“优机优补”产品投档审核情况的公示",
-   "url": "https://news.nongji360.com/html/2026/09/274186.shtml",
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
@@ -154,7 +154,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "印度电动拖拉机利用太阳能充电",
+   "title": "来自印度的电动拖拉机在阳光下充电",
    "url": "https://www.futurefarming.com/smart-farming/electric-tractor-from-india-charges-in-the-sun/",
    "source": "FutureFarming",
    "date": "2026-09-03",
@@ -162,7 +162,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "四种自主系统接受测试：果农有何看法？",
+   "title": "四种自主系统接受测试：果农们怎么看？",
    "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semiauto-steering/autonomous-vehicles/4-autonomous-systems-tested-what-do-fruit-growers-think/",
    "source": "FutureFarming",
    "date": "2026-09-02",
@@ -170,7 +170,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "Robotti回归：英国公司Autonomous Agri Solutions出手保障其未来",
+   "title": "Robotti回归：英国公司Autonomous Agri Solutions介入保障其未来",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/robotti-is-back-uk-company-autonomous-agri-solutions-steps-in-to-secure-the-robot-s-future/",
    "source": "FutureFarming",
    "date": "2026-09-02",
@@ -178,7 +178,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "杂草生长阶段决定Zasso电力除草效果",
+   "title": "杂草生长阶段决定Zasso电动除草效果",
    "url": "https://www.futurefarming.com/smart-farming/weed-growth-stage-determines-effect-of-zasso-electric-weed-control/",
    "source": "FutureFarming",
    "date": "2026-09-02",
@@ -186,7 +186,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "Agtrinsic向南亚小农户推广AI病害智能技术",
+   "title": "Agtrinsic将AI病害智能技术扩展至南亚小农户",
    "url": "https://www.agribusinessglobal.com/agtech/agtrinsic-expands-ai-disease-intelligence-technology-to-south-asias-smallholder-farmers/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-02",
@@ -194,7 +194,7 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "Biotalys在加州获得EVOCA产品登记，强化其主打资产EVOCA NG的监管路径",
+   "title": "Biotalys在加州获得EVOCA产品注册，强化主打产品EVOCA NG的监管路径",
    "url": "https://www.agribusinessglobal.com/biopesticides/biotalys-secures-product-registration-in-california-for-evoca-strengthening-regulatory-pathway-for-its-lead-asset-evoca-ng/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-02",
@@ -202,7 +202,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "拜耳推进种子与作物保护联合管线，进入重磅发布阶段",
+   "title": "拜耳推进种子与作物保护联合管线，进入重磅产品上市阶段",
    "url": "https://www.agribusinessglobal.com/agrochemicals/seeds-traits/bayer-advances-combined-seed-and-crop-protection-pipeline-and-enters-phase-of-blockbuster-launches/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-02",
@@ -210,7 +210,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Vylor开启玉米新时代：业界首创的产量与稳产性状，先进害虫防控带来产量与农户盈利的阶跃提升",
+   "title": "Vylor开启玉米新时代：行业首创产量与稳产特性、先进害虫防控，实现生产与农户收益的跨越式提升",
    "url": "https://www.agribusinessglobal.com/agrochemicals/seeds-traits/vylor-launches-a-new-era-in-corn-industry-first-yield-and-yield-stability-trait-advanced-insect-control-to-deliver-step-change-in-production-farmer-profitability/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-01",
@@ -218,20 +218,20 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "新疆高端智能拖拉机第二批公示",
-   "url": "https://news.nongji360.com/html/2026/09/274190.shtml",
+   "title": "江西省烘干成套设施装备补贴额一览表公示",
+   "url": "https://news.nongji360.com/html/2026/09/274208.shtml",
    "source": "农机360",
-   "tag": "技术",
-   "tag_class": "tag-tech",
-   "date": "2026-09-02"
+   "tag": "市场",
+   "tag_class": "tag-data",
+   "date": "2026-09-03"
   },
   {
-   "title": "【归档】新疆200马力以上无级变速高端智能拖拉机购置与应用补贴审核 第二批通过产品的公示",
-   "url": "https://news.nongji360.com/html/2026/09/274190.shtml",
+   "title": "【目录】江西省稻谷烘干中心、果蔬分级成套设施装备建设技术规范和购置补贴产品分档、补贴额一览表的公示",
+   "url": "https://news.nongji360.com/html/2026/09/274208.shtml",
    "source": "农机360",
-   "tag": "技术",
-   "tag_class": "tag-tech",
-   "date": "2026-09-02"
+   "tag": "市场",
+   "tag_class": "tag-data",
+   "date": "2026-09-03"
   },
   {
    "title": "中华人民共和国农业法",
