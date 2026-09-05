@@ -1,25 +1,17 @@
 {
- "updated": "2026-09-05 06:02",
+ "updated": "2026-09-05 12:02",
  "items": [
   {
-   "title": "山东开展2026年第二批农机补贴产品投档审核提示",
-   "url": "https://news.nongji360.com/html/2026/09/274218.shtml",
+   "title": "农机作业补贴，在车上就办了！",
+   "url": "https://news.nongji360.com/html/2026/09/274221.shtml",
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
-   "date": "2026-09-04"
+   "date": "2026-09-05"
   },
   {
    "title": "陕西对违反农机补贴政策处理情况通报",
    "url": "https://news.nongji360.com/html/2026/09/274219.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-09-04"
-  },
-  {
-   "title": "北京2026年第二批农机补贴产品公告",
-   "url": "https://news.nongji360.com/html/2026/09/274220.shtml",
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
@@ -98,6 +90,14 @@
    "date": "2025-09-02"
   },
   {
+   "title": "【违规】河北省2024—2026年农机购置与应用补贴第六批自主投档违规处理情况的通报",
+   "url": "https://news.nongji360.com/html/2026/08/274169.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-08-31"
+  },
+  {
    "title": "全国农产品批发市场一周价格行情监测报告（2026年8月28日—2026年9月3日）",
    "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84182",
    "source": "农业农村部价格指数",
@@ -154,7 +154,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "印度电动拖拉机：阳光下充电",
+   "title": "印度电动拖拉机在阳光下充电",
    "url": "https://www.futurefarming.com/smart-farming/electric-tractor-from-india-charges-in-the-sun/",
    "source": "FutureFarming",
    "date": "2026-09-03",
@@ -162,7 +162,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "4种自主系统接受测试：果农有何看法？",
+   "title": "4套自主系统接受测试：果农怎么看？",
    "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semiauto-steering/autonomous-vehicles/4-autonomous-systems-tested-what-do-fruit-growers-think/",
    "source": "FutureFarming",
    "date": "2026-09-02",
@@ -170,7 +170,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "Robotti回归：英国公司Autonomous Agri Solutions介入以保障其未来",
+   "title": "Robotti回归：英国公司Autonomous Agri Solutions介入确保其未来",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/robotti-is-back-uk-company-autonomous-agri-solutions-steps-in-to-secure-the-robot-s-future/",
    "source": "FutureFarming",
    "date": "2026-09-02",
@@ -194,7 +194,7 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "Biotalys在加州获EVOCA产品注册，强化主打产品EVOCA NG的监管路径",
+   "title": "Biotalys获加州EVOCA产品登记，强化主力产品EVOCA NG监管路径",
    "url": "https://www.agribusinessglobal.com/biopesticides/biotalys-secures-product-registration-in-california-for-evoca-strengthening-regulatory-pathway-for-its-lead-asset-evoca-ng/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-02",
@@ -202,7 +202,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "拜耳推进种子与作物保护联合管线，进入重磅产品发布阶段",
+   "title": "拜耳推进种子与作物保护联合管线，进入重磅发布阶段",
    "url": "https://www.agribusinessglobal.com/agrochemicals/seeds-traits/bayer-advances-combined-seed-and-crop-protection-pipeline-and-enters-phase-of-blockbuster-launches/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-02",
@@ -210,7 +210,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Vylor开启玉米新时代：行业首创产量与稳产性状，先进虫害防治带来产量与农民盈利的跨越式提升",
+   "title": "Vylor开启玉米新纪元：行业首创产量与稳产性状，先进虫害防控带来生产与农户收益跨越式提升",
    "url": "https://www.agribusinessglobal.com/agrochemicals/seeds-traits/vylor-launches-a-new-era-in-corn-industry-first-yield-and-yield-stability-trait-advanced-insect-control-to-deliver-step-change-in-production-farmer-profitability/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-01",
@@ -218,12 +218,12 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "江西省补贴额一览表公示",
-   "url": "https://news.nongji360.com/html/2026/09/274208.shtml",
+   "title": "山东开展2026年第二批投档审核提示",
+   "url": "https://news.nongji360.com/html/2026/09/274218.shtml",
    "source": "农机360",
-   "tag": "市场",
-   "tag_class": "tag-data",
-   "date": "2026-09-03"
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-09-04"
   },
   {
    "title": "【目录】江西省稻谷烘干中心、果蔬分级成套设施装备建设技术规范和购置补贴产品分档、补贴额一览表的公示",
@@ -264,22 +264,6 @@
    "tag": "行业",
    "tag_class": "tag-news",
    "date": "2026-09-03"
-  },
-  {
-   "title": "同样是跨区，为什么有人满载而归，有人白跑一趟",
-   "url": "https://news.nongji360.com/html/2026/09/274184.shtml",
-   "source": "农机360",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-09-01"
-  },
-  {
-   "title": "每逢跨区，总有一批农机手从南到北追着活跑，但跑得越远，心里越没底。安徽一位跨区机手算过一笔账：一年跑了四个省，将近三分之一的时",
-   "url": "https://news.nongji360.com/html/2026/09/274184.shtml",
-   "source": "农机360",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-09-01"
   },
   {
    "title": "农机上市企业2026半年报分化加剧，农机淘汰赛全面打响",
@@ -344,6 +328,22 @@
    "tag": "行业",
    "tag_class": "tag-news",
    "date": "2026-08-28"
+  },
+  {
+   "title": "『东方红硬核装备护航粮仓』高端智能大马力拖拉机田间日启幕",
+   "url": "https://www.nongjitong.com/news/2026/533944.html",
+   "source": "农机通",
+   "tag": "技术",
+   "tag_class": "tag-tech",
+   "date": "2026-08-27"
+  },
+  {
+   "title": "一拖股份发布2026半年度报告",
+   "url": "https://www.nongjitong.com/news/2026/533926.html",
+   "source": "农机通",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-08-26"
   },
   {
    "title": "圈粉东南亚！潍柴雷沃亮相2026年越南国际农业机械展览会",
