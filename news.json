@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-05 12:02",
+ "updated": "2026-09-05 18:04",
  "items": [
   {
    "title": "农机作业补贴，在车上就办了！",
@@ -98,63 +98,7 @@
    "date": "2026-08-31"
   },
   {
-   "title": "全国农产品批发市场一周价格行情监测报告（2026年8月28日—2026年9月3日）",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84182",
-   "source": "农业农村部价格指数",
-   "date": "2026-09-03",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "9月4日：“农产品批发价格200指数”比昨天上升0.30个点。",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84181",
-   "source": "农业农村部价格指数",
-   "date": "2026-09-03",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "9月3日：“农产品批发价格200指数”比昨天上升0.01个点。",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84180",
-   "source": "农业农村部价格指数",
-   "date": "2026-09-02",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "9月2日：“农产品批发价格200指数”比昨天上升0.06个点。",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84178",
-   "source": "农业农村部价格指数",
-   "date": "2026-09-01",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "“粮油科普健康万里行”系列活动“笔墨润身心 全谷助健康”科普活动在京举办",
-   "url": "https://www.lswz.gov.cn/html/xinwen/2026-09/01/content_294900.shtml",
-   "source": "国家粮食局",
-   "date": "2026-09-01",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "刘焕鑫赴浙江调研粮食和物资储备工作",
-   "url": "https://www.lswz.gov.cn/html/xinwen/2026-08/26/content_294821.shtml",
-   "source": "国家粮食局",
-   "date": "2026-08-26",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "APEC《创新与数字化增强亚太区域粮食体系韧性原则文件》发布",
-   "url": "https://www.lswz.gov.cn/html/xinwen/2026-08/26/content_294818.shtml",
-   "source": "国家粮食局",
-   "date": "2026-08-26",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "印度电动拖拉机在阳光下充电",
+   "title": "印度电动拖拉机阳光下充电",
    "url": "https://www.futurefarming.com/smart-farming/electric-tractor-from-india-charges-in-the-sun/",
    "source": "FutureFarming",
    "date": "2026-09-03",
@@ -162,7 +106,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "4套自主系统接受测试：果农怎么看？",
+   "title": "4个自主系统测试:果农怎么看?",
    "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semiauto-steering/autonomous-vehicles/4-autonomous-systems-tested-what-do-fruit-growers-think/",
    "source": "FutureFarming",
    "date": "2026-09-02",
@@ -170,7 +114,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "Robotti回归：英国公司Autonomous Agri Solutions介入确保其未来",
+   "title": "Robotti回归:英国公司Autonomous Agri Solutions介入保障机器人未来",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/robotti-is-back-uk-company-autonomous-agri-solutions-steps-in-to-secure-the-robot-s-future/",
    "source": "FutureFarming",
    "date": "2026-09-02",
@@ -184,38 +128,6 @@
    "date": "2026-09-02",
    "tag": "技术",
    "tag_class": "tag-tech"
-  },
-  {
-   "title": "Agtrinsic将AI病害智能技术扩展至南亚小农户",
-   "url": "https://www.agribusinessglobal.com/agtech/agtrinsic-expands-ai-disease-intelligence-technology-to-south-asias-smallholder-farmers/",
-   "source": "AgriBusinessGlobal",
-   "date": "2026-09-02",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "Biotalys获加州EVOCA产品登记，强化主力产品EVOCA NG监管路径",
-   "url": "https://www.agribusinessglobal.com/biopesticides/biotalys-secures-product-registration-in-california-for-evoca-strengthening-regulatory-pathway-for-its-lead-asset-evoca-ng/",
-   "source": "AgriBusinessGlobal",
-   "date": "2026-09-02",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "拜耳推进种子与作物保护联合管线，进入重磅发布阶段",
-   "url": "https://www.agribusinessglobal.com/agrochemicals/seeds-traits/bayer-advances-combined-seed-and-crop-protection-pipeline-and-enters-phase-of-blockbuster-launches/",
-   "source": "AgriBusinessGlobal",
-   "date": "2026-09-02",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "Vylor开启玉米新纪元：行业首创产量与稳产性状，先进虫害防控带来生产与农户收益跨越式提升",
-   "url": "https://www.agribusinessglobal.com/agrochemicals/seeds-traits/vylor-launches-a-new-era-in-corn-industry-first-yield-and-yield-stability-trait-advanced-insect-control-to-deliver-step-change-in-production-farmer-profitability/",
-   "source": "AgriBusinessGlobal",
-   "date": "2026-09-01",
-   "tag": "市场",
-   "tag_class": "tag-data"
   },
   {
    "title": "山东开展2026年第二批投档审核提示",
@@ -448,6 +360,62 @@
    "tag": "市场",
    "tag_class": "tag-data",
    "date": "2023-3-18"
+  },
+  {
+   "title": "2022年度久保田VIP用户来社参观侧记",
+   "url": "http://www.kubota.com.cn/kams/newsone.do?hidnewsid=141&hidoffset=1&hidcount=6",
+   "source": "久保田中国",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": ""
+  },
+  {
+   "title": "再获殊荣丨久保田荣获2020中国农业机械年度TOP50+两项大奖",
+   "url": "http://www.kubota.com.cn/kams/newsone.do?hidnewsid=140&hidoffset=1&hidcount=6",
+   "source": "久保田中国",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2021-9-28"
+  },
+  {
+   "title": "总统成为首位车主！中国一拖刚果（布）农业装备组装厂首批拖拉机下线",
+   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202608/t20260817_650950.html",
+   "source": "一拖东方红",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-08-17"
+  },
+  {
+   "title": "中国一拖闪耀2026越南国际农机展",
+   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202608/t20260806_649397.html",
+   "source": "一拖东方红",
+   "tag": "市场",
+   "tag_class": "tag-data",
+   "date": "2026-08-06"
+  },
+  {
+   "title": "湖南首个“东方红公益助农服务示范点”在韶山落地",
+   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202608/t20260804_649098.html",
+   "source": "一拖东方红",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-08-04"
+  },
+  {
+   "title": "四良集成守粮安——“东方红”亮相呼伦贝尔田间日",
+   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202607/t20260713_646753.html",
+   "source": "一拖东方红",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-07-13"
+  },
+  {
+   "title": "以赛砺技强本领 | 沃得农机鼎力助阵第七届全国农机手技能竞赛",
+   "url": "http://www.worldnyjx.com/index.php?m=content&c=index&a=show&catid=126&id=578",
+   "source": "沃得",
+   "date": "2026-09-01",
+   "tag": "行业",
+   "tag_class": "tag-news"
   }
  ]
 }
