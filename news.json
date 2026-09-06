@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-06 17:59",
+ "updated": "2026-09-07 00:06",
  "items": [
   {
    "title": "农机作业补贴，在车上就办了！",
@@ -8,14 +8,6 @@
    "tag": "政策",
    "tag_class": "tag-policy",
    "date": "2026-09-05"
-  },
-  {
-   "title": "陕西对违反农机补贴政策处理情况通报",
-   "url": "https://news.nongji360.com/html/2026/09/274219.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-09-04"
   },
   {
    "title": "【归档】北京市2026年第二批农机购置与应用补贴产品归档信息的通知",
@@ -98,6 +90,14 @@
    "date": "2026-08-31"
   },
   {
+   "title": "【违规】河北省对辽宁金鑫农业机械有限公司等14家企业违反农机购置与应用补贴政策处理情况的通报",
+   "url": "https://news.nongji360.com/html/2026/08/274168.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-08-31"
+  },
+  {
    "title": "2026年第35周瘦肉型白条猪肉出厂价格监测周报",
    "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84175",
    "source": "农业农村部价格指数",
@@ -162,7 +162,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "4个自主系统测试：果农怎么看？",
+   "title": "四种自主系统测试：水果种植者怎么看？",
    "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semiauto-steering/autonomous-vehicles/4-autonomous-systems-tested-what-do-fruit-growers-think/",
    "source": "FutureFarming",
    "date": "2026-09-02",
@@ -170,7 +170,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "Robotti回归：英国公司Autonomous Agri Solutions介入以保障机器人未来",
+   "title": "Robotti回归：英国公司Autonomous Agri Solutions介入以确保机器人未来",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/robotti-is-back-uk-company-autonomous-agri-solutions-steps-in-to-secure-the-robot-s-future/",
    "source": "FutureFarming",
    "date": "2026-09-02",
@@ -178,7 +178,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "杂草生长阶段决定Zasso电力除草效果",
+   "title": "杂草生长阶段决定Zasso电力除草的效果",
    "url": "https://www.futurefarming.com/smart-farming/weed-growth-stage-determines-effect-of-zasso-electric-weed-control/",
    "source": "FutureFarming",
    "date": "2026-09-02",
@@ -186,28 +186,12 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "AgriBusiness Global报告：Jim DeLisi谈美加贸易冲突、中国关税与俄罗斯制裁",
-   "url": "https://www.agribusinessglobal.com/agrochemicals/agribusiness-global-report-jim-delisi-on-u-s-canada-trade-conflict-china-tariffs-and-russia-sanctions/",
-   "source": "AgriBusinessGlobal",
-   "date": "2026-09-04",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "Rovensa Next任命José Borgo为首席商务官",
-   "url": "https://www.agribusinessglobal.com/biologicals/rovensa-next-appoints-jose-borgo-as-chief-commerical-officer/",
-   "source": "AgriBusinessGlobal",
-   "date": "2026-09-03",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "Agtrinsic将AI病害智能技术扩展至南亚小农户",
-   "url": "https://www.agribusinessglobal.com/agtech/agtrinsic-expands-ai-disease-intelligence-technology-to-south-asias-smallholder-farmers/",
-   "source": "AgriBusinessGlobal",
-   "date": "2026-09-02",
+   "title": "全国已卖72276台！504拖拉机销量榜第三第四名，正面对决",
+   "url": "https://news.nongji360.com/report/view/1122",
+   "source": "农机360",
    "tag": "市场",
-   "tag_class": "tag-data"
+   "tag_class": "tag-data",
+   "date": "2026-09-04"
   },
   {
    "title": "山东开展2026年第二批投档审核提示",
@@ -330,14 +314,6 @@
    "date": "2026-08-27"
   },
   {
-   "title": "一拖股份发布2026半年度报告",
-   "url": "https://www.nongjitong.com/news/2026/533926.html",
-   "source": "农机通",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-08-26"
-  },
-  {
    "title": "圈粉东南亚！潍柴雷沃亮相2026年越南国际农业机械展览会",
    "url": "https://www.lovol.com.cn/news/medianews-detail-6192.htm",
    "source": "潍柴雷沃",
@@ -448,6 +424,30 @@
    "tag": "行业",
    "tag_class": "tag-news",
    "date": ""
+  },
+  {
+   "title": "再获殊荣丨久保田荣获2020中国农业机械年度TOP50+两项大奖",
+   "url": "http://www.kubota.com.cn/kams/newsone.do?hidnewsid=140&hidoffset=1&hidcount=6",
+   "source": "久保田中国",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2021-9-28"
+  },
+  {
+   "title": "以赛砺技强本领 | 沃得农机鼎力助阵第七届全国农机手技能竞赛",
+   "url": "http://www.worldnyjx.com/index.php?m=content&c=index&a=show&catid=126&id=578",
+   "source": "沃得",
+   "date": "2026-09-01",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "金秋农博盛会启幕 | 沃得农机亮相第二十五届长春农博会",
+   "url": "http://www.worldnyjx.com/index.php?m=content&c=index&a=show&catid=126&id=575",
+   "source": "沃得",
+   "date": "2026-08-19",
+   "tag": "行业",
+   "tag_class": "tag-news"
   }
  ]
 }
