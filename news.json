@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-08 01:09",
+ "updated": "2026-09-08 06:02",
  "items": [
   {
    "title": "河南2026年农机补贴归档机（第二批补充）公告",
@@ -98,34 +98,34 @@
    "date": "2026-09-03"
   },
   {
-   "title": "2026年第35周瘦肉型白条猪肉出厂价格监测周报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84175",
+   "title": "9月7日：“农产品批发价格200指数”比上周五上升0.11个点。",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84183",
    "source": "农业农村部价格指数",
-   "date": "2026-08-30",
+   "date": "2026-09-06",
    "tag": "市场",
    "tag_class": "tag-data"
   },
   {
-   "title": "2026年第34周瘦肉型白条猪肉出厂价格监测周报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84165",
+   "title": "9月4日：“农产品批发价格200指数”比昨天上升0.30个点。",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84181",
    "source": "农业农村部价格指数",
-   "date": "2026-08-23",
+   "date": "2026-09-03",
    "tag": "市场",
    "tag_class": "tag-data"
   },
   {
-   "title": "2026年第33周瘦肉型白条猪肉出厂价格监测周报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84157",
+   "title": "全国农产品批发市场一周价格行情监测报告（2026年8月28日—2026年9月3日）",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84182",
    "source": "农业农村部价格指数",
-   "date": "2026-08-16",
+   "date": "2026-09-03",
    "tag": "市场",
    "tag_class": "tag-data"
   },
   {
-   "title": "2026年第32周瘦肉型白条猪肉出厂价格监测周报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84146",
+   "title": "9月3日：“农产品批发价格200指数”比昨天上升0.01个点。",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84180",
    "source": "农业农村部价格指数",
-   "date": "2026-08-09",
+   "date": "2026-09-02",
    "tag": "市场",
    "tag_class": "tag-data"
   },
@@ -154,7 +154,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "电动芬特展示电池动力能为自主田间机器人带来什么",
+   "title": "电动芬特展示电池动力对自主田间机器人的意义",
    "url": "https://www.futurefarming.com/tech-in-focus/electric-fendt-shows-what-battery-power-could-mean-for-autonomous-field-robots/",
    "source": "FutureFarming",
    "date": "2026-09-07",
@@ -162,7 +162,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "Voltrac将Thor机器人推进至预生产阶段",
+   "title": "Voltrac将Thor机器人推进到预系列生产",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/voltrac-moves-thor-robot-into-pre-series-production/",
    "source": "FutureFarming",
    "date": "2026-09-07",
@@ -178,7 +178,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "印度电动拖拉机在阳光下充电",
+   "title": "来自印度的电动拖拉机在阳光下充电",
    "url": "https://www.futurefarming.com/smart-farming/electric-tractor-from-india-charges-in-the-sun/",
    "source": "FutureFarming",
    "date": "2026-09-03",
@@ -186,7 +186,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "AgriBusiness Global报告：Jim DeLisi谈美加贸易冲突、对华关税与对俄制裁",
+   "title": "AgriBusiness全球报告：Jim DeLisi谈美加贸易冲突、中国关税与俄罗斯制裁",
    "url": "https://www.agribusinessglobal.com/agrochemicals/agribusiness-global-report-jim-delisi-on-u-s-canada-trade-conflict-china-tariffs-and-russia-sanctions/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-04",
@@ -202,7 +202,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Agtrinsic向南亚小农户推广AI病害智能技术",
+   "title": "Agtrinsic将AI病害智能技术扩展至南亚小农户",
    "url": "https://www.agribusinessglobal.com/agtech/agtrinsic-expands-ai-disease-intelligence-technology-to-south-asias-smallholder-farmers/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-02",
