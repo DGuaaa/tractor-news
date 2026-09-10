@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-10 06:03",
+ "updated": "2026-09-10 12:03",
  "items": [
   {
    "title": "山东现场演示评价结果通告",
@@ -98,34 +98,34 @@
    "date": "2025-09-02"
   },
   {
-   "title": "2026年第35周瘦肉型白条猪肉出厂价格监测周报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84175",
+   "title": "9月9日：“农产品批发价格200指数”比昨天上升0.04个点。",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84186",
    "source": "农业农村部价格指数",
-   "date": "2026-08-30",
+   "date": "2026-09-08",
    "tag": "市场",
    "tag_class": "tag-data"
   },
   {
-   "title": "2026年第34周瘦肉型白条猪肉出厂价格监测周报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84165",
+   "title": "9月8日：“农产品批发价格200指数”比昨天上升0.25个点。",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84185",
    "source": "农业农村部价格指数",
-   "date": "2026-08-23",
+   "date": "2026-09-07",
    "tag": "市场",
    "tag_class": "tag-data"
   },
   {
-   "title": "2026年第33周瘦肉型白条猪肉出厂价格监测周报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84157",
+   "title": "9月7日：“农产品批发价格200指数”比上周五上升0.11个点。",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84183",
    "source": "农业农村部价格指数",
-   "date": "2026-08-16",
+   "date": "2026-09-06",
    "tag": "市场",
    "tag_class": "tag-data"
   },
   {
-   "title": "2026年第32周瘦肉型白条猪肉出厂价格监测周报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84146",
+   "title": "全国农产品批发市场一周价格行情监测报告（2026年8月28日—2026年9月3日）",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84182",
    "source": "农业农村部价格指数",
-   "date": "2026-08-09",
+   "date": "2026-09-03",
    "tag": "市场",
    "tag_class": "tag-data"
   },
@@ -154,7 +154,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "久保田推出WorkSmart Autosteer，将精准导航引入紧凑型与实用设备",
+   "title": "久保田推出WorkSmart Autosteer，为紧凑型及多用途设备带来精准导航",
    "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semi-autosteering-systems/kubota-launches-worksmart-autosteer-bringing-precision-guidance-to-compact-and-utility-equipment/",
    "source": "FutureFarming",
    "date": "2026-09-09",
@@ -170,7 +170,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "Voltrac将Thor机器人推进至预生产阶段",
+   "title": "Voltrac将Thor机器人投入预生产",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/voltrac-moves-thor-robot-into-pre-series-production/",
    "source": "FutureFarming",
    "date": "2026-09-07",
@@ -186,7 +186,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "Incotec在巴西启用新升级实验室设施",
+   "title": "Incotec在巴西开设新的及升级的实验室设施",
    "url": "https://www.agribusinessglobal.com/agrochemicals/seeds-traits/incotec-opens-new-and-updated-lab-facilities-in-brazil/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-08",
@@ -194,7 +194,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "非洲开发银行集团启动最高51亿美元应对计划，缓解非洲国家能源与化肥冲击",
+   "title": "非洲开发银行集团启动高达51亿美元的应对计划，以抵消非洲国家能源和化肥冲击",
    "url": "https://www.agribusinessglobal.com/markets/africa-middle-east/african-development-bank-group-launches-up-to-usd-5-1-billion-response-plan-to-offset-energy-and-fertilizer-shocks-in-african-countries/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-08",
@@ -202,7 +202,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "AgriBusiness Global报道：Jim DeLisi谈美加贸易冲突、中国关税与俄罗斯制裁",
+   "title": "AgriBusiness Global报告：Jim DeLisi谈美加贸易冲突、中国关税和俄罗斯制裁",
    "url": "https://www.agribusinessglobal.com/agrochemicals/agribusiness-global-report-jim-delisi-on-u-s-canada-trade-conflict-china-tariffs-and-russia-sanctions/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-04",
@@ -215,7 +215,7 @@
    "source": "农机360",
    "tag": "行业",
    "tag_class": "tag-news",
-   "date": ""
+   "date": "2026-08-25"
   },
   {
    "title": "河北农机回收拆解资格的企业名单",
