@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-11 00:03",
+ "updated": "2026-09-11 06:03",
  "items": [
   {
    "title": "重庆农机补贴产品第六批公示",
@@ -130,7 +130,63 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "Incotec在巴西开设新实验室并升级设施",
+   "title": "全国粮食品牌建设工作推进会在吉林召开",
+   "url": "https://www.lswz.gov.cn/html/xinwen/2026-08/19/content_294659.shtml",
+   "source": "国家粮食局",
+   "date": "2026-08-20",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "第八届中国粮食交易大会圆满落幕",
+   "url": "https://www.lswz.gov.cn/html/xinwen/2026-09/08/content_295086.shtml",
+   "source": "国家粮食局",
+   "date": "2026-09-08",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "第八届中国粮食交易大会在长沙开幕",
+   "url": "https://www.lswz.gov.cn/html/xinwen/2026-09/06/content_294987.shtml",
+   "source": "国家粮食局",
+   "date": "2026-09-06",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "AgXeed T2 7系列与LaserWeeder证明是强大的自主团队",
+   "url": "https://www.futurefarming.com/tech-in-focus/field-robots/agxeed-t2-7-series-and-laserweeder-prove-a-strong-autonomous-team/",
+   "source": "FutureFarming",
+   "date": "2026-09-10",
+   "tag": "技术",
+   "tag_class": "tag-tech"
+  },
+  {
+   "title": "久保田推出WorkSmart Autosteer，为紧凑型和通用设备带来精准导航",
+   "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semi-autosteering-systems/kubota-launches-worksmart-autosteer-bringing-precision-guidance-to-compact-and-utility-equipment/",
+   "source": "FutureFarming",
+   "date": "2026-09-09",
+   "tag": "技术",
+   "tag_class": "tag-tech"
+  },
+  {
+   "title": "电动芬特展示电池动力对自主田间机器人的意义",
+   "url": "https://www.futurefarming.com/tech-in-focus/electric-fendt-shows-what-battery-power-could-mean-for-autonomous-field-robots/",
+   "source": "FutureFarming",
+   "date": "2026-09-07",
+   "tag": "技术",
+   "tag_class": "tag-tech"
+  },
+  {
+   "title": "Voltrac将Thor机器人推进到预批量生产",
+   "url": "https://www.futurefarming.com/tech-in-focus/field-robots/voltrac-moves-thor-robot-into-pre-series-production/",
+   "source": "FutureFarming",
+   "date": "2026-09-07",
+   "tag": "技术",
+   "tag_class": "tag-tech"
+  },
+  {
+   "title": "Incotec在巴西开设全新升级的实验室设施",
    "url": "https://www.agribusinessglobal.com/agrochemicals/seeds-traits/incotec-opens-new-and-updated-lab-facilities-in-brazil/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-08",
@@ -138,7 +194,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "非洲开发银行集团启动高达51亿美元应对计划，以抵消非洲国家的能源和化肥冲击",
+   "title": "非洲开发银行集团启动高达51亿美元的应对计划，以抵消非洲国家的能源和化肥冲击",
    "url": "https://www.agribusinessglobal.com/markets/africa-middle-east/african-development-bank-group-launches-up-to-usd-5-1-billion-response-plan-to-offset-energy-and-fertilizer-shocks-in-african-countries/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-08",
@@ -146,7 +202,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "《AgriBusiness Global》报告：Jim DeLisi谈美加贸易冲突、中国关税和俄罗斯制裁",
+   "title": "AgriBusiness Global Report：Jim DeLisi谈美加贸易冲突、中国关税和俄罗斯制裁",
    "url": "https://www.agribusinessglobal.com/agrochemicals/agribusiness-global-report-jim-delisi-on-u-s-canada-trade-conflict-china-tariffs-and-russia-sanctions/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-04",
@@ -392,54 +448,6 @@
    "tag": "行业",
    "tag_class": "tag-news",
    "date": ""
-  },
-  {
-   "title": "再获殊荣丨久保田荣获2020中国农业机械年度TOP50+两项大奖",
-   "url": "http://www.kubota.com.cn/kams/newsone.do?hidnewsid=140&hidoffset=1&hidcount=6",
-   "source": "久保田中国",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2021-9-28"
-  },
-  {
-   "title": "中国一拖出海授旗仪式吹响国际化冲锋号",
-   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202609/t20260908_653506.html",
-   "source": "一拖东方红",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-09-08"
-  },
-  {
-   "title": "总统成为首位车主！中国一拖刚果（布）农业装备组装厂首批拖拉机下线",
-   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202608/t20260817_650950.html",
-   "source": "一拖东方红",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-08-17"
-  },
-  {
-   "title": "中国一拖闪耀2026越南国际农机展",
-   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202608/t20260806_649397.html",
-   "source": "一拖东方红",
-   "tag": "市场",
-   "tag_class": "tag-data",
-   "date": "2026-08-06"
-  },
-  {
-   "title": "湖南首个“东方红公益助农服务示范点”在韶山落地",
-   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202608/t20260804_649098.html",
-   "source": "一拖东方红",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-08-04"
-  },
-  {
-   "title": "以赛砺技强本领 | 沃得农机鼎力助阵第七届全国农机手技能竞赛",
-   "url": "http://www.worldnyjx.com/index.php?m=content&c=index&a=show&catid=126&id=578",
-   "source": "沃得",
-   "date": "2026-09-01",
-   "tag": "行业",
-   "tag_class": "tag-news"
   }
  ]
 }
