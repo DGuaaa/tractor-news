@@ -1,9 +1,41 @@
 {
- "updated": "2026-09-12 12:02",
+ "updated": "2026-09-12 18:03",
  "items": [
   {
-   "title": "甘肃2026年第三批农机补贴归档公告",
-   "url": "https://news.nongji360.com/html/2026/09/274268.shtml",
+   "title": "上海2026年第二批农机补贴产品公示",
+   "url": "https://news.nongji360.com/html/2026/09/274279.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-09-11"
+  },
+  {
+   "title": "黑龙江对补短板拖拉机补贴信息完善提示",
+   "url": "https://news.nongji360.com/html/2026/09/274269.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-09-11"
+  },
+  {
+   "title": "【违规】安徽省农业农村厅关于农机购置与应用补贴违规投档企业处理情况的通报",
+   "url": "https://news.nongji360.com/html/2026/09/274281.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-09-11"
+  },
+  {
+   "title": "【归档】上海市2026年第二批农机购置与应用补贴产品投档形式审核结果的公示",
+   "url": "https://news.nongji360.com/html/2026/09/274279.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-09-11"
+  },
+  {
+   "title": "【归档】山西省2026年农机购置与应用补贴产品现场演示评价结果的公告",
+   "url": "https://news.nongji360.com/html/2026/09/274277.shtml",
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
@@ -50,22 +82,6 @@
    "date": "2026-09-10"
   },
   {
-   "title": "【目录】福建省4行手扶步进式水稻插秧机“优机优补”补贴产品的通告",
-   "url": "https://news.nongji360.com/html/2026/09/274261.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-09-10"
-  },
-  {
-   "title": "【归档】关于2026年第三批农业机械试验鉴定结果的通报",
-   "url": "https://news.nongji360.com/html/2026/09/274259.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-09-10"
-  },
-  {
    "title": "【汇总】各省2024-2026年农机补贴政策通知相关汇总",
    "url": "https://news.nongji360.com/html/2025/09/271215.shtml",
    "source": "农机360",
@@ -80,22 +96,6 @@
    "tag": "政策",
    "tag_class": "tag-policy",
    "date": "2026-09-09"
-  },
-  {
-   "title": "安徽省农业农村厅安徽省发展和改革委员会安徽省财政厅安徽省自然资源厅中国人民银行安徽省分行国家金融监督管理总局安徽监管局关于印发",
-   "url": "https://news.nongji360.com/html/2026/09/274278.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-09-11"
-  },
-  {
-   "title": "《宁夏回族自治区高效办成农机上牌“一件事”工作方案》的通知",
-   "url": "https://news.nongji360.com/html/2026/09/274270.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-09-11"
   },
   {
    "title": "2026年第35周瘦肉型白条猪肉出厂价格监测周报",
@@ -154,7 +154,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "AgXeed T2 7-SERIES 与 LaserWeeder 证明是强大的自主组合",
+   "title": "AgXeed T2 7系列与LaserWeeder证明是强大的自主团队",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/agxeed-t2-7-series-and-laserweeder-prove-a-strong-autonomous-team/",
    "source": "FutureFarming",
    "date": "2026-09-10",
@@ -162,7 +162,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "久保田推出 WorkSmart Autosteer，为紧凑型和通用设备带来精准导向",
+   "title": "久保田推出WorkSmart Autosteer，为紧凑型和通用型设备带来精准导航",
    "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semi-autosteering-systems/kubota-launches-worksmart-autosteer-bringing-precision-guidance-to-compact-and-utility-equipment/",
    "source": "FutureFarming",
    "date": "2026-09-09",
@@ -170,7 +170,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "电动芬特展示电池动力对自主田间机器人意味着什么",
+   "title": "电动Fendt展示电池动力对自主田间机器人的意义",
    "url": "https://www.futurefarming.com/tech-in-focus/electric-fendt-shows-what-battery-power-could-mean-for-autonomous-field-robots/",
    "source": "FutureFarming",
    "date": "2026-09-07",
@@ -178,7 +178,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "Voltrac 将 Thor 机器人投入试生产",
+   "title": "Voltrac将Thor机器人投入试生产",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/voltrac-moves-thor-robot-into-pre-series-production/",
    "source": "FutureFarming",
    "date": "2026-09-07",
@@ -186,7 +186,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "AgriBusiness Global 报告：以更少投入实现更多产出，以及可持续作物投入品的未来",
+   "title": "AgriBusiness Global报告：少投入多产出与可持续作物投入品的未来",
    "url": "https://www.agribusinessglobal.com/agrochemicals/agribusiness-global-report-producing-more-with-less-and-the-future-of-sustainable-crop-inputs/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-11",
@@ -194,7 +194,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Ag Tech Talk 播客：农场自动化的实用路径，与 Burro 的 Charlie Andersen 对话",
+   "title": "Ag Tech Talk播客：农场自动化的实用路径，对话Burro的Charlie Andersen",
    "url": "https://www.agribusinessglobal.com/agtech/ag-tech-talk-podcast-the-practical-path-to-farm-automation-with-burros-charlie-andersen/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-10",
@@ -202,7 +202,7 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "Rovensa Next 获得 FINEP 4500万雷亚尔资助，助力生物解决方案研发并推动巴西下一波农业创新",
+   "title": "Rovensa Next获FINEP 4500万雷亚尔资助，推动生物解决方案研发并驱动巴西下一波农业创新",
    "url": "https://www.agribusinessglobal.com/markets/americas/rovensa-next-lands-r45-million-in-finep-funding-to-power-biosolutions-rd-and-drive-brazils-next-wave-of-agricultural-innovation/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-10",
@@ -210,7 +210,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "先正达与 Amoéba 签署欧洲独家分销协议，旨在为谷物种植者带来突破性生物杀菌剂",
+   "title": "先正达与Amoéba签署欧洲独家分销协议，旨在为谷物种植者带来突破性生物杀菌剂",
    "url": "https://www.agribusinessglobal.com/biopesticides/syngenta-and-amoeba-seal-exclusive-european-distribution-deal-aiming-to-bring-a-breakthrough-biofungicide-to-cereal-growers/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-09",
@@ -218,28 +218,12 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "黑龙江对补短板高端智能拖拉机补贴资质信息完善提示",
-   "url": "https://news.nongji360.com/html/2026/09/274269.shtml",
-   "source": "农机360",
-   "tag": "技术",
-   "tag_class": "tag-tech",
-   "date": "2026-09-11"
-  },
-  {
-   "title": "四川提取2026年第一批优机优补投档评审数据",
-   "url": "https://news.nongji360.com/html/2026/09/274271.shtml",
+   "title": "不止耕管收：9S模式补齐农业产后服务短板",
+   "url": "https://news.nongji360.com/html/2026/09/274280.shtml",
    "source": "农机360",
    "tag": "行业",
    "tag_class": "tag-news",
    "date": "2026-09-11"
-  },
-  {
-   "title": "当经典机型遇上“智慧大脑”",
-   "url": "https://news.nongji360.com/html/2026/09/274266.shtml",
-   "source": "农机360",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-09-10"
   },
   {
    "title": "【归档】黑龙江省对补短板200马力及以上无级变速高端智能拖拉机补贴资质信息进行完善的提示",
@@ -247,22 +231,6 @@
    "source": "农机360",
    "tag": "技术",
    "tag_class": "tag-tech",
-   "date": "2026-09-11"
-  },
-  {
-   "title": "【方案】北大荒农垦补短板200马力及以上无级变速高端智能拖拉机购置与应用补贴实施方案",
-   "url": "https://news.nongji360.com/html/2026/09/274260.shtml",
-   "source": "农机360",
-   "tag": "技术",
-   "tag_class": "tag-tech",
-   "date": "2026-09-10"
-  },
-  {
-   "title": "不止耕管收：9S模式补齐农业产后服务短板",
-   "url": "https://news.nongji360.com/html/2026/09/274280.shtml",
-   "source": "农机360",
-   "tag": "行业",
-   "tag_class": "tag-news",
    "date": "2026-09-11"
   },
   {
@@ -344,6 +312,38 @@
    "tag": "市场",
    "tag_class": "tag-data",
    "date": "2026-09-03"
+  },
+  {
+   "title": "《甘肃省粮食烘干中心成套设施设备补贴额一览表》的公示",
+   "url": "https://www.nongjitong.com/news/2026/533977.html",
+   "source": "农机通",
+   "tag": "市场",
+   "tag_class": "tag-data",
+   "date": "2026-09-01"
+  },
+  {
+   "title": "《山东省粮食烘干中心成套设施设备补贴额一览表》的公示",
+   "url": "https://www.nongjitong.com/news/2026/533954.html",
+   "source": "农机通",
+   "tag": "市场",
+   "tag_class": "tag-data",
+   "date": "2026-08-28"
+  },
+  {
+   "title": "老把式与格兰割草机的“默契”：抛得高、散得匀、干得快",
+   "url": "https://www.nongjitong.com/news/2026/533953.html",
+   "source": "农机通",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-08-28"
+  },
+  {
+   "title": "根植荆楚沃土，久保田相伴筑梦——周建新的现代化农业创富故事",
+   "url": "https://www.nongjitong.com/news/2026/533948.html",
+   "source": "农机通",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-08-28"
   },
   {
    "title": "圈粉东南亚！潍柴雷沃亮相2026年越南国际农业机械展览会",
