@@ -1,17 +1,9 @@
 {
- "updated": "2026-09-13 12:06",
+ "updated": "2026-09-13 18:02",
  "items": [
   {
    "title": "上海2026年第二批农机补贴产品公示",
    "url": "https://news.nongji360.com/html/2026/09/274279.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-09-11"
-  },
-  {
-   "title": "黑龙江对补短板拖拉机补贴信息完善提示",
-   "url": "https://news.nongji360.com/html/2026/09/274269.shtml",
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
@@ -98,63 +90,15 @@
    "date": "2026-09-09"
   },
   {
-   "title": "2026年第35周瘦肉型白条猪肉出厂价格监测周报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84175",
-   "source": "农业农村部价格指数",
-   "date": "2026-08-30",
-   "tag": "市场",
-   "tag_class": "tag-data"
+   "title": "【违规】宁夏关于2026年农机购置与应用补贴第三批投档违规行为处理情况的通报",
+   "url": "https://news.nongji360.com/html/2026/09/274227.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-09-07"
   },
   {
-   "title": "2026年第34周瘦肉型白条猪肉出厂价格监测周报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84165",
-   "source": "农业农村部价格指数",
-   "date": "2026-08-23",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "2026年第33周瘦肉型白条猪肉出厂价格监测周报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84157",
-   "source": "农业农村部价格指数",
-   "date": "2026-08-16",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "2026年第32周瘦肉型白条猪肉出厂价格监测周报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84146",
-   "source": "农业农村部价格指数",
-   "date": "2026-08-09",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "国家粮食和物资储备局召开树立和践行正确政绩观学习教育总结会议",
-   "url": "https://www.lswz.gov.cn/html/xinwen/2026-09/11/content_295136.shtml",
-   "source": "国家粮食局",
-   "date": "2026-09-11",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "全国粮食品牌建设工作推进会在吉林召开",
-   "url": "https://www.lswz.gov.cn/html/xinwen/2026-08/19/content_294659.shtml",
-   "source": "国家粮食局",
-   "date": "2026-08-20",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "第八届中国粮食交易大会圆满落幕",
-   "url": "https://www.lswz.gov.cn/html/xinwen/2026-09/08/content_295086.shtml",
-   "source": "国家粮食局",
-   "date": "2026-09-08",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "AgXeed T2 7系列与LaserWeeder证明是强大的自主团队",
+   "title": "AgXeed T2 7-SERIES 与 LaserWeeder 证明是强大的自主团队",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/agxeed-t2-7-series-and-laserweeder-prove-a-strong-autonomous-team/",
    "source": "FutureFarming",
    "date": "2026-09-10",
@@ -162,7 +106,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "久保田推出WorkSmart Autosteer，为紧凑型和通用设备带来精准导航",
+   "title": "久保田推出 WorkSmart Autosteer，为紧凑型和实用型设备带来精准导航",
    "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semi-autosteering-systems/kubota-launches-worksmart-autosteer-bringing-precision-guidance-to-compact-and-utility-equipment/",
    "source": "FutureFarming",
    "date": "2026-09-09",
@@ -178,7 +122,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "Voltrac将Thor机器人投入试生产",
+   "title": "Voltrac 将 Thor 机器人推进预量产阶段",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/voltrac-moves-thor-robot-into-pre-series-production/",
    "source": "FutureFarming",
    "date": "2026-09-07",
@@ -186,7 +130,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "AgriBusiness Global报告：以更少投入生产更多，以及可持续作物投入品的未来",
+   "title": "AgriBusiness Global Report：以更少投入生产更多，以及可持续作物投入品的未来",
    "url": "https://www.agribusinessglobal.com/agrochemicals/agribusiness-global-report-producing-more-with-less-and-the-future-of-sustainable-crop-inputs/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-11",
@@ -194,7 +138,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Ag Tech Talk Podcast：农场自动化的实用路径，与Burro的Charlie Andersen",
+   "title": "Ag Tech Talk 播客：农场自动化的实用路径，对话 Burro 的 Charlie Andersen",
    "url": "https://www.agribusinessglobal.com/agtech/ag-tech-talk-podcast-the-practical-path-to-farm-automation-with-burros-charlie-andersen/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-10",
@@ -202,7 +146,7 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "Rovensa Next获得FINEP 4500万雷亚尔资金，助力生物解决方案研发，推动巴西下一波农业创新",
+   "title": "Rovensa Next 获 FINEP 4500万雷亚尔资助，助力生物解决方案研发，推动巴西下一波农业创新",
    "url": "https://www.agribusinessglobal.com/markets/americas/rovensa-next-lands-r45-million-in-finep-funding-to-power-biosolutions-rd-and-drive-brazils-next-wave-of-agricultural-innovation/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-10",
@@ -210,12 +154,20 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "先正达与Amoéba签署欧洲独家分销协议，旨在为谷物种植者带来突破性生物杀菌剂",
+   "title": "先正达与 Amoéba 签署欧洲独家分销协议，旨在为谷物种植者带来突破性生物杀菌剂",
    "url": "https://www.agribusinessglobal.com/biopesticides/syngenta-and-amoeba-seal-exclusive-european-distribution-deal-aiming-to-bring-a-breakthrough-biofungicide-to-cereal-growers/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-09",
    "tag": "行业",
    "tag_class": "tag-news"
+  },
+  {
+   "title": "504拖拉机机型对比之 常州东风 VS 洛阳万年红",
+   "url": "https://news.nongji360.com/report/view/1123",
+   "source": "农机360",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-09-11"
   },
   {
    "title": "不止耕管收：9S模式补齐农业产后服务短板",
@@ -338,14 +290,6 @@
    "date": "2026-08-28"
   },
   {
-   "title": "根植荆楚沃土，久保田相伴筑梦——周建新的现代化农业创富故事",
-   "url": "https://www.nongjitong.com/news/2026/533948.html",
-   "source": "农机通",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-08-28"
-  },
-  {
    "title": "圈粉东南亚！潍柴雷沃亮相2026年越南国际农业机械展览会",
    "url": "https://www.lovol.com.cn/news/medianews-detail-6192.htm",
    "source": "潍柴雷沃",
@@ -448,6 +392,30 @@
    "tag": "市场",
    "tag_class": "tag-data",
    "date": "2026-08-06"
+  },
+  {
+   "title": "湖南首个“东方红公益助农服务示范点”在韶山落地",
+   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202608/t20260804_649098.html",
+   "source": "一拖东方红",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-08-04"
+  },
+  {
+   "title": "以赛砺技强本领 | 沃得农机鼎力助阵第七届全国农机手技能竞赛",
+   "url": "http://www.worldnyjx.com/index.php?m=content&c=index&a=show&catid=126&id=578",
+   "source": "沃得",
+   "date": "",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "金秋农博盛会启幕 | 沃得农机亮相第二十五届长春农博会",
+   "url": "http://www.worldnyjx.com/index.php?m=content&c=index&a=show&catid=126&id=575",
+   "source": "沃得",
+   "date": "2026-08-19",
+   "tag": "行业",
+   "tag_class": "tag-news"
   }
  ]
 }
