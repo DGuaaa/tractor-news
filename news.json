@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-15 00:05",
+ "updated": "2026-09-15 06:04",
  "items": [
   {
    "title": "黑龙江省2026年第二批农机补贴机具现场验证公示",
@@ -98,62 +98,6 @@
    "date": "2025-09-02"
   },
   {
-   "title": "2026年第37周瘦肉型白条猪肉出厂价格监测周报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84194",
-   "source": "农业农村部价格指数",
-   "date": "2026-09-13",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "2026年8月瘦肉型白条猪肉出厂价格监测月报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84193",
-   "source": "农业农村部价格指数",
-   "date": "2026-09-10",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "2026年第36周瘦肉型白条猪肉出厂价格监测周报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84195",
-   "source": "农业农村部价格指数",
-   "date": "2026-09-06",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "2026年第35周瘦肉型白条猪肉出厂价格监测周报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84175",
-   "source": "农业农村部价格指数",
-   "date": "2026-08-30",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "国家粮食和物资储备局召开树立和践行正确政绩观学习教育总结会议",
-   "url": "https://www.lswz.gov.cn/html/xinwen/2026-09/11/content_295136.shtml",
-   "source": "国家粮食局",
-   "date": "2026-09-11",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "全国粮食品牌建设工作推进会在吉林召开",
-   "url": "https://www.lswz.gov.cn/html/xinwen/2026-08/19/content_294659.shtml",
-   "source": "国家粮食局",
-   "date": "2026-08-20",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "第八届中国粮食交易大会圆满落幕",
-   "url": "https://www.lswz.gov.cn/html/xinwen/2026-09/08/content_295086.shtml",
-   "source": "国家粮食局",
-   "date": "2026-09-08",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
    "title": "约翰迪尔推出AI助手",
    "url": "https://www.futurefarming.com/smart-farming/john-deere-introduces-ai-assistant/",
    "source": "FutureFarming",
@@ -162,7 +106,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Odd.Bot为Maverick除草机器人升级",
+   "title": "Odd.Bot为Maverick除草机器人带来升级",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/26futweb-upgrade-maverick/",
    "source": "FutureFarming",
    "date": "2026-09-14",
@@ -178,7 +122,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "AgXeed T2 7系列与LaserWeeder证明是强大的自主作业组合",
+   "title": "AgXeed T2 7系列与LaserWeeder被证明是强大的自主作业组合",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/agxeed-t2-7-series-and-laserweeder-prove-a-strong-autonomous-team/",
    "source": "FutureFarming",
    "date": "2026-09-10",
@@ -186,7 +130,23 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "AgriBusiness全球报告：以更少投入实现更多产出，以及可持续作物投入品的未来",
+   "title": "欧洲作物保护改革将在田间接受检验",
+   "url": "https://www.agribusinessglobal.com/markets/europe/europes-crop-protection-reform-will-be-judged-in-the-field/",
+   "source": "AgriBusinessGlobal",
+   "date": "2026-09-14",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "农业中的人工智能：多大风险才算过度？",
+   "url": "https://www.agribusinessglobal.com/markets/ai-in-agriculture-how-much-risk-is-too-much/",
+   "source": "AgriBusinessGlobal",
+   "date": "2026-09-14",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "AgriBusiness全球报告：以更少投入产出更多，以及可持续作物投入品的未来",
    "url": "https://www.agribusinessglobal.com/agrochemicals/agribusiness-global-report-producing-more-with-less-and-the-future-of-sustainable-crop-inputs/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-11",
@@ -194,28 +154,12 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Ag Tech Talk播客：农场自动化的实用路径——对话Burro的Charlie Andersen",
+   "title": "农业科技访谈播客：农场自动化的务实之路——对话Burro的Charlie Andersen",
    "url": "https://www.agribusinessglobal.com/agtech/ag-tech-talk-podcast-the-practical-path-to-farm-automation-with-burros-charlie-andersen/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-10",
    "tag": "市场",
    "tag_class": "tag-data"
-  },
-  {
-   "title": "Rovensa Next获FINEP 4500万雷亚尔资助，助力生物解决方案研发，推动巴西农业创新下一波浪潮",
-   "url": "https://www.agribusinessglobal.com/markets/americas/rovensa-next-lands-r45-million-in-finep-funding-to-power-biosolutions-rd-and-drive-brazils-next-wave-of-agricultural-innovation/",
-   "source": "AgriBusinessGlobal",
-   "date": "2026-09-10",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "先正达与Amoéba达成欧洲独家分销协议，旨在为谷物种植者带来突破性生物杀菌剂",
-   "url": "https://www.agribusinessglobal.com/biopesticides/syngenta-and-amoeba-seal-exclusive-european-distribution-deal-aiming-to-bring-a-breakthrough-biofungicide-to-cereal-growers/",
-   "source": "AgriBusinessGlobal",
-   "date": "2026-09-09",
-   "tag": "行业",
-   "tag_class": "tag-news"
   },
   {
    "title": "江西省2026年第二批“优机优补”产品公告",
@@ -448,6 +392,30 @@
    "tag": "行业",
    "tag_class": "tag-news",
    "date": "2026-09-08"
+  },
+  {
+   "title": "总统成为首位车主！中国一拖刚果（布）农业装备组装厂首批拖拉机下线",
+   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202608/t20260817_650950.html",
+   "source": "一拖东方红",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-08-17"
+  },
+  {
+   "title": "以赛砺技强本领 | 沃得农机鼎力助阵第七届全国农机手技能竞赛",
+   "url": "http://www.worldnyjx.com/index.php?m=content&c=index&a=show&catid=126&id=578",
+   "source": "沃得",
+   "date": "2026-09-01",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "金秋农博盛会启幕 | 沃得农机亮相第二十五届长春农博会",
+   "url": "http://www.worldnyjx.com/index.php?m=content&c=index&a=show&catid=126&id=575",
+   "source": "沃得",
+   "date": "2026-08-19",
+   "tag": "行业",
+   "tag_class": "tag-news"
   }
  ]
 }
