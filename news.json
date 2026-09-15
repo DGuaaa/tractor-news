@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-15 12:05",
+ "updated": "2026-09-15 18:02",
  "items": [
   {
    "title": "山东省农机补贴“优机优补”一览表（第二批）通告",
@@ -106,14 +106,6 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "9月14日：“农产品批发价格200指数”比上周五上升0.04个点。",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84192",
-   "source": "农业农村部价格指数",
-   "date": "2026-09-13",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
    "title": "2026年8月瘦肉型白条猪肉出厂价格监测月报",
    "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84193",
    "source": "农业农村部价格指数",
@@ -122,10 +114,18 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "9月11日：“农产品批发价格200指数”比昨天上升0.10个点。",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84189",
+   "title": "2026年第36周瘦肉型白条猪肉出厂价格监测周报",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84195",
    "source": "农业农村部价格指数",
-   "date": "2026-09-10",
+   "date": "2026-09-06",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "2026年第35周瘦肉型白条猪肉出厂价格监测周报",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84175",
+   "source": "农业农村部价格指数",
+   "date": "2026-08-30",
    "tag": "市场",
    "tag_class": "tag-data"
   },
@@ -162,7 +162,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Odd.Bot为Maverick除草机器人升级",
+   "title": "Odd.Bot升级Maverick除草机器人",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/26futweb-upgrade-maverick/",
    "source": "FutureFarming",
    "date": "2026-09-14",
@@ -170,7 +170,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "从零设计：电动Rigitrac SKE 40拖拉机",
+   "title": "从头设计：电动Rigitrac SKE 40拖拉机",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/designed-from-scratch-electric-rigitrac-ske-40-tractor/",
    "source": "FutureFarming",
    "date": "2026-09-11",
@@ -178,7 +178,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "AgXeed T2 7系列与LaserWeeder堪称强大的自主团队",
+   "title": "AgXeed T2 7系列和LaserWeeder证明是强大的自主团队",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/agxeed-t2-7-series-and-laserweeder-prove-a-strong-autonomous-team/",
    "source": "FutureFarming",
    "date": "2026-09-10",
@@ -186,7 +186,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "欧洲植保改革将在田间见分晓",
+   "title": "欧洲作物保护改革将在田间接受检验",
    "url": "https://www.agribusinessglobal.com/markets/europe/europes-crop-protection-reform-will-be-judged-in-the-field/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-14",
@@ -194,7 +194,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "农业中的人工智能：多大风险才算过高？",
+   "title": "农业中的AI：多少风险算太多？",
    "url": "https://www.agribusinessglobal.com/markets/ai-in-agriculture-how-much-risk-is-too-much/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-14",
@@ -202,7 +202,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "AgriBusiness全球报告：以更少投入生产更多，以及可持续作物投入品的未来",
+   "title": "AgriBusiness Global报告：以更少产出更多与可持续作物投入品的未来",
    "url": "https://www.agribusinessglobal.com/agrochemicals/agribusiness-global-report-producing-more-with-less-and-the-future-of-sustainable-crop-inputs/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-11",
@@ -210,7 +210,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "农业科技对话播客：农场自动化的实用路径，对话Burro的Charlie Andersen",
+   "title": "Ag Tech Talk播客：农场自动化的实用路径，与Burro的Charlie Andersen",
    "url": "https://www.agribusinessglobal.com/agtech/ag-tech-talk-podcast-the-practical-path-to-farm-automation-with-burros-charlie-andersen/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-10",
@@ -282,22 +282,6 @@
    "date": "2026-09-10"
   },
   {
-   "title": "传统农机如何破局？巨明688玉米收获机给出了答案——搭载全新智能座舱系统，重构机手驾驶体验。高清触控大屏取代繁杂物理按键，整车工况",
-   "url": "https://news.nongji360.com/html/2026/09/274266.shtml",
-   "source": "农机360",
-   "tag": "技术",
-   "tag_class": "tag-tech",
-   "date": "2026-09-10"
-  },
-  {
-   "title": "老铁，你想过买辆车，就有了车载服务大厅吗？",
-   "url": "https://news.nongji360.com/html/2026/09/274246.shtml",
-   "source": "农机360",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-09-09"
-  },
-  {
    "title": "农机上市企业2026半年报分化加剧，农机淘汰赛全面打响",
    "url": "https://www.nongjitong.com/news/2026/534013.html",
    "source": "农机通",
@@ -343,6 +327,22 @@
    "source": "农机通",
    "tag": "市场",
    "tag_class": "tag-data",
+   "date": "2026-08-28"
+  },
+  {
+   "title": "老把式与格兰割草机的“默契”：抛得高、散得匀、干得快",
+   "url": "https://www.nongjitong.com/news/2026/533953.html",
+   "source": "农机通",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-08-28"
+  },
+  {
+   "title": "根植荆楚沃土，久保田相伴筑梦——周建新的现代化农业创富故事",
+   "url": "https://www.nongjitong.com/news/2026/533948.html",
+   "source": "农机通",
+   "tag": "行业",
+   "tag_class": "tag-news",
    "date": "2026-08-28"
   },
   {
