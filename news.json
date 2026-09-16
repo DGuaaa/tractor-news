@@ -1,21 +1,29 @@
 {
- "updated": "2026-09-16 18:02",
+ "updated": "2026-09-17 00:05",
  "items": [
   {
-   "title": "北大荒农垦开展补短板拖拉机纳入新产品补贴申报",
-   "url": "https://news.nongji360.com/html/2026/09/274309.shtml",
+   "title": "青岛农机“优机优补”一览表第二批公示",
+   "url": "https://news.nongji360.com/html/2026/09/274315.shtml",
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
    "date": "2026-09-16"
   },
   {
-   "title": "山东“优机优补”一览表第二批通告",
-   "url": "https://news.nongji360.com/html/2026/09/274299.shtml",
+   "title": "【目录】青岛市农机购置与应用补贴“优机优补”一览表（第二批）的公示",
+   "url": "https://news.nongji360.com/html/2026/09/274315.shtml",
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
-   "date": "2026-09-15"
+   "date": "2026-09-16"
+  },
+  {
+   "title": "【归档】浙江省开展2026年度农机购置与应用补贴产品第三批投档审核的通知",
+   "url": "https://news.nongji360.com/html/2026/09/274310.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-09-16"
   },
   {
    "title": "【鉴定】天津市2026年第一批农业机械推广鉴定结果的通报",
@@ -42,38 +50,6 @@
    "date": "2026-09-15"
   },
   {
-   "title": "【鉴定】贵州省2026年第二批省级农机推广鉴定注册证书的通报",
-   "url": "https://news.nongji360.com/html/2026/09/274297.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-09-15"
-  },
-  {
-   "title": "【鉴定】贵州省2026年第三批变更农业机械推广鉴定证书的通告",
-   "url": "https://news.nongji360.com/html/2026/09/274296.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-09-15"
-  },
-  {
-   "title": "【归档】黑龙江省2026年第二批农机购置与应用补贴机具现场验证结果的公示",
-   "url": "https://news.nongji360.com/html/2026/09/274295.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-09-14"
-  },
-  {
-   "title": "【归档】江西省2026年第二批农机购置与应用补贴“优机优补”产品投档审核通过产品信息的公告",
-   "url": "https://news.nongji360.com/html/2026/09/274294.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-09-14"
-  },
-  {
    "title": "【汇总】各省2024-2026年农机补贴政策通知相关汇总",
    "url": "https://news.nongji360.com/html/2025/09/271215.shtml",
    "source": "农机360",
@@ -96,6 +72,30 @@
    "tag": "政策",
    "tag_class": "tag-policy",
    "date": "2026-09-15"
+  },
+  {
+   "title": "关于做好2026年“三秋”机械化生产工作的通知鲁农机字〔2026〕11号各市农业农村局：为扎实做好今年“三秋”机械化生产和防灾减灾救灾各项工",
+   "url": "https://news.nongji360.com/html/2026/09/274303.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-09-15"
+  },
+  {
+   "title": "安徽省农业农村厅安徽省发展和改革委员会安徽省财政厅安徽省自然资源厅中国人民银行安徽省分行国家金融监督管理总局安徽监管局关于印发",
+   "url": "https://news.nongji360.com/html/2026/09/274278.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-09-11"
+  },
+  {
+   "title": "《宁夏回族自治区高效办成农机上牌“一件事”工作方案》的通知",
+   "url": "https://news.nongji360.com/html/2026/09/274270.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-09-11"
   },
   {
    "title": "2026年第37周瘦肉型白条猪肉出厂价格监测周报",
@@ -154,7 +154,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "AgXeed T2 7系列与LaserWeeder证明是强大的自主团队",
+   "title": "AgXeed T2 7-SERIES 与 LaserWeeder 证明是强大的自主团队",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/agxeed-t2-7-series-and-laserweeder-prove-a-strong-autonomous-team/",
    "source": "FutureFarming",
    "date": "2026-09-15",
@@ -170,7 +170,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Odd.Bot升级Maverick除草机器人",
+   "title": "Odd.Bot 为 Maverick 除草机器人带来升级",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/26futweb-upgrade-maverick/",
    "source": "FutureFarming",
    "date": "2026-09-14",
@@ -178,7 +178,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "从头设计：电动Rigitrac SKE 40拖拉机",
+   "title": "从零开始设计：电动 Rigitrac SKE 40 拖拉机",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/designed-from-scratch-electric-rigitrac-ske-40-tractor/",
    "source": "FutureFarming",
    "date": "2026-09-11",
@@ -194,7 +194,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "农业中的AI：多少风险才算太多？",
+   "title": "农业中的AI：多少风险才算过高？",
    "url": "https://www.agribusinessglobal.com/markets/ai-in-agriculture-how-much-risk-is-too-much/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-14",
@@ -202,7 +202,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "AgriBusiness全球报告：以更少投入生产更多与可持续作物投入品的未来",
+   "title": "AgriBusiness Global 报告：以更少资源生产更多，以及可持续作物投入品的未来",
    "url": "https://www.agribusinessglobal.com/agrochemicals/agribusiness-global-report-producing-more-with-less-and-the-future-of-sustainable-crop-inputs/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-11",
@@ -210,7 +210,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Ag Tech Talk播客：农场自动化的实用路径，与Burro的Charlie Andersen对话",
+   "title": "Ag Tech Talk 播客：农场自动化的实用路径，对话 Burro 的 Charlie Andersen",
    "url": "https://www.agribusinessglobal.com/agtech/ag-tech-talk-podcast-the-practical-path-to-farm-automation-with-burros-charlie-andersen/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-10",
@@ -218,20 +218,52 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "中国农机凭什么越贵越好卖？",
-   "url": "https://news.nongji360.com/report/view/1124",
-   "source": "农机360",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-09-14"
-  },
-  {
-   "title": "重庆农机补贴额一览表2026年第二批公告",
-   "url": "https://news.nongji360.com/html/2026/09/274298.shtml",
+   "title": "江苏农机补贴额一览表（第四批）通告",
+   "url": "https://news.nongji360.com/html/2026/09/274313.shtml",
    "source": "农机360",
    "tag": "市场",
    "tag_class": "tag-data",
-   "date": "2026-09-15"
+   "date": "2026-09-16"
+  },
+  {
+   "title": "江苏省补短板拖拉机第二批通过产品",
+   "url": "https://news.nongji360.com/html/2026/09/274312.shtml",
+   "source": "农机360",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-09-16"
+  },
+  {
+   "title": "湖南2026年农机补贴额一览表公示",
+   "url": "https://news.nongji360.com/html/2026/09/274314.shtml",
+   "source": "农机360",
+   "tag": "市场",
+   "tag_class": "tag-data",
+   "date": "2026-09-16"
+  },
+  {
+   "title": "【目录】湖南省2026年农机购置与应用补贴专项鉴定产品、新产品补贴额一览表的公示",
+   "url": "https://news.nongji360.com/html/2026/09/274314.shtml",
+   "source": "农机360",
+   "tag": "市场",
+   "tag_class": "tag-data",
+   "date": "2026-09-16"
+  },
+  {
+   "title": "【归档】江苏省公布2024-2026年农机购置与应用补贴机具补贴额一览表（第四批）的通告",
+   "url": "https://news.nongji360.com/html/2026/09/274313.shtml",
+   "source": "农机360",
+   "tag": "市场",
+   "tag_class": "tag-data",
+   "date": "2026-09-16"
+  },
+  {
+   "title": "【归档】反馈江苏省补短板200马力及以上无级变速高端智能拖拉机第二批审核通过产品的函",
+   "url": "https://news.nongji360.com/html/2026/09/274312.shtml",
+   "source": "农机360",
+   "tag": "技术",
+   "tag_class": "tag-tech",
+   "date": "2026-09-16"
   },
   {
    "title": "【归档】北大荒农垦 开展补短板200马力及以上无级变速高端智能拖拉机纳入新产品补贴申报工作的通知",
@@ -240,14 +272,6 @@
    "tag": "技术",
    "tag_class": "tag-tech",
    "date": "2026-09-16"
-  },
-  {
-   "title": "【目录】《重庆市2024—2026年农机购置与应用补贴机具补贴额一览表（2026年第二批）》的公告",
-   "url": "https://news.nongji360.com/html/2026/09/274298.shtml",
-   "source": "农机360",
-   "tag": "市场",
-   "tag_class": "tag-data",
-   "date": "2026-09-15"
   },
   {
    "title": "不止耕管收：9S模式补齐农业产后服务短板",
@@ -320,30 +344,6 @@
    "tag": "行业",
    "tag_class": "tag-news",
    "date": "2026-09-11"
-  },
-  {
-   "title": "北大荒农垦补短板200马力及以上无级变速高端智能拖拉机购置与应用补贴实施方案",
-   "url": "https://www.nongjitong.com/news/2026/534063.html",
-   "source": "农机通",
-   "tag": "技术",
-   "tag_class": "tag-tech",
-   "date": "2026-09-10"
-  },
-  {
-   "title": "新华社、人民日报都来了！30家央地媒体为何齐聚中国一拖？",
-   "url": "https://www.nongjitong.com/news/2026/534062.html",
-   "source": "农机通",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-09-10"
-  },
-  {
-   "title": "装备给力 服务护航丨中联重科大马力拖拉机批量赴疆作业",
-   "url": "https://www.nongjitong.com/news/2026/534061.html",
-   "source": "农机通",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-09-10"
   },
   {
    "title": "圈粉东南亚！潍柴雷沃亮相2026年越南国际农业机械展览会",
