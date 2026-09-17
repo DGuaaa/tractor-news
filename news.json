@@ -1,13 +1,29 @@
 {
- "updated": "2026-09-17 12:05",
+ "updated": "2026-09-17 18:03",
  "items": [
   {
-   "title": "青岛农机“优机优补”一览表第二批公示",
-   "url": "https://news.nongji360.com/html/2026/09/274315.shtml",
+   "title": "【违规】对黑龙江省2024—2026年农机购置与应用补贴第六批自主投档违规行为进行处理的通知",
+   "url": "https://news.nongji360.com/html/2026/09/274319.shtml",
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
-   "date": "2026-09-16"
+   "date": "2026-09-17"
+  },
+  {
+   "title": "【归档】江苏省谷物（粮食）干燥机（烘干机）重新投档的通知",
+   "url": "https://news.nongji360.com/html/2026/09/274318.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-09-17"
+  },
+  {
+   "title": "【归档】农业农村部农业机械化总站关于开展200马力及以上混合动力拖拉机田间实地试验验证活动的通知",
+   "url": "https://news.nongji360.com/html/2026/09/274317.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-09-17"
   },
   {
    "title": "【鉴定】重庆市2026年第8批农机推广鉴定结果的通告",
@@ -24,30 +40,6 @@
    "tag": "政策",
    "tag_class": "tag-policy",
    "date": "2026-09-16"
-  },
-  {
-   "title": "【归档】浙江省开展2026年度农机购置与应用补贴产品第三批投档审核的通知",
-   "url": "https://news.nongji360.com/html/2026/09/274310.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-09-16"
-  },
-  {
-   "title": "【鉴定】天津市2026年第一批农业机械推广鉴定结果的通报",
-   "url": "https://news.nongji360.com/html/2026/09/274302.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-09-15"
-  },
-  {
-   "title": "【鉴定】安徽省2026年 第九批农机试验鉴定结果的通报",
-   "url": "https://news.nongji360.com/html/2026/09/274301.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-09-15"
   },
   {
    "title": "【汇总】各省2024-2026年农机补贴政策通知相关汇总",
@@ -98,6 +90,14 @@
    "date": "2026-09-11"
   },
   {
+   "title": "自治区农业农村厅关于印发《宁夏回族自治区高效办成农机上牌“一件事”工作方案》的通知各县（市、区）农业农村局：根据《自治区人民政府",
+   "url": "https://news.nongji360.com/html/2026/09/274270.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-09-11"
+  },
+  {
    "title": "2026年第37周瘦肉型白条猪肉出厂价格监测周报",
    "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84194",
    "source": "农业农村部价格指数",
@@ -130,31 +130,7 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "2026年全国秋粮收购工作会议在四川召开",
-   "url": "https://www.lswz.gov.cn/html/xinwen/2026-09/16/content_295235.shtml",
-   "source": "国家粮食局",
-   "date": "2026-09-16",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "国家粮食和物资储备局召开垂管系统安全生产视频会议",
-   "url": "https://www.lswz.gov.cn/html/xinwen/2026-09/16/content_295221.shtml",
-   "source": "国家粮食局",
-   "date": "2026-09-16",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "刘焕鑫赴四川调研粮食和物资储备工作",
-   "url": "https://www.lswz.gov.cn/html/xinwen/2026-09/15/content_295204.shtml",
-   "source": "国家粮食局",
-   "date": "2026-09-15",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "AgXeed T2 7-SERIES 与 LaserWeeder 证明是强大的自主团队",
+   "title": "AgXeed T2 7-SERIES 和 LaserWeeder 证明是强大的自主团队",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/agxeed-t2-7-series-and-laserweeder-prove-a-strong-autonomous-team/",
    "source": "FutureFarming",
    "date": "2026-09-15",
@@ -162,7 +138,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "约翰迪尔推出 AI 助手",
+   "title": "约翰迪尔推出AI助手",
    "url": "https://www.futurefarming.com/smart-farming/john-deere-introduces-ai-assistant/",
    "source": "FutureFarming",
    "date": "2026-09-14",
@@ -170,7 +146,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Odd.Bot 为 Maverick 除草机器人升级",
+   "title": "Odd.Bot 对 Maverick 除草机器人进行升级",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/26futweb-upgrade-maverick/",
    "source": "FutureFarming",
    "date": "2026-09-14",
@@ -178,7 +154,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "从零开始设计：电动 Rigitrac SKE 40 拖拉机",
+   "title": "从头设计：电动 Rigitrac SKE 40 拖拉机",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/designed-from-scratch-electric-rigitrac-ske-40-tractor/",
    "source": "FutureFarming",
    "date": "2026-09-11",
@@ -194,7 +170,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "农业中的 AI：多少风险算太多？",
+   "title": "农业中的AI：多大风险算太大？",
    "url": "https://www.agribusinessglobal.com/markets/ai-in-agriculture-how-much-risk-is-too-much/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-14",
@@ -202,7 +178,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "AgriBusiness Global 报告：以更少投入生产更多，以及可持续作物投入品的未来",
+   "title": "AgriBusiness Global Report：以更少投入生产更多与可持续作物投入品的未来",
    "url": "https://www.agribusinessglobal.com/agrochemicals/agribusiness-global-report-producing-more-with-less-and-the-future-of-sustainable-crop-inputs/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-11",
@@ -210,7 +186,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Ag Tech Talk 播客：农场自动化的实践路径，与 Burro 的 Charlie Andersen 对话",
+   "title": "Ag Tech Talk 播客：农场自动化的实用路径，对话 Burro 的 Charlie Andersen",
    "url": "https://www.agribusinessglobal.com/agtech/ag-tech-talk-podcast-the-practical-path-to-farm-automation-with-burros-charlie-andersen/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-10",
@@ -218,7 +194,15 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "江苏农机补贴额一览表（第四批）通告",
+   "title": "河北省农机“优机优补”补贴额一览表（第一批）",
+   "url": "https://news.nongji360.com/html/2026/09/274320.shtml",
+   "source": "农机360",
+   "tag": "市场",
+   "tag_class": "tag-data",
+   "date": "2026-09-17"
+  },
+  {
+   "title": "江苏农机补贴额一览表第四批通告",
    "url": "https://news.nongji360.com/html/2026/09/274313.shtml",
    "source": "农机360",
    "tag": "市场",
@@ -242,6 +226,14 @@
    "date": "2026-09-16"
   },
   {
+   "title": "【目录】《河北省农机购置与应用补贴“优机优补”机具补贴额一览表（第一批）》的通知",
+   "url": "https://news.nongji360.com/html/2026/09/274320.shtml",
+   "source": "农机360",
+   "tag": "市场",
+   "tag_class": "tag-data",
+   "date": "2026-09-17"
+  },
+  {
    "title": "【目录】湖南省2026年农机购置与应用补贴专项鉴定产品、新产品补贴额一览表的公示",
    "url": "https://news.nongji360.com/html/2026/09/274314.shtml",
    "source": "农机360",
@@ -260,14 +252,6 @@
   {
    "title": "【归档】反馈江苏省补短板200马力及以上无级变速高端智能拖拉机第二批审核通过产品的函",
    "url": "https://news.nongji360.com/html/2026/09/274312.shtml",
-   "source": "农机360",
-   "tag": "技术",
-   "tag_class": "tag-tech",
-   "date": "2026-09-16"
-  },
-  {
-   "title": "【归档】北大荒农垦 开展补短板200马力及以上无级变速高端智能拖拉机纳入新产品补贴申报工作的通知",
-   "url": "https://news.nongji360.com/html/2026/09/274309.shtml",
    "source": "农机360",
    "tag": "技术",
    "tag_class": "tag-tech",
@@ -322,28 +306,20 @@
    "date": "2026-09-15"
   },
   {
+   "title": "3168家企业、20万+观众！2026国际农机展首次移师天津，年度农机盛宴剧透来了！",
+   "url": "https://www.nongjitong.com/news/2026/534113.html",
+   "source": "农机通",
+   "tag": "市场",
+   "tag_class": "tag-data",
+   "date": "2026-09-17"
+  },
+  {
    "title": "农机上市企业2026半年报分化加剧，农机淘汰赛全面打响",
    "url": "https://www.nongjitong.com/news/2026/534013.html",
    "source": "农机通",
    "tag": "行业",
    "tag_class": "tag-news",
    "date": "2026-09-04"
-  },
-  {
-   "title": "从“能用”到“好用”：国产农机正加速“新”装上阵",
-   "url": "https://www.nongjitong.com/news/2026/533901.html",
-   "source": "农机通",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-08-24"
-  },
-  {
-   "title": "张良桂的“久保田”情结：好机器+好服务=种粮安全感",
-   "url": "https://www.nongjitong.com/news/2026/534068.html",
-   "source": "农机通",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-09-11"
   },
   {
    "title": "圈粉东南亚！潍柴雷沃亮相2026年越南国际农业机械展览会",
@@ -394,6 +370,14 @@
    "date": ""
   },
   {
+   "title": "“世纪工程”平陆运河建成通航，中联重科定制化装备硬核护航",
+   "url": "https://www.zoomlion.com/content/details18_34123.html",
+   "source": "中联重科",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": ""
+  },
+  {
    "title": "中联重科2026年金融峰会圆满举行，3亿美元信用保险保单成功落地",
    "url": "https://www.zoomlion.com/content/details18_34116.html",
    "source": "中联重科",
@@ -412,14 +396,6 @@
   {
    "title": "御风戈壁！中联重科1300吨履带起重机助力新疆塔城百万千瓦风电项目吊装施工",
    "url": "https://www.zoomlion.com/content/details18_34086.html",
-   "source": "中联重科",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": ""
-  },
-  {
-   "title": "深化产融协同助力海外拓展，中联重科与印尼两大金融机构达成战略合作",
-   "url": "https://www.zoomlion.com/content/details18_34085.html",
    "source": "中联重科",
    "tag": "行业",
    "tag_class": "tag-news",
@@ -448,6 +424,30 @@
    "tag": "行业",
    "tag_class": "tag-news",
    "date": "2026-09-08"
+  },
+  {
+   "title": "『东方红硬核装备护航粮仓』高端智能大马力拖拉机田间日启幕",
+   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202608/t20260827_651978.html",
+   "source": "一拖东方红",
+   "tag": "技术",
+   "tag_class": "tag-tech",
+   "date": "2026-08-27"
+  },
+  {
+   "title": "总统成为首位车主！中国一拖刚果（布）农业装备组装厂首批拖拉机下线",
+   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202608/t20260817_650950.html",
+   "source": "一拖东方红",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-08-17"
+  },
+  {
+   "title": "守护棉仓，服务先行。沃得2026采棉机服务保障方案",
+   "url": "http://www.worldnyjx.com/index.php?m=content&c=index&a=show&catid=126&id=581",
+   "source": "沃得",
+   "date": "2026-09-16",
+   "tag": "行业",
+   "tag_class": "tag-news"
   }
  ]
 }
