@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-17 00:05",
+ "updated": "2026-09-17 10:00",
  "items": [
   {
    "title": "青岛农机“优机优补”一览表第二批公示",
@@ -8,6 +8,14 @@
    "tag": "政策",
    "tag_class": "tag-policy",
    "date": "2026-09-16"
+  },
+  {
+   "title": "【鉴定】重庆市2026年第8批农机推广鉴定结果的通告",
+   "url": "https://news.nongji360.com/html/2026/09/274316.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-09-17"
   },
   {
    "title": "【目录】青岛市农机购置与应用补贴“优机优补”一览表（第二批）的公示",
@@ -36,14 +44,6 @@
   {
    "title": "【鉴定】安徽省2026年 第九批农机试验鉴定结果的通报",
    "url": "https://news.nongji360.com/html/2026/09/274301.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-09-15"
-  },
-  {
-   "title": "【目录】《山东省农机购置与应用补贴“优机优补”一览表（第二批）》的通告",
-   "url": "https://news.nongji360.com/html/2026/09/274299.shtml",
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
@@ -154,7 +154,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "AgXeed T2 7-SERIES 与 LaserWeeder 证明是强大的自主团队",
+   "title": "AgXeed T2 7-SERIES 与 LaserWeeder 证明是强大的自主组合",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/agxeed-t2-7-series-and-laserweeder-prove-a-strong-autonomous-team/",
    "source": "FutureFarming",
    "date": "2026-09-15",
@@ -170,7 +170,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Odd.Bot 为 Maverick 除草机器人带来升级",
+   "title": "Odd.Bot 对 Maverick 除草机器人进行升级",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/26futweb-upgrade-maverick/",
    "source": "FutureFarming",
    "date": "2026-09-14",
@@ -194,7 +194,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "农业中的AI：多少风险才算过高？",
+   "title": "农业中的AI：多少风险算太大？",
    "url": "https://www.agribusinessglobal.com/markets/ai-in-agriculture-how-much-risk-is-too-much/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-14",
@@ -202,7 +202,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "AgriBusiness Global 报告：以更少资源生产更多，以及可持续作物投入品的未来",
+   "title": "AgriBusiness Global 报告：以更少投入生产更多，以及可持续作物投入品的未来",
    "url": "https://www.agribusinessglobal.com/agrochemicals/agribusiness-global-report-producing-more-with-less-and-the-future-of-sustainable-crop-inputs/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-11",
@@ -210,7 +210,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Ag Tech Talk 播客：农场自动化的实用路径，对话 Burro 的 Charlie Andersen",
+   "title": "Ag Tech Talk 播客：农场自动化的实用路径，与 Burro 的 Charlie Andersen 对话",
    "url": "https://www.agribusinessglobal.com/agtech/ag-tech-talk-podcast-the-practical-path-to-farm-automation-with-burros-charlie-andersen/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-10",
@@ -250,7 +250,7 @@
    "date": "2026-09-16"
   },
   {
-   "title": "【归档】江苏省公布2024-2026年农机购置与应用补贴机具补贴额一览表（第四批）的通告",
+   "title": "【目录】江苏省公布2024-2026年农机购置与应用补贴机具补贴额一览表（第四批）的通告",
    "url": "https://news.nongji360.com/html/2026/09/274313.shtml",
    "source": "农机360",
    "tag": "市场",
