@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-18 00:03",
+ "updated": "2026-09-18 10:13",
  "items": [
   {
    "title": "江苏谷物干燥机重新投档通知",
@@ -98,7 +98,63 @@
    "date": "2026-09-11"
   },
   {
-   "title": "图片 | 自主技术与摄像头为PotatoEurope定下基调",
+   "title": "2026年第37周瘦肉型白条猪肉出厂价格监测周报",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84194",
+   "source": "农业农村部价格指数",
+   "date": "2026-09-13",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "2026年8月瘦肉型白条猪肉出厂价格监测月报",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84193",
+   "source": "农业农村部价格指数",
+   "date": "2026-09-10",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "2026年第36周瘦肉型白条猪肉出厂价格监测周报",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84195",
+   "source": "农业农村部价格指数",
+   "date": "2026-09-06",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "2026年第35周瘦肉型白条猪肉出厂价格监测周报",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84175",
+   "source": "农业农村部价格指数",
+   "date": "2026-08-30",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "2026年全国秋粮收购工作会议在四川召开",
+   "url": "https://www.lswz.gov.cn/html/xinwen/2026-09/16/content_295235.shtml",
+   "source": "国家粮食局",
+   "date": "2026-09-16",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "国家粮食和物资储备局召开垂管系统安全生产视频会议",
+   "url": "https://www.lswz.gov.cn/html/xinwen/2026-09/16/content_295221.shtml",
+   "source": "国家粮食局",
+   "date": "2026-09-16",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "刘焕鑫赴四川调研粮食和物资储备工作",
+   "url": "https://www.lswz.gov.cn/html/xinwen/2026-09/15/content_295204.shtml",
+   "source": "国家粮食局",
+   "date": "2026-09-15",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "图片 | 自主技术与摄像头在PotatoEurope上定下基调",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/foto-autonomie-en-camera-s-zetten-toon-op-potatoeurope/",
    "source": "FutureFarming",
    "date": "2026-09-17",
@@ -106,7 +162,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Ecorobotix ARA 1200原型机在ATH首次亮相",
+   "title": "Ecorobotix ARA 1200原型在ATH首次亮相",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/prototype-ecorobotix-ara-1200-makes-debut-at-ath/",
    "source": "FutureFarming",
    "date": "2026-09-17",
@@ -114,7 +170,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "AgXeed T2 7-SERIES与LaserWeeder证明是强大的自主团队",
+   "title": "AgXeed T2 7-SERIES和LaserWeeder证明是强大的自主组合",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/agxeed-t2-7-series-and-laserweeder-prove-a-strong-autonomous-team/",
    "source": "FutureFarming",
    "date": "2026-09-15",
@@ -130,36 +186,36 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "欧洲作物保护改革将在田间接受检验",
-   "url": "https://www.agribusinessglobal.com/markets/europe/europes-crop-protection-reform-will-be-judged-in-the-field/",
+   "title": "Cogny获得巴西首个转基因生物用于生物防治投入品工业用途的授权",
+   "url": "https://www.agribusinessglobal.com/markets/americas/cogny-secures-brazils-first-authorization-for-industrial-use-of-gmos-in-biocontrol-inputs/",
    "source": "AgriBusinessGlobal",
-   "date": "2026-09-14",
+   "date": "2026-09-17",
    "tag": "行业",
    "tag_class": "tag-news"
   },
   {
-   "title": "农业中的AI：多少风险才算太多？",
-   "url": "https://www.agribusinessglobal.com/markets/ai-in-agriculture-how-much-risk-is-too-much/",
+   "title": "Vylor扩大大豆领导地位：下一代技术平台保持北美产量优势，通过广谱害虫防治加速拉丁美洲产品线",
+   "url": "https://www.agribusinessglobal.com/agrochemicals/seeds-traits/vylor-to-expand-soybean-leadership-next-gen-tech-platforms-maintain-north-america-yield-advantage-accelerate-latin-america-lineup-via-broad-spectrum-insect-control/",
    "source": "AgriBusinessGlobal",
-   "date": "2026-09-14",
+   "date": "2026-09-16",
    "tag": "行业",
    "tag_class": "tag-news"
   },
   {
-   "title": "AgriBusiness Global报告：以更少投入生产更多及可持续作物投入品的未来",
-   "url": "https://www.agribusinessglobal.com/agrochemicals/agribusiness-global-report-producing-more-with-less-and-the-future-of-sustainable-crop-inputs/",
+   "title": "高效肥料联盟加速为农民提供肥料解决方案",
+   "url": "https://www.agribusinessglobal.com/plant-health/npk/efficient-fertilizer-consortium-accelerates-fertilizer-solutions-for-farmers/",
    "source": "AgriBusinessGlobal",
-   "date": "2026-09-11",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "Ag Tech Talk播客：农场自动化的实践路径，与Burro的Charlie Andersen",
-   "url": "https://www.agribusinessglobal.com/agtech/ag-tech-talk-podcast-the-practical-path-to-farm-automation-with-burros-charlie-andersen/",
-   "source": "AgriBusinessGlobal",
-   "date": "2026-09-10",
+   "date": "2026-09-16",
    "tag": "市场",
    "tag_class": "tag-data"
+  },
+  {
+   "title": "2026/2027年十大作物保护公司战略",
+   "url": "https://www.agribusinessglobal.com/agrochemicals/top-10-crop-protection-company-strategies-for-2026-2027/",
+   "source": "AgriBusinessGlobal",
+   "date": "2026-09-15",
+   "tag": "行业",
+   "tag_class": "tag-news"
   },
   {
    "title": "总站开展200马力及以上混合动力拖拉机田间试验",
@@ -392,38 +448,6 @@
    "tag": "行业",
    "tag_class": "tag-news",
    "date": "2026-09-08"
-  },
-  {
-   "title": "『东方红硬核装备护航粮仓』高端智能大马力拖拉机田间日启幕",
-   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202608/t20260827_651978.html",
-   "source": "一拖东方红",
-   "tag": "技术",
-   "tag_class": "tag-tech",
-   "date": "2026-08-27"
-  },
-  {
-   "title": "总统成为首位车主！中国一拖刚果（布）农业装备组装厂首批拖拉机下线",
-   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202608/t20260817_650950.html",
-   "source": "一拖东方红",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-08-17"
-  },
-  {
-   "title": "守护棉仓，服务先行。沃得2026采棉机服务保障方案",
-   "url": "http://www.worldnyjx.com/index.php?m=content&c=index&a=show&catid=126&id=581",
-   "source": "沃得",
-   "date": "2026-09-16",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "赋能乡村振兴！泗洪乡村振兴工作队奔赴沃得考察交流",
-   "url": "http://www.worldnyjx.com/index.php?m=content&c=index&a=show&catid=126&id=580",
-   "source": "沃得",
-   "date": "2026-09-16",
-   "tag": "行业",
-   "tag_class": "tag-news"
   }
  ]
 }
