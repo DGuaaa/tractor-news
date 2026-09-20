@@ -1,6 +1,38 @@
 {
- "updated": "2026-09-20 11:55",
+ "updated": "2026-09-20 12:05",
  "items": [
+  {
+   "title": "安徽2026年第四批补贴产品投档提示",
+   "url": "https://news.nongji360.com/html/2026/09/274334.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-09-20"
+  },
+  {
+   "title": "甘肃2026年第二批农机补贴现场演示公告",
+   "url": "https://news.nongji360.com/html/2026/09/274335.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-09-20"
+  },
+  {
+   "title": "【归档】甘肃省2026年第二批农机购置与应用补贴机具现场演示评价结果的公告",
+   "url": "https://news.nongji360.com/html/2026/09/274335.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-09-20"
+  },
+  {
+   "title": "【归档】安徽省开展2026年安徽省第四批农机购置与应用补贴产品自主投档工作的提示",
+   "url": "https://news.nongji360.com/html/2026/09/274334.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-09-20"
+  },
   {
    "title": "【鉴定】湖北省公开征求《活黄鳝、泥鳅剖切机》（征求意见稿）等三项农业机械专项鉴定大纲意见的函",
    "url": "https://news.nongji360.com/html/2026/09/274326.shtml",
@@ -50,22 +82,6 @@
    "date": "2026-09-17"
   },
   {
-   "title": "【归档】农业农村部农业机械化总站关于开展200马力及以上混合动力拖拉机田间实地试验验证活动的通知",
-   "url": "https://news.nongji360.com/html/2026/09/274317.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-09-17"
-  },
-  {
-   "title": "【鉴定】重庆市2026年第8批农机推广鉴定结果的通告",
-   "url": "https://news.nongji360.com/html/2026/09/274316.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-09-17"
-  },
-  {
    "title": "【汇总】各省2024-2026年农机补贴政策通知相关汇总",
    "url": "https://news.nongji360.com/html/2025/09/271215.shtml",
    "source": "农机360",
@@ -80,22 +96,6 @@
    "tag": "政策",
    "tag_class": "tag-policy",
    "date": "2026-09-11"
-  },
-  {
-   "title": "【违规】福建省农业农村厅关于湖南楚兴机械有限公司投档违规行为处理的通告",
-   "url": "https://news.nongji360.com/html/2026/09/274262.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-09-10"
-  },
-  {
-   "title": "广西公布2027年新型农机社会化服务组织建设项目入库目录的通知",
-   "url": "https://news.nongji360.com/html/2026/09/274323.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-09-18"
   },
   {
    "title": "9月18日：“农产品批发价格200指数”比昨天下降0.12个点。",
@@ -154,7 +154,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "图片 | 自主技术和摄像头为PotatoEurope定下基调",
+   "title": "图片 | 自主技术与摄像头在PotatoEurope上定下基调",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/foto-autonomie-en-camera-s-zetten-toon-op-potatoeurope/",
    "source": "FutureFarming",
    "date": "2026-09-17",
@@ -162,7 +162,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Ecorobotix ARA 1200原型在ATH首次亮相",
+   "title": "Ecorobotix ARA 1200原型机在ATH首次亮相",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/prototype-ecorobotix-ara-1200-makes-debut-at-ath/",
    "source": "FutureFarming",
    "date": "2026-09-17",
@@ -170,7 +170,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "AgXeed T2 7-SERIES和LaserWeeder证明是强大的自主团队",
+   "title": "AgXeed T2 7-SERIES与LaserWeeder证明是强大的自主组合",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/agxeed-t2-7-series-and-laserweeder-prove-a-strong-autonomous-team/",
    "source": "FutureFarming",
    "date": "2026-09-15",
@@ -186,7 +186,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Cogny获得巴西首个转基因生物用于生物防治投入品工业用途的授权",
+   "title": "Cogny获得巴西首个转基因生物在生物防治投入品中工业使用的授权",
    "url": "https://www.agribusinessglobal.com/markets/americas/cogny-secures-brazils-first-authorization-for-industrial-use-of-gmos-in-biocontrol-inputs/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-17",
@@ -202,7 +202,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Efficient Fertilizer Consortium加速为农民提供肥料解决方案",
+   "title": "高效肥料联盟加速为农民提供肥料解决方案",
    "url": "https://www.agribusinessglobal.com/plant-health/npk/efficient-fertilizer-consortium-accelerates-fertilizer-solutions-for-farmers/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-16",
@@ -224,22 +224,6 @@
    "tag": "行业",
    "tag_class": "tag-news",
    "date": "2026-09-20"
-  },
-  {
-   "title": "2026年8月份拖拉机产量对比分析",
-   "url": "https://news.nongji360.com/report/view/1125",
-   "source": "农机360",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-09-18"
-  },
-  {
-   "title": "收割机兼用适配调整指引",
-   "url": "https://news.nongji360.com/html/2026/09/274327.shtml",
-   "source": "农机360",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-09-18"
   },
   {
    "title": "【目录】《河北省农机购置与应用补贴“优机优补”机具补贴额一览表（第一批）》的通知",
@@ -344,6 +328,22 @@
    "tag": "市场",
    "tag_class": "tag-data",
    "date": "2026-09-17"
+  },
+  {
+   "title": "张良桂的“久保田”情结：好机器+好服务=种粮安全感",
+   "url": "https://www.nongjitong.com/news/2026/534068.html",
+   "source": "农机通",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-09-11"
+  },
+  {
+   "title": "北大荒农垦补短板200马力及以上无级变速高端智能拖拉机购置与应用补贴实施方案",
+   "url": "https://www.nongjitong.com/news/2026/534063.html",
+   "source": "农机通",
+   "tag": "技术",
+   "tag_class": "tag-tech",
+   "date": "2026-09-10"
   },
   {
    "title": "圈粉东南亚！潍柴雷沃亮相2026年越南国际农业机械展览会",
