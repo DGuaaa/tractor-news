@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-21 18:03",
+ "updated": "2026-09-22 00:06",
  "items": [
   {
    "title": "黑龙江2026年第二批农机补贴现场验证通告",
@@ -130,8 +130,32 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "2026年作物机器人格局对种植者意味着什么",
-   "url": "https://www.futurefarming.com/tech-in-focus/field-robots/what-the-2026-crop-robotics-landscape-means-for-growers/",
+   "title": "国家粮食和物资储备局召开博士人才座谈会",
+   "url": "https://www.lswz.gov.cn/html/xinwen/2026-09/17/content_295313.shtml",
+   "source": "国家粮食局",
+   "date": "2026-09-17",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "2026年全国秋粮收购工作会议在四川召开",
+   "url": "https://www.lswz.gov.cn/html/xinwen/2026-09/16/content_295235.shtml",
+   "source": "国家粮食局",
+   "date": "2026-09-16",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "国家粮食和物资储备局召开垂管系统安全生产视频会议",
+   "url": "https://www.lswz.gov.cn/html/xinwen/2026-09/16/content_295221.shtml",
+   "source": "国家粮食局",
+   "date": "2026-09-16",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "400多家作物机器人公司，但机器人在哪些领域真正取得进展？",
+   "url": "https://www.futurefarming.com/tech-in-focus/field-robots/400-crop-robotics-companiess-but-where-are-robots-really-gaining-ground/",
    "source": "FutureFarming",
    "date": "2026-09-21",
    "tag": "技术",
@@ -146,7 +170,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "图片 | 自主技术与摄像头在PotatoEurope上定下基调",
+   "title": "图片 | 自主技术和摄像头在PotatoEurope上定下基调",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/foto-autonomie-en-camera-s-zetten-toon-op-potatoeurope/",
    "source": "FutureFarming",
    "date": "2026-09-17",
@@ -178,7 +202,7 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "ADAMA任命郝志刚博士为总裁兼首席执行官，Sammy Leibowitz为首席财务官",
+   "title": "安道麦任命郝志刚博士为总裁兼首席执行官，Sammy Leibowitz为首席财务官",
    "url": "https://www.agribusinessglobal.com/agrochemicals/adama-appoints-dr-zhigang-hao-as-president-and-ceo-and-sammy-leibowitz-as-chief-financial-officer/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-18",
@@ -186,7 +210,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Cogny获得巴西首个在生物防治投入品中工业化使用转基因生物的授权",
+   "title": "Cogny获得巴西首个转基因生物在生物防治投入品中的工业使用授权",
    "url": "https://www.agribusinessglobal.com/markets/americas/cogny-secures-brazils-first-authorization-for-industrial-use-of-gmos-in-biocontrol-inputs/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-17",
@@ -424,30 +448,6 @@
    "tag": "行业",
    "tag_class": "tag-news",
    "date": "2026-09-14"
-  },
-  {
-   "title": "中国一拖出海授旗仪式吹响国际化冲锋号",
-   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202609/t20260908_653506.html",
-   "source": "一拖东方红",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-09-08"
-  },
-  {
-   "title": "『东方红硬核装备护航粮仓』高端智能大马力拖拉机田间日启幕",
-   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202608/t20260827_651978.html",
-   "source": "一拖东方红",
-   "tag": "技术",
-   "tag_class": "tag-tech",
-   "date": "2026-08-27"
-  },
-  {
-   "title": "沃得农机亮相2026黑龙江国际农机展：智慧装备护航黑土地丰收季",
-   "url": "http://www.worldnyjx.com/index.php?m=content&c=index&a=show&catid=126&id=584",
-   "source": "沃得",
-   "date": "2026-09-21",
-   "tag": "市场",
-   "tag_class": "tag-data"
   }
  ]
 }
