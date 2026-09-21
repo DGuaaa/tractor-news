@@ -1,6 +1,14 @@
 {
- "updated": "2026-09-21 12:04",
+ "updated": "2026-09-21 18:03",
  "items": [
+  {
+   "title": "黑龙江2026年第二批农机补贴现场验证通告",
+   "url": "https://news.nongji360.com/html/2026/09/274343.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-09-21"
+  },
   {
    "title": "从“普惠”到“优机”：农机补贴的下一程",
    "url": "https://news.nongji360.com/html/2026/09/274338.shtml",
@@ -10,12 +18,12 @@
    "date": "2026-09-20"
   },
   {
-   "title": "安徽2026年第四批补贴产品投档提示",
-   "url": "https://news.nongji360.com/html/2026/09/274334.shtml",
+   "title": "【归档】黑龙江省2026年第二批农机购置与应用补贴机具现场验证结果的通告",
+   "url": "https://news.nongji360.com/html/2026/09/274343.shtml",
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
-   "date": "2026-09-20"
+   "date": "2026-09-21"
   },
   {
    "title": "【归档】甘肃省2026年第二批农机购置与应用补贴机具现场演示评价结果的公告",
@@ -74,14 +82,6 @@
    "date": "2026-09-17"
   },
   {
-   "title": "【归档】江苏省谷物（粮食）干燥机（烘干机）重新投档的通知",
-   "url": "https://news.nongji360.com/html/2026/09/274318.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-09-17"
-  },
-  {
    "title": "【汇总】各省2024-2026年农机补贴政策通知相关汇总",
    "url": "https://news.nongji360.com/html/2025/09/271215.shtml",
    "source": "农机360",
@@ -98,7 +98,55 @@
    "date": "2026-09-11"
   },
   {
-   "title": "图片 | 自主技术与摄像头为PotatoEurope定下基调",
+   "title": "2026年第38周瘦肉型白条猪肉出厂价格监测周报",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84204",
+   "source": "农业农村部价格指数",
+   "date": "2026-09-19",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "2026年第37周瘦肉型白条猪肉出厂价格监测周报",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84194",
+   "source": "农业农村部价格指数",
+   "date": "2026-09-13",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "2026年8月瘦肉型白条猪肉出厂价格监测月报",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84193",
+   "source": "农业农村部价格指数",
+   "date": "2026-09-10",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "2026年第36周瘦肉型白条猪肉出厂价格监测周报",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84195",
+   "source": "农业农村部价格指数",
+   "date": "2026-09-06",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "2026年作物机器人格局对种植者意味着什么",
+   "url": "https://www.futurefarming.com/tech-in-focus/field-robots/what-the-2026-crop-robotics-landscape-means-for-growers/",
+   "source": "FutureFarming",
+   "date": "2026-09-21",
+   "tag": "技术",
+   "tag_class": "tag-tech"
+  },
+  {
+   "title": "田间验证推动精准农业技术更接近商业化应用",
+   "url": "https://www.futurefarming.com/smart-farming/field-validation-pushes-precision-farming-technology-closer-to-commercial-use/",
+   "source": "FutureFarming",
+   "date": "2026-09-18",
+   "tag": "技术",
+   "tag_class": "tag-tech"
+  },
+  {
+   "title": "图片 | 自主技术与摄像头在PotatoEurope上定下基调",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/foto-autonomie-en-camera-s-zetten-toon-op-potatoeurope/",
    "source": "FutureFarming",
    "date": "2026-09-17",
@@ -114,22 +162,6 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "AgXeed T2 7-SERIES与LaserWeeder证明是强大的自主团队",
-   "url": "https://www.futurefarming.com/tech-in-focus/field-robots/agxeed-t2-7-series-and-laserweeder-prove-a-strong-autonomous-team/",
-   "source": "FutureFarming",
-   "date": "2026-09-15",
-   "tag": "技术",
-   "tag_class": "tag-tech"
-  },
-  {
-   "title": "约翰迪尔推出AI助手",
-   "url": "https://www.futurefarming.com/smart-farming/john-deere-introduces-ai-assistant/",
-   "source": "FutureFarming",
-   "date": "2026-09-14",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
    "title": "BioConsortia任命Matthew Mouw为业务发展副总裁",
    "url": "https://www.agribusinessglobal.com/plant-health/biostimulants/bioconsortia-appoints-matthew-mouw-as-vice-president-of-business-development/",
    "source": "AgriBusinessGlobal",
@@ -138,7 +170,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "AgriBusiness Global报告：生物刺激素的未来：关键市场趋势、单分子技术、种植者采用",
+   "title": "AgriBusiness全球报告：生物刺激素的未来：关键市场趋势、单分子技术、种植者采用",
    "url": "https://www.agribusinessglobal.com/biologicals/agribusiness-global-report-the-future-of-biostimulants-key-market-trends-single-molecule-tech-grower-adoption/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-18",
@@ -146,7 +178,7 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "安道麦任命郝志刚博士为总裁兼首席执行官，Sammy Leibowitz为首席财务官",
+   "title": "ADAMA任命郝志刚博士为总裁兼首席执行官，Sammy Leibowitz为首席财务官",
    "url": "https://www.agribusinessglobal.com/agrochemicals/adama-appoints-dr-zhigang-hao-as-president-and-ceo-and-sammy-leibowitz-as-chief-financial-officer/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-18",
@@ -154,7 +186,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Cogny获得巴西首个转基因生物在生物防治投入品中工业用途的授权",
+   "title": "Cogny获得巴西首个在生物防治投入品中工业化使用转基因生物的授权",
    "url": "https://www.agribusinessglobal.com/markets/americas/cogny-secures-brazils-first-authorization-for-industrial-use-of-gmos-in-biocontrol-inputs/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-17",
@@ -338,6 +370,14 @@
    "date": ""
   },
   {
+   "title": "首台交付！中联重科超大马力混动技术投入商业化应用",
+   "url": "https://www.zoomlion.com/content/details18_34135.html",
+   "source": "中联重科",
+   "tag": "技术",
+   "tag_class": "tag-tech",
+   "date": ""
+  },
+  {
    "title": "从\"卖设备\"到\"全链运营\",中联重科混凝土机械锻造出海竞争新优势",
    "url": "https://www.zoomlion.com/content/details18_34127.html",
    "source": "中联重科",
@@ -359,14 +399,6 @@
    "source": "中联重科",
    "tag": "行业",
    "tag_class": "tag-news",
-   "date": ""
-  },
-  {
-   "title": "硬核实力征服海外市场！中联重科履带起重机助力韩国船厂建设",
-   "url": "https://www.zoomlion.com/content/details18_34087.html",
-   "source": "中联重科",
-   "tag": "市场",
-   "tag_class": "tag-data",
    "date": ""
   },
   {
@@ -410,20 +442,12 @@
    "date": "2026-08-27"
   },
   {
-   "title": "守护棉仓，服务先行。沃得2026采棉机服务保障方案",
-   "url": "http://www.worldnyjx.com/index.php?m=content&c=index&a=show&catid=126&id=581",
+   "title": "沃得农机亮相2026黑龙江国际农机展：智慧装备护航黑土地丰收季",
+   "url": "http://www.worldnyjx.com/index.php?m=content&c=index&a=show&catid=126&id=584",
    "source": "沃得",
-   "date": "2026-09-16",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "赋能乡村振兴！泗洪乡村振兴工作队奔赴沃得考察交流",
-   "url": "http://www.worldnyjx.com/index.php?m=content&c=index&a=show&catid=126&id=580",
-   "source": "沃得",
-   "date": "2026-09-16",
-   "tag": "行业",
-   "tag_class": "tag-news"
+   "date": "2026-09-21",
+   "tag": "市场",
+   "tag_class": "tag-data"
   }
  ]
 }
