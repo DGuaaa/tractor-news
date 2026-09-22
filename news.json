@@ -1,6 +1,22 @@
 {
- "updated": "2026-09-22 06:05",
+ "updated": "2026-09-22 12:06",
  "items": [
+  {
+   "title": "宁夏2026年强农惠农政策明白本",
+   "url": "https://news.nongji360.com/html/2026/09/274348.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-09-22"
+  },
+  {
+   "title": "贵州2026年第四批农机补贴产品公示",
+   "url": "https://news.nongji360.com/html/2026/09/274347.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-09-22"
+  },
   {
    "title": "黑龙江2026年第二批农机补贴现场验证通告",
    "url": "https://news.nongji360.com/html/2026/09/274343.shtml",
@@ -10,12 +26,12 @@
    "date": "2026-09-21"
   },
   {
-   "title": "从“普惠”到“优机”：农机补贴的下一程",
-   "url": "https://news.nongji360.com/html/2026/09/274338.shtml",
+   "title": "【归档】贵州省2026年第四批农机购置补贴归类归档产品信息的公示",
+   "url": "https://news.nongji360.com/html/2026/09/274347.shtml",
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
-   "date": "2026-09-20"
+   "date": "2026-09-22"
   },
   {
    "title": "【归档】黑龙江省2026年第二批农机购置与应用补贴机具现场验证结果的通告",
@@ -74,28 +90,12 @@
    "date": "2026-09-17"
   },
   {
-   "title": "【违规】对黑龙江省2024—2026年农机购置与应用补贴第六批自主投档违规行为进行处理的通知",
-   "url": "https://news.nongji360.com/html/2026/09/274319.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-09-17"
-  },
-  {
    "title": "【汇总】各省2024-2026年农机补贴政策通知相关汇总",
    "url": "https://news.nongji360.com/html/2025/09/271215.shtml",
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
    "date": "2025-09-02"
-  },
-  {
-   "title": "【违规】安徽省农业农村厅关于农机购置与应用补贴违规投档企业处理情况的通报",
-   "url": "https://news.nongji360.com/html/2026/09/274281.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-09-11"
   },
   {
    "title": "2026年第38周瘦肉型白条猪肉出厂价格监测周报",
@@ -154,7 +154,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "400多家作物机器人公司，但机器人真正在何处取得进展？",
+   "title": "400多家作物机器人公司，但机器人真正在哪里取得突破？",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/400-crop-robotics-companiess-but-where-are-robots-really-gaining-ground/",
    "source": "FutureFarming",
    "date": "2026-09-21",
@@ -162,7 +162,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "田间验证推动精准农业技术更接近商业应用",
+   "title": "田间验证推动精准农业技术更接近商业化应用",
    "url": "https://www.futurefarming.com/smart-farming/field-validation-pushes-precision-farming-technology-closer-to-commercial-use/",
    "source": "FutureFarming",
    "date": "2026-09-18",
@@ -170,7 +170,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "图片 | 自主性和摄像头在PotatoEurope上定下基调",
+   "title": "图片 | 自主作业与摄像头成为PotatoEurope展会主旋律",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/foto-autonomie-en-camera-s-zetten-toon-op-potatoeurope/",
    "source": "FutureFarming",
    "date": "2026-09-17",
@@ -194,7 +194,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "AgriBusiness Global报告：生物刺激素的未来：关键市场趋势、单分子技术、种植者采用",
+   "title": "AgriBusiness Global报告：生物刺激素的未来——关键市场趋势、单分子技术、种植者采用",
    "url": "https://www.agribusinessglobal.com/biologicals/agribusiness-global-report-the-future-of-biostimulants-key-market-trends-single-molecule-tech-grower-adoption/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-18",
@@ -202,7 +202,7 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "ADAMA任命Zhigang Hao博士为总裁兼首席执行官，Sammy Leibowitz为首席财务官",
+   "title": "ADAMA任命郝志刚博士为总裁兼首席执行官，Sammy Leibowitz为首席财务官",
    "url": "https://www.agribusinessglobal.com/agrochemicals/adama-appoints-dr-zhigang-hao-as-president-and-ceo-and-sammy-leibowitz-as-chief-financial-officer/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-18",
@@ -210,7 +210,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Cogny获得巴西首个转基因生物在生物防治投入品中的工业使用授权",
+   "title": "Cogny获得巴西首个转基因生物用于生物防治投入品工业化应用的授权",
    "url": "https://www.agribusinessglobal.com/markets/americas/cogny-secures-brazils-first-authorization-for-industrial-use-of-gmos-in-biocontrol-inputs/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-17",
@@ -218,20 +218,12 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "2026黑龙江国际农机展在哈尔滨启幕",
-   "url": "https://news.nongji360.com/html/2026/09/274339.shtml",
-   "source": "农机360",
-   "tag": "市场",
-   "tag_class": "tag-data",
-   "date": "2026-09-20"
-  },
-  {
-   "title": "全国农业机械化发展“十五五”规划",
-   "url": "https://news.nongji360.com/html/2026/09/274333.shtml",
+   "title": "农业农村部强调：奋力夺取全年粮食和农业丰收",
+   "url": "https://news.nongji360.com/html/2026/09/274346.shtml",
    "source": "农机360",
    "tag": "行业",
    "tag_class": "tag-news",
-   "date": "2026-09-20"
+   "date": "2026-09-22"
   },
   {
    "title": "【目录】《河北省农机购置与应用补贴“优机优补”机具补贴额一览表（第一批）》的通知",
@@ -240,6 +232,22 @@
    "tag": "市场",
    "tag_class": "tag-data",
    "date": "2026-09-17"
+  },
+  {
+   "title": "农业农村部全国“三秋”农业生产工作会议强调全力以赴抓好当前农业生产各项工作奋力夺取全年粮食和农业丰收",
+   "url": "https://news.nongji360.com/html/2026/09/274346.shtml",
+   "source": "农机360",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-09-22"
+  },
+  {
+   "title": "9月21日，农业农村部召开全国“三秋”农业生产工作视频会议。会议强调，要深入学习贯彻习近平总书记重要指示精神，落实党中央、国务院决",
+   "url": "https://news.nongji360.com/html/2026/09/274346.shtml",
+   "source": "农机360",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-09-22"
   },
   {
    "title": "“耕”新黑土地 “智”绘新图景  2026黑龙江国际农业机械展览会在哈尔滨启幕",
@@ -264,38 +272,6 @@
    "tag": "行业",
    "tag_class": "tag-news",
    "date": "2026-09-20"
-  },
-  {
-   "title": "农业农村部 工业和信息化部印发《全国农业机械化发展“十五五”规划》",
-   "url": "https://news.nongji360.com/html/2026/09/274333.shtml",
-   "source": "农机360",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-09-20"
-  },
-  {
-   "title": "农业农村部工业和信息化部印发《全国农业机械化发展“十五五”规划》各省、自治区、直辖市及计划单列市、新疆生产建设兵团农业农村（农牧",
-   "url": "https://news.nongji360.com/html/2026/09/274333.shtml",
-   "source": "农机360",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-09-20"
-  },
-  {
-   "title": "“秋收”农机安全生产“三查”三防”“三护养”",
-   "url": "https://news.nongji360.com/html/2026/09/274324.shtml",
-   "source": "农机360",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-09-18"
-  },
-  {
-   "title": "秋收农忙时节，农机使用频繁，请广大农机手增强安全意识，确保作业安全。一、作业前做好“三查”，把好安全首关一查人员，身体状态、资质",
-   "url": "https://news.nongji360.com/html/2026/09/274324.shtml",
-   "source": "农机360",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-09-18"
   },
   {
    "title": "混动拖拉机到底香不香？",
@@ -344,6 +320,30 @@
    "tag": "市场",
    "tag_class": "tag-data",
    "date": "2026-09-17"
+  },
+  {
+   "title": "张良桂的“久保田”情结：好机器+好服务=种粮安全感",
+   "url": "https://www.nongjitong.com/news/2026/534068.html",
+   "source": "农机通",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-09-11"
+  },
+  {
+   "title": "北大荒农垦补短板200马力及以上无级变速高端智能拖拉机购置与应用补贴实施方案",
+   "url": "https://www.nongjitong.com/news/2026/534063.html",
+   "source": "农机通",
+   "tag": "技术",
+   "tag_class": "tag-tech",
+   "date": "2026-09-10"
+  },
+  {
+   "title": "新华社、人民日报都来了！30家央地媒体为何齐聚中国一拖？",
+   "url": "https://www.nongjitong.com/news/2026/534062.html",
+   "source": "农机通",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-09-10"
   },
   {
    "title": "赋能“黑土粮仓” 潍柴雷沃智慧农业亮相黑龙江国际农机展",
