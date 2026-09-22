@@ -1,9 +1,17 @@
 {
- "updated": "2026-09-22 18:03",
+ "updated": "2026-09-23 00:05",
  "items": [
   {
-   "title": "宁夏2026年强农惠农政策明白本",
-   "url": "https://news.nongji360.com/html/2026/09/274348.shtml",
+   "title": "宁夏农机补贴机具自主变更事项",
+   "url": "https://news.nongji360.com/html/2026/09/274351.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-09-22"
+  },
+  {
+   "title": "宁夏第四批农机补贴投档拖拉机上传承诺书",
+   "url": "https://news.nongji360.com/html/2026/09/274352.shtml",
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
@@ -18,12 +26,20 @@
    "date": "2026-09-22"
   },
   {
-   "title": "黑龙江2026年第二批农机补贴现场验证通告",
-   "url": "https://news.nongji360.com/html/2026/09/274343.shtml",
+   "title": "【归档】宁夏第四批农机购置与应用补贴投档审核中农用动力机械上传承诺书的通知",
+   "url": "https://news.nongji360.com/html/2026/09/274352.shtml",
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
-   "date": "2026-09-21"
+   "date": "2026-09-22"
+  },
+  {
+   "title": "【归档】宁夏回族自治区农机购置与应用补贴机具自主变更事项的通知",
+   "url": "https://news.nongji360.com/html/2026/09/274351.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-09-22"
   },
   {
    "title": "【归档】贵州省2026年第四批农机购置补贴归类归档产品信息的公示",
@@ -74,22 +90,6 @@
    "date": "2026-09-18"
   },
   {
-   "title": "【归档】海南省2026年第三批农机购置与应用补贴投档产品形式审核情况的公示",
-   "url": "https://news.nongji360.com/html/2026/09/274322.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-09-17"
-  },
-  {
-   "title": "【鉴定】山西省2026年第三批农业机械推广鉴定获证产品公告",
-   "url": "https://news.nongji360.com/html/2026/09/274321.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-09-17"
-  },
-  {
    "title": "【汇总】各省2024-2026年农机补贴政策通知相关汇总",
    "url": "https://news.nongji360.com/html/2025/09/271215.shtml",
    "source": "农机360",
@@ -98,63 +98,7 @@
    "date": "2025-09-02"
   },
   {
-   "title": "2026年第38周瘦肉型白条猪肉出厂价格监测周报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84204",
-   "source": "农业农村部价格指数",
-   "date": "2026-09-19",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "2026年第37周瘦肉型白条猪肉出厂价格监测周报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84194",
-   "source": "农业农村部价格指数",
-   "date": "2026-09-13",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "2026年8月瘦肉型白条猪肉出厂价格监测月报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84193",
-   "source": "农业农村部价格指数",
-   "date": "2026-09-10",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "2026年第36周瘦肉型白条猪肉出厂价格监测周报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84195",
-   "source": "农业农村部价格指数",
-   "date": "2026-09-06",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "国家粮食和物资储备局召开博士人才座谈会",
-   "url": "https://www.lswz.gov.cn/html/xinwen/2026-09/17/content_295313.shtml",
-   "source": "国家粮食局",
-   "date": "2026-09-17",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "2026年全国秋粮收购工作会议在四川召开",
-   "url": "https://www.lswz.gov.cn/html/xinwen/2026-09/16/content_295235.shtml",
-   "source": "国家粮食局",
-   "date": "2026-09-16",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "国家粮食和物资储备局召开垂管系统安全生产视频会议",
-   "url": "https://www.lswz.gov.cn/html/xinwen/2026-09/16/content_295221.shtml",
-   "source": "国家粮食局",
-   "date": "2026-09-16",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "400多家作物机器人公司，但机器人在哪里真正取得进展？",
+   "title": "400多家作物机器人公司，但机器人真正在哪里取得进展？",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/400-crop-robotics-companiess-but-where-are-robots-really-gaining-ground/",
    "source": "FutureFarming",
    "date": "2026-09-21",
@@ -170,7 +114,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "图片 | 自主技术与摄像头为PotatoEurope定下基调",
+   "title": "图片 | 自动驾驶和摄像头在PotatoEurope上定下基调",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/foto-autonomie-en-camera-s-zetten-toon-op-potatoeurope/",
    "source": "FutureFarming",
    "date": "2026-09-17",
@@ -210,7 +154,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Cogny获得巴西首个在生物防治投入品中工业化使用转基因生物的授权",
+   "title": "Cogny获得巴西首个转基因生物在生物防治投入品中的工业使用授权",
    "url": "https://www.agribusinessglobal.com/markets/americas/cogny-secures-brazils-first-authorization-for-industrial-use-of-gmos-in-biocontrol-inputs/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-17",
@@ -218,20 +162,12 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "农业农村部强调：奋力夺取全年粮食和农业丰收",
-   "url": "https://news.nongji360.com/html/2026/09/274346.shtml",
+   "title": "704拖拉机如何买？雷沃、一拖冠军机型全对比",
+   "url": "https://news.nongji360.com/report/view/1126",
    "source": "农机360",
    "tag": "行业",
    "tag_class": "tag-news",
-   "date": "2026-09-22"
-  },
-  {
-   "title": "【目录】《河北省农机购置与应用补贴“优机优补”机具补贴额一览表（第一批）》的通知",
-   "url": "https://news.nongji360.com/html/2026/09/274320.shtml",
-   "source": "农机360",
-   "tag": "市场",
-   "tag_class": "tag-data",
-   "date": "2026-09-17"
+   "date": "2026-09-20"
   },
   {
    "title": "农业农村部全国“三秋”农业生产工作会议强调全力以赴抓好当前农业生产各项工作奋力夺取全年粮食和农业丰收",
@@ -346,6 +282,14 @@
    "date": "2026-09-10"
   },
   {
+   "title": "装备给力 服务护航丨中联重科大马力拖拉机批量赴疆作业",
+   "url": "https://www.nongjitong.com/news/2026/534061.html",
+   "source": "农机通",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-09-10"
+  },
+  {
    "title": "赋能“黑土粮仓” 潍柴雷沃智慧农业亮相黑龙江国际农机展",
    "url": "https://www.lovol.com.cn/news/medianews-detail-6376.htm",
    "source": "潍柴雷沃",
@@ -448,6 +392,38 @@
    "tag": "行业",
    "tag_class": "tag-news",
    "date": "2026-09-14"
+  },
+  {
+   "title": "中国一拖出海授旗仪式吹响国际化冲锋号",
+   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202609/t20260908_653506.html",
+   "source": "一拖东方红",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-09-08"
+  },
+  {
+   "title": "『东方红硬核装备护航粮仓』高端智能大马力拖拉机田间日启幕",
+   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202608/t20260827_651978.html",
+   "source": "一拖东方红",
+   "tag": "技术",
+   "tag_class": "tag-tech",
+   "date": "2026-08-27"
+  },
+  {
+   "title": "沃得农机亮相2026黑龙江国际农机展：智慧装备护航黑土地丰收季",
+   "url": "http://www.worldnyjx.com/index.php?m=content&c=index&a=show&catid=126&id=584",
+   "source": "沃得",
+   "date": "2026-09-21",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "守护棉仓，服务先行。沃得2026采棉机服务保障方案",
+   "url": "http://www.worldnyjx.com/index.php?m=content&c=index&a=show&catid=126&id=581",
+   "source": "沃得",
+   "date": "2026-09-16",
+   "tag": "行业",
+   "tag_class": "tag-news"
   }
  ]
 }
