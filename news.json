@@ -1,29 +1,37 @@
 {
- "updated": "2026-09-23 00:05",
+ "updated": "2026-09-23 18:04",
  "items": [
   {
-   "title": "宁夏农机补贴机具自主变更事项",
-   "url": "https://news.nongji360.com/html/2026/09/274351.shtml",
+   "title": "陕西省农机补贴“优机优补”第二批一览表公示",
+   "url": "https://news.nongji360.com/html/2026/09/274360.shtml",
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
-   "date": "2026-09-22"
+   "date": "2026-09-23"
   },
   {
-   "title": "宁夏第四批农机补贴投档拖拉机上传承诺书",
-   "url": "https://news.nongji360.com/html/2026/09/274352.shtml",
+   "title": "江西2026年第四批次农机补贴产品公示",
+   "url": "https://news.nongji360.com/html/2026/09/274355.shtml",
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
-   "date": "2026-09-22"
+   "date": "2026-09-23"
   },
   {
-   "title": "贵州2026年第四批农机补贴产品公示",
-   "url": "https://news.nongji360.com/html/2026/09/274347.shtml",
+   "title": "【归档】江西省2026年第四批次农机购置补贴产品形式审核情况的公示",
+   "url": "https://news.nongji360.com/html/2026/09/274355.shtml",
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
-   "date": "2026-09-22"
+   "date": "2026-09-23"
+  },
+  {
+   "title": "【鉴定】云南省2026年第二批农业机械试验鉴定证书注册结果的通报",
+   "url": "https://news.nongji360.com/html/2026/09/274354.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-09-23"
   },
   {
    "title": "【归档】宁夏第四批农机购置与应用补贴投档审核中农用动力机械上传承诺书的通知",
@@ -58,44 +66,36 @@
    "date": "2026-09-21"
   },
   {
-   "title": "【归档】甘肃省2026年第二批农机购置与应用补贴机具现场演示评价结果的公告",
-   "url": "https://news.nongji360.com/html/2026/09/274335.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-09-20"
-  },
-  {
-   "title": "【归档】安徽省开展2026年安徽省第四批农机购置与应用补贴产品自主投档工作的提示",
-   "url": "https://news.nongji360.com/html/2026/09/274334.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-09-20"
-  },
-  {
-   "title": "【鉴定】湖北省公开征求《活黄鳝、泥鳅剖切机》（征求意见稿）等三项农业机械专项鉴定大纲意见的函",
-   "url": "https://news.nongji360.com/html/2026/09/274326.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-09-18"
-  },
-  {
-   "title": "【鉴定】黑龙江省撤销海伦市祝农农业机械制造有限公司黑龙江省农业机械试验鉴定证书的通报",
-   "url": "https://news.nongji360.com/html/2026/09/274325.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-09-18"
-  },
-  {
    "title": "【汇总】各省2024-2026年农机补贴政策通知相关汇总",
    "url": "https://news.nongji360.com/html/2025/09/271215.shtml",
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
    "date": "2025-09-02"
+  },
+  {
+   "title": "【违规】对黑龙江省2024—2026年农机购置与应用补贴第六批自主投档违规行为进行处理的通知",
+   "url": "https://news.nongji360.com/html/2026/09/274319.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-09-17"
+  },
+  {
+   "title": "【违规】安徽省农业农村厅关于农机购置与应用补贴违规投档企业处理情况的通报",
+   "url": "https://news.nongji360.com/html/2026/09/274281.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-09-11"
+  },
+  {
+   "title": "陕西省“三秋”农机化生产信息的通告",
+   "url": "https://news.nongji360.com/html/2026/09/274356.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-09-23"
   },
   {
    "title": "400多家作物机器人公司，但机器人真正在哪里取得进展？",
@@ -114,7 +114,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "图片 | 自动驾驶和摄像头在PotatoEurope上定下基调",
+   "title": "图片 | 自主技术与摄像头为PotatoEurope定下基调",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/foto-autonomie-en-camera-s-zetten-toon-op-potatoeurope/",
    "source": "FutureFarming",
    "date": "2026-09-17",
@@ -130,44 +130,36 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "BioConsortia任命Matthew Mouw为业务发展副总裁",
-   "url": "https://www.agribusinessglobal.com/plant-health/biostimulants/bioconsortia-appoints-matthew-mouw-as-vice-president-of-business-development/",
-   "source": "AgriBusinessGlobal",
-   "date": "2026-09-18",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "AgriBusiness Global报告：生物刺激素的未来：关键市场趋势、单分子技术、种植者采用",
-   "url": "https://www.agribusinessglobal.com/biologicals/agribusiness-global-report-the-future-of-biostimulants-key-market-trends-single-molecule-tech-grower-adoption/",
-   "source": "AgriBusinessGlobal",
-   "date": "2026-09-18",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "ADAMA任命郝志刚博士为总裁兼首席执行官，Sammy Leibowitz为首席财务官",
-   "url": "https://www.agribusinessglobal.com/agrochemicals/adama-appoints-dr-zhigang-hao-as-president-and-ceo-and-sammy-leibowitz-as-chief-financial-officer/",
-   "source": "AgriBusinessGlobal",
-   "date": "2026-09-18",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "Cogny获得巴西首个转基因生物在生物防治投入品中的工业使用授权",
-   "url": "https://www.agribusinessglobal.com/markets/americas/cogny-secures-brazils-first-authorization-for-industrial-use-of-gmos-in-biocontrol-inputs/",
-   "source": "AgriBusinessGlobal",
-   "date": "2026-09-17",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "704拖拉机如何买？雷沃、一拖冠军机型全对比",
+   "title": "704拖拉机机型对比之潍柴雷沃 VS 中国一拖",
    "url": "https://news.nongji360.com/report/view/1126",
    "source": "农机360",
    "tag": "行业",
    "tag_class": "tag-news",
    "date": "2026-09-20"
+  },
+  {
+   "title": "陕西2026年第二批投档现场演示结果公告",
+   "url": "https://news.nongji360.com/html/2026/09/274353.shtml",
+   "source": "农机360",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-09-23"
+  },
+  {
+   "title": "【目录】《陕西省农机购置与应用补贴“优机优补”（第二批）补贴额一览表》的公示",
+   "url": "https://news.nongji360.com/html/2026/09/274360.shtml",
+   "source": "农机360",
+   "tag": "市场",
+   "tag_class": "tag-data",
+   "date": "2026-09-23"
+  },
+  {
+   "title": "【归档】陕西2026年第二批投档辅助驾驶（系统）设备、风送式喷雾机、撒（抛）肥机 现场演示结果公告",
+   "url": "https://news.nongji360.com/html/2026/09/274353.shtml",
+   "source": "农机360",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-09-23"
   },
   {
    "title": "农业农村部全国“三秋”农业生产工作会议强调全力以赴抓好当前农业生产各项工作奋力夺取全年粮食和农业丰收",
@@ -199,14 +191,6 @@
    "source": "农机360",
    "tag": "技术",
    "tag_class": "tag-tech",
-   "date": "2026-09-20"
-  },
-  {
-   "title": "农业农村部、工业和信息化部近日联合印发《全国农业机械化发展“十五五”规划》，明确到2030年，全国农作物耕种收综合机械化率超过80%，",
-   "url": "https://news.nongji360.com/html/2026/09/274338.shtml",
-   "source": "农机360",
-   "tag": "行业",
-   "tag_class": "tag-news",
    "date": "2026-09-20"
   },
   {
@@ -271,22 +255,6 @@
    "source": "农机通",
    "tag": "技术",
    "tag_class": "tag-tech",
-   "date": "2026-09-10"
-  },
-  {
-   "title": "新华社、人民日报都来了！30家央地媒体为何齐聚中国一拖？",
-   "url": "https://www.nongjitong.com/news/2026/534062.html",
-   "source": "农机通",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-09-10"
-  },
-  {
-   "title": "装备给力 服务护航丨中联重科大马力拖拉机批量赴疆作业",
-   "url": "https://www.nongjitong.com/news/2026/534061.html",
-   "source": "农机通",
-   "tag": "行业",
-   "tag_class": "tag-news",
    "date": "2026-09-10"
   },
   {
