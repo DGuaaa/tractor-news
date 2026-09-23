@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-23 18:04",
+ "updated": "2026-09-24 00:05",
  "items": [
   {
    "title": "陕西省农机补贴“优机优补”第二批一览表公示",
@@ -98,6 +98,14 @@
    "date": "2026-09-23"
   },
   {
+   "title": "信任是采用新技术的基础",
+   "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semiauto-steering/autonomous-vehicles/trust-is-the-basis-for-adopting-new-technology/",
+   "source": "FutureFarming",
+   "date": "2026-09-23",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
    "title": "400多家作物机器人公司，但机器人真正在哪里取得进展？",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/400-crop-robotics-companiess-but-where-are-robots-really-gaining-ground/",
    "source": "FutureFarming",
@@ -106,7 +114,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "田间验证推动精准农业技术更接近商业化应用",
+   "title": "田间验证推动精准农业技术更接近商业应用",
    "url": "https://www.futurefarming.com/smart-farming/field-validation-pushes-precision-farming-technology-closer-to-commercial-use/",
    "source": "FutureFarming",
    "date": "2026-09-18",
@@ -114,7 +122,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "图片 | 自主技术与摄像头为PotatoEurope定下基调",
+   "title": "图片 | 自主性和摄像头在PotatoEurope上定下基调",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/foto-autonomie-en-camera-s-zetten-toon-op-potatoeurope/",
    "source": "FutureFarming",
    "date": "2026-09-17",
@@ -122,12 +130,36 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Ecorobotix ARA 1200原型机在ATH首次亮相",
-   "url": "https://www.futurefarming.com/tech-in-focus/field-robots/prototype-ecorobotix-ara-1200-makes-debut-at-ath/",
-   "source": "FutureFarming",
+   "title": "BioConsortia 任命 Matthew Mouw 为业务发展副总裁",
+   "url": "https://www.agribusinessglobal.com/plant-health/biostimulants/bioconsortia-appoints-matthew-mouw-as-vice-president-of-business-development/",
+   "source": "AgriBusinessGlobal",
+   "date": "2026-09-18",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "AgriBusiness Global 报告：生物刺激素的未来：关键市场趋势、单分子技术、种植者采用",
+   "url": "https://www.agribusinessglobal.com/biologicals/agribusiness-global-report-the-future-of-biostimulants-key-market-trends-single-molecule-tech-grower-adoption/",
+   "source": "AgriBusinessGlobal",
+   "date": "2026-09-18",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "ADAMA 任命郝志刚博士为总裁兼首席执行官，Sammy Leibowitz 为首席财务官",
+   "url": "https://www.agribusinessglobal.com/agrochemicals/adama-appoints-dr-zhigang-hao-as-president-and-ceo-and-sammy-leibowitz-as-chief-financial-officer/",
+   "source": "AgriBusinessGlobal",
+   "date": "2026-09-18",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "Cogny 获得巴西首个在生物防治投入品中工业使用转基因生物的授权",
+   "url": "https://www.agribusinessglobal.com/markets/americas/cogny-secures-brazils-first-authorization-for-industrial-use-of-gmos-in-biocontrol-inputs/",
+   "source": "AgriBusinessGlobal",
    "date": "2026-09-17",
-   "tag": "技术",
-   "tag_class": "tag-tech"
+   "tag": "行业",
+   "tag_class": "tag-news"
   },
   {
    "title": "704拖拉机机型对比之潍柴雷沃 VS 中国一拖",
