@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24 00:05",
+ "updated": "2026-09-24 14:06",
  "items": [
   {
    "title": "陕西省农机补贴“优机优补”第二批一览表公示",
@@ -98,6 +98,62 @@
    "date": "2026-09-23"
   },
   {
+   "title": "2026年第38周瘦肉型白条猪肉出厂价格监测周报",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84204",
+   "source": "农业农村部价格指数",
+   "date": "2026-09-19",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "2026年第37周瘦肉型白条猪肉出厂价格监测周报",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84194",
+   "source": "农业农村部价格指数",
+   "date": "2026-09-13",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "2026年8月瘦肉型白条猪肉出厂价格监测月报",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84193",
+   "source": "农业农村部价格指数",
+   "date": "2026-09-10",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "2026年第36周瘦肉型白条猪肉出厂价格监测周报",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84195",
+   "source": "农业农村部价格指数",
+   "date": "2026-09-06",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "国家粮食和物资储备局召开博士人才座谈会",
+   "url": "https://www.lswz.gov.cn/html/xinwen/2026-09/17/content_295313.shtml",
+   "source": "国家粮食局",
+   "date": "2026-09-17",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "2026年全国秋粮收购工作会议在四川召开",
+   "url": "https://www.lswz.gov.cn/html/xinwen/2026-09/16/content_295235.shtml",
+   "source": "国家粮食局",
+   "date": "2026-09-16",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "国家粮食和物资储备局召开垂管系统安全生产视频会议",
+   "url": "https://www.lswz.gov.cn/html/xinwen/2026-09/16/content_295221.shtml",
+   "source": "国家粮食局",
+   "date": "2026-09-16",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
    "title": "信任是采用新技术的基础",
    "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semiauto-steering/autonomous-vehicles/trust-is-the-basis-for-adopting-new-technology/",
    "source": "FutureFarming",
@@ -114,7 +170,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "田间验证推动精准农业技术更接近商业应用",
+   "title": "田间验证推动精准农业技术更接近商业化应用",
    "url": "https://www.futurefarming.com/smart-farming/field-validation-pushes-precision-farming-technology-closer-to-commercial-use/",
    "source": "FutureFarming",
    "date": "2026-09-18",
@@ -122,7 +178,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "图片 | 自主性和摄像头在PotatoEurope上定下基调",
+   "title": "图片 | 自主技术与摄像头在PotatoEurope上定下基调",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/foto-autonomie-en-camera-s-zetten-toon-op-potatoeurope/",
    "source": "FutureFarming",
    "date": "2026-09-17",
@@ -130,36 +186,36 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "BioConsortia 任命 Matthew Mouw 为业务发展副总裁",
-   "url": "https://www.agribusinessglobal.com/plant-health/biostimulants/bioconsortia-appoints-matthew-mouw-as-vice-president-of-business-development/",
+   "title": "亚什兰扩大作物护理领域的改性植物油技术平台，推出agrimer Eco-Disperse OD聚合物分散剂",
+   "url": "https://www.agribusinessglobal.com/sustainability/ashland-scales-transformed-vegetable-oils-technology-platform-in-crop-care-launches-agrimer-eco-disperse-od-polymeric-dispersant/",
    "source": "AgriBusinessGlobal",
-   "date": "2026-09-18",
+   "date": "2026-09-23",
    "tag": "行业",
    "tag_class": "tag-news"
   },
   {
-   "title": "AgriBusiness Global 报告：生物刺激素的未来：关键市场趋势、单分子技术、种植者采用",
-   "url": "https://www.agribusinessglobal.com/biologicals/agribusiness-global-report-the-future-of-biostimulants-key-market-trends-single-molecule-tech-grower-adoption/",
+   "title": "巴西：Symbiomics与Valeouro建立战略合作伙伴关系，推进生物制剂领域的基因组编辑",
+   "url": "https://www.agribusinessglobal.com/biopesticides/brazil-symbiomics-and-valeouro-forge-strategic-partnership-to-advance-genome-editing-in-the-biologicals-sector/",
    "source": "AgriBusinessGlobal",
-   "date": "2026-09-18",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "ADAMA 任命郝志刚博士为总裁兼首席执行官，Sammy Leibowitz 为首席财务官",
-   "url": "https://www.agribusinessglobal.com/agrochemicals/adama-appoints-dr-zhigang-hao-as-president-and-ceo-and-sammy-leibowitz-as-chief-financial-officer/",
-   "source": "AgriBusinessGlobal",
-   "date": "2026-09-18",
+   "date": "2026-09-23",
    "tag": "行业",
    "tag_class": "tag-news"
   },
   {
-   "title": "Cogny 获得巴西首个在生物防治投入品中工业使用转基因生物的授权",
-   "url": "https://www.agribusinessglobal.com/markets/americas/cogny-secures-brazils-first-authorization-for-industrial-use-of-gmos-in-biocontrol-inputs/",
+   "title": "安道麦将在印度为小麦种植者推出Actagon除草剂",
+   "url": "https://www.agribusinessglobal.com/agrochemicals/herbicides/adama-to-launch-actagon-herbicide-for-wheat-growers-in-india/",
    "source": "AgriBusinessGlobal",
-   "date": "2026-09-17",
+   "date": "2026-09-23",
    "tag": "行业",
    "tag_class": "tag-news"
+  },
+  {
+   "title": "Vive Crop Protection获得美国环保署对Bifender Duo的登记，这是一种针对土壤昆虫和线虫的新型混合解决方案",
+   "url": "https://www.agribusinessglobal.com/agrochemicals/insecticides/vive-crop-protection-receives-u-s-epa-registration-for-bifender-duo-a-new-hybrid-solution-for-soil-insects-and-nematodes/",
+   "source": "AgriBusinessGlobal",
+   "date": "2026-09-23",
+   "tag": "技术",
+   "tag_class": "tag-tech"
   },
   {
    "title": "704拖拉机机型对比之潍柴雷沃 VS 中国一拖",
@@ -392,38 +448,6 @@
    "tag": "行业",
    "tag_class": "tag-news",
    "date": "2026-09-14"
-  },
-  {
-   "title": "中国一拖出海授旗仪式吹响国际化冲锋号",
-   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202609/t20260908_653506.html",
-   "source": "一拖东方红",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-09-08"
-  },
-  {
-   "title": "『东方红硬核装备护航粮仓』高端智能大马力拖拉机田间日启幕",
-   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202608/t20260827_651978.html",
-   "source": "一拖东方红",
-   "tag": "技术",
-   "tag_class": "tag-tech",
-   "date": "2026-08-27"
-  },
-  {
-   "title": "沃得农机亮相2026黑龙江国际农机展：智慧装备护航黑土地丰收季",
-   "url": "http://www.worldnyjx.com/index.php?m=content&c=index&a=show&catid=126&id=584",
-   "source": "沃得",
-   "date": "2026-09-21",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "守护棉仓，服务先行。沃得2026采棉机服务保障方案",
-   "url": "http://www.worldnyjx.com/index.php?m=content&c=index&a=show&catid=126&id=581",
-   "source": "沃得",
-   "date": "2026-09-16",
-   "tag": "行业",
-   "tag_class": "tag-news"
   }
  ]
 }
