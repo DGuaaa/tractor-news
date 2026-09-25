@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-25 00:05",
+ "updated": "2026-09-25 18:20",
  "items": [
   {
    "title": "陕西2026年农机补贴产品投档第三批公示",
@@ -130,6 +130,30 @@
    "tag_class": "tag-data"
   },
   {
+   "title": "国家粮食和物资储备局视频调度安全生产工作",
+   "url": "https://www.lswz.gov.cn/html/xinwen/2026-09/24/content_295421.shtml",
+   "source": "国家粮食局",
+   "date": "2026-09-24",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "国家粮食和物资储备局召开博士人才座谈会",
+   "url": "https://www.lswz.gov.cn/html/xinwen/2026-09/17/content_295313.shtml",
+   "source": "国家粮食局",
+   "date": "2026-09-17",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "2026年全国秋粮收购工作会议在四川召开",
+   "url": "https://www.lswz.gov.cn/html/xinwen/2026-09/16/content_295235.shtml",
+   "source": "国家粮食局",
+   "date": "2026-09-16",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
    "title": "信任是采用新技术的基础",
    "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semiauto-steering/autonomous-vehicles/trust-is-the-basis-for-adopting-new-technology/",
    "source": "FutureFarming",
@@ -154,7 +178,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "图片 | 自主技术和摄像头在PotatoEurope上定下基调",
+   "title": "图片 | 自主性和摄像头在PotatoEurope上定下基调",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/foto-autonomie-en-camera-s-zetten-toon-op-potatoeurope/",
    "source": "FutureFarming",
    "date": "2026-09-17",
@@ -162,7 +186,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "亚什兰在作物保护领域扩大改性植物油技术平台，推出agrimer Eco-Disperse OD聚合物分散剂",
+   "title": "亚什兰扩大作物护理领域的转化植物油技术平台，推出agrimer Eco-Disperse OD聚合物分散剂",
    "url": "https://www.agribusinessglobal.com/sustainability/ashland-scales-transformed-vegetable-oils-technology-platform-in-crop-care-launches-agrimer-eco-disperse-od-polymeric-dispersant/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-23",
@@ -178,7 +202,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "安道麦将在印度推出面向小麦种植者的Actagon除草剂",
+   "title": "安道麦将在印度为小麦种植者推出Actagon除草剂",
    "url": "https://www.agribusinessglobal.com/agrochemicals/herbicides/adama-to-launch-actagon-herbicide-for-wheat-growers-in-india/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-23",
@@ -186,7 +210,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Vive Crop Protection获得美国EPA对Bifender Duo的注册，一种针对土壤昆虫和线虫的新型混合解决方案",
+   "title": "Vive Crop Protection获得美国EPA对Bifender Duo的登记，这是一种针对土壤昆虫和线虫的新型混合解决方案",
    "url": "https://www.agribusinessglobal.com/agrochemicals/insecticides/vive-crop-protection-receives-u-s-epa-registration-for-bifender-duo-a-new-hybrid-solution-for-soil-insects-and-nematodes/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-23",
@@ -424,30 +448,6 @@
    "tag": "行业",
    "tag_class": "tag-news",
    "date": "2026-09-14"
-  },
-  {
-   "title": "中国一拖出海授旗仪式吹响国际化冲锋号",
-   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202609/t20260908_653506.html",
-   "source": "一拖东方红",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-09-08"
-  },
-  {
-   "title": "『东方红硬核装备护航粮仓』高端智能大马力拖拉机田间日启幕",
-   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202608/t20260827_651978.html",
-   "source": "一拖东方红",
-   "tag": "技术",
-   "tag_class": "tag-tech",
-   "date": "2026-08-27"
-  },
-  {
-   "title": "丘陵农机化如何破题？沃得农机亮相2026丘陵山区农业机械展览会",
-   "url": "http://www.worldnyjx.com/index.php?m=content&c=index&a=show&catid=126&id=586",
-   "source": "沃得",
-   "date": "2026-09-24",
-   "tag": "市场",
-   "tag_class": "tag-data"
   }
  ]
 }
