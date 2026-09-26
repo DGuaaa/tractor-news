@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-27 00:04",
+ "updated": "2026-09-27 06:02",
  "items": [
   {
    "title": "陕西2026年农机补贴产品第三批公示",
@@ -98,92 +98,60 @@
    "date": "2026-09-23"
   },
   {
-   "title": "2026年第38周瘦肉型白条猪肉出厂价格监测周报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84204",
-   "source": "农业农村部价格指数",
-   "date": "2026-09-19",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "2026年第37周瘦肉型白条猪肉出厂价格监测周报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84194",
-   "source": "农业农村部价格指数",
-   "date": "2026-09-13",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "2026年8月瘦肉型白条猪肉出厂价格监测月报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84193",
-   "source": "农业农村部价格指数",
-   "date": "2026-09-10",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "2026年第36周瘦肉型白条猪肉出厂价格监测周报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84195",
-   "source": "农业农村部价格指数",
-   "date": "2026-09-06",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "国家粮食和物资储备局视频调度安全生产工作",
-   "url": "https://www.lswz.gov.cn/html/xinwen/2026-09/24/content_295421.shtml",
-   "source": "国家粮食局",
-   "date": "2026-09-24",
+   "title": "信任是采用新技术的基础",
+   "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semiauto-steering/autonomous-vehicles/trust-is-the-basis-for-adopting-new-technology/",
+   "source": "FutureFarming",
+   "date": "2026-09-23",
    "tag": "行业",
    "tag_class": "tag-news"
   },
   {
-   "title": "国家粮食和物资储备局召开博士人才座谈会",
-   "url": "https://www.lswz.gov.cn/html/xinwen/2026-09/17/content_295313.shtml",
-   "source": "国家粮食局",
+   "title": "400多家作物机器人公司，但机器人真正在哪些领域取得进展？",
+   "url": "https://www.futurefarming.com/tech-in-focus/field-robots/400-crop-robotics-companiess-but-where-are-robots-really-gaining-ground/",
+   "source": "FutureFarming",
+   "date": "2026-09-21",
+   "tag": "技术",
+   "tag_class": "tag-tech"
+  },
+  {
+   "title": "田间验证推动精准农业技术更接近商业应用",
+   "url": "https://www.futurefarming.com/smart-farming/field-validation-pushes-precision-farming-technology-closer-to-commercial-use/",
+   "source": "FutureFarming",
+   "date": "2026-09-18",
+   "tag": "技术",
+   "tag_class": "tag-tech"
+  },
+  {
+   "title": "图片 | 自主性与摄像头为PotatoEurope定下基调",
+   "url": "https://www.futurefarming.com/tech-in-focus/field-robots/foto-autonomie-en-camera-s-zetten-toon-op-potatoeurope/",
+   "source": "FutureFarming",
    "date": "2026-09-17",
    "tag": "行业",
    "tag_class": "tag-news"
   },
   {
-   "title": "2026年全国秋粮收购工作会议在四川召开",
-   "url": "https://www.lswz.gov.cn/html/xinwen/2026-09/16/content_295235.shtml",
-   "source": "国家粮食局",
-   "date": "2026-09-16",
+   "title": "领先企业如何在全球农业综合企业中前行",
+   "url": "https://www.agribusinessglobal.com/agrochemicals/how-leading-companies-move-forward-in-global-agribusiness/",
+   "source": "AgriBusinessGlobal",
+   "date": "2026-09-25",
    "tag": "行业",
    "tag_class": "tag-news"
   },
   {
-   "title": "亚什兰在作物护理领域扩展转型植物油技术平台，推出agrimer Eco-Disperse OD聚合物分散剂",
-   "url": "https://www.agribusinessglobal.com/sustainability/ashland-scales-transformed-vegetable-oils-technology-platform-in-crop-care-launches-agrimer-eco-disperse-od-polymeric-dispersant/",
+   "title": "ADM第四份年度再生农业报告强调食品系统日益增强的韧性",
+   "url": "https://www.agribusinessglobal.com/sustainability/adms-fourth-annual-regenerative-agriculture-report-highlights-growing-resilience-across-the-food-system/",
    "source": "AgriBusinessGlobal",
-   "date": "2026-09-23",
+   "date": "2026-09-25",
    "tag": "行业",
    "tag_class": "tag-news"
   },
   {
-   "title": "巴西：Symbiomics与Valeouro建立战略合作，推进生物制剂领域的基因组编辑",
-   "url": "https://www.agribusinessglobal.com/biopesticides/brazil-symbiomics-and-valeouro-forge-strategic-partnership-to-advance-genome-editing-in-the-biologicals-sector/",
+   "title": "印度：Dhanuka Agritech推出用于水稻作物的Polin杀菌剂",
+   "url": "https://www.agribusinessglobal.com/agrochemicals/fungicides/india-dhanuka-agritech-introduces-polin-fungicide-for-paddy-crop/",
    "source": "AgriBusinessGlobal",
-   "date": "2026-09-23",
+   "date": "2026-09-25",
    "tag": "行业",
    "tag_class": "tag-news"
-  },
-  {
-   "title": "安道麦将在印度为小麦种植者推出Actagon除草剂",
-   "url": "https://www.agribusinessglobal.com/agrochemicals/herbicides/adama-to-launch-actagon-herbicide-for-wheat-growers-in-india/",
-   "source": "AgriBusinessGlobal",
-   "date": "2026-09-23",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "Vive Crop Protection的Bifender Duo获美国EPA登记，成为防治土壤害虫和线虫的新型混合解决方案",
-   "url": "https://www.agribusinessglobal.com/agrochemicals/insecticides/vive-crop-protection-receives-u-s-epa-registration-for-bifender-duo-a-new-hybrid-solution-for-soil-insects-and-nematodes/",
-   "source": "AgriBusinessGlobal",
-   "date": "2026-09-23",
-   "tag": "技术",
-   "tag_class": "tag-tech"
   },
   {
    "title": "困在行业洗牌旋涡：复盘弱势农机企业的六大致命症结",
@@ -311,7 +279,7 @@
    "source": "农机通",
    "tag": "市场",
    "tag_class": "tag-data",
-   "date": "2026-09-18"
+   "date": "2026"
   },
   {
    "title": "赋能“黑土粮仓” 潍柴雷沃智慧农业亮相黑龙江国际农机展",
@@ -392,46 +360,6 @@
    "tag": "行业",
    "tag_class": "tag-news",
    "date": ""
-  },
-  {
-   "title": "齐聚冰城丨东方红农机助力黑土地智慧耕种",
-   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202609/t20260920_655154.html",
-   "source": "一拖东方红",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-09-20"
-  },
-  {
-   "title": "第四届农机资本研讨会在中国一拖召开",
-   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202609/t20260914_654149.html",
-   "source": "一拖东方红",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-09-14"
-  },
-  {
-   "title": "中国一拖召开2026年秋季服务动员会",
-   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202609/t20260914_654147.html",
-   "source": "一拖东方红",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-09-14"
-  },
-  {
-   "title": "中国一拖出海授旗仪式吹响国际化冲锋号",
-   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202609/t20260908_653506.html",
-   "source": "一拖东方红",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-09-08"
-  },
-  {
-   "title": "『东方红硬核装备护航粮仓』高端智能大马力拖拉机田间日启幕",
-   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202608/t20260827_651978.html",
-   "source": "一拖东方红",
-   "tag": "技术",
-   "tag_class": "tag-tech",
-   "date": "2026-08-27"
   },
   {
    "title": "丘陵农机化如何破题？沃得农机亮相2026丘陵山区农业机械展览会",
