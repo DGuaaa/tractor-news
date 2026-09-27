@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-27 15:27",
+ "updated": "2026-09-27 18:04",
  "items": [
   {
    "title": "陕西2026年农机补贴产品第三批公示",
@@ -154,39 +154,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "信任是采用新技术的基础",
-   "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semiauto-steering/autonomous-vehicles/trust-is-the-basis-for-adopting-new-technology/",
-   "source": "FutureFarming",
-   "date": "2026-09-23",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "400多家作物机器人公司，但机器人真正在哪里取得进展？",
-   "url": "https://www.futurefarming.com/tech-in-focus/field-robots/400-crop-robotics-companiess-but-where-are-robots-really-gaining-ground/",
-   "source": "FutureFarming",
-   "date": "2026-09-21",
-   "tag": "技术",
-   "tag_class": "tag-tech"
-  },
-  {
-   "title": "田间验证推动精准农业技术更接近商业化应用",
-   "url": "https://www.futurefarming.com/smart-farming/field-validation-pushes-precision-farming-technology-closer-to-commercial-use/",
-   "source": "FutureFarming",
-   "date": "2026-09-18",
-   "tag": "技术",
-   "tag_class": "tag-tech"
-  },
-  {
-   "title": "图片 | 自主技术与摄像头为PotatoEurope定下基调",
-   "url": "https://www.futurefarming.com/tech-in-focus/field-robots/foto-autonomie-en-camera-s-zetten-toon-op-potatoeurope/",
-   "source": "FutureFarming",
-   "date": "2026-09-17",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "领先企业如何在全球农业综合企业中向前迈进",
+   "title": "领先企业如何在全球农业产业中向前迈进",
    "url": "https://www.agribusinessglobal.com/agrochemicals/how-leading-companies-move-forward-in-global-agribusiness/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-25",
@@ -194,7 +162,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "ADM第四届年度再生农业报告强调食品系统日益增强的韧性",
+   "title": "ADM第四届年度再生农业报告凸显整个食品系统韧性不断增强",
    "url": "https://www.agribusinessglobal.com/sustainability/adms-fourth-annual-regenerative-agriculture-report-highlights-growing-resilience-across-the-food-system/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-25",
@@ -448,6 +416,30 @@
    "tag": "行业",
    "tag_class": "tag-news",
    "date": "2026-09-08"
+  },
+  {
+   "title": "『东方红硬核装备护航粮仓』高端智能大马力拖拉机田间日启幕",
+   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202608/t20260827_651978.html",
+   "source": "一拖东方红",
+   "tag": "技术",
+   "tag_class": "tag-tech",
+   "date": "2026-08-27"
+  },
+  {
+   "title": "丘陵农机化如何破题？沃得农机亮相2026丘陵山区农业机械展览会",
+   "url": "http://www.worldnyjx.com/index.php?m=content&c=index&a=show&catid=126&id=586",
+   "source": "沃得",
+   "date": "2026-09-24",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "TOP50+榜单出炉｜沃得农机实力斩获四项大奖！",
+   "url": "http://www.worldnyjx.com/index.php?m=content&c=index&a=show&catid=126&id=585",
+   "source": "沃得",
+   "date": "2026-9-17",
+   "tag": "行业",
+   "tag_class": "tag-news"
   }
  ]
 }
