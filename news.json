@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-27 06:02",
+ "updated": "2026-09-27 15:27",
  "items": [
   {
    "title": "陕西2026年农机补贴产品第三批公示",
@@ -98,6 +98,62 @@
    "date": "2026-09-23"
   },
   {
+   "title": "2026年第38周瘦肉型白条猪肉出厂价格监测周报",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84204",
+   "source": "农业农村部价格指数",
+   "date": "2026-09-19",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "2026年第37周瘦肉型白条猪肉出厂价格监测周报",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84194",
+   "source": "农业农村部价格指数",
+   "date": "2026-09-13",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "2026年8月瘦肉型白条猪肉出厂价格监测月报",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84193",
+   "source": "农业农村部价格指数",
+   "date": "2026-09-10",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "2026年第36周瘦肉型白条猪肉出厂价格监测周报",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84195",
+   "source": "农业农村部价格指数",
+   "date": "2026-09-06",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "国家粮食和物资储备局视频调度安全生产工作",
+   "url": "https://www.lswz.gov.cn/html/xinwen/2026-09/24/content_295421.shtml",
+   "source": "国家粮食局",
+   "date": "2026-09-24",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "国家粮食和物资储备局召开博士人才座谈会",
+   "url": "https://www.lswz.gov.cn/html/xinwen/2026-09/17/content_295313.shtml",
+   "source": "国家粮食局",
+   "date": "2026-09-17",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "2026年全国秋粮收购工作会议在四川召开",
+   "url": "https://www.lswz.gov.cn/html/xinwen/2026-09/16/content_295235.shtml",
+   "source": "国家粮食局",
+   "date": "2026-09-16",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
    "title": "信任是采用新技术的基础",
    "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semiauto-steering/autonomous-vehicles/trust-is-the-basis-for-adopting-new-technology/",
    "source": "FutureFarming",
@@ -106,7 +162,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "400多家作物机器人公司，但机器人真正在哪些领域取得进展？",
+   "title": "400多家作物机器人公司，但机器人真正在哪里取得进展？",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/400-crop-robotics-companiess-but-where-are-robots-really-gaining-ground/",
    "source": "FutureFarming",
    "date": "2026-09-21",
@@ -114,7 +170,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "田间验证推动精准农业技术更接近商业应用",
+   "title": "田间验证推动精准农业技术更接近商业化应用",
    "url": "https://www.futurefarming.com/smart-farming/field-validation-pushes-precision-farming-technology-closer-to-commercial-use/",
    "source": "FutureFarming",
    "date": "2026-09-18",
@@ -122,7 +178,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "图片 | 自主性与摄像头为PotatoEurope定下基调",
+   "title": "图片 | 自主技术与摄像头为PotatoEurope定下基调",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/foto-autonomie-en-camera-s-zetten-toon-op-potatoeurope/",
    "source": "FutureFarming",
    "date": "2026-09-17",
@@ -130,7 +186,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "领先企业如何在全球农业综合企业中前行",
+   "title": "领先企业如何在全球农业综合企业中向前迈进",
    "url": "https://www.agribusinessglobal.com/agrochemicals/how-leading-companies-move-forward-in-global-agribusiness/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-25",
@@ -138,7 +194,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "ADM第四份年度再生农业报告强调食品系统日益增强的韧性",
+   "title": "ADM第四届年度再生农业报告强调食品系统日益增强的韧性",
    "url": "https://www.agribusinessglobal.com/sustainability/adms-fourth-annual-regenerative-agriculture-report-highlights-growing-resilience-across-the-food-system/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-25",
@@ -279,7 +335,7 @@
    "source": "农机通",
    "tag": "市场",
    "tag_class": "tag-data",
-   "date": "2026"
+   "date": "2026-09-18"
   },
   {
    "title": "赋能“黑土粮仓” 潍柴雷沃智慧农业亮相黑龙江国际农机展",
@@ -362,20 +418,36 @@
    "date": ""
   },
   {
-   "title": "丘陵农机化如何破题？沃得农机亮相2026丘陵山区农业机械展览会",
-   "url": "http://www.worldnyjx.com/index.php?m=content&c=index&a=show&catid=126&id=586",
-   "source": "沃得",
-   "date": "2026-09-24",
-   "tag": "市场",
-   "tag_class": "tag-data"
+   "title": "齐聚冰城丨东方红农机助力黑土地智慧耕种",
+   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202609/t20260920_655154.html",
+   "source": "一拖东方红",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-09-20"
   },
   {
-   "title": "TOP50+榜单出炉｜沃得农机实力斩获四项大奖！",
-   "url": "http://www.worldnyjx.com/index.php?m=content&c=index&a=show&catid=126&id=585",
-   "source": "沃得",
-   "date": "2026-9-17",
+   "title": "第四届农机资本研讨会在中国一拖召开",
+   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202609/t20260914_654149.html",
+   "source": "一拖东方红",
    "tag": "行业",
-   "tag_class": "tag-news"
+   "tag_class": "tag-news",
+   "date": "2026-09-14"
+  },
+  {
+   "title": "中国一拖召开2026年秋季服务动员会",
+   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202609/t20260914_654147.html",
+   "source": "一拖东方红",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-09-14"
+  },
+  {
+   "title": "中国一拖出海授旗仪式吹响国际化冲锋号",
+   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202609/t20260908_653506.html",
+   "source": "一拖东方红",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-09-08"
   }
  ]
 }
