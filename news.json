@@ -1,21 +1,45 @@
 {
- "updated": "2026-09-28 06:02",
+ "updated": "2026-09-29 00:06",
  "items": [
   {
-   "title": "陕西2026年农机补贴产品第三批公示",
-   "url": "https://news.nongji360.com/html/2026/09/274369.shtml",
+   "title": "【鉴定】福建省2026年农业机械试验鉴定“双随机、一公开”监督检查结果的通报",
+   "url": "https://news.nongji360.com/html/2026/09/274377.shtml",
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
-   "date": "2026-09-24"
+   "date": "2026-09-28"
   },
   {
-   "title": "江苏省补贴产品违规处置情况通知",
-   "url": "https://news.nongji360.com/html/2026/09/274368.shtml",
+   "title": "【鉴定】山西省公布2026年第三批农业机械推广鉴定获证产品检测结果的通知",
+   "url": "https://news.nongji360.com/html/2026/09/274376.shtml",
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
-   "date": "2026-09-24"
+   "date": "2026-09-28"
+  },
+  {
+   "title": "【鉴定】湖北省2026年第4批农机试验鉴定结果的通告",
+   "url": "https://news.nongji360.com/html/2026/09/274375.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-09-28"
+  },
+  {
+   "title": "【鉴定】广西公开征求农业机械专项鉴定大纲《蔗梢切碎压捆机（征求意见稿）》修改意见的函",
+   "url": "https://news.nongji360.com/html/2026/09/274373.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-09-28"
+  },
+  {
+   "title": "【鉴定】云南省2026年第三批农业机械试验鉴定证书注册结果的通报",
+   "url": "https://news.nongji360.com/html/2026/09/274372.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2026-09-28"
   },
   {
    "title": "【通知】厦门市农业农村局关于2026年区级农机购置补贴信息公开专栏抽查情况的通报",
@@ -48,30 +72,6 @@
    "tag": "政策",
    "tag_class": "tag-policy",
    "date": "2026-09-24"
-  },
-  {
-   "title": "【政策】印发《山东省2026年粮食烘干中心成套设备补贴工作实施方案》的通知",
-   "url": "https://news.nongji360.com/html/2026/09/274362.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-09-23"
-  },
-  {
-   "title": "【归档】江西省2026年第四批次农机购置补贴产品形式审核情况的公示",
-   "url": "https://news.nongji360.com/html/2026/09/274355.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-09-23"
-  },
-  {
-   "title": "【鉴定】云南省2026年第二批农业机械试验鉴定证书注册结果的通报",
-   "url": "https://news.nongji360.com/html/2026/09/274354.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-09-23"
   },
   {
    "title": "【汇总】各省2024-2026年农机补贴政策通知相关汇总",
@@ -154,6 +154,14 @@
    "tag_class": "tag-news"
   },
   {
+   "title": "Coggan Farms：自主喷洒减少85%化学品用量",
+   "url": "https://www.futurefarming.com/smart-farming/autonomous-spraying-cuts-chemical-use-by-85-at-coggan-farms/",
+   "source": "FutureFarming",
+   "date": "2026-09-28",
+   "tag": "技术",
+   "tag_class": "tag-tech"
+  },
+  {
    "title": "信任是采用新技术的基础",
    "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semiauto-steering/autonomous-vehicles/trust-is-the-basis-for-adopting-new-technology/",
    "source": "FutureFarming",
@@ -170,20 +178,12 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "田间验证推动精准农业技术更接近商业化应用",
+   "title": "田间验证推动精准农业技术更接近商业应用",
    "url": "https://www.futurefarming.com/smart-farming/field-validation-pushes-precision-farming-technology-closer-to-commercial-use/",
    "source": "FutureFarming",
    "date": "2026-09-18",
    "tag": "技术",
    "tag_class": "tag-tech"
-  },
-  {
-   "title": "图片 | 自主技术与摄像头为PotatoEurope定下基调",
-   "url": "https://www.futurefarming.com/tech-in-focus/field-robots/foto-autonomie-en-camera-s-zetten-toon-op-potatoeurope/",
-   "source": "FutureFarming",
-   "date": "2026-09-17",
-   "tag": "行业",
-   "tag_class": "tag-news"
   },
   {
    "title": "领先企业如何在全球农业综合企业中向前迈进",
@@ -194,7 +194,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "ADM第四份年度再生农业报告凸显整个食品系统日益增强的韧性",
+   "title": "ADM第四份年度再生农业报告突显食品系统韧性不断增强",
    "url": "https://www.agribusinessglobal.com/sustainability/adms-fourth-annual-regenerative-agriculture-report-highlights-growing-resilience-across-the-food-system/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-25",
@@ -202,7 +202,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "印度：Dhanuka Agritech推出用于水稻作物的Polin杀菌剂",
+   "title": "印度：Dhanuka Agritech推出水稻用Polin杀菌剂",
    "url": "https://www.agribusinessglobal.com/agrochemicals/fungicides/india-dhanuka-agritech-introduces-polin-fungicide-for-paddy-crop/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-25",
@@ -210,68 +210,84 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "困在行业洗牌旋涡：复盘弱势农机企业的六大致命症结",
-   "url": "https://news.nongji360.com/html/2026/09/274331.shtml",
-   "source": "农机360",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-09-18"
-  },
-  {
-   "title": "轮式拖拉机行业怎么走？",
-   "url": "https://news.nongji360.com/report/view/1128",
+   "title": "从\"十五五\"规划看红海破局：谷物联合收割机行业怎么走？",
+   "url": "https://news.nongji360.com/report/view/1127",
    "source": "农机360",
    "tag": "行业",
    "tag_class": "tag-news",
    "date": "2026-09-24"
   },
   {
-   "title": "【归档】湖北省2026年第三批投档产品集中修改的温馨提示",
-   "url": "https://news.nongji360.com/html/2026/09/274367.shtml",
-   "source": "农机360",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-09-24"
-  },
-  {
-   "title": "【目录】《陕西省农机购置与应用补贴“优机优补”（第二批）补贴额一览表》的公示",
-   "url": "https://news.nongji360.com/html/2026/09/274360.shtml",
-   "source": "农机360",
-   "tag": "市场",
-   "tag_class": "tag-data",
-   "date": "2026-09-23"
-  },
-  {
-   "title": "农业农村部全国“三秋”农业生产工作会议强调全力以赴抓好当前农业生产各项工作奋力夺取全年粮食和农业丰收",
-   "url": "https://news.nongji360.com/html/2026/09/274346.shtml",
-   "source": "农机360",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-09-22"
-  },
-  {
-   "title": "9月21日，农业农村部召开全国“三秋”农业生产工作视频会议。会议强调，要深入学习贯彻习近平总书记重要指示精神，落实党中央、国务院决",
-   "url": "https://news.nongji360.com/html/2026/09/274346.shtml",
-   "source": "农机360",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-09-22"
-  },
-  {
-   "title": "“耕”新黑土地 “智”绘新图景  2026黑龙江国际农业机械展览会在哈尔滨启幕",
-   "url": "https://news.nongji360.com/html/2026/09/274339.shtml",
-   "source": "农机360",
-   "tag": "市场",
-   "tag_class": "tag-data",
-   "date": "2026-09-20"
-  },
-  {
-   "title": "9月19日，以“智能农机新装备智慧农业新发展”为主题的2026黑龙江国际农业机械展览会在哈尔滨冰雪大世界盛大启幕。展会由黑龙江省农业机",
-   "url": "https://news.nongji360.com/html/2026/09/274339.shtml",
+   "title": "新型电池“十五五”规划与农机有关",
+   "url": "https://news.nongji360.com/html/2026/09/274380.shtml",
    "source": "农机360",
    "tag": "技术",
    "tag_class": "tag-tech",
-   "date": "2026-09-20"
+   "date": "2026-09-28"
+  },
+  {
+   "title": "玉米机械化收获减损技术",
+   "url": "https://news.nongji360.com/html/2026/09/274378.shtml",
+   "source": "农机360",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-09-28"
+  },
+  {
+   "title": "读懂农机行业未来五年的\"3个数字\"",
+   "url": "https://news.nongji360.com/html/2026/09/274374.shtml",
+   "source": "农机360",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-09-28"
+  },
+  {
+   "title": "七部门印发电池规划，农机装备被点名了三次",
+   "url": "https://news.nongji360.com/html/2026/09/274380.shtml",
+   "source": "农机360",
+   "tag": "技术",
+   "tag_class": "tag-tech",
+   "date": "2026-09-28"
+  },
+  {
+   "title": "9月14日，一个乍看跟农机不沾边的文件发布了——七部门联合印发的《新型电池产业发展“十五五”规划》。一听“新型电池”，大伙儿第一反应多",
+   "url": "https://news.nongji360.com/html/2026/09/274380.shtml",
+   "source": "农机360",
+   "tag": "技术",
+   "tag_class": "tag-tech",
+   "date": "2026-09-28"
+  },
+  {
+   "title": "工业和信息化部等七部门关于印发《新型电池产业发展“十五五”规划》的通知",
+   "url": "https://news.nongji360.com/html/2026/09/274379.shtml",
+   "source": "农机360",
+   "tag": "技术",
+   "tag_class": "tag-tech",
+   "date": "2026-09-28"
+  },
+  {
+   "title": "为贯彻落实党中央、国务院决策部署，推动新型电池产业高质量发展，依据《中华人民共和国国民经济和社会发展第十五个五年规划纲要》，工",
+   "url": "https://news.nongji360.com/html/2026/09/274379.shtml",
+   "source": "农机360",
+   "tag": "技术",
+   "tag_class": "tag-tech",
+   "date": "2026-09-28"
+  },
+  {
+   "title": "从76.7%到80%：读懂农机行业未来五年的\"3个数字\"",
+   "url": "https://news.nongji360.com/html/2026/09/274374.shtml",
+   "source": "农机360",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-09-28"
+  },
+  {
+   "title": "2026年，对农机人来说，是一个特别值得拎出来说一说的年份。不是因为卖了多少机器，不是因为市场又涨了多少，而是因为：从这一年开始，",
+   "url": "https://news.nongji360.com/html/2026/09/274374.shtml",
+   "source": "农机360",
+   "tag": "市场",
+   "tag_class": "tag-data",
+   "date": "2026-09-28"
   },
   {
    "title": "混动拖拉机到底香不香？",
@@ -322,22 +338,6 @@
    "date": "2026-09-20"
   },
   {
-   "title": "喜报！中国一拖QC小组成果斩获一等奖",
-   "url": "https://www.nongjitong.com/news/2026/534116.html",
-   "source": "农机通",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-09-18"
-  },
-  {
-   "title": "首赴龙江 智驭黑土｜钵施然邀您共聚2026黑龙江国际农业机械展览会",
-   "url": "https://www.nongjitong.com/news/2026/534115.html",
-   "source": "农机通",
-   "tag": "市场",
-   "tag_class": "tag-data",
-   "date": "2026-09-18"
-  },
-  {
    "title": "赋能“黑土粮仓” 潍柴雷沃智慧农业亮相黑龙江国际农机展",
    "url": "https://www.lovol.com.cn/news/medianews-detail-6376.htm",
    "source": "潍柴雷沃",
@@ -386,6 +386,14 @@
    "date": ""
   },
   {
+   "title": "正青春 跃山海 | 中联重科成立34周年庆祝活动隆重举行",
+   "url": "https://www.zoomlion.com/content/details18_34146.html",
+   "source": "中联重科",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": ""
+  },
+  {
    "title": "首台交付！中联重科超大马力混动技术投入商业化应用",
    "url": "https://www.zoomlion.com/content/details18_34135.html",
    "source": "中联重科",
@@ -404,14 +412,6 @@
   {
    "title": "“世纪工程”平陆运河建成通航，中联重科定制化装备硬核护航",
    "url": "https://www.zoomlion.com/content/details18_34123.html",
-   "source": "中联重科",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": ""
-  },
-  {
-   "title": "中联重科2026年金融峰会圆满举行，3亿美元信用保险保单成功落地",
-   "url": "https://www.zoomlion.com/content/details18_34116.html",
    "source": "中联重科",
    "tag": "行业",
    "tag_class": "tag-news",
