@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-30 11:29",
+ "updated": "2026-09-30 12:05",
  "items": [
   {
    "title": "湖南2026年第三批农机补贴投档工作提示",
@@ -98,38 +98,6 @@
    "date": "2026-09-28"
   },
   {
-   "title": "2026年第38周瘦肉型白条猪肉出厂价格监测周报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84204",
-   "source": "农业农村部价格指数",
-   "date": "2026-09-19",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "2026年第37周瘦肉型白条猪肉出厂价格监测周报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84194",
-   "source": "农业农村部价格指数",
-   "date": "2026-09-13",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "2026年8月瘦肉型白条猪肉出厂价格监测月报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84193",
-   "source": "农业农村部价格指数",
-   "date": "2026-09-10",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "2026年第36周瘦肉型白条猪肉出厂价格监测周报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84195",
-   "source": "农业农村部价格指数",
-   "date": "2026-09-06",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
    "title": "国家粮食和物资储备局召开全系统安全生产视频会议",
    "url": "https://www.lswz.gov.cn/html/xinwen/2026-09/29/content_295476.shtml",
    "source": "国家粮食局",
@@ -154,7 +122,31 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Farm-ING 将点喷机做得更小",
+   "title": "2026年全国秋粮收购工作会议在四川召开",
+   "url": "https://www.lswz.gov.cn/html/xinwen/2026-09/16/content_295235.shtml",
+   "source": "国家粮食局",
+   "date": "2026-09-16",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "国家粮食和物资储备局召开垂管系统安全生产视频会议",
+   "url": "https://www.lswz.gov.cn/html/xinwen/2026-09/16/content_295221.shtml",
+   "source": "国家粮食局",
+   "date": "2026-09-16",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "刘焕鑫赴四川调研粮食和物资储备工作",
+   "url": "https://www.lswz.gov.cn/html/xinwen/2026-09/15/content_295204.shtml",
+   "source": "国家粮食局",
+   "date": "2026-09-15",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "Farm-ING 将点喷机小型化",
    "url": "https://www.futurefarming.com/smart-farming/farm-ing-makes-spot-sprayer-smaller/",
    "source": "FutureFarming",
    "date": "2026-09-29",
@@ -162,7 +154,7 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "Greenfield Robotics 在田间深耕6年后启动公开募股",
+   "title": "Greenfield Robotics 在田间耕耘6年后公开募股",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/greenfield-robotics-opens-public-share-offering-after-6-years-in-the-field/",
    "source": "FutureFarming",
    "date": "2026-09-29",
@@ -170,7 +162,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "Coggan农场：自主喷洒减少85%化学品使用",
+   "title": "Coggan Farms采用自主喷洒，化学品使用减少85%",
    "url": "https://www.futurefarming.com/smart-farming/autonomous-spraying-cuts-chemical-use-by-85-at-coggan-farms/",
    "source": "FutureFarming",
    "date": "2026-09-28",
@@ -186,7 +178,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "让你的销售团队备战生物制剂战场",
+   "title": "为生物制剂战场准备你的销售团队",
    "url": "https://www.agribusinessglobal.com/biologicals/preparing-your-sales-team-for-the-biologicals-battlefield/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-28",
@@ -202,7 +194,7 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "领先企业如何在全球农业产业中前行",
+   "title": "领先企业如何在全球农业综合企业中前行",
    "url": "https://www.agribusinessglobal.com/agrochemicals/how-leading-companies-move-forward-in-global-agribusiness/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-25",
@@ -210,7 +202,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "ADM 第四届年度再生农业报告凸显粮食系统韧性不断增强",
+   "title": "ADM第四届年度再生农业报告强调整个食品系统日益增强的韧性",
    "url": "https://www.agribusinessglobal.com/sustainability/adms-fourth-annual-regenerative-agriculture-report-highlights-growing-resilience-across-the-food-system/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-25",
@@ -448,6 +440,14 @@
    "tag": "行业",
    "tag_class": "tag-news",
    "date": "2026-09-14"
+  },
+  {
+   "title": "中国一拖出海授旗仪式吹响国际化冲锋号",
+   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202609/t20260908_653506.html",
+   "source": "一拖东方红",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-09-08"
   }
  ]
 }
