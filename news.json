@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-01 00:06",
+ "updated": "2026-10-01 16:26",
  "items": [
   {
    "title": "青岛农机“优机优补”一览表第二批通告",
@@ -154,39 +154,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Farm-ING推出更小型定点喷雾器",
-   "url": "https://www.futurefarming.com/smart-farming/farm-ing-makes-spot-sprayer-smaller/",
-   "source": "FutureFarming",
-   "date": "2026-09-29",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "Greenfield Robotics在田间耕耘6年后启动公开募股",
-   "url": "https://www.futurefarming.com/tech-in-focus/field-robots/greenfield-robotics-opens-public-share-offering-after-6-years-in-the-field/",
-   "source": "FutureFarming",
-   "date": "2026-09-29",
-   "tag": "技术",
-   "tag_class": "tag-tech"
-  },
-  {
-   "title": "自主喷雾在Coggan Farms减少85%化学品使用",
-   "url": "https://www.futurefarming.com/smart-farming/autonomous-spraying-cuts-chemical-use-by-85-at-coggan-farms/",
-   "source": "FutureFarming",
-   "date": "2026-09-28",
-   "tag": "技术",
-   "tag_class": "tag-tech"
-  },
-  {
-   "title": "信任是采用新技术的基础",
-   "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semiauto-steering/autonomous-vehicles/trust-is-the-basis-for-adopting-new-technology/",
-   "source": "FutureFarming",
-   "date": "2026-09-23",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "让你的销售团队为生物制剂战场做好准备",
+   "title": "为生物制剂战场做好准备：打造你的销售团队",
    "url": "https://www.agribusinessglobal.com/biologicals/preparing-your-sales-team-for-the-biologicals-battlefield/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-28",
@@ -210,7 +178,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "ADM第四届年度再生农业报告强调食品系统韧性不断增强",
+   "title": "ADM 第四份年度再生农业报告：彰显食品系统日益增强的韧性",
    "url": "https://www.agribusinessglobal.com/sustainability/adms-fourth-annual-regenerative-agriculture-report-highlights-growing-resilience-across-the-food-system/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-25",
@@ -448,6 +416,38 @@
    "tag": "行业",
    "tag_class": "tag-news",
    "date": "2026-09-14"
+  },
+  {
+   "title": "中国一拖出海授旗仪式吹响国际化冲锋号",
+   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202609/t20260908_653506.html",
+   "source": "一拖东方红",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-09-08"
+  },
+  {
+   "title": "『东方红硬核装备护航粮仓』高端智能大马力拖拉机田间日启幕",
+   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202608/t20260827_651978.html",
+   "source": "一拖东方红",
+   "tag": "技术",
+   "tag_class": "tag-tech",
+   "date": "2026-08-27"
+  },
+  {
+   "title": "农时贵如金，服务伴田间 | 沃得三秋作业提示及服务指南",
+   "url": "http://www.worldnyjx.com/index.php?m=content&c=index&a=show&catid=126&id=588",
+   "source": "沃得",
+   "date": "2026-09-28",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "丘陵农机化如何破题？沃得农机亮相2026丘陵山区农业机械展览会",
+   "url": "http://www.worldnyjx.com/index.php?m=content&c=index&a=show&catid=126&id=586",
+   "source": "沃得",
+   "date": "2026-09-24",
+   "tag": "市场",
+   "tag_class": "tag-data"
   }
  ]
 }
