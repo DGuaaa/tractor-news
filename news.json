@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-02 12:04",
+ "updated": "2026-10-02 18:02",
  "items": [
   {
    "title": "青岛农机“优机优补”一览表第二批通告",
@@ -98,34 +98,34 @@
    "date": "2026-09-23"
   },
   {
-   "title": "9月30日：“农产品批发价格200指数”比昨天上升0.04个点。",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84215",
+   "title": "2026年第38周瘦肉型白条猪肉出厂价格监测周报",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84204",
    "source": "农业农村部价格指数",
-   "date": "2026-09-29",
+   "date": "2026-09-19",
    "tag": "市场",
    "tag_class": "tag-data"
   },
   {
-   "title": "9月29日：“农产品批发价格200指数”比昨天下降0.48个点。",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84214",
+   "title": "2026年第37周瘦肉型白条猪肉出厂价格监测周报",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84194",
    "source": "农业农村部价格指数",
-   "date": "2026-09-28",
+   "date": "2026-09-13",
    "tag": "市场",
    "tag_class": "tag-data"
   },
   {
-   "title": "9月28日：“农产品批发价格200指数”比节前下降0.17个点。",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84212",
+   "title": "2026年8月瘦肉型白条猪肉出厂价格监测月报",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84193",
    "source": "农业农村部价格指数",
-   "date": "2026-09-27",
+   "date": "2026-09-10",
    "tag": "市场",
    "tag_class": "tag-data"
   },
   {
-   "title": "9月24日：“农产品批发价格200指数”比昨天下降0.36个点。",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84210",
+   "title": "2026年第36周瘦肉型白条猪肉出厂价格监测周报",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84195",
    "source": "农业农村部价格指数",
-   "date": "2026-09-23",
+   "date": "2026-09-06",
    "tag": "市场",
    "tag_class": "tag-data"
   },
@@ -154,7 +154,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Ecorobotix 草籽试验显示喷洒量减少 84%",
+   "title": "Ecorobotix 报告草种试验中喷雾量减少 84%",
    "url": "https://www.futurefarming.com/smart-farming/ecorobotix-reports-84-spray-volume-reduction-in-grass-seed-trial/",
    "source": "FutureFarming",
    "date": "2026-10-01",
@@ -170,7 +170,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "Farm-ING 推出更小巧的点喷机",
+   "title": "Farm-ING 将定点喷雾器做得更小",
    "url": "https://www.futurefarming.com/smart-farming/farm-ing-makes-spot-sprayer-smaller/",
    "source": "FutureFarming",
    "date": "2026-09-29",
@@ -178,7 +178,7 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "Greenfield Robotics 田间耕耘 6 年后启动公开募股",
+   "title": "Greenfield Robotics 在田间耕耘 6 年后启动公开募股",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/greenfield-robotics-opens-public-share-offering-after-6-years-in-the-field/",
    "source": "FutureFarming",
    "date": "2026-09-29",
@@ -186,7 +186,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "让你的销售团队备战生物制剂战场",
+   "title": "让你的销售团队为生物制剂战场做好准备",
    "url": "https://www.agribusinessglobal.com/biologicals/preparing-your-sales-team-for-the-biologicals-battlefield/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-28",
@@ -202,7 +202,7 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "领先企业如何在全球农业产业中破浪前行",
+   "title": "领先企业如何在全球农业综合企业中前行",
    "url": "https://www.agribusinessglobal.com/agrochemicals/how-leading-companies-move-forward-in-global-agribusiness/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-25",
@@ -210,7 +210,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "ADM 第四份年度再生农业报告：食品体系韧性持续增强",
+   "title": "ADM 第四份年度再生农业报告强调食品体系韧性不断增强",
    "url": "https://www.agribusinessglobal.com/sustainability/adms-fourth-annual-regenerative-agriculture-report-highlights-growing-resilience-across-the-food-system/",
    "source": "AgriBusinessGlobal",
    "date": "2026-09-25",
