@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05 18:02",
+ "updated": "2026-10-06 06:16",
  "items": [
   {
    "title": "青岛农机“优机优补”一览表第二批通告",
@@ -154,7 +154,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "二手机器人能否让小农户负担得起自主农业？",
+   "title": "二手机器人能否让小型种植者负担得起自主农业？",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/can-second-hand-robots-make-autonomous-farming-affordable-for-smaller-growers/",
    "source": "FutureFarming",
    "date": "2026-10-05",
@@ -162,7 +162,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "二手田间机器人是否值得投资？",
+   "title": "二手田间机器人是否是一项可行的投资？",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/is-a-second-hand-field-robot-a-viable-investment/",
    "source": "FutureFarming",
    "date": "2026-10-05",
@@ -170,23 +170,31 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "Ecorobotix报告草种试验中喷雾量减少84%",
-   "url": "https://www.futurefarming.com/smart-farming/ecorobotix-reports-84-spray-volume-reduction-in-grass-seed-trial/",
+   "title": "Bonsai Robotics利用AI模拟在部署前训练田间机器人",
+   "url": "https://www.futurefarming.com/tech-in-focus/field-robots/bonsai-robotics-uses-ai-simulation-to-train-field-robots-before-deployment/",
    "source": "FutureFarming",
-   "date": "2026-10-01",
+   "date": "2026-10-04",
    "tag": "技术",
    "tag_class": "tag-tech"
   },
   {
-   "title": "未来农业五问：自主除草教会了Kilter什么？",
-   "url": "https://www.futurefarming.com/smart-farming/future-farming-five-what-autonomous-weeding-taught-kilter/",
+   "title": "RMH正在研发自主电动喂养机器人",
+   "url": "https://www.futurefarming.com/smart-farmers/rmh-is-working-on-autonomous-electric-feeding-robot/",
    "source": "FutureFarming",
-   "date": "2026-10-01",
+   "date": "2026-10-04",
    "tag": "技术",
    "tag_class": "tag-tech"
   },
   {
-   "title": "AgriBusiness Global报告：如何通过收购扩大规模并优先考虑种植者",
+   "title": "追求卓越：Tagros Chemicals的先发制人策略与市场扩张敏捷性",
+   "url": "https://www.agribusinessglobal.com/agrochemicals/in-pursuit-of-excellence-tagros-chemicals-preemptive-strategies-and-agility-for-market-expansion/",
+   "source": "AgriBusinessGlobal",
+   "date": "2026-10-05",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "AgriBusiness全球报告：如何通过收购实现扩张并将种植者放在首位",
    "url": "https://www.agribusinessglobal.com/agribusiness-global-report/agribusiness-global-report-how-to-scale-through-acquisitions-and-put-growers-first/",
    "source": "AgriBusinessGlobal",
    "date": "2026-10-02",
@@ -194,7 +202,7 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "超越作物巡查：AI驱动的无人机如何重塑精准农业",
+   "title": "超越作物侦察：AI驱动的无人机如何重塑精准农业",
    "url": "https://www.agribusinessglobal.com/agtech/beyond-crop-scouting-how-ai-powered-drones-could-reshape-precision-agriculture/",
    "source": "AgriBusinessGlobal",
    "date": "2026-10-01",
@@ -208,14 +216,6 @@
    "date": "2026-10-01",
    "tag": "行业",
    "tag_class": "tag-news"
-  },
-  {
-   "title": "Switch Bioworks获得巴西批准，巩固其在工程化农业微生物领域的全球地位",
-   "url": "https://www.agribusinessglobal.com/plant-health/npk/switch-bioworks-secures-brazil-approval-strengthening-its-global-position-in-engineered-agricultural-microbes/",
-   "source": "AgriBusinessGlobal",
-   "date": "2026-09-30",
-   "tag": "技术",
-   "tag_class": "tag-tech"
   },
   {
    "title": "704拖拉机机型对比之常州东风 VS 沃得农机",
