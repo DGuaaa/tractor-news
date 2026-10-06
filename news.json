@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07 00:04",
+ "updated": "2026-10-07 06:03",
  "items": [
   {
    "title": "【目录】《青岛市农机购置与应用补贴“优机优补”一览表（第二批）》的通告",
@@ -146,7 +146,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Agrifac展示混合动力喷雾机原型",
+   "title": "Agrifac展示原型混合动力喷雾机",
    "url": "https://www.futurefarming.com/smart-farming/agrifac-shows-prototype-hybrid-sprayer/",
    "source": "FutureFarming",
    "date": "2026-10-06",
@@ -154,7 +154,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "FIRA USA 2026将为太平洋西北种植者挑战提供技术解决方案",
+   "title": "FIRA USA 2026将为太平洋西北种植者的挑战提供技术解决方案",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/fira-usa-2026-to-provide-technological-answers-to-pacific-northwest-growers-challenges/",
    "source": "FutureFarming",
    "date": "2026-10-06",
@@ -178,7 +178,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "追求卓越：Tagros Chemicals的先发策略与市场扩张敏捷性",
+   "title": "追求卓越：Tagros Chemicals的市场扩张先发策略与敏捷性",
    "url": "https://www.agribusinessglobal.com/agrochemicals/in-pursuit-of-excellence-tagros-chemicals-preemptive-strategies-and-agility-for-market-expansion/",
    "source": "AgriBusinessGlobal",
    "date": "2026-10-05",
@@ -194,7 +194,7 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "超越作物巡查：AI驱动的无人机如何重塑精准农业",
+   "title": "超越作物侦察：AI驱动的无人机如何重塑精准农业",
    "url": "https://www.agribusinessglobal.com/agtech/beyond-crop-scouting-how-ai-powered-drones-could-reshape-precision-agriculture/",
    "source": "AgriBusinessGlobal",
    "date": "2026-10-01",
@@ -314,28 +314,28 @@
    "date": "2026-09-28"
   },
   {
-   "title": "七部门重磅发文，农机电动化被点名！",
-   "url": "https://www.nongjitong.com/news/2026/534156.html",
-   "source": "农机通",
-   "tag": "技术",
-   "tag_class": "tag-tech",
-   "date": "2026-09-29"
-  },
-  {
-   "title": "良机入列——从9月29日国新办发布会看农机行业的“十五五”坐标",
-   "url": "https://www.nongjitong.com/news/2026/534157.html",
-   "source": "农机通",
+   "title": "农机企业家峰会赴欧考察圆满成功",
+   "url": "http://www.caamm.org.cn/zfzc/4683.htm",
+   "source": "农机工业协会",
    "tag": "行业",
    "tag_class": "tag-news",
-   "date": "2026-09-29"
+   "date": "2026-09-16"
   },
   {
-   "title": "混动拖拉机到底香不香？",
-   "url": "https://www.nongjitong.com/news/2026/534105.html",
-   "source": "农机通",
-   "tag": "技术",
-   "tag_class": "tag-tech",
-   "date": "2026-09-15"
+   "title": "2026全国农业机械展览会在河南..",
+   "url": "http://www.caamm.org.cn/zfzc/4554.htm",
+   "source": "农机工业协会",
+   "tag": "市场",
+   "tag_class": "tag-data",
+   "date": "2026-03-28"
+  },
+  {
+   "title": "2026中国农机企业家峰会年会在..",
+   "url": "http://www.caamm.org.cn/zfzc/4510.htm",
+   "source": "农机工业协会",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-01-15"
   },
   {
    "title": "赋能“黑土粮仓” 潍柴雷沃智慧农业亮相黑龙江国际农机展",
