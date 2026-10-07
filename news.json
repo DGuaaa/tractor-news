@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07 12:03",
+ "updated": "2026-10-07 18:04",
  "items": [
   {
    "title": "【目录】《青岛市农机购置与应用补贴“优机优补”一览表（第二批）》的通告",
@@ -90,38 +90,6 @@
    "date": "2026-09-30"
   },
   {
-   "title": "2026年第38周瘦肉型白条猪肉出厂价格监测周报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84204",
-   "source": "农业农村部价格指数",
-   "date": "2026-09-19",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "2026年第37周瘦肉型白条猪肉出厂价格监测周报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84194",
-   "source": "农业农村部价格指数",
-   "date": "2026-09-13",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "2026年8月瘦肉型白条猪肉出厂价格监测月报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84193",
-   "source": "农业农村部价格指数",
-   "date": "2026-09-10",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "2026年第36周瘦肉型白条猪肉出厂价格监测周报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84195",
-   "source": "农业农村部价格指数",
-   "date": "2026-09-06",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
    "title": "国家粮食和物资储备局举行升国旗仪式庆祝中华人民共和国成立77周年",
    "url": "https://www.lswz.gov.cn/html/xinwen/2026-09/30/content_295526.shtml",
    "source": "国家粮食局",
@@ -146,7 +114,39 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Agrifac展示混合动力喷雾机原型",
+   "title": "国家粮食和物资储备局视频调度安全生产工作",
+   "url": "https://www.lswz.gov.cn/html/xinwen/2026-09/24/content_295421.shtml",
+   "source": "国家粮食局",
+   "date": "2026-09-24",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "国家粮食和物资储备局召开博士人才座谈会",
+   "url": "https://www.lswz.gov.cn/html/xinwen/2026-09/17/content_295313.shtml",
+   "source": "国家粮食局",
+   "date": "2026-09-17",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "2026年全国秋粮收购工作会议在四川召开",
+   "url": "https://www.lswz.gov.cn/html/xinwen/2026-09/16/content_295235.shtml",
+   "source": "国家粮食局",
+   "date": "2026-09-16",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "Croptimal 推出用于种薯生产的悬挂式选种机器人",
+   "url": "https://www.futurefarming.com/tech-in-focus/field-robots/croptimal-launches-mounted-selection-robot-for-seed-potato-production/",
+   "source": "FutureFarming",
+   "date": "2026-10-07",
+   "tag": "技术",
+   "tag_class": "tag-tech"
+  },
+  {
+   "title": "Agrifac 展示混合动力喷雾机原型",
    "url": "https://www.futurefarming.com/smart-farming/agrifac-shows-prototype-hybrid-sprayer/",
    "source": "FutureFarming",
    "date": "2026-10-06",
@@ -154,7 +154,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "FIRA USA 2026将为太平洋西北地区种植者的挑战提供技术解决方案",
+   "title": "FIRA USA 2026 将为太平洋西北地区种植者的挑战提供技术方案",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/fira-usa-2026-to-provide-technological-answers-to-pacific-northwest-growers-challenges/",
    "source": "FutureFarming",
    "date": "2026-10-06",
@@ -170,15 +170,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "二手田间机器人是可行的投资吗？",
-   "url": "https://www.futurefarming.com/tech-in-focus/field-robots/is-a-second-hand-field-robot-a-viable-investment/",
-   "source": "FutureFarming",
-   "date": "2026-10-05",
-   "tag": "技术",
-   "tag_class": "tag-tech"
-  },
-  {
-   "title": "追求卓越：Tagros Chemicals以先发策略和敏捷性拓展市场",
+   "title": "追求卓越：Tagros Chemicals 的市场扩张先发策略与敏捷性",
    "url": "https://www.agribusinessglobal.com/agrochemicals/in-pursuit-of-excellence-tagros-chemicals-preemptive-strategies-and-agility-for-market-expansion/",
    "source": "AgriBusinessGlobal",
    "date": "2026-10-05",
@@ -186,7 +178,7 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "AgriBusiness Global报告：如何通过收购扩张并将种植者放在首位",
+   "title": "AgriBusiness Global 报告：如何通过收购实现扩张并将种植者放在首位",
    "url": "https://www.agribusinessglobal.com/agribusiness-global-report/agribusiness-global-report-how-to-scale-through-acquisitions-and-put-growers-first/",
    "source": "AgriBusinessGlobal",
    "date": "2026-10-02",
@@ -194,7 +186,7 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "超越作物巡查：AI无人机如何重塑精准农业",
+   "title": "超越作物巡查：AI 无人机如何重塑精准农业",
    "url": "https://www.agribusinessglobal.com/agtech/beyond-crop-scouting-how-ai-powered-drones-could-reshape-precision-agriculture/",
    "source": "AgriBusinessGlobal",
    "date": "2026-10-01",
@@ -202,7 +194,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "ADAMA在澳大利亚和新西兰推出植物源杀菌剂Actavan",
+   "title": "ADAMA 在澳大利亚和新西兰推出植物源杀菌剂 Actavan",
    "url": "https://www.agribusinessglobal.com/agrochemicals/fungicides/adama-launches-botanical-fungicide-actavan-in-australia-and-new-zealand/",
    "source": "AgriBusinessGlobal",
    "date": "2026-10-01",
@@ -210,8 +202,8 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "华为问界的神话，能在农机行业复刻吗？",
-   "url": "https://news.nongji360.com/html/2026/09/274393.shtml",
+   "title": "1004拖拉机机型对比之潍柴雷沃 VS 沃得农机",
+   "url": "https://news.nongji360.com/report/view/1130",
    "source": "农机360",
    "tag": "行业",
    "tag_class": "tag-news",
@@ -448,6 +440,14 @@
    "tag": "行业",
    "tag_class": "tag-news",
    "date": "2026-09-08"
+  },
+  {
+   "title": "『东方红硬核装备护航粮仓』高端智能大马力拖拉机田间日启幕",
+   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202608/t20260827_651978.html",
+   "source": "一拖东方红",
+   "tag": "技术",
+   "tag_class": "tag-tech",
+   "date": "2026-08-27"
   }
  ]
 }
