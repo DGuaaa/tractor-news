@@ -1,17 +1,9 @@
 {
- "updated": "2026-10-09 18:03",
+ "updated": "2026-10-10 09:57",
  "items": [
   {
-   "title": "山东省2026年第二批农机补贴产品审核情况公示",
+   "title": "山东2026年第二批农机补贴产品公示",
    "url": "https://news.nongji360.com/html/2026/10/274419.shtml",
-   "source": "农机360",
-   "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-10-09"
-  },
-  {
-   "title": "海南2026年第三批农机补贴产品通告",
-   "url": "https://news.nongji360.com/html/2026/10/274417.shtml",
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
@@ -26,12 +18,12 @@
    "date": "2026-10-09"
   },
   {
-   "title": "甘肃2026年第四批农机补贴产品审核",
-   "url": "https://news.nongji360.com/html/2026/10/274414.shtml",
+   "title": "【归档】辽宁省明确2026年农机购置与应用补贴产品第四批自主投档截止时间的通知",
+   "url": "https://news.nongji360.com/html/2026/10/274421.shtml",
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
-   "date": "2026-10-08"
+   "date": "2026-10-09"
   },
   {
    "title": "【归档】山东省2026年第二批农机购置与应用补贴产品审核情况的公示",
@@ -90,20 +82,108 @@
    "date": "2026-10-08"
   },
   {
-   "title": "【鉴定】贵州省农业机械质量鉴定站",
-   "url": "https://news.nongji360.com/html/2026/10/274412.shtml",
+   "title": "【汇总】各省2024-2026年农机补贴政策通知相关汇总",
+   "url": "https://news.nongji360.com/html/2025/09/271215.shtml",
+   "source": "农机360",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": "2025-09-02"
+  },
+  {
+   "title": "【违规】浙江省对杭州丰惠农业装备科技有限公司违规经营行为处理的通知",
+   "url": "https://news.nongji360.com/html/2026/10/274403.shtml",
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
    "date": "2026-10-08"
   },
   {
-   "title": "【归档】江苏省开展2026年北斗农用智能终端田（场）间试验验证工作的公告",
-   "url": "https://news.nongji360.com/html/2026/10/274409.shtml",
+   "title": "2026年第38周瘦肉型白条猪肉出厂价格监测周报",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84204",
+   "source": "农业农村部价格指数",
+   "date": "2026-09-19",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "2026年第37周瘦肉型白条猪肉出厂价格监测周报",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84194",
+   "source": "农业农村部价格指数",
+   "date": "2026-09-13",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "2026年8月瘦肉型白条猪肉出厂价格监测月报",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84193",
+   "source": "农业农村部价格指数",
+   "date": "2026-09-10",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "2026年第36周瘦肉型白条猪肉出厂价格监测周报",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84195",
+   "source": "农业农村部价格指数",
+   "date": "2026-09-06",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "农业科技对话播客：PTx谈精准农业改装、定向喷洒与自动化",
+   "url": "https://www.agribusinessglobal.com/abg-update-feature/ag-tech-talk-podcast-ptx-on-precision-ag-retrofits-targeted-spraying-and-autonomy/",
+   "source": "AgriBusinessGlobal",
+   "date": "2026-10-08",
+   "tag": "技术",
+   "tag_class": "tag-tech"
+  },
+  {
+   "title": "CAST评选前美国农业部首席经济学家约瑟夫·格劳伯博士为2026年CAST终身成就奖得主",
+   "url": "https://www.agribusinessglobal.com/markets/americas/cast-names-former-usda-chief-economist-dr-joseph-glauber-2026-recipient-of-the-cast-lifetime-achievement-award/",
+   "source": "AgriBusinessGlobal",
+   "date": "2026-10-07",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "巴西：Symbiomics与Valeouro建立战略合作伙伴关系，推进生物制剂领域的基因编辑",
+   "url": "https://www.agribusinessglobal.com/biopesticides/brazil-symbiomics-and-valeouro-forge-strategic-partnership-to-advance-genome-editing-in-the-biologicals-sector/",
+   "source": "AgriBusinessGlobal",
+   "date": "2026-10-07",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "巴斯夫与邦吉建立合作，推进InVigor Gold油菜籽上市",
+   "url": "https://www.agribusinessglobal.com/agrochemicals/seeds-traits/basf-forms-partnership-with-bunge-to-advance-invigor-gold-canola-launch/",
+   "source": "AgriBusinessGlobal",
+   "date": "2026-10-07",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "甘肃省补短板高端智能拖拉机第二批审核通过产品公示",
+   "url": "https://news.nongji360.com/html/2026/10/274422.shtml",
    "source": "农机360",
    "tag": "技术",
    "tag_class": "tag-tech",
-   "date": "2026-10-08"
+   "date": "2026-10-09"
+  },
+  {
+   "title": "辽宁明确2026年第四批投档截止时间",
+   "url": "https://news.nongji360.com/html/2026/10/274421.shtml",
+   "source": "农机360",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-10-09"
+  },
+  {
+   "title": "【归档】甘肃省补短板200马力及以上无级变速高端智能拖拉机第二批审核通过产品情况的公示",
+   "url": "https://news.nongji360.com/html/2026/10/274422.shtml",
+   "source": "农机360",
+   "tag": "技术",
+   "tag_class": "tag-tech",
+   "date": "2026-10-09"
   },
   {
    "title": "农机智能化：中小农机企业的“弯道超车”入场券 ——从乘用车跨界经验看农机智能化的路径分化与破局",
@@ -122,7 +202,15 @@
    "date": "2026-09-30"
   },
   {
-   "title": "七部门重磅发文，农机电动化被点名！",
+   "title": "国产采棉机的下一场竞争！",
+   "url": "https://www.nongjitong.com/news/2026/534203.html",
+   "source": "农机通",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-10-09"
+  },
+  {
+   "title": "七部门重磅发文，农机电动化被点名！专用电池、标准共建都来了",
    "url": "https://www.nongjitong.com/news/2026/534156.html",
    "source": "农机通",
    "tag": "技术",
@@ -146,12 +234,52 @@
    "date": "2026-09-15"
   },
   {
-   "title": "奥地博田中国十周年暨新厂房启用，以长期主义开启本土化新篇",
-   "url": "https://www.nongjitong.com/news/2026/534134.html",
+   "title": "江西省财政厅办公室关于调整部分农机购置与应用补贴机具补贴额的通知",
+   "url": "https://www.nongjitong.com/news/2026/534192.html",
+   "source": "农机通",
+   "tag": "市场",
+   "tag_class": "tag-data",
+   "date": "2026-10-08"
+  },
+  {
+   "title": "熬过满心糟心，终遇顺邦！",
+   "url": "https://www.nongjitong.com/news/2026/534190.html",
    "source": "农机通",
    "tag": "行业",
    "tag_class": "tag-news",
-   "date": "2026-09-24"
+   "date": "2026-10-08"
+  },
+  {
+   "title": "CH2802-C无人驾驶履带拖拉机研发与集成应用项目通过验收",
+   "url": "https://www.nongjitong.com/news/2026/534196.html",
+   "source": "农机通",
+   "tag": "技术",
+   "tag_class": "tag-tech",
+   "date": "2026-10-08"
+  },
+  {
+   "title": "顺邦农机全速发车 护航秸秆秋收作业季",
+   "url": "https://www.nongjitong.com/news/2026/534186.html",
+   "source": "农机通",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-10-08"
+  },
+  {
+   "title": "时风集团1-9月国际贸易突破1亿美元 同比增长50% 高质量出海交出亮眼答卷",
+   "url": "https://www.nongjitong.com/news/2026/534197.html",
+   "source": "农机通",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-10-04"
+  },
+  {
+   "title": "政策红利与市场验证“双向奔赴”：临工混动拖拉机破局",
+   "url": "https://www.nongjitong.com/news/2026/534158.html",
+   "source": "农机通",
+   "tag": "技术",
+   "tag_class": "tag-tech",
+   "date": "2026-09-29"
   },
   {
    "title": "雷沃拖拉机 东北主粮区明星产品强势来袭",
@@ -160,70 +288,6 @@
    "tag": "行业",
    "tag_class": "tag-news",
    "date": "2026-09-29"
-  },
-  {
-   "title": "中联重科DX6004混合动力拖拉机在开封工业园正式下线",
-   "url": "https://www.nongjitong.com/news/2026/534154.html",
-   "source": "农机通",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-09-28"
-  },
-  {
-   "title": "东方红LW4504拖拉机亮相中国农民丰收节",
-   "url": "https://www.nongjitong.com/news/2026/534153.html",
-   "source": "农机通",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-09-28"
-  },
-  {
-   "title": "五机齐发！钵施然乌兹别克斯坦伟农公司32000亩棉花正式开采",
-   "url": "https://www.nongjitong.com/news/2026/534127.html",
-   "source": "农机通",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-09-23"
-  },
-  {
-   "title": "全球最大马力轮式拖拉机首台交付！中联重科超大马力混动技术投入商业化应用",
-   "url": "https://www.nongjitong.com/news/2026/534124.html",
-   "source": "农机通",
-   "tag": "技术",
-   "tag_class": "tag-tech",
-   "date": "2026-09-20"
-  },
-  {
-   "title": "喜报！中国一拖QC小组成果斩获一等奖",
-   "url": "https://www.nongjitong.com/news/2026/534116.html",
-   "source": "农机通",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-09-18"
-  },
-  {
-   "title": "首赴龙江 智驭黑土｜钵施然邀您共聚2026黑龙江国际农业机械展览会",
-   "url": "https://www.nongjitong.com/news/2026/534115.html",
-   "source": "农机通",
-   "tag": "市场",
-   "tag_class": "tag-data",
-   "date": "2026-09-18"
-  },
-  {
-   "title": "“机器几乎不坏，你找人家干啥？”赵景帅8年只选顺邦的底气",
-   "url": "https://www.nongjitong.com/news/2026/534114.html",
-   "source": "农机通",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-09-17"
-  },
-  {
-   "title": "农业农村部召开干部大会强调 深入学习贯彻习近平总书记重要讲话和全国两会精神 扎实做好乡村全面振兴各项工作",
-   "url": "http://www.njhs.moa.gov.cn/gzdt/202603/t20260317_6482294.htm",
-   "source": "农业农村部农机化司",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-03-17"
   },
   {
    "title": "赋能“黑土粮仓” 潍柴雷沃智慧农业亮相黑龙江国际农机展",
