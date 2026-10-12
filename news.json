@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12 18:03",
+ "updated": "2026-10-13 00:02",
  "items": [
   {
    "title": "上半年农机补贴资金162.5亿落地，谁是真正的受益赛道？",
@@ -98,7 +98,55 @@
    "date": "2026-10-10"
   },
   {
-   "title": "久保田与 Kilter 扩大 AX-1 机器人欧洲分销",
+   "title": "全国粮食和物资储备系统“双先”事迹宣讲活动在京举办",
+   "url": "https://www.lswz.gov.cn/html/xinwen/2026-10/10/content_295581.shtml",
+   "source": "国家粮食局",
+   "date": "2026-10-10",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "国家粮食和物资储备局举行升国旗仪式庆祝中华人民共和国成立77周年",
+   "url": "https://www.lswz.gov.cn/html/xinwen/2026-09/30/content_295526.shtml",
+   "source": "国家粮食局",
+   "date": "2026-09-30",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "刘焕鑫出席国新办新闻发布会介绍守住管好“大国粮仓”、保障国家粮食安全有关情况",
+   "url": "https://www.lswz.gov.cn/html/xinwen/2026-09/22/content_295497.shtml",
+   "source": "国家粮食局",
+   "date": "2026-09-22",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "国家粮食和物资储备局召开全系统安全生产视频会议",
+   "url": "https://www.lswz.gov.cn/html/xinwen/2026-09/29/content_295476.shtml",
+   "source": "国家粮食局",
+   "date": "2026-09-29",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "国家粮食和物资储备局视频调度安全生产工作",
+   "url": "https://www.lswz.gov.cn/html/xinwen/2026-09/24/content_295421.shtml",
+   "source": "国家粮食局",
+   "date": "2026-09-24",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "国家粮食和物资储备局召开博士人才座谈会",
+   "url": "https://www.lswz.gov.cn/html/xinwen/2026-09/17/content_295313.shtml",
+   "source": "国家粮食局",
+   "date": "2026-09-17",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "久保田与Kilter在欧洲扩大AX-1机器人分销",
    "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semiauto-steering/autonomous-vehicles/kubota-and-kilter-expand-ax-1-robot-distribution-across-europe/",
    "source": "FutureFarming",
    "date": "2026-10-09",
@@ -106,7 +154,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "用户评测：SwarmBot 5 在澳洲农场运行 7500 小时后表现优异",
+   "title": "用户评测：SwarmBot 5在澳大利亚农场运行7500小时后获得好评",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/user-review-swarmbot-5-scores-well-after-7-500-hours-on-australian-farm/",
    "source": "FutureFarming",
    "date": "2026-10-08",
@@ -114,7 +162,7 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "Vermeer Bale Hawk 24 小时测试收集 257 个草捆",
+   "title": "威猛Bale Hawk在24小时测试中收集257捆",
    "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semiauto-steering/autonomous-vehicles/vermeer-bale-hawk-collects-257-bales-in-24-hour-test/",
    "source": "FutureFarming",
    "date": "2026-10-08",
@@ -122,7 +170,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Croptimal 推出用于种薯生产的悬挂式选种机器人",
+   "title": "Croptimal推出用于种薯生产的悬挂式选种机器人",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/croptimal-launches-mounted-selection-robot-for-seed-potato-production/",
    "source": "FutureFarming",
    "date": "2026-10-07",
@@ -130,7 +178,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "AgriBusiness Global 报告：生物市场趋势、巴西热潮与采用洞察",
+   "title": "AgriBusiness全球报告：生物市场趋势、巴西的繁荣与采用洞察",
    "url": "https://www.agribusinessglobal.com/biologicals/agribusiness-global-report-biological-market-trends-brazils-boom-and-adoption-insights/",
    "source": "AgriBusinessGlobal",
    "date": "2026-10-09",
@@ -138,7 +186,7 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "Indofil 在巴西推出 Curatis，推进大豆作物保护",
+   "title": "Indofil在巴西推出Curatis，推进大豆作物保护",
    "url": "https://www.agribusinessglobal.com/agrochemicals/indofil-launches-curatis-in-brazil-advancing-soybean-crop-protection/",
    "source": "AgriBusinessGlobal",
    "date": "2026-10-09",
@@ -146,7 +194,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Ag Tech Talk 播客：PTx 谈精准农业改装、定向喷洒与自动化",
+   "title": "Ag Tech Talk播客：PTx谈精准农业改装、靶向喷洒与自主性",
    "url": "https://www.agribusinessglobal.com/abg-update-feature/ag-tech-talk-podcast-ptx-on-precision-ag-retrofits-targeted-spraying-and-autonomy/",
    "source": "AgriBusinessGlobal",
    "date": "2026-10-08",
@@ -154,7 +202,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "CAST 授予前 USDA 首席经济学家 Joseph Glauber 博士 2026 年终身成就奖",
+   "title": "CAST将前美国农业部首席经济学家约瑟夫·格劳伯博士评为2026年CAST终身成就奖得主",
    "url": "https://www.agribusinessglobal.com/markets/americas/cast-names-former-usda-chief-economist-dr-joseph-glauber-2026-recipient-of-the-cast-lifetime-achievement-award/",
    "source": "AgriBusinessGlobal",
    "date": "2026-10-07",
