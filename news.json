@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14 00:02",
+ "updated": "2026-10-14 13:02",
  "items": [
   {
    "title": "宁夏2026年第四批农机补贴产品公示",
@@ -162,7 +162,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "UV-C 光用于防治百合灰霉病",
+   "title": "UV-C光用于防治百合灰霉病",
    "url": "https://www.futurefarming.com/smart-farming/uv-c-light-in-the-fight-against-botrytis-in-lilies/",
    "source": "FutureFarming",
    "date": "2026-10-12",
@@ -170,7 +170,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "久保田与 Kilter 扩大 AX-1 机器人在欧洲的分销",
+   "title": "久保田与Kilter扩大AX-1机器人在欧洲的分销",
    "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semiauto-steering/autonomous-vehicles/kubota-and-kilter-expand-ax-1-robot-distribution-across-europe/",
    "source": "FutureFarming",
    "date": "2026-10-09",
@@ -178,7 +178,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "用户评价：SwarmBot 5 在澳大利亚农场运行 7500 小时后表现优异",
+   "title": "用户评测：SwarmBot 5在澳大利亚农场运行7500小时后表现优异",
    "url": "https://www.futurefarming.com/tech-in-focus/field-robots/user-review-swarmbot-5-scores-well-after-7-500-hours-on-australian-farm/",
    "source": "FutureFarming",
    "date": "2026-10-08",
@@ -186,7 +186,7 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "AgriBusiness Global 报告：生物市场趋势、巴西的繁荣与采用洞察",
+   "title": "AgriBusiness Global报告：生物制品市场趋势、巴西的繁荣与采用洞察",
    "url": "https://www.agribusinessglobal.com/biologicals/agribusiness-global-report-biological-market-trends-brazils-boom-and-adoption-insights/",
    "source": "AgriBusinessGlobal",
    "date": "2026-10-09",
@@ -194,7 +194,7 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "Indofil 在巴西推出 Curatis，推进大豆作物保护",
+   "title": "Indofil在巴西推出Curatis，推进大豆作物保护",
    "url": "https://www.agribusinessglobal.com/agrochemicals/indofil-launches-curatis-in-brazil-advancing-soybean-crop-protection/",
    "source": "AgriBusinessGlobal",
    "date": "2026-10-09",
@@ -202,7 +202,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Ag Tech Talk 播客：PTx 谈精准农业改装、靶向喷洒与自主性",
+   "title": "Ag Tech Talk播客：PTx谈精准农业改装、靶向喷洒与自动化",
    "url": "https://www.agribusinessglobal.com/abg-update-feature/ag-tech-talk-podcast-ptx-on-precision-ag-retrofits-targeted-spraying-and-autonomy/",
    "source": "AgriBusinessGlobal",
    "date": "2026-10-08",
@@ -210,7 +210,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "CAST 宣布前美国农业部首席经济学家 Joseph Glauber 博士为2026年 CAST 终身成就奖得主",
+   "title": "CAST评选前美国农业部首席经济学家Joseph Glauber博士为2026年CAST终身成就奖得主",
    "url": "https://www.agribusinessglobal.com/markets/americas/cast-names-former-usda-chief-economist-dr-joseph-glauber-2026-recipient-of-the-cast-lifetime-achievement-award/",
    "source": "AgriBusinessGlobal",
    "date": "2026-10-07",
@@ -234,36 +234,92 @@
    "date": "2026-10-13"
   },
   {
-   "title": "水稻机械化收获减损技术",
-   "url": "https://news.nongji360.com/html/2026/10/274443.shtml",
-   "source": "农机360",
+   "title": "国产采棉机的下一场竞争！",
+   "url": "https://www.nongjitong.com/news/2026/534203.html",
+   "source": "农机通",
    "tag": "行业",
    "tag_class": "tag-news",
-   "date": "2026-10-13"
+   "date": "2026-10-09"
   },
   {
-   "title": "一、确定适宜收获期一般来说，谷壳变黄、籽粒变硬、水分适宜、不易破碎时标志着水稻进入完熟期。水稻的蜡熟末期至完熟初期适宜机械化收",
-   "url": "https://news.nongji360.com/html/2026/10/274443.shtml",
-   "source": "农机360",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-10-13"
+   "title": "七部门重磅发文，农机电动化被点名！专用电池、标准共建都来了",
+   "url": "https://www.nongjitong.com/news/2026/534156.html",
+   "source": "农机通",
+   "tag": "技术",
+   "tag_class": "tag-tech",
+   "date": "2026-09-29"
   },
   {
-   "title": "全国农业科技工作会议强调：加快实现高水平农业科技自立自强等",
-   "url": "https://news.nongji360.com/html/2026/10/274431.shtml",
-   "source": "农机360",
+   "title": "良机入列——从9月29日国新办发布会看农机行业的“十五五”坐标",
+   "url": "https://www.nongjitong.com/news/2026/534157.html",
+   "source": "农机通",
    "tag": "行业",
    "tag_class": "tag-news",
-   "date": "2026-10-12"
+   "date": "2026-09-29"
   },
   {
-   "title": "10月10日，农业农村部在京召开全国农业科技工作会议。会议强调，要深入学习贯彻习近平总书记关于农业科技工作的重要讲话重要指示精神，",
-   "url": "https://news.nongji360.com/html/2026/10/274431.shtml",
-   "source": "农机360",
+   "title": "混动拖拉机到底香不香？",
+   "url": "https://www.nongjitong.com/news/2026/534105.html",
+   "source": "农机通",
+   "tag": "技术",
+   "tag_class": "tag-tech",
+   "date": "2026-09-15"
+  },
+  {
+   "title": "江西省财政厅办公室关于调整部分农机购置与应用补贴机具补贴额的通知",
+   "url": "https://www.nongjitong.com/news/2026/534192.html",
+   "source": "农机通",
+   "tag": "市场",
+   "tag_class": "tag-data",
+   "date": "2026-10-08"
+  },
+  {
+   "title": "熬过满心糟心，终遇顺邦！",
+   "url": "https://www.nongjitong.com/news/2026/534190.html",
+   "source": "农机通",
    "tag": "行业",
    "tag_class": "tag-news",
-   "date": "2026-10-12"
+   "date": "2026-10-08"
+  },
+  {
+   "title": "CH2802-C无人驾驶履带拖拉机研发与集成应用项目通过验收",
+   "url": "https://www.nongjitong.com/news/2026/534196.html",
+   "source": "农机通",
+   "tag": "技术",
+   "tag_class": "tag-tech",
+   "date": "2026-10-08"
+  },
+  {
+   "title": "顺邦农机全速发车 护航秸秆秋收作业季",
+   "url": "https://www.nongjitong.com/news/2026/534186.html",
+   "source": "农机通",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-10-08"
+  },
+  {
+   "title": "时风集团1-9月国际贸易突破1亿美元 同比增长50% 高质量出海交出亮眼答卷",
+   "url": "https://www.nongjitong.com/news/2026/534197.html",
+   "source": "农机通",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-10-04"
+  },
+  {
+   "title": "政策红利与市场验证“双向奔赴”：临工混动拖拉机破局",
+   "url": "https://www.nongjitong.com/news/2026/534158.html",
+   "source": "农机通",
+   "tag": "技术",
+   "tag_class": "tag-tech",
+   "date": "2026-09-29"
+  },
+  {
+   "title": "雷沃拖拉机 东北主粮区明星产品强势来袭",
+   "url": "https://www.nongjitong.com/news/2026/534155.html",
+   "source": "农机通",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-09-29"
   },
   {
    "title": "农业农村部召开干部大会强调 深入学习贯彻习近平总书记重要讲话和全国两会精神 扎实做好乡村全面振兴各项工作",
@@ -288,38 +344,6 @@
    "tag": "市场",
    "tag_class": "tag-data",
    "date": "2026-03-28"
-  },
-  {
-   "title": "2026中国农机企业家峰会年会在..",
-   "url": "http://www.caamm.org.cn/zfzc/4510.htm",
-   "source": "农机工业协会",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-01-15"
-  },
-  {
-   "title": "2025年全国农机工业工作会议暨..",
-   "url": "http://www.caamm.org.cn/zfzc/4482.htm",
-   "source": "农机工业协会",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2025-12-22"
-  },
-  {
-   "title": "中国农业机械工业团体标准工作..",
-   "url": "http://www.caamm.org.cn/zfzc/4457.htm",
-   "source": "农机工业协会",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2025-10-30"
-  },
-  {
-   "title": "中国农业机械工业协会低空经济..",
-   "url": "http://www.caamm.org.cn/zfzc/4456.htm",
-   "source": "农机工业协会",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2025-10-26"
   },
   {
    "title": "赋能“黑土粮仓” 潍柴雷沃智慧农业亮相黑龙江国际农机展",
@@ -424,30 +448,6 @@
    "tag": "行业",
    "tag_class": "tag-news",
    "date": "2026-09-14"
-  },
-  {
-   "title": "中国一拖召开2026年秋季服务动员会",
-   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202609/t20260914_654147.html",
-   "source": "一拖东方红",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-09-14"
-  },
-  {
-   "title": "中国一拖出海授旗仪式吹响国际化冲锋号",
-   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202609/t20260908_653506.html",
-   "source": "一拖东方红",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-09-08"
-  },
-  {
-   "title": "农时贵如金，服务伴田间 | 沃得三秋作业提示及服务指南",
-   "url": "http://www.worldnyjx.com/index.php?m=content&c=index&a=show&catid=126&id=588",
-   "source": "沃得",
-   "date": "2026-09-28",
-   "tag": "行业",
-   "tag_class": "tag-news"
   }
  ]
 }
