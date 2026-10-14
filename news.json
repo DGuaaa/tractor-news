@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14 13:02",
+ "updated": "2026-10-14 18:04",
  "items": [
   {
    "title": "宁夏2026年第四批农机补贴产品公示",
@@ -15,7 +15,7 @@
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
-   "date": "2026-10-12"
+   "date": "2026-10"
   },
   {
    "title": "山西2026年第二批农机补贴产品现场演示",
@@ -79,7 +79,7 @@
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
-   "date": "2026-10-10"
+   "date": "2026-10"
   },
   {
    "title": "【归档】河南省部分通过现场演示评价的农机购置与应用补贴机具归档的公告",
@@ -154,7 +154,15 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Hardi 供应新型自动喷杆稳定系统",
+   "title": "智能播种配备传感器：Agrisem Chief 在种沟中测量",
+   "url": "https://www.futurefarming.com/smart-farming/smart-drilling-with-sensors-agrisem-chief-measures-in-the-seed-furrow/",
+   "source": "FutureFarming",
+   "date": "2026-10-14",
+   "tag": "技术",
+   "tag_class": "tag-tech"
+  },
+  {
+   "title": "Hardi 提供新型自动喷杆稳定系统",
    "url": "https://www.futurefarming.com/smart-farming/hardi-supplies-new-automatic-boom-stabilisation/",
    "source": "FutureFarming",
    "date": "2026-10-13",
@@ -162,7 +170,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "UV-C光用于防治百合灰霉病",
+   "title": "UV-C 光在对抗百合灰霉病中的应用",
    "url": "https://www.futurefarming.com/smart-farming/uv-c-light-in-the-fight-against-botrytis-in-lilies/",
    "source": "FutureFarming",
    "date": "2026-10-12",
@@ -170,7 +178,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "久保田与Kilter扩大AX-1机器人在欧洲的分销",
+   "title": "久保田与 Kilter 将 AX-1 机器人分销扩展至全欧洲",
    "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semiauto-steering/autonomous-vehicles/kubota-and-kilter-expand-ax-1-robot-distribution-across-europe/",
    "source": "FutureFarming",
    "date": "2026-10-09",
@@ -178,15 +186,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "用户评测：SwarmBot 5在澳大利亚农场运行7500小时后表现优异",
-   "url": "https://www.futurefarming.com/tech-in-focus/field-robots/user-review-swarmbot-5-scores-well-after-7-500-hours-on-australian-farm/",
-   "source": "FutureFarming",
-   "date": "2026-10-08",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "AgriBusiness Global报告：生物制品市场趋势、巴西的繁荣与采用洞察",
+   "title": "AgriBusiness Global 报告：生物市场趋势、巴西的繁荣与采用洞察",
    "url": "https://www.agribusinessglobal.com/biologicals/agribusiness-global-report-biological-market-trends-brazils-boom-and-adoption-insights/",
    "source": "AgriBusinessGlobal",
    "date": "2026-10-09",
@@ -194,7 +194,7 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "Indofil在巴西推出Curatis，推进大豆作物保护",
+   "title": "Indofil 在巴西推出 Curatis，推进大豆作物保护",
    "url": "https://www.agribusinessglobal.com/agrochemicals/indofil-launches-curatis-in-brazil-advancing-soybean-crop-protection/",
    "source": "AgriBusinessGlobal",
    "date": "2026-10-09",
@@ -202,7 +202,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "Ag Tech Talk播客：PTx谈精准农业改装、靶向喷洒与自动化",
+   "title": "农业科技访谈播客：PTx 谈精准农业改装、定向喷洒与自主性",
    "url": "https://www.agribusinessglobal.com/abg-update-feature/ag-tech-talk-podcast-ptx-on-precision-ag-retrofits-targeted-spraying-and-autonomy/",
    "source": "AgriBusinessGlobal",
    "date": "2026-10-08",
@@ -210,7 +210,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "CAST评选前美国农业部首席经济学家Joseph Glauber博士为2026年CAST终身成就奖得主",
+   "title": "CAST 宣布前美国农业部首席经济学家 Joseph Glauber 博士为 2026 年 CAST 终身成就奖得主",
    "url": "https://www.agribusinessglobal.com/markets/americas/cast-names-former-usda-chief-economist-dr-joseph-glauber-2026-recipient-of-the-cast-lifetime-achievement-award/",
    "source": "AgriBusinessGlobal",
    "date": "2026-10-07",
@@ -319,7 +319,7 @@
    "source": "农机通",
    "tag": "行业",
    "tag_class": "tag-news",
-   "date": "2026-09-29"
+   "date": "2026"
   },
   {
    "title": "农业农村部召开干部大会强调 深入学习贯彻习近平总书记重要讲话和全国两会精神 扎实做好乡村全面振兴各项工作",
