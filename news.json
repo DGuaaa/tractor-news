@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15 12:04",
+ "updated": "2026-10-15 18:10",
  "items": [
   {
    "title": "宁夏2026年第四批农机补贴产品公示",
@@ -7,7 +7,7 @@
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
-   "date": "2026-10-13"
+   "date": "2026-10"
   },
   {
    "title": "上半年农机补贴资金162.5亿落地",
@@ -15,7 +15,7 @@
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
-   "date": "2026-10"
+   "date": "2026-10-12"
   },
   {
    "title": "山西2026年第二批农机补贴产品现场演示",
@@ -23,7 +23,7 @@
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
-   "date": "2026-10-12"
+   "date": "2026-10"
   },
   {
    "title": "【归档】宁夏2026年第四批农机购置补贴产品形式审核情况公示",
@@ -31,7 +31,7 @@
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
-   "date": "2026-10-13"
+   "date": "2026-10"
   },
   {
    "title": "【鉴定】宁夏2026年第四批农机推广鉴定结果的通报",
@@ -39,7 +39,7 @@
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
-   "date": "2026-10-13"
+   "date": "2026-10"
   },
   {
    "title": "【归档】山西省开展2026年第二批农机购置与应用补贴产品现场演示评价的通知",
@@ -47,7 +47,7 @@
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
-   "date": "2026-10-12"
+   "date": "2026-10"
   },
   {
    "title": "【归档】西藏开展2026年第二批农机购置与应用补贴产品自主投档工作的通知",
@@ -55,7 +55,7 @@
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
-   "date": "2026-10-12"
+   "date": "2026-10"
   },
   {
    "title": "【违规】北京市农业农村局关于对农机购置与应用补贴投档机具违规处置情况的通报",
@@ -71,7 +71,7 @@
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
-   "date": "2026-10-12"
+   "date": "2026-10"
   },
   {
    "title": "【通知】河南省恢复宁津县鲁宁机械设备有限公司5X-5型种子清选机在我省补贴投档资格的函",
@@ -79,7 +79,7 @@
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
-   "date": "2026-10-10"
+   "date": "2026-10"
   },
   {
    "title": "【归档】河南省部分通过现场演示评价的农机购置与应用补贴机具归档的公告",
@@ -87,7 +87,7 @@
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
-   "date": "2026-10-10"
+   "date": "2026-10"
   },
   {
    "title": "【汇总】各省2024-2026年农机补贴政策通知相关汇总",
@@ -95,7 +95,7 @@
    "source": "农机360",
    "tag": "政策",
    "tag_class": "tag-policy",
-   "date": "2025-09-02"
+   "date": "2025-09"
   },
   {
    "title": "2026年第41周瘦肉型白条猪肉出厂价格监测周报",
@@ -130,12 +130,44 @@
    "tag_class": "tag-data"
   },
   {
+   "title": "先正达与Kyoyu Agri合作开发创新水稻除草剂",
+   "url": "https://www.agribusinessglobal.com/agrochemicals/herbicides/syngenta-and-kyoyu-agri-partner-on-innovative-rice-herbicide/",
+   "source": "AgriBusinessGlobal",
+   "date": "2026-10-14",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "印度：INERA与拜耳合作，为农民带来下一代气候韧性作物营养解决方案",
+   "url": "https://www.agribusinessglobal.com/plant-health/india-inera-and-bayer-partner-to-bring-next-generation-climate-resilient-crop-nutrition-solutions-to-farmers/",
+   "source": "AgriBusinessGlobal",
+   "date": "2026-10-14",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "CPDA任命Rachel Pick为政府关系副总裁",
+   "url": "https://www.agribusinessglobal.com/agrochemicals/adjuvants/cpda-names-rachel-pick-vice-president-of-government-relations/",
+   "source": "AgriBusinessGlobal",
+   "date": "2026-10-14",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "SICIT集团任命Sergi Barrull为首席执行官",
+   "url": "https://www.agribusinessglobal.com/plant-health/biostimulants/sicit-group-appoints-sergi-barrull-as-ceo/",
+   "source": "AgriBusinessGlobal",
+   "date": "2026-10-14",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
    "title": "黑龙江补短板高端智能拖拉机补贴产品公示",
    "url": "https://news.nongji360.com/html/2026/10/274440.shtml",
    "source": "农机360",
    "tag": "技术",
    "tag_class": "tag-tech",
-   "date": "2026-10-13"
+   "date": "2026-10"
   },
   {
    "title": "【归档】黑龙江省补短板200马力及以上无级变速高端智能拖拉机补贴资质审核通过产品情况的公示",
@@ -144,6 +176,38 @@
    "tag": "技术",
    "tag_class": "tag-tech",
    "date": "2026-10"
+  },
+  {
+   "title": "水稻机械化收获减损技术",
+   "url": "https://news.nongji360.com/html/2026/10/274443.shtml",
+   "source": "农机360",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-10"
+  },
+  {
+   "title": "一、确定适宜收获期一般来说，谷壳变黄、籽粒变硬、水分适宜、不易破碎时标志着水稻进入完熟期。水稻的蜡熟末期至完熟初期适宜机械化收",
+   "url": "https://news.nongji360.com/html/2026/10/274443.shtml",
+   "source": "农机360",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-10"
+  },
+  {
+   "title": "全国农业科技工作会议强调：加快实现高水平农业科技自立自强等",
+   "url": "https://news.nongji360.com/html/2026/10/274431.shtml",
+   "source": "农机360",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-10-12"
+  },
+  {
+   "title": "10月10日，农业农村部在京召开全国农业科技工作会议。会议强调，要深入学习贯彻习近平总书记关于农业科技工作的重要讲话重要指示精神，",
+   "url": "https://news.nongji360.com/html/2026/10/274431.shtml",
+   "source": "农机360",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-10-12"
   },
   {
    "title": "农业农村部召开干部大会强调 深入学习贯彻习近平总书记重要讲话和全国两会精神 扎实做好乡村全面振兴各项工作",
