@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18 00:02",
+ "updated": "2026-10-18 14:15",
  "items": [
   {
    "title": "湖北2026年第三批农机产品公示",
@@ -90,34 +90,34 @@
    "date": "2026-10"
   },
   {
-   "title": "2026年第41周瘦肉型白条猪肉出厂价格监测周报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84226",
+   "title": "全国农产品批发市场一周价格行情监测报告（2026年10月9日—2026年10月15日）",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84234",
    "source": "农业农村部价格指数",
-   "date": "2026-10-11",
+   "date": "2026-10-15",
    "tag": "市场",
    "tag_class": "tag-data"
   },
   {
-   "title": "2026年9月瘦肉型白条猪肉出厂价格监测月报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84227",
+   "title": "10月16日：“农产品批发价格200指数”比昨天下降0.44个点。",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84232",
    "source": "农业农村部价格指数",
-   "date": "2026-10-09",
+   "date": "2026-10-15",
    "tag": "市场",
    "tag_class": "tag-data"
   },
   {
-   "title": "2026年第40周瘦肉型白条猪肉出厂价格监测周报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84229",
+   "title": "10月15日：“农产品批发价格200指数”比昨天下降0.16个点。",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84233",
    "source": "农业农村部价格指数",
-   "date": "2026-10-04",
+   "date": "2026-10-14",
    "tag": "市场",
    "tag_class": "tag-data"
   },
   {
-   "title": "2026年第39周瘦肉型白条猪肉出厂价格监测周报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84231",
+   "title": "10月14日：“农产品批发价格200指数”比昨天下降0.45个点。",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84230",
    "source": "农业农村部价格指数",
-   "date": "2026-09-27",
+   "date": "2026-10-13",
    "tag": "市场",
    "tag_class": "tag-data"
   },
@@ -142,6 +142,38 @@
    "url": "https://www.lswz.gov.cn/html/xinwen/2026-10/10/content_295581.shtml",
    "source": "国家粮食局",
    "date": "2026-10-10",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "轻型圆盘施肥机成为施肥机器人的基础",
+   "url": "https://www.futurefarming.com/smart-farming/light-disc-fertiliser-as-basis-for-fertiliser-robot/",
+   "source": "FutureFarming",
+   "date": "2026-10-15",
+   "tag": "技术",
+   "tag_class": "tag-tech"
+  },
+  {
+   "title": "带传感器的智能播种：Agrisem Chief 在种沟内测量",
+   "url": "https://www.futurefarming.com/smart-farming/smart-drilling-with-sensors-agrisem-chief-measures-in-the-seed-furrow/",
+   "source": "FutureFarming",
+   "date": "2026-10-14",
+   "tag": "技术",
+   "tag_class": "tag-tech"
+  },
+  {
+   "title": "Hardi 推出新型自动喷杆稳定系统",
+   "url": "https://www.futurefarming.com/smart-farming/hardi-supplies-new-automatic-boom-stabilisation/",
+   "source": "FutureFarming",
+   "date": "2026-10-13",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "UV-C 光用于防治百合灰霉病",
+   "url": "https://www.futurefarming.com/smart-farming/uv-c-light-in-the-fight-against-botrytis-in-lilies/",
+   "source": "FutureFarming",
+   "date": "2026-10-12",
    "tag": "行业",
    "tag_class": "tag-news"
   },
@@ -232,46 +264,6 @@
    "tag": "行业",
    "tag_class": "tag-news",
    "date": "2025-10-26"
-  },
-  {
-   "title": "9月份AMI为49.4%，好于去年同期水平",
-   "url": "https://www.camda.cn/analyze/2026/66012.html",
-   "source": "农机流通协会",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-10-10"
-  },
-  {
-   "title": "8月份AMI指数为57.2%，市场修复态势持续显现",
-   "url": "https://www.camda.cn/analyze/2026/65953.html",
-   "source": "农机流通协会",
-   "tag": "市场",
-   "tag_class": "tag-data",
-   "date": "2026-09-08"
-  },
-  {
-   "title": "​7月份AMI指数为52.7%，景气指数持续发力上行",
-   "url": "https://www.camda.cn/analyze/2026/65886.html",
-   "source": "农机流通协会",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-08-06"
-  },
-  {
-   "title": "6月份AMI指数为48.7%，同比大幅回升",
-   "url": "https://www.camda.cn/analyze/2026/65814.html",
-   "source": "农机流通协会",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-07-07"
-  },
-  {
-   "title": "5月份AMI指数为47.0%，环比下跌同比增长",
-   "url": "https://www.camda.cn/analyze/2026/65762.html",
-   "source": "农机流通协会",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026"
   },
   {
    "title": "“圈粉”全球客商丨潍柴雷沃智慧农业亮相第140届广交会",
