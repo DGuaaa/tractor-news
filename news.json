@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18 18:04",
+ "updated": "2026-10-19 00:03",
  "items": [
   {
    "title": "湖北2026年第三批农机产品公示",
@@ -90,7 +90,63 @@
    "date": "2026-10"
   },
   {
-   "title": "轻质圆盘施肥机成为施肥机器人的基础",
+   "title": "2026年第41周瘦肉型白条猪肉出厂价格监测周报",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84226",
+   "source": "农业农村部价格指数",
+   "date": "2026-10-11",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "2026年9月瘦肉型白条猪肉出厂价格监测月报",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84227",
+   "source": "农业农村部价格指数",
+   "date": "2026-10-09",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "2026年第40周瘦肉型白条猪肉出厂价格监测周报",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84229",
+   "source": "农业农村部价格指数",
+   "date": "2026-10-04",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "2026年第39周瘦肉型白条猪肉出厂价格监测周报",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84231",
+   "source": "农业农村部价格指数",
+   "date": "2026-09-27",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "2026年世界粮食日和全国粮食安全宣传周主会场活动在合肥举行",
+   "url": "https://www.lswz.gov.cn/html/xinwen/2026-10/16/content_295664.shtml",
+   "source": "国家粮食局",
+   "date": "2026-10-16",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "国家粮食和物资储备局举办第11期“粮储大讲堂”",
+   "url": "https://www.lswz.gov.cn/html/xinwen/2026-10/13/content_295622.shtml",
+   "source": "国家粮食局",
+   "date": "2026-10-13",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "全国粮食和物资储备系统“双先”事迹宣讲活动在京举办",
+   "url": "https://www.lswz.gov.cn/html/xinwen/2026-10/10/content_295581.shtml",
+   "source": "国家粮食局",
+   "date": "2026-10-10",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "轻型圆盘施肥机作为施肥机器人的基础",
    "url": "https://www.futurefarming.com/smart-farming/light-disc-fertiliser-as-basis-for-fertiliser-robot/",
    "source": "FutureFarming",
    "date": "2026-10-15",
@@ -98,7 +154,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "带传感器的智能播种：Agrisem Chief在种沟中测量",
+   "title": "传感器智能播种：Agrisem Chief在种沟内测量",
    "url": "https://www.futurefarming.com/smart-farming/smart-drilling-with-sensors-agrisem-chief-measures-in-the-seed-furrow/",
    "source": "FutureFarming",
    "date": "2026-10-14",
@@ -114,7 +170,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "UV-C光用于防治百合灰霉病",
+   "title": "UV-C光防治百合灰霉病",
    "url": "https://www.futurefarming.com/smart-farming/uv-c-light-in-the-fight-against-botrytis-in-lilies/",
    "source": "FutureFarming",
    "date": "2026-10-12",
@@ -122,7 +178,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "AgriBusiness Global报告：美国农业面临的挑战：投入品通胀、贸易不稳定等",
+   "title": "AgriBusiness Global报告：美国农业面临的挑战——投入品通胀、贸易不稳定等",
    "url": "https://www.agribusinessglobal.com/markets/americas/agribusiness-global-report-the-challenges-facing-u-s-agriculture-input-inflation-trade-instability-and-more/",
    "source": "AgriBusinessGlobal",
    "date": "2026-10-16",
@@ -130,7 +186,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "欧盟和英国可能进一步落后于全球农业竞争对手，削弱战略自主权",
+   "title": "欧盟和英国面临进一步落后于全球农业竞争对手、削弱战略自主的风险",
    "url": "https://www.agribusinessglobal.com/markets/europe/eu-and-uk-risk-falling-further-behind-global-agricultural-competitors-weakening-strategic-autonomy/",
    "source": "AgriBusinessGlobal",
    "date": "2026-10-15",
@@ -138,7 +194,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "印度：PMFAI在《鹿特丹公约》CRC-22会议上成功为丙溴磷、喹硫磷和稻丰散辩护",
+   "title": "印度：PMFAI在鹿特丹公约CRC-22会议上成功捍卫丙溴磷、喹硫磷和稻丰散",
    "url": "https://www.agribusinessglobal.com/markets/asia/india-pmfai-successfully-defends-profenofos-quinalphos-and-phenthoate-at-rotterdam-conventions-crc-22-meeting/",
    "source": "AgriBusinessGlobal",
    "date": "2026-10-15",
@@ -207,7 +263,7 @@
    "source": "农机工业协会",
    "tag": "市场",
    "tag_class": "tag-data",
-   "date": ""
+   "date": "2026-03-28"
   },
   {
    "title": "2026中国农机企业家峰会年会在..",
@@ -215,7 +271,7 @@
    "source": "农机工业协会",
    "tag": "行业",
    "tag_class": "tag-news",
-   "date": ""
+   "date": "2026-01-15"
   },
   {
    "title": "2025年全国农机工业工作会议暨..",
@@ -223,7 +279,7 @@
    "source": "农机工业协会",
    "tag": "行业",
    "tag_class": "tag-news",
-   "date": ""
+   "date": "2025-12-22"
   },
   {
    "title": "中国农业机械工业团体标准工作..",
@@ -231,7 +287,7 @@
    "source": "农机工业协会",
    "tag": "行业",
    "tag_class": "tag-news",
-   "date": ""
+   "date": "2025-10-30"
   },
   {
    "title": "中国农业机械工业协会低空经济..",
@@ -239,7 +295,7 @@
    "source": "农机工业协会",
    "tag": "行业",
    "tag_class": "tag-news",
-   "date": ""
+   "date": "2025-10-26"
   },
   {
    "title": "“圈粉”全球客商丨潍柴雷沃智慧农业亮相第140届广交会",
@@ -320,46 +376,6 @@
    "tag": "行业",
    "tag_class": "tag-news",
    "date": ""
-  },
-  {
-   "title": "硬核智造赋能黑土粮仓丨中国一拖亮相2026全国农机“田间日”",
-   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202610/t20261015_657822.html",
-   "source": "一拖东方红",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-10-15"
-  },
-  {
-   "title": "一拖股份举办“我是股东——走进沪市上市公司”活动",
-   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202610/t20261015_657820.html",
-   "source": "一拖东方红",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-10-15"
-  },
-  {
-   "title": "东方红LW4504拖拉机亮相中国农民丰收节",
-   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202610/t20261015_657812.html",
-   "source": "一拖东方红",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-10-15"
-  },
-  {
-   "title": "“世界市长对话”走进中国一拖",
-   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202610/t20261012_657566.html",
-   "source": "一拖东方红",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-10-12"
-  },
-  {
-   "title": "齐聚冰城丨东方红农机助力黑土地智慧耕种",
-   "url": "http://www.ytogroup.cn/xwdt_5457/gsxw/202609/t20260920_655154.html",
-   "source": "一拖东方红",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-09-20"
   },
   {
    "title": "农时贵如金，服务伴田间 | 沃得三秋作业提示及服务指南",
