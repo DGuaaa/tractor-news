@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22 12:03",
+ "updated": "2026-10-22 18:04",
  "items": [
   {
    "title": "山东2026年第二批农机补贴产品通告",
@@ -66,6 +66,38 @@
    "tag_class": "tag-policy"
   },
   {
+   "title": "2026年第41周瘦肉型白条猪肉出厂价格监测周报",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84226",
+   "source": "农业农村部价格指数",
+   "date": "2026-10-11",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "2026年9月瘦肉型白条猪肉出厂价格监测月报",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84227",
+   "source": "农业农村部价格指数",
+   "date": "2026-10-09",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "2026年第40周瘦肉型白条猪肉出厂价格监测周报",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84229",
+   "source": "农业农村部价格指数",
+   "date": "2026-10-04",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "2026年第39周瘦肉型白条猪肉出厂价格监测周报",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84231",
+   "source": "农业农村部价格指数",
+   "date": "2026-09-27",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
    "title": "国家粮食和物资储备局举办2026年党务干部培训班",
    "url": "https://www.lswz.gov.cn/html/xinwen/2026-10/20/content_295727.shtml",
    "source": "国家粮食局",
@@ -90,23 +122,15 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "全国粮食和物资储备系统“双先”事迹宣讲活动在京举办",
-   "url": "https://www.lswz.gov.cn/html/xinwen/2026-10/10/content_295581.shtml",
-   "source": "国家粮食局",
-   "date": "2026-10-10",
-   "tag": "行业",
-   "tag_class": "tag-news"
+   "title": "FieldSense FSR500：专为便于农场维修设计的轻量喷洒机器人",
+   "url": "https://www.futurefarming.com/smart-farming/fieldsense-fsr500-lightweight-spraying-robot-designed-for-easy-farm-repairs/",
+   "source": "FutureFarming",
+   "date": "2026-10-22",
+   "tag": "技术",
+   "tag_class": "tag-tech"
   },
   {
-   "title": "国家粮食和物资储备局举行升国旗仪式庆祝中华人民共和国成立77周年",
-   "url": "https://www.lswz.gov.cn/html/xinwen/2026-09/30/content_295526.shtml",
-   "source": "国家粮食局",
-   "date": "2026-09-30",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "BloomX 获1300万美元融资，扩大水果作物机器人授粉规模",
+   "title": "BloomX获1300万美元融资，扩大果树机器人授粉",
    "url": "https://www.futurefarming.com/smart-farming/bloomx-raises-13-million-to-expand-robotic-pollination-in-fruit-crops/",
    "source": "FutureFarming",
    "date": "2026-10-19",
@@ -114,7 +138,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "新型除草机器人受益于种植者的严格审视",
+   "title": "新型除草机器人得益于种植者的严格审视",
    "url": "https://www.futurefarming.com/smart-farming/new-hoeing-robot-benefits-from-growers-critical-eye/",
    "source": "FutureFarming",
    "date": "2026-10-19",
@@ -122,7 +146,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "轻盘施肥机为施肥机器人奠定基础",
+   "title": "轻型圆盘施肥机为施肥机器人奠定基础",
    "url": "https://www.futurefarming.com/smart-farming/light-disc-fertiliser-as-basis-for-fertiliser-robot/",
    "source": "FutureFarming",
    "date": "2026-10-15",
@@ -130,15 +154,7 @@
    "tag_class": "tag-tech"
   },
   {
-   "title": "传感器智能播种：Agrisem Chief 在种沟内测量",
-   "url": "https://www.futurefarming.com/smart-farming/smart-drilling-with-sensors-agrisem-chief-measures-in-the-seed-furrow/",
-   "source": "FutureFarming",
-   "date": "2026-10-14",
-   "tag": "技术",
-   "tag_class": "tag-tech"
-  },
-  {
-   "title": "Rovensa Next 推出“生物防治尽在掌握”项目，助种植者应对病虫害压力变化",
+   "title": "Rovensa Next推出“We Have It Under Biocontrol”活动，助种植者预判病虫害压力变化",
    "url": "https://www.agribusinessglobal.com/biologicals/rovensa-next-launches-we-have-it-under-biocontrol-to-help-growers-anticipate-changing-pest-and-disease-pressure/",
    "source": "AgriBusinessGlobal",
    "date": "2026-10-20",
@@ -154,7 +170,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "追求卓越：Veganic 如何扩大规模实现成功",
+   "title": "追求卓越：Veganic如何为成功扩大规模",
    "url": "https://www.agribusinessglobal.com/markets/europe/in-pursuit-of-excellence-how-veganic-is-scaling-for-success/",
    "source": "AgriBusinessGlobal",
    "date": "2026-10-19",
@@ -162,7 +178,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "AgriBusiness Global 报告：美国农业面临的挑战——投入品通胀、贸易不稳定及其他",
+   "title": "AgriBusiness Global报告：美国农业面临的挑战——投入品通胀、贸易不稳定等",
    "url": "https://www.agribusinessglobal.com/markets/americas/agribusiness-global-report-the-challenges-facing-u-s-agriculture-input-inflation-trade-instability-and-more/",
    "source": "AgriBusinessGlobal",
    "date": "2026-10-16",
