@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23 12:03",
+ "updated": "2026-10-23 18:05",
  "items": [
   {
    "title": "山东2026年第二批农机补贴产品通告",
@@ -66,6 +66,14 @@
    "date": "2026-10-08"
   },
   {
+   "title": "中联重科大流量应急排水抢险车入选2026年安全应急装备应用推广典型案例",
+   "url": "https://www.zoomlion.com/content/details18_34189.html",
+   "source": "中联重科",
+   "tag": "政策",
+   "tag_class": "tag-policy",
+   "date": ""
+  },
+  {
    "title": "国家粮食和物资储备局召开2026年老干部情况通报会",
    "url": "https://www.lswz.gov.cn/html/xinwen/2026-10/22/content_295757.shtml",
    "source": "国家粮食局",
@@ -74,34 +82,34 @@
    "tag_class": "tag-policy"
   },
   {
-   "title": "10月22日：“农产品批发价格200指数”比昨天下降0.27个点。",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84242",
-   "source": "农业农村部价格指数",
-   "date": "2026-10-21",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "10月21日：“农产品批发价格200指数”比昨天上升0.22个点。",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84241",
-   "source": "农业农村部价格指数",
-   "date": "2026-10-20",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "10月20日：“农产品批发价格200指数”比昨天下降0.55个点。",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84239",
-   "source": "农业农村部价格指数",
-   "date": "2026-10-19",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "10月19日：“农产品批发价格200指数”比上周五下降0.55个点。",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84235",
+   "title": "2026年第42周瘦肉型白条猪肉出厂价格监测周报",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84243",
    "source": "农业农村部价格指数",
    "date": "2026-10-18",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "2026年第41周瘦肉型白条猪肉出厂价格监测周报",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84226",
+   "source": "农业农村部价格指数",
+   "date": "2026-10-11",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "2026年9月瘦肉型白条猪肉出厂价格监测月报",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84227",
+   "source": "农业农村部价格指数",
+   "date": "2026-10-09",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "2026年第40周瘦肉型白条猪肉出厂价格监测周报",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84229",
+   "source": "农业农村部价格指数",
+   "date": "2026-10-04",
    "tag": "市场",
    "tag_class": "tag-data"
   },
@@ -128,6 +136,38 @@
    "date": "2026-10-16",
    "tag": "行业",
    "tag_class": "tag-news"
+  },
+  {
+   "title": "荷兰机器人制造商AIGRO宣告破产",
+   "url": "https://www.futurefarming.com/tech-in-focus/field-robots/dutch-robot-builder-aigro-declared-bankrupt/",
+   "source": "FutureFarming",
+   "date": "2026-10-22",
+   "tag": "技术",
+   "tag_class": "tag-tech"
+  },
+  {
+   "title": "久保田与Agtonomy推出面向特色作物的自动驾驶M5L拖拉机",
+   "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semiauto-steering/autonomous-vehicles/kubota-and-agtonomy-introduce-autonomous-m5l-tractor-for-specialty-crops/",
+   "source": "FutureFarming",
+   "date": "2026-10-22",
+   "tag": "技术",
+   "tag_class": "tag-tech"
+  },
+  {
+   "title": "FieldSense FSR500：轻量型喷洒机器人，设计便于农场维修",
+   "url": "https://www.futurefarming.com/smart-farming/fieldsense-fsr500-lightweight-spraying-robot-designed-for-easy-farm-repairs/",
+   "source": "FutureFarming",
+   "date": "2026-10-22",
+   "tag": "技术",
+   "tag_class": "tag-tech"
+  },
+  {
+   "title": "BloomX融资1300万美元，扩展水果作物机器人授粉",
+   "url": "https://www.futurefarming.com/smart-farming/bloomx-raises-13-million-to-expand-robotic-pollination-in-fruit-crops/",
+   "source": "FutureFarming",
+   "date": "2026-10-19",
+   "tag": "技术",
+   "tag_class": "tag-tech"
   },
   {
    "title": "陕西农机补贴额一览表（2026年第三批调整）公示",
@@ -226,6 +266,30 @@
    "date": "2026-09-15"
   },
   {
+   "title": "YTO收获机首次落地巴基斯坦",
+   "url": "https://www.nongjitong.com/news/2026/534318.html",
+   "source": "农机通",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-10-22"
+  },
+  {
+   "title": "河南省农机补贴“优机优补”机具补贴额一览表（第一批）和退出退坡机具清单的公示",
+   "url": "https://www.nongjitong.com/news/2026/534241.html",
+   "source": "农机通",
+   "tag": "市场",
+   "tag_class": "tag-data",
+   "date": "2026-10-20"
+  },
+  {
+   "title": "一分钟六包，效率拉满——顺邦双包机用硬核技术定义秸秆打捆新标准",
+   "url": "https://www.nongjitong.com/news/2026/534239.html",
+   "source": "农机通",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-10-20"
+  },
+  {
    "title": "江西省财政厅办公室关于调整部分农机购置与应用补贴机具补贴额的通知",
    "url": "https://www.nongjitong.com/news/2026/534192.html",
    "source": "农机通",
@@ -234,36 +298,12 @@
    "date": "2026-10-08"
   },
   {
-   "title": "熬过满心糟心，终遇顺邦！",
-   "url": "https://www.nongjitong.com/news/2026/534190.html",
-   "source": "农机通",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-10-08"
-  },
-  {
-   "title": "CH2802-C无人驾驶履带拖拉机研发与集成应用项目通过验收",
-   "url": "https://www.nongjitong.com/news/2026/534196.html",
-   "source": "农机通",
-   "tag": "技术",
-   "tag_class": "tag-tech",
-   "date": "2026-10-08"
-  },
-  {
-   "title": "顺邦农机全速发车 护航秸秆秋收作业季",
-   "url": "https://www.nongjitong.com/news/2026/534186.html",
-   "source": "农机通",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-10-08"
-  },
-  {
    "title": "“圈粉”全球客商丨潍柴雷沃智慧农业亮相第140届广交会",
    "url": "https://www.lovol.com.cn/news/medianews-detail-6429.htm",
    "source": "潍柴雷沃",
    "tag": "行业",
    "tag_class": "tag-news",
-   "date": "2026-10-16"
+   "date": ""
   },
   {
    "title": "智绘黑土丰收画卷丨潍柴雷沃智慧农业整体解决方案亮相2026全国农机“田间日”",
@@ -271,7 +311,7 @@
    "source": "潍柴雷沃",
    "tag": "行业",
    "tag_class": "tag-news",
-   "date": "2026-10-16"
+   "date": ""
   },
   {
    "title": "赋能“黑土粮仓” 潍柴雷沃智慧农业亮相黑龙江国际农机展",
@@ -279,7 +319,7 @@
    "source": "潍柴雷沃",
    "tag": "市场",
    "tag_class": "tag-data",
-   "date": "2026-10-16"
+   "date": ""
   },
   {
    "title": "TOP50+榜单揭晓|潍柴雷沃智慧农业揽获11项大奖",
@@ -287,7 +327,7 @@
    "source": "潍柴雷沃",
    "tag": "行业",
    "tag_class": "tag-news",
-   "date": "2026-10-16"
+   "date": ""
   },
   {
    "title": "圈粉东南亚！潍柴雷沃亮相2026年越南国际农业机械展览会",
@@ -295,7 +335,7 @@
    "source": "潍柴雷沃",
    "tag": "市场",
    "tag_class": "tag-data",
-   "date": "2026-10-16"
+   "date": ""
   },
   {
    "title": "地质气象灾害救援装备",
@@ -306,32 +346,24 @@
    "date": ""
   },
   {
+   "title": "海外点赞！摩洛哥客户致信感谢中联重科数智化吊装方案",
+   "url": "https://www.zoomlion.com/content/details18_34188.html",
+   "source": "中联重科",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": ""
+  },
+  {
+   "title": "圈粉欧洲客户！中联重科土方机械波兰开放日圆满举行",
+   "url": "https://www.zoomlion.com/content/details18_34187.html",
+   "source": "中联重科",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": ""
+  },
+  {
    "title": "中联重科两项目入选中质协2026年质量管理优秀实践经验",
    "url": "https://www.zoomlion.com/content/details18_34161.html",
-   "source": "中联重科",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": ""
-  },
-  {
-   "title": "正青春 跃山海 | 中联重科成立34周年庆祝活动隆重举行",
-   "url": "https://www.zoomlion.com/content/details18_34146.html",
-   "source": "中联重科",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": ""
-  },
-  {
-   "title": "首台交付！中联重科超大马力混动技术投入商业化应用",
-   "url": "https://www.zoomlion.com/content/details18_34135.html",
-   "source": "中联重科",
-   "tag": "技术",
-   "tag_class": "tag-tech",
-   "date": ""
-  },
-  {
-   "title": "从\"卖设备\"到\"全链运营\",中联重科混凝土机械锻造出海竞争新优势",
-   "url": "https://www.zoomlion.com/content/details18_34127.html",
    "source": "中联重科",
    "tag": "行业",
    "tag_class": "tag-news",
