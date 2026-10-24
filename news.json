@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24 18:04",
+ "updated": "2026-10-25 00:04",
  "items": [
   {
    "title": "黑龙江补短板拖拉机公示",
@@ -154,36 +154,36 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "FIRA USA 吸引农业科技、机器人行业与种植者齐聚亚基马谷",
-   "url": "https://www.futurefarming.com/tech-in-focus/field-robots/fira-usa-draws-agtech-and-robotics-industry-and-growers-to-yakima-valley/",
-   "source": "FutureFarming",
+   "title": "AgriBusiness Global报告：化肥供应冲击与生物制剂未来",
+   "url": "https://www.agribusinessglobal.com/biologicals/agribusiness-global-report-fertilizer-supply-shocks-and-the-future-of-biologicals/",
+   "source": "AgriBusinessGlobal",
    "date": "2026-10-23",
-   "tag": "技术",
-   "tag_class": "tag-tech"
+   "tag": "行业",
+   "tag_class": "tag-news"
   },
   {
-   "title": "荷兰机器人制造商 AIGRO 宣布破产",
-   "url": "https://www.futurefarming.com/tech-in-focus/field-robots/dutch-robot-builder-aigro-declared-bankrupt/",
-   "source": "FutureFarming",
+   "title": "AgriBusiness Global实地报道：ABIM 2026趋势展望",
+   "url": "https://www.agribusinessglobal.com/biologicals/agribusiness-global-on-the-road-whats-trending-at-abim-2026/",
+   "source": "AgriBusinessGlobal",
    "date": "2026-10-22",
-   "tag": "技术",
-   "tag_class": "tag-tech"
+   "tag": "行业",
+   "tag_class": "tag-news"
   },
   {
-   "title": "久保田与 Agtonomy 推出面向特种作物的自动驾驶 M5L 拖拉机",
-   "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semiauto-steering/autonomous-vehicles/kubota-and-agtonomy-introduce-autonomous-m5l-tractor-for-specialty-crops/",
-   "source": "FutureFarming",
+   "title": "可持续播客：Anasac的Bernardita Contesse谈作物保护企业如何加强可持续发展",
+   "url": "https://www.agribusinessglobal.com/sustainability/sustainable-podcast-bernardita-contesse-of-anasac-on-how-crop-protection-companies-can-improve-sustainability-efforts/",
+   "source": "AgriBusinessGlobal",
    "date": "2026-10-22",
-   "tag": "技术",
-   "tag_class": "tag-tech"
+   "tag": "行业",
+   "tag_class": "tag-news"
   },
   {
-   "title": "FieldSense FSR500：专为便于农场维修设计的轻量级喷洒机器人",
-   "url": "https://www.futurefarming.com/smart-farming/fieldsense-fsr500-lightweight-spraying-robot-designed-for-easy-farm-repairs/",
-   "source": "FutureFarming",
+   "title": "供应链韧性：作物投入品行业应多大程度依赖国外供应？",
+   "url": "https://www.agribusinessglobal.com/markets/supply-chain-resilience-how-much-should-the-crop-input-industry-depend-on-foreign-sources/",
+   "source": "AgriBusinessGlobal",
    "date": "2026-10-22",
-   "tag": "技术",
-   "tag_class": "tag-tech"
+   "tag": "行业",
+   "tag_class": "tag-news"
   },
   {
    "title": "数据分析：2026年9月份拖拉机产量对比分析",
@@ -280,46 +280,6 @@
    "tag": "行业",
    "tag_class": "tag-news",
    "date": "2025-10-26"
-  },
-  {
-   "title": "“圈粉”全球客商丨潍柴雷沃智慧农业亮相第140届广交会",
-   "url": "https://www.lovol.com.cn/news/medianews-detail-6429.htm",
-   "source": "潍柴雷沃",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-10-16"
-  },
-  {
-   "title": "智绘黑土丰收画卷丨潍柴雷沃智慧农业整体解决方案亮相2026全国农机“田间日”",
-   "url": "https://www.lovol.com.cn/news/medianews-detail-6428.htm",
-   "source": "潍柴雷沃",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-10-16"
-  },
-  {
-   "title": "赋能“黑土粮仓” 潍柴雷沃智慧农业亮相黑龙江国际农机展",
-   "url": "https://www.lovol.com.cn/news/medianews-detail-6376.htm",
-   "source": "潍柴雷沃",
-   "tag": "市场",
-   "tag_class": "tag-data",
-   "date": "2026-10-16"
-  },
-  {
-   "title": "TOP50+榜单揭晓|潍柴雷沃智慧农业揽获11项大奖",
-   "url": "https://www.lovol.com.cn/news/medianews-detail-6373.htm",
-   "source": "潍柴雷沃",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-10-16"
-  },
-  {
-   "title": "圈粉东南亚！潍柴雷沃亮相2026年越南国际农业机械展览会",
-   "url": "https://www.lovol.com.cn/news/medianews-detail-6192.htm",
-   "source": "潍柴雷沃",
-   "tag": "市场",
-   "tag_class": "tag-data",
-   "date": "2026-10-16"
   },
   {
    "title": "地质气象灾害救援装备",
