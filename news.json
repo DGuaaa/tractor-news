@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24 12:05",
+ "updated": "2026-10-24 18:04",
  "items": [
   {
    "title": "黑龙江补短板拖拉机公示",
@@ -152,6 +152,38 @@
    "date": "2026-10-16",
    "tag": "行业",
    "tag_class": "tag-news"
+  },
+  {
+   "title": "FIRA USA 吸引农业科技、机器人行业与种植者齐聚亚基马谷",
+   "url": "https://www.futurefarming.com/tech-in-focus/field-robots/fira-usa-draws-agtech-and-robotics-industry-and-growers-to-yakima-valley/",
+   "source": "FutureFarming",
+   "date": "2026-10-23",
+   "tag": "技术",
+   "tag_class": "tag-tech"
+  },
+  {
+   "title": "荷兰机器人制造商 AIGRO 宣布破产",
+   "url": "https://www.futurefarming.com/tech-in-focus/field-robots/dutch-robot-builder-aigro-declared-bankrupt/",
+   "source": "FutureFarming",
+   "date": "2026-10-22",
+   "tag": "技术",
+   "tag_class": "tag-tech"
+  },
+  {
+   "title": "久保田与 Agtonomy 推出面向特种作物的自动驾驶 M5L 拖拉机",
+   "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semiauto-steering/autonomous-vehicles/kubota-and-agtonomy-introduce-autonomous-m5l-tractor-for-specialty-crops/",
+   "source": "FutureFarming",
+   "date": "2026-10-22",
+   "tag": "技术",
+   "tag_class": "tag-tech"
+  },
+  {
+   "title": "FieldSense FSR500：专为便于农场维修设计的轻量级喷洒机器人",
+   "url": "https://www.futurefarming.com/smart-farming/fieldsense-fsr500-lightweight-spraying-robot-designed-for-easy-farm-repairs/",
+   "source": "FutureFarming",
+   "date": "2026-10-22",
+   "tag": "技术",
+   "tag_class": "tag-tech"
   },
   {
    "title": "数据分析：2026年9月份拖拉机产量对比分析",
