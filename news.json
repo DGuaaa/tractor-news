@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27 00:06",
+ "updated": "2026-10-27 06:05",
  "items": [
   {
    "title": "黑龙江补短板拖拉机公示",
@@ -154,7 +154,55 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "AgriBusiness Global报告：肥料供应冲击与生物制剂未来",
+   "title": "EdenCore 以 Viewer 作物相机瞄准果树与灌木果树种植者",
+   "url": "https://www.futurefarming.com/smart-farming/edencore-targets-tree-and-bush-fruit-growers-with-its-viewer-crop-camera/",
+   "source": "FutureFarming",
+   "date": "2026-10-26",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "FIRA USA 吸引农业科技与机器人行业及种植者齐聚雅基马谷",
+   "url": "https://www.futurefarming.com/tech-in-focus/field-robots/fira-usa-draws-agtech-and-robotics-industry-and-growers-to-yakima-valley/",
+   "source": "FutureFarming",
+   "date": "2026-10-23",
+   "tag": "技术",
+   "tag_class": "tag-tech"
+  },
+  {
+   "title": "荷兰机器人制造商 AIGRO 宣告破产",
+   "url": "https://www.futurefarming.com/tech-in-focus/field-robots/dutch-robot-builder-aigro-declared-bankrupt/",
+   "source": "FutureFarming",
+   "date": "2026-10-22",
+   "tag": "技术",
+   "tag_class": "tag-tech"
+  },
+  {
+   "title": "久保田与 Agtonomy 推出面向特种作物的自动驾驶 M5L 拖拉机",
+   "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semiauto-steering/autonomous-vehicles/kubota-and-agtonomy-introduce-autonomous-m5l-tractor-for-specialty-crops/",
+   "source": "FutureFarming",
+   "date": "2026-10-22",
+   "tag": "技术",
+   "tag_class": "tag-tech"
+  },
+  {
+   "title": "中印农资关系：定义农化格局的三大变化",
+   "url": "https://www.agribusinessglobal.com/markets/asia/the-china-india-ag-input-relationship-three-changes-defining-the-ag-chem-landscape/",
+   "source": "AgriBusinessGlobal",
+   "date": "2026-10-26",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "AgriThority 推出开发工具，助农业创新者评估商业化就绪度",
+   "url": "https://www.agribusinessglobal.com/markets/agrithority-launches-development-tool-to-help-agricultural-innovators-gauge-commercialization-readiness/",
+   "source": "AgriBusinessGlobal",
+   "date": "2026-10-26",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "AgriBusiness Global 报告：肥料供应冲击与生物制剂的未来",
    "url": "https://www.agribusinessglobal.com/biologicals/agribusiness-global-report-fertilizer-supply-shocks-and-the-future-of-biologicals/",
    "source": "AgriBusinessGlobal",
    "date": "2026-10-23",
@@ -162,24 +210,8 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "AgriBusiness Global现场：ABIM 2026趋势前瞻",
+   "title": "AgriBusiness Global 现场报道：ABIM 2026 的热门趋势",
    "url": "https://www.agribusinessglobal.com/biologicals/agribusiness-global-on-the-road-whats-trending-at-abim-2026/",
-   "source": "AgriBusinessGlobal",
-   "date": "2026-10-22",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "可持续播客：Anasac的Bernardita Contesse谈作物保护公司如何提升可持续性",
-   "url": "https://www.agribusinessglobal.com/sustainability/sustainable-podcast-bernardita-contesse-of-anasac-on-how-crop-protection-companies-can-improve-sustainability-efforts/",
-   "source": "AgriBusinessGlobal",
-   "date": "2026-10-22",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "供应链韧性：作物投入品行业应多大程度依赖海外来源？",
-   "url": "https://www.agribusinessglobal.com/markets/supply-chain-resilience-how-much-should-the-crop-input-industry-depend-on-foreign-sources/",
    "source": "AgriBusinessGlobal",
    "date": "2026-10-22",
    "tag": "行业",
@@ -280,38 +312,6 @@
    "tag": "行业",
    "tag_class": "tag-news",
    "date": "2025-10-26"
-  },
-  {
-   "title": "9月份AMI为49.4%，好于去年同期水平",
-   "url": "https://www.camda.cn/analyze/2026/66012.html",
-   "source": "农机流通协会",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-10-10"
-  },
-  {
-   "title": "8月份AMI指数为57.2%，市场修复态势持续显现",
-   "url": "https://www.camda.cn/analyze/2026/65953.html",
-   "source": "农机流通协会",
-   "tag": "市场",
-   "tag_class": "tag-data",
-   "date": "2026-09-08"
-  },
-  {
-   "title": "​7月份AMI指数为52.7%，景气指数持续发力上行",
-   "url": "https://www.camda.cn/analyze/2026/65886.html",
-   "source": "农机流通协会",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-08-06"
-  },
-  {
-   "title": "6月份AMI指数为48.7%，同比大幅回升",
-   "url": "https://www.camda.cn/analyze/2026/65814.html",
-   "source": "农机流通协会",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-07-07"
   },
   {
    "title": "“圈粉”全球客商丨潍柴雷沃智慧农业亮相第140届广交会",
