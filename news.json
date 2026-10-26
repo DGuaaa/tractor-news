@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26 06:02",
+ "updated": "2026-10-26 12:03",
  "items": [
   {
    "title": "黑龙江补短板拖拉机公示",
@@ -82,20 +82,20 @@
    "date": "2026-10"
   },
   {
-   "title": "当补贴开始给“质量”定价——国产采棉机的下一场竞争",
-   "url": "https://www.nongjitong.com/news/2026/534203.html",
-   "source": "农机通",
+   "title": "中联重科大流量应急排水抢险车入选2026年安全应急装备应用推广典型案例",
+   "url": "https://www.zoomlion.com/content/details18_34189.html",
+   "source": "中联重科",
    "tag": "政策",
    "tag_class": "tag-policy",
-   "date": "2026-10-09"
+   "date": ""
   },
   {
-   "title": "浙江省对杭州丰惠农业装备科技有限公司违规经营行为处理的通知",
-   "url": "https://www.nongjitong.com/news/2026/534191.html",
-   "source": "农机通",
+   "title": "国家粮食和物资储备局召开2026年老干部情况通报会",
+   "url": "https://www.lswz.gov.cn/html/xinwen/2026-10/22/content_295757.shtml",
+   "source": "国家粮食局",
+   "date": "2026-10-22",
    "tag": "政策",
-   "tag_class": "tag-policy",
-   "date": "2026-10-08"
+   "tag_class": "tag-policy"
   },
   {
    "title": "2026年第42周瘦肉型白条猪肉出厂价格监测周报",
@@ -154,70 +154,6 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "FIRA USA 吸引农业科技与机器人行业及种植者齐聚亚基马谷",
-   "url": "https://www.futurefarming.com/tech-in-focus/field-robots/fira-usa-draws-agtech-and-robotics-industry-and-growers-to-yakima-valley/",
-   "source": "FutureFarming",
-   "date": "2026-10-23",
-   "tag": "技术",
-   "tag_class": "tag-tech"
-  },
-  {
-   "title": "荷兰机器人制造商 AIGRO 宣告破产",
-   "url": "https://www.futurefarming.com/tech-in-focus/field-robots/dutch-robot-builder-aigro-declared-bankrupt/",
-   "source": "FutureFarming",
-   "date": "2026-10-22",
-   "tag": "技术",
-   "tag_class": "tag-tech"
-  },
-  {
-   "title": "久保田与 Agtonomy 推出面向特种作物的无人驾驶 M5L 拖拉机",
-   "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semiauto-steering/autonomous-vehicles/kubota-and-agtonomy-introduce-autonomous-m5l-tractor-for-specialty-crops/",
-   "source": "FutureFarming",
-   "date": "2026-10-22",
-   "tag": "技术",
-   "tag_class": "tag-tech"
-  },
-  {
-   "title": "FieldSense FSR500：专为便于农场维修而设计的轻量级喷洒机器人",
-   "url": "https://www.futurefarming.com/smart-farming/fieldsense-fsr500-lightweight-spraying-robot-designed-for-easy-farm-repairs/",
-   "source": "FutureFarming",
-   "date": "2026-10-22",
-   "tag": "技术",
-   "tag_class": "tag-tech"
-  },
-  {
-   "title": "AgriBusiness Global 报告：化肥供应冲击与生物制剂的未来",
-   "url": "https://www.agribusinessglobal.com/biologicals/agribusiness-global-report-fertilizer-supply-shocks-and-the-future-of-biologicals/",
-   "source": "AgriBusinessGlobal",
-   "date": "2026-10-23",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "AgriBusiness Global 实地报道：ABIM 2026 的热门趋势",
-   "url": "https://www.agribusinessglobal.com/biologicals/agribusiness-global-on-the-road-whats-trending-at-abim-2026/",
-   "source": "AgriBusinessGlobal",
-   "date": "2026-10-22",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "可持续播客：Anasac 的 Bernardita Contesse 谈作物保护公司如何提升可持续发展努力",
-   "url": "https://www.agribusinessglobal.com/sustainability/sustainable-podcast-bernardita-contesse-of-anasac-on-how-crop-protection-companies-can-improve-sustainability-efforts/",
-   "source": "AgriBusinessGlobal",
-   "date": "2026-10-22",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "供应链韧性：作物投入品行业应多大程度依赖海外来源？",
-   "url": "https://www.agribusinessglobal.com/markets/supply-chain-resilience-how-much-should-the-crop-input-industry-depend-on-foreign-sources/",
-   "source": "AgriBusinessGlobal",
-   "date": "2026-10-22",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
    "title": "数据分析：2026年9月份拖拉机产量对比分析",
    "url": "https://news.nongji360.com/report/view/1135",
    "source": "农机360",
@@ -258,92 +194,132 @@
    "date": "2026-10"
   },
   {
-   "title": "不止新疆，河北棉花也种出了效益",
-   "url": "https://www.nongjitong.com/news/2026/534321.html",
-   "source": "农机通",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-10-23"
-  },
-  {
-   "title": "河南省农机补贴“优机优补”机具补贴额一览表公示",
-   "url": "https://www.nongjitong.com/news/2026/534241.html",
-   "source": "农机通",
-   "tag": "市场",
-   "tag_class": "tag-data",
-   "date": "2026-10-20"
-  },
-  {
-   "title": "七部门重磅发文，农机电动化被点名！专用电池、标准共建都来了",
-   "url": "https://www.nongjitong.com/news/2026/534156.html",
-   "source": "农机通",
-   "tag": "技术",
-   "tag_class": "tag-tech",
-   "date": "2026-09-29"
-  },
-  {
-   "title": "内蒙古地区新农民培训班走进顺邦农机",
-   "url": "https://www.nongjitong.com/news/2026/534320.html",
-   "source": "农机通",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-10-23"
-  },
-  {
-   "title": "YTO收获机首次落地巴基斯坦",
-   "url": "https://www.nongjitong.com/news/2026/534318.html",
-   "source": "农机通",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-10-22"
-  },
-  {
-   "title": "一分钟六包，效率拉满——顺邦双包机用硬核技术定义秸秆打捆新标准",
-   "url": "https://www.nongjitong.com/news/2026/534239.html",
-   "source": "农机通",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-10-20"
-  },
-  {
-   "title": "江西省财政厅办公室关于调整部分农机购置与应用补贴机具补贴额的通知",
-   "url": "https://www.nongjitong.com/news/2026/534192.html",
-   "source": "农机通",
-   "tag": "市场",
-   "tag_class": "tag-data",
-   "date": "2026-10-08"
-  },
-  {
-   "title": "熬过满心糟心，终遇顺邦！",
-   "url": "https://www.nongjitong.com/news/2026/534190.html",
-   "source": "农机通",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-10-08"
-  },
-  {
-   "title": "CH2802-C无人驾驶履带拖拉机研发与集成应用项目通过验收",
-   "url": "https://www.nongjitong.com/news/2026/534196.html",
-   "source": "农机通",
-   "tag": "技术",
-   "tag_class": "tag-tech",
-   "date": "2026-10-08"
-  },
-  {
-   "title": "顺邦农机全速发车 护航秸秆秋收作业季",
-   "url": "https://www.nongjitong.com/news/2026/534186.html",
-   "source": "农机通",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-10-08"
-  },
-  {
    "title": "农业农村部召开干部大会强调 深入学习贯彻习近平总书记重要讲话和全国两会精神 扎实做好乡村全面振兴各项工作",
    "url": "http://www.njhs.moa.gov.cn/gzdt/202603/t20260317_6482294.htm",
    "source": "农业农村部农机化司",
    "tag": "行业",
    "tag_class": "tag-news",
    "date": "2026-03-17"
+  },
+  {
+   "title": "中国共产党第二十届中央委员会第三次全体会议公报",
+   "url": "http://www.njhs.moa.gov.cn/gdxw/202407/t20240719_6459339.htm",
+   "source": "农业农村部农机化司",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2024-7-18"
+  },
+  {
+   "title": "2026全国农业机械展览会在河南..",
+   "url": "http://www.caamm.org.cn/zfzc/4554.htm",
+   "source": "农机工业协会",
+   "tag": "市场",
+   "tag_class": "tag-data",
+   "date": "2026-03-28"
+  },
+  {
+   "title": "2026中国农机企业家峰会年会在..",
+   "url": "http://www.caamm.org.cn/zfzc/4510.htm",
+   "source": "农机工业协会",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-01-15"
+  },
+  {
+   "title": "2025年全国农机工业工作会议暨..",
+   "url": "http://www.caamm.org.cn/zfzc/4482.htm",
+   "source": "农机工业协会",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2025-12-22"
+  },
+  {
+   "title": "中国农业机械工业团体标准工作..",
+   "url": "http://www.caamm.org.cn/zfzc/4457.htm",
+   "source": "农机工业协会",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2025-10-30"
+  },
+  {
+   "title": "中国农业机械工业协会低空经济..",
+   "url": "http://www.caamm.org.cn/zfzc/4456.htm",
+   "source": "农机工业协会",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2025-10-26"
+  },
+  {
+   "title": "9月份AMI为49.4%，好于去年同期水平",
+   "url": "https://www.camda.cn/analyze/2026/66012.html",
+   "source": "农机流通协会",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-10-10"
+  },
+  {
+   "title": "8月份AMI指数为57.2%，市场修复态势持续显现",
+   "url": "https://www.camda.cn/analyze/2026/65953.html",
+   "source": "农机流通协会",
+   "tag": "市场",
+   "tag_class": "tag-data",
+   "date": "2026-09-08"
+  },
+  {
+   "title": "​7月份AMI指数为52.7%，景气指数持续发力上行",
+   "url": "https://www.camda.cn/analyze/2026/65886.html",
+   "source": "农机流通协会",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-08-06"
+  },
+  {
+   "title": "6月份AMI指数为48.7%，同比大幅回升",
+   "url": "https://www.camda.cn/analyze/2026/65814.html",
+   "source": "农机流通协会",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-07-07"
+  },
+  {
+   "title": "“圈粉”全球客商丨潍柴雷沃智慧农业亮相第140届广交会",
+   "url": "https://www.lovol.com.cn/news/medianews-detail-6429.htm",
+   "source": "潍柴雷沃",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-10-16"
+  },
+  {
+   "title": "智绘黑土丰收画卷丨潍柴雷沃智慧农业整体解决方案亮相2026全国农机“田间日”",
+   "url": "https://www.lovol.com.cn/news/medianews-detail-6428.htm",
+   "source": "潍柴雷沃",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-10-16"
+  },
+  {
+   "title": "赋能“黑土粮仓” 潍柴雷沃智慧农业亮相黑龙江国际农机展",
+   "url": "https://www.lovol.com.cn/news/medianews-detail-6376.htm",
+   "source": "潍柴雷沃",
+   "tag": "市场",
+   "tag_class": "tag-data",
+   "date": "2026-10-16"
+  },
+  {
+   "title": "TOP50+榜单揭晓|潍柴雷沃智慧农业揽获11项大奖",
+   "url": "https://www.lovol.com.cn/news/medianews-detail-6373.htm",
+   "source": "潍柴雷沃",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-10-16"
+  },
+  {
+   "title": "圈粉东南亚！潍柴雷沃亮相2026年越南国际农业机械展览会",
+   "url": "https://www.lovol.com.cn/news/medianews-detail-6192.htm",
+   "source": "潍柴雷沃",
+   "tag": "市场",
+   "tag_class": "tag-data",
+   "date": "2026-10-16"
   },
   {
    "title": "地质气象灾害救援装备",
