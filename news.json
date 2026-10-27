@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28 00:05",
+ "updated": "2026-10-28 06:05",
  "items": [
   {
    "title": "黑龙江补短板拖拉机公示",
@@ -90,14 +90,6 @@
    "date": ""
   },
   {
-   "title": "国家粮食和物资储备局召开2026年老干部情况通报会",
-   "url": "https://www.lswz.gov.cn/html/xinwen/2026-10/22/content_295757.shtml",
-   "source": "国家粮食局",
-   "date": "2026-10-22",
-   "tag": "政策",
-   "tag_class": "tag-policy"
-  },
-  {
    "title": "2026年第42周瘦肉型白条猪肉出厂价格监测周报",
    "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84243",
    "source": "农业农村部价格指数",
@@ -130,26 +122,66 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "国家粮食和物资储备局举办2026年新录（聘）用人员初任培训班",
-   "url": "https://www.lswz.gov.cn/html/xinwen/2026-10/23/content_295815.shtml",
-   "source": "国家粮食局",
+   "title": "激光除草与电击除草同步进行",
+   "url": "https://www.futurefarming.com/tech-in-focus/field-robots/laser-weeding-and-electrocution-at-the-same-time/",
+   "source": "FutureFarming",
+   "date": "2026-10-27",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "EdenCore推出Viewer作物相机，瞄准果树与灌木果树种植者",
+   "url": "https://www.futurefarming.com/smart-farming/edencore-targets-tree-and-bush-fruit-growers-with-its-viewer-crop-camera/",
+   "source": "FutureFarming",
+   "date": "2026-10-26",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "FIRA USA吸引农业科技与机器人行业及种植者齐聚亚基马谷",
+   "url": "https://www.futurefarming.com/tech-in-focus/field-robots/fira-usa-draws-agtech-and-robotics-industry-and-growers-to-yakima-valley/",
+   "source": "FutureFarming",
+   "date": "2026-10-23",
+   "tag": "技术",
+   "tag_class": "tag-tech"
+  },
+  {
+   "title": "荷兰机器人制造商AIGRO宣告破产",
+   "url": "https://www.futurefarming.com/tech-in-focus/field-robots/dutch-robot-builder-aigro-declared-bankrupt/",
+   "source": "FutureFarming",
+   "date": "2026-10-22",
+   "tag": "技术",
+   "tag_class": "tag-tech"
+  },
+  {
+   "title": "中印农资关系：定义农化格局的三大变化",
+   "url": "https://www.agribusinessglobal.com/markets/asia/the-china-india-ag-input-relationship-three-changes-defining-the-ag-chem-landscape/",
+   "source": "AgriBusinessGlobal",
+   "date": "2026-10-26",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "AgriThority推出开发工具，助农业创新者评估商业化准备度",
+   "url": "https://www.agribusinessglobal.com/markets/agrithority-launches-development-tool-to-help-agricultural-innovators-gauge-commercialization-readiness/",
+   "source": "AgriBusinessGlobal",
+   "date": "2026-10-26",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "《AgriBusiness Global》报告：化肥供应冲击与生物制剂的未来",
+   "url": "https://www.agribusinessglobal.com/biologicals/agribusiness-global-report-fertilizer-supply-shocks-and-the-future-of-biologicals/",
+   "source": "AgriBusinessGlobal",
    "date": "2026-10-23",
    "tag": "行业",
    "tag_class": "tag-news"
   },
   {
-   "title": "国家粮食和物资储备局举办2026年党务干部培训班",
-   "url": "https://www.lswz.gov.cn/html/xinwen/2026-10/20/content_295727.shtml",
-   "source": "国家粮食局",
-   "date": "2026-10-20",
-   "tag": "行业",
-   "tag_class": "tag-news"
-  },
-  {
-   "title": "2026年世界粮食日和全国粮食安全宣传周主会场活动在合肥举行",
-   "url": "https://www.lswz.gov.cn/html/xinwen/2026-10/16/content_295664.shtml",
-   "source": "国家粮食局",
-   "date": "2026-10-16",
+   "title": "《AgriBusiness Global》现场报道：ABIM 2026上的热门趋势",
+   "url": "https://www.agribusinessglobal.com/biologicals/agribusiness-global-on-the-road-whats-trending-at-abim-2026/",
+   "source": "AgriBusinessGlobal",
+   "date": "2026-10-22",
    "tag": "行业",
    "tag_class": "tag-news"
   },
