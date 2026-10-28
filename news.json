@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28 12:06",
+ "updated": "2026-10-28 18:06",
  "items": [
   {
    "title": "黑龙江补短板拖拉机公示",
@@ -150,6 +150,38 @@
    "url": "https://www.lswz.gov.cn/html/xinwen/2026-10/16/content_295664.shtml",
    "source": "国家粮食局",
    "date": "2026-10-16",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "中联重科1600马力铰接式拖拉机创纪录",
+   "url": "https://www.futurefarming.com/machinery/china-s-zoomlion-breaks-records-with-1-600-hp-articulated-tractor/",
+   "source": "FutureFarming",
+   "date": "2026-10-28",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "Kingman Ag自动驾驶拖拉机也可用于无GNSS环境",
+   "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semiauto-steering/autonomous-vehicles/kingman-ag-autonomous-tractors-also-for-gnss-denied-environments/",
+   "source": "FutureFarming",
+   "date": "2026-10-28",
+   "tag": "技术",
+   "tag_class": "tag-tech"
+  },
+  {
+   "title": "尽管LaserWeeder销售强劲，Carbon Robotics仍裁员近50人",
+   "url": "https://www.futurefarming.com/tech-in-focus/field-robots/carbon-robotics-cuts-staff-amid-operational-restructuring-ahead-of-potential-ipo/",
+   "source": "FutureFarming",
+   "date": "2026-10-28",
+   "tag": "技术",
+   "tag_class": "tag-tech"
+  },
+  {
+   "title": "激光除草与电击除草可同时进行",
+   "url": "https://www.futurefarming.com/tech-in-focus/field-robots/laser-weeding-and-electrocution-at-the-same-time/",
+   "source": "FutureFarming",
+   "date": "2026-10-27",
    "tag": "行业",
    "tag_class": "tag-news"
   },
@@ -362,20 +394,20 @@
    "date": "2026-10-12"
   },
   {
+   "title": "直击2026中国国际农机展｜沃得展位人气拉满，智慧农机“圈粉”天津",
+   "url": "http://www.worldnyjx.com/index.php?m=content&c=index&a=show&catid=126&id=596",
+   "source": "沃得",
+   "date": "2026-10-28",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
    "title": "走！和沃得一起逛农高会~",
    "url": "http://www.worldnyjx.com/index.php?m=content&c=index&a=show&catid=126&id=595",
    "source": "沃得",
    "date": "2026-10-28",
    "tag": "行业",
    "tag_class": "tag-news"
-  },
-  {
-   "title": "铁牛列阵助蔗乡——沃得农机亮相2026广西农机展",
-   "url": "http://www.worldnyjx.com/index.php?m=content&c=index&a=show&catid=126&id=594",
-   "source": "沃得",
-   "date": "2026-10-27",
-   "tag": "市场",
-   "tag_class": "tag-data"
   }
  ]
 }
