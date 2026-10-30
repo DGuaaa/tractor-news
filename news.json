@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29 18:06",
+ "updated": "2026-10-30 08:47",
  "items": [
   {
    "title": "宁夏现场演示评价结果公示",
@@ -98,34 +98,34 @@
    "date": "2026-10"
   },
   {
+   "title": "10月29日：“农产品批发价格200指数”比昨天下降0.11个点。",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84252",
+   "source": "农业农村部价格指数",
+   "date": "2026-10-28",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "10月28日：“农产品批发价格200指数”比昨天下降0.05个点。",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84250",
+   "source": "农业农村部价格指数",
+   "date": "2026-10-27",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "10月27日：“农产品批发价格200指数”比昨天下降0.06个点。",
+   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84248",
+   "source": "农业农村部价格指数",
+   "date": "2026-10-26",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
    "title": "2026年第43周瘦肉型白条猪肉出厂价格监测周报",
    "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84251",
    "source": "农业农村部价格指数",
    "date": "2026-10-25",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "2026年第42周瘦肉型白条猪肉出厂价格监测周报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84243",
-   "source": "农业农村部价格指数",
-   "date": "2026-10-18",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "2026年第41周瘦肉型白条猪肉出厂价格监测周报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84226",
-   "source": "农业农村部价格指数",
-   "date": "2026-10-11",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "2026年9月瘦肉型白条猪肉出厂价格监测月报",
-   "url": "http://zdscxx.moa.gov.cn:8080/nyb/pc/messageView.jsp?id=84227",
-   "source": "农业农村部价格指数",
-   "date": "2026-10-09",
    "tag": "市场",
    "tag_class": "tag-data"
   },
@@ -154,34 +154,66 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "中印农资关系：三大变化重塑农化格局",
-   "url": "https://www.agribusinessglobal.com/markets/asia/the-china-india-ag-input-relationship-three-changes-defining-the-ag-chem-landscape/",
-   "source": "AgriBusinessGlobal",
-   "date": "2026-10-26",
+   "title": "从石块到作物缺陷：荷兰种植者采用AI分选",
+   "url": "https://www.futurefarming.com/smart-farming/from-stones-to-crop-defects-dutch-growers-embrace-ai-powered-sorting/",
+   "source": "FutureFarming",
+   "date": "2026-10-28",
    "tag": "行业",
    "tag_class": "tag-news"
   },
   {
-   "title": "AgriThority推出开发工具，助力农业创新者评估商业化准备度",
-   "url": "https://www.agribusinessglobal.com/markets/agrithority-launches-development-tool-to-help-agricultural-innovators-gauge-commercialization-readiness/",
-   "source": "AgriBusinessGlobal",
-   "date": "2026-10-26",
+   "title": "中国中联重科1600马力铰接式拖拉机创纪录",
+   "url": "https://www.futurefarming.com/machinery/china-s-zoomlion-breaks-records-with-1-600-hp-articulated-tractor/",
+   "source": "FutureFarming",
+   "date": "2026-10-28",
    "tag": "行业",
    "tag_class": "tag-news"
   },
   {
-   "title": "《AgriBusiness Global》报告：化肥供应冲击与生物制剂未来",
-   "url": "https://www.agribusinessglobal.com/biologicals/agribusiness-global-report-fertilizer-supply-shocks-and-the-future-of-biologicals/",
+   "title": "Kingman Ag自动驾驶拖拉机（亦）适用于GNSS拒止环境",
+   "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semiauto-steering/autonomous-vehicles/kingman-ag-autonomous-tractors-also-for-gnss-denied-environments/",
+   "source": "FutureFarming",
+   "date": "2026-10-28",
+   "tag": "技术",
+   "tag_class": "tag-tech"
+  },
+  {
+   "title": "尽管LaserWeeder销售强劲，Carbon Robotics仍裁减近50个岗位",
+   "url": "https://www.futurefarming.com/tech-in-focus/field-robots/carbon-robotics-cuts-staff-amid-operational-restructuring-ahead-of-potential-ipo/",
+   "source": "FutureFarming",
+   "date": "2026-10-28",
+   "tag": "技术",
+   "tag_class": "tag-tech"
+  },
+  {
+   "title": "报告：全球生物防治市场到2032年将达150亿美元",
+   "url": "https://www.agribusinessglobal.com/biopesticides/report-global-biocontrol-market-to-reach-usd-15-billion-by-2032/",
    "source": "AgriBusinessGlobal",
-   "date": "2026-10-23",
+   "date": "2026-10-29",
+   "tag": "市场",
+   "tag_class": "tag-data"
+  },
+  {
+   "title": "南方共同市场-欧盟协议：25年谈判后开启农业贸易机遇",
+   "url": "https://www.agribusinessglobal.com/markets/europe/the-mercosur-eu-agreement-unlocking-agricultural-trade-opportunities-after-25-years-of-negotiations/",
+   "source": "AgriBusinessGlobal",
+   "date": "2026-10-28",
    "tag": "行业",
    "tag_class": "tag-news"
   },
   {
-   "title": "《AgriBusiness Global》现场报道：ABIM 2026热门趋势",
-   "url": "https://www.agribusinessglobal.com/biologicals/agribusiness-global-on-the-road-whats-trending-at-abim-2026/",
+   "title": "SOLASTA Bio达成美国监管里程碑，田间示范击退十年最高粉虱暴发",
+   "url": "https://www.agribusinessglobal.com/biopesticides/solasta-bio-hits-u-s-regulatory-milestone-as-field-demo-beats-decade-high-whitefly-surge/",
    "source": "AgriBusinessGlobal",
-   "date": "2026-10-22",
+   "date": "2026-10-28",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "巴西Cogny在ABIM 2026宣布国际扩张",
+   "url": "https://www.agribusinessglobal.com/markets/americas/brazilian-cogny-announces-international-expansion-at-abim-2026/",
+   "source": "AgriBusinessGlobal",
+   "date": "2026-10-28",
    "tag": "行业",
    "tag_class": "tag-news"
   },
@@ -250,46 +282,6 @@
    "date": "2025-10-26"
   },
   {
-   "title": "9月份AMI为49.4%，好于去年同期水平",
-   "url": "https://www.camda.cn/analyze/2026/66012.html",
-   "source": "农机流通协会",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-10-10"
-  },
-  {
-   "title": "8月份AMI指数为57.2%，市场修复态势持续显现",
-   "url": "https://www.camda.cn/analyze/2026/65953.html",
-   "source": "农机流通协会",
-   "tag": "市场",
-   "tag_class": "tag-data",
-   "date": "2026-09-08"
-  },
-  {
-   "title": "​7月份AMI指数为52.7%，景气指数持续发力上行",
-   "url": "https://www.camda.cn/analyze/2026/65886.html",
-   "source": "农机流通协会",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-08-06"
-  },
-  {
-   "title": "6月份AMI指数为48.7%，同比大幅回升",
-   "url": "https://www.camda.cn/analyze/2026/65814.html",
-   "source": "农机流通协会",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-07-07"
-  },
-  {
-   "title": "5月份AMI指数为47.0%，环比下跌同比增长",
-   "url": "https://www.camda.cn/analyze/2026/65762.html",
-   "source": "农机流通协会",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-06-05"
-  },
-  {
    "title": "深耕农机新能源赛道丨潍柴雷沃ECVT系列拖拉机全新上市",
    "url": "https://www.lovol.com.cn/news/medianews-detail-6471.htm",
    "source": "潍柴雷沃",
@@ -332,6 +324,14 @@
   {
    "title": "地质气象灾害救援装备",
    "url": "https://www.zoomlion.com/content/details332_23826.html",
+   "source": "中联重科",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": ""
+  },
+  {
+   "title": "中联重科三季报：境内外营收齐增，**三季度盈利能力实现反弹",
+   "url": "https://www.zoomlion.com/content/details18_34206.html",
    "source": "中联重科",
    "tag": "行业",
    "tag_class": "tag-news",
