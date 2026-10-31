@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01 00:07",
+ "updated": "2026-11-01 06:05",
  "items": [
   {
    "title": "甘肃2026年第四批补贴产品修改截止时间延期",
@@ -154,6 +154,38 @@
    "tag_class": "tag-news"
   },
   {
+   "title": "Ecorobotix推出马铃薯机型，AI精准喷洒靶向黄莎草",
+   "url": "https://www.futurefarming.com/smart-farming/ecorobotix-adds-potato-model-and-targets-yellow-nutsedge-with-ai-spot-spraying/",
+   "source": "FutureFarming",
+   "date": "2026-10-30",
+   "tag": "技术",
+   "tag_class": "tag-tech"
+  },
+  {
+   "title": "从石块到作物缺陷：荷兰种植者拥抱AI分选",
+   "url": "https://www.futurefarming.com/smart-farming/from-stones-to-crop-defects-dutch-growers-embrace-ai-powered-sorting/",
+   "source": "FutureFarming",
+   "date": "2026-10-28",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "中国中联重科以1600马力铰接式拖拉机破纪录",
+   "url": "https://www.futurefarming.com/machinery/china-s-zoomlion-breaks-records-with-1-600-hp-articulated-tractor/",
+   "source": "FutureFarming",
+   "date": "2026-10-28",
+   "tag": "行业",
+   "tag_class": "tag-news"
+  },
+  {
+   "title": "Kingman Ag自动驾驶拖拉机（亦）适用于无GNSS环境",
+   "url": "https://www.futurefarming.com/tech-in-focus/autonomous-semiauto-steering/autonomous-vehicles/kingman-ag-autonomous-tractors-also-for-gnss-denied-environments/",
+   "source": "FutureFarming",
+   "date": "2026-10-28",
+   "tag": "技术",
+   "tag_class": "tag-tech"
+  },
+  {
    "title": "报告：2032年全球生物防治市场将达150亿美元",
    "url": "https://www.agribusinessglobal.com/biopesticides/report-global-biocontrol-market-to-reach-usd-15-billion-by-2032/",
    "source": "AgriBusinessGlobal",
@@ -162,7 +194,7 @@
    "tag_class": "tag-data"
   },
   {
-   "title": "南方共同市场-欧盟协议：25年谈判后开启农业贸易机遇",
+   "title": "南方共同市场-欧盟协议：历经25年谈判后释放农业贸易机遇",
    "url": "https://www.agribusinessglobal.com/markets/europe/the-mercosur-eu-agreement-unlocking-agricultural-trade-opportunities-after-25-years-of-negotiations/",
    "source": "AgriBusinessGlobal",
    "date": "2026-10-28",
@@ -170,7 +202,7 @@
    "tag_class": "tag-news"
   },
   {
-   "title": "SOLASTA Bio达成美国监管里程碑，田间示范应对十年新高白粉虱暴发",
+   "title": "SOLASTA Bio达美国监管里程碑，田间示范应对十年最高白粉虱暴发",
    "url": "https://www.agribusinessglobal.com/biopesticides/solasta-bio-hits-u-s-regulatory-milestone-as-field-demo-beats-decade-high-whitefly-surge/",
    "source": "AgriBusinessGlobal",
    "date": "2026-10-28",
@@ -210,68 +242,108 @@
    "date": "2026-10"
   },
   {
+   "title": "2026中国国际农业机械展览会在天津盛大开幕",
+   "url": "https://www.nongjitong.com/news/2026/534337.html",
+   "source": "农机通",
+   "tag": "市场",
+   "tag_class": "tag-data",
+   "date": "2026-10-30"
+  },
+  {
+   "title": "不仅能挺起中国农机具制造的脊梁，龙丰还把体面还给了种粮人",
+   "url": "https://www.nongjitong.com/news/2026/534349.html",
+   "source": "农机通",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-10-30"
+  },
+  {
+   "title": "千寻位置以“AI+农机导航”破局，重塑智慧农业全场景作业",
+   "url": "https://www.nongjitong.com/news/2026/534342.html",
+   "source": "农机通",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-10-30"
+  },
+  {
+   "title": "河南省农机补贴“优机优补”机具补贴额一览表公示",
+   "url": "https://www.nongjitong.com/news/2026/534241.html",
+   "source": "农机通",
+   "tag": "市场",
+   "tag_class": "tag-data",
+   "date": "2026-10-20"
+  },
+  {
+   "title": "科罗尼携两款重磅新品亮相2026中国国际农机展",
+   "url": "https://www.nongjitong.com/news/2026/534348.html",
+   "source": "农机通",
+   "tag": "市场",
+   "tag_class": "tag-data",
+   "date": "2026-10-30"
+  },
+  {
+   "title": "道依茨法尔明星机型集结！解锁高效耕作方案",
+   "url": "https://www.nongjitong.com/news/2026/534347.html",
+   "source": "农机通",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-10-30"
+  },
+  {
+   "title": "极“智”领航“慧”耕沃野，中联重科闪耀2026中国国际农机展",
+   "url": "https://www.nongjitong.com/news/2026/534346.html",
+   "source": "农机通",
+   "tag": "市场",
+   "tag_class": "tag-data",
+   "date": "2026-10-30"
+  },
+  {
+   "title": "新品首发·智烘赋能——辰宇携成套烘干解决方案亮相2026天津农机展",
+   "url": "https://www.nongjitong.com/news/2026/534345.html",
+   "source": "农机通",
+   "tag": "市场",
+   "tag_class": "tag-data",
+   "date": "2026-10-30"
+  },
+  {
+   "title": "科乐收（CLAAS）携多款产品亮相2026中国国际农机展，春雨MCH 180全新发布",
+   "url": "https://www.nongjitong.com/news/2026/534344.html",
+   "source": "农机通",
+   "tag": "市场",
+   "tag_class": "tag-data",
+   "date": "2026-10-30"
+  },
+  {
+   "title": "零部件强则整机强 共推农机后市场高质量发展——2026农机后市场发展论坛在天津举办",
+   "url": "https://www.nongjitong.com/news/2026/534343.html",
+   "source": "农机通",
+   "tag": "市场",
+   "tag_class": "tag-data",
+   "date": "2026-10-30"
+  },
+  {
+   "title": "智混巨擎，再登巅峰！中联重科发布全球最大马力拖拉机9DX",
+   "url": "https://www.nongjitong.com/news/2026/534341.html",
+   "source": "农机通",
+   "tag": "行业",
+   "tag_class": "tag-news",
+   "date": "2026-10-30"
+  },
+  {
+   "title": "深耕农机新能源赛道丨潍柴雷沃ECVT系列拖拉机全新上市",
+   "url": "https://www.nongjitong.com/news/2026/534340.html",
+   "source": "农机通",
+   "tag": "技术",
+   "tag_class": "tag-tech",
+   "date": "2026-10-30"
+  },
+  {
    "title": "农业农村部召开干部大会强调 深入学习贯彻习近平总书记重要讲话和全国两会精神 扎实做好乡村全面振兴各项工作",
    "url": "http://www.njhs.moa.gov.cn/gzdt/202603/t20260317_6482294.htm",
    "source": "农业农村部农机化司",
    "tag": "行业",
    "tag_class": "tag-news",
    "date": "2026-03-17"
-  },
-  {
-   "title": "中国共产党第二十届中央委员会第三次全体会议公报",
-   "url": "http://www.njhs.moa.gov.cn/gdxw/202407/t20240719_6459339.htm",
-   "source": "农业农村部农机化司",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2024-7-18"
-  },
-  {
-   "title": "中国农机三协会主办展会信息发布",
-   "url": "http://www.caamm.org.cn/zfzc/4722.htm",
-   "source": "农机工业协会",
-   "tag": "市场",
-   "tag_class": "tag-data",
-   "date": "2026-10-27"
-  },
-  {
-   "title": "2026全国农业机械展览会在河南..",
-   "url": "http://www.caamm.org.cn/zfzc/4554.htm",
-   "source": "农机工业协会",
-   "tag": "市场",
-   "tag_class": "tag-data",
-   "date": "2026-03-28"
-  },
-  {
-   "title": "2026中国农机企业家峰会年会在..",
-   "url": "http://www.caamm.org.cn/zfzc/4510.htm",
-   "source": "农机工业协会",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2026-01-15"
-  },
-  {
-   "title": "2025年全国农机工业工作会议暨..",
-   "url": "http://www.caamm.org.cn/zfzc/4482.htm",
-   "source": "农机工业协会",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2025-12-22"
-  },
-  {
-   "title": "中国农业机械工业团体标准工作..",
-   "url": "http://www.caamm.org.cn/zfzc/4457.htm",
-   "source": "农机工业协会",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2025-10-30"
-  },
-  {
-   "title": "中国农业机械工业协会低空经济..",
-   "url": "http://www.caamm.org.cn/zfzc/4456.htm",
-   "source": "农机工业协会",
-   "tag": "行业",
-   "tag_class": "tag-news",
-   "date": "2025-10-26"
   },
   {
    "title": "助力粮油安全 | 潍柴雷沃智慧农业亮相2026年全国粮油和大豆产业博览会",
@@ -287,14 +359,6 @@
    "source": "潍柴雷沃",
    "tag": "市场",
    "tag_class": "tag-data",
-   "date": "2026-10-31"
-  },
-  {
-   "title": "深耕农机新能源赛道丨潍柴雷沃ECVT系列拖拉机全新上市",
-   "url": "https://www.lovol.com.cn/news/medianews-detail-6471.htm",
-   "source": "潍柴雷沃",
-   "tag": "技术",
-   "tag_class": "tag-tech",
    "date": "2026-10-31"
   },
   {
@@ -335,14 +399,6 @@
    "source": "中联重科",
    "tag": "行业",
    "tag_class": "tag-news",
-   "date": ""
-  },
-  {
-   "title": "极“智”领航“慧”耕沃野，中联重科闪耀2026中国国际农机展",
-   "url": "https://www.zoomlion.com/content/details18_34197.html",
-   "source": "中联重科",
-   "tag": "市场",
-   "tag_class": "tag-data",
    "date": ""
   },
   {
@@ -392,22 +448,6 @@
    "tag": "行业",
    "tag_class": "tag-news",
    "date": "2026-10-15"
-  },
-  {
-   "title": "直击2026中国国际农机展｜沃得展位人气拉满，智慧农机“圈粉”天津",
-   "url": "http://www.worldnyjx.com/index.php?m=content&c=index&a=show&catid=126&id=596",
-   "source": "沃得",
-   "date": "2026-10-28",
-   "tag": "市场",
-   "tag_class": "tag-data"
-  },
-  {
-   "title": "走！和沃得一起逛农高会~",
-   "url": "http://www.worldnyjx.com/index.php?m=content&c=index&a=show&catid=126&id=595",
-   "source": "沃得",
-   "date": "2026-10-28",
-   "tag": "行业",
-   "tag_class": "tag-news"
   }
  ]
 }
